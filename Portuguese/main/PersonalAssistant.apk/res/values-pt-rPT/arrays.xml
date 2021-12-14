@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semana 1</item>
+        <item>Semana 2</item>
+        <item>Semana 3</item>
+        <item>Semana %1$d</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noite</item>
+        <item>Noite</item>
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+        <item>Noite</item>
+        <item>Noite</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
+    </string-array>
+</resources>

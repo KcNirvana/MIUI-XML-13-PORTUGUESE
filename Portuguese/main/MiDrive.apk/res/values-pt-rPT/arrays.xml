@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Para iniciar a sessão com a Conta Mi</item>
+        <item>Para pré-visualizar, carregar, transferir e sincronizar ficheiros</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Para iniciar a sessão com a Conta Mi</item>
+        <item>Para pré-visualizar, carregar, transferir e sincronizar ficheiros</item>
+        <item>Para detectar actualizações</item>
+    </string-array>
+</resources>

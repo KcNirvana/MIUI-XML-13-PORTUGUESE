@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Super papel de parede Marte</string>
+  <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
+  <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
+  <string name="fmt_date_long_year_month_day">"dd 'de' MMMM 'de' yyyy"</string>
+  <string name="fmt_date_numeric_day">dd</string>
+  <string name="fmt_date_numeric_month">MM</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="game_view_content_description">Modo jogo</string>
+  <string name="mars_position_content_0">Esta região contém falésias, declives e vales que se acredita terem sido causados por glaciares cobertos de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na pesquisa por evidências de vida em Marte</string>
+  <string name="mars_position_content_1">Estas imagens foram tiradas durante a exploração do rover Curiosity a Marte nas colinas de Pahrump na cratera de Gale. Esta região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água. As áreas escuras são areia</string>
+  <string name="mars_position_content_2">O vale de Mawrth é um antigo canal de saída de água com rochas ricas em argila de cor clara. Os minerais de argila preservam facilmente a vida microscópica na Terra, acredita-se que vestigios da vida antiga possam ser encontrados em Mawrth</string>
+  <string name="mars_position_content_3">Estas imagens foram tiradas quando o rover Curiosity se encontrava em Marte a explorar as colinas de Pahrump na cratera de Gale. Esta região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água. As áreas escuras são areia</string>
+  <string name="mars_position_content_4">O vale de Bahram é um vale de traço único, com paredes recortadas em algumas zonas. A presença de características erosivas simplificadas no seu solo mostram que àgua estava envolvida na formação</string>
+  <string name="mars_position_title_0">"Região
+Nilosyrtis Mensae"</string>
+  <string name="mars_position_title_1">Cratera Gale</string>
+  <string name="mars_position_title_2">"Cratera em
+Mawrth Vallis"</string>
+  <string name="mars_position_title_3">Colinas Pahrump</string>
+  <string name="mars_position_title_4">Vale de Bahram</string>
+  <string name="mars_summary">Os vastos desertos de Marte sempre mantiveram a humanidade admirada</string>
+  <string name="mars_super_wallpaper_label">Marte</string>
+  <string name="mars_title">O planeta vermelho</string>
+</resources>

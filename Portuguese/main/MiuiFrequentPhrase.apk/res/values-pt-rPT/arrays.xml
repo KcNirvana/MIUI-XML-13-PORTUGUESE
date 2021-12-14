@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Factura: *** Inc.</item>
+        <item>Endereço: Rua, Cidade, País/Região, Província, Código Postal</item>
+        <item>Por favor, deixe o pacote à porta. Obrigado!</item>
+        <item>Espere um minuto que eu já volto</item>
+        <item>Estou numa reunião. Por favor, envie uma mensagem</item>
+        <item>Não posso falar agora. Eu ligo-lhe o mais breve possível</item>
+        <item>Obrigado!</item>
+    </string-array>
+</resources>

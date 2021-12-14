@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Zman</string>
+  <string name="copy">Copiar</string>
+  <string name="expand_button_title">Avançado</string>
+  <string name="first_settings_default_camera_title">Partilhar sem dados por defeito</string>
+  <string name="first_settings_default_location_subtitle">Remover informações de localização das fotos partilhadas</string>
+  <string name="first_settings_default_location_title">Partilhar sem informações de localização por defeito</string>
+  <string name="first_settings_share_enable">Adicionar emblema de \"Partilha segura\"</string>
+  <string name="first_settings_share_enable_subtitle">Os itens que partilhou no WeChat vão aparecer com um emblema MIUI</string>
+  <string name="first_settings_subtitle">Opções de partilha segura disponíveis:</string>
+  <string name="first_settings_title">Proteger a sua privacidade</string>
+  <string name="loading_text_format" formatted="false">A remover informações privadas de fotos (%d/%d)…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="not_set">Não definido</string>
+  <string name="once_settings_camera_ttile">Partilhar sem dados</string>
+  <string name="once_settings_location_title">Partilhar sem informações de localização</string>
+  <string name="once_settings_subtitle">Como deseja partilhar os itens seleccionados?</string>
+  <string name="once_settings_title">Protecção de Privacidade</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
+  <string name="search_menu_title">Pesquisa</string>
+  <string name="settings_camera_subtitle_no">Sem dados</string>
+  <string name="settings_image_camera_summary">Modelo do dispositivo, etc.</string>
+  <string name="settings_location_subtitle_no">Sem informação de localização</string>
+  <string name="settings_share_enable_summary">Os itens que partilhou no WeChat vão aparecer com um emblema MIUI</string>
+  <string name="settings_share_info">Opções de partilha segura disponíveis para os itens da Galeria e Ficheiros:</string>
+  <string name="settings_show_detail">Ver detalhes</string>
+  <string name="settings_tip">Ir à Galeria &gt; Definições para ver mais opções</string>
+  <string name="settings_title">Partilha segura</string>
+  <string name="text_done">OK</string>
+  <string name="text_security">Privacidade</string>
+</resources>

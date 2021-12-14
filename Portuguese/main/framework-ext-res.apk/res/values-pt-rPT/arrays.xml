@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tente novamente</item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor completamente e aplique pressão</item>
+        <item></item>
+        <item>Cubra o sensor completamente e aplique pressão</item>
+        <item>Cubra o sensor completamente e aplique pressão</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor completamente e aplique pressão</item>
+        <item>Cubra o sensor completamente e aplique pressão</item>
+        <item>Demasiado rápido! Não foi possível reconhecer a impressão</item>
+        <item>Mova o dedo levemente e tente novamente</item>
+        <item>Prima e levante após vibração</item>
+        <item>Mantenha o seu dedo no ecrã por mais algum tempo</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mova o dedo levemente</item>
+        <item>Esta impressão já foi adicionada. Utilize uma diferente</item>
+    </string-array>
+</resources>

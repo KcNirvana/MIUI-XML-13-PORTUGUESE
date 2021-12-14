@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Cit QR</string>
+  <string name="close">Fechar</string>
+  <string name="important_ration_info">Informações importantes</string>
+  <string name="no_important_ration_info">Informações não importantes</string>
+  <string name="qr_load">A carregar</string>
+  <string name="qualitative_info">Informação de qualidade</string>
+  <string name="qualitative_title">Consistência da informação</string>
+  <string name="ration_title">ID informação da classe</string>
+  <string name="search_menu_title">Pesquisa</string>
+</resources>

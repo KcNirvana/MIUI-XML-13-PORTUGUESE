@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Super papel de parede Terra</string>
+  <string name="earth_position_content_0">O Parque Natural do Cabo Kamenjak, na Croácia, é o lar da maior parte das paisagens de tirar o fôlego ao longo da costa do Mediterrâneo. As impressionantes formações geológicas transformam este lugar num paraíso para mergulhadores. Todos os verões, o sol deslumbrante e as águas quentes do Mediterrâneo atraem incontáveis entusiastas do ar livre</string>
+  <string name="earth_position_content_1">"Os terraços de arroz são o resultado da actividade humana, mas também servem como um excelente ponto de paisagem natural.
+Na China, os terraços de arroz estão localizados principalmente ao sul do Rio Yangtze, onde as chuvas são comuns e as montanhas são abundantes. Os terraços de Longsheng existem há mais de 700 anos e há alguns monumentos históricos nas aldeias mais próximas"</string>
+  <string name="earth_position_content_2">Ilulissat está localizada no oeste da Groenlândia, a 200 quilómetros a norte do Círculo Ártico. O lindo Icefjord Ilulissat de 56 quilómetros está situado ao lado do glaciar Jakobshavn Isbræ. Sendo o maior glaciar do hemisfério norte, produz 2 bilhões de toneladas de icebergs em cada ano. Após um curto desvio para norte, eles vão para sul e fluem no Oceano Atlântico</string>
+  <string name="earth_position_title_0">"Croácia
+Cabo Kamenjak"</string>
+  <string name="earth_position_title_1">"Guangxi, China
+Terraços de arroz de Longsheng"</string>
+  <string name="earth_position_title_2">"Gronelândia
+Ilulissat"</string>
+  <string name="earth_summary">A Terra é o berço da civilização humana</string>
+  <string name="earth_super_wallpaper_title">Super papéis de parede da Terra</string>
+  <string name="earth_title">O nosso planeta</string>
+  <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
+  <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
+  <string name="fmt_date_long_year_month_day">"dd 'de' MMMM 'de' yyyy"</string>
+  <string name="fmt_date_numeric_day">dd</string>
+  <string name="fmt_date_numeric_month">MM</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="game_view_content_description">Modo jogo</string>
+</resources>

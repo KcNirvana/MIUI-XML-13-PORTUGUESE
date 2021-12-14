@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Contas</item>
+        <item>Adicionar e gerir contas</item>
+        <item>Contas;SNS;Facebook;Google;Conta Mi;Conta</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Contas</item>
+        <item>Adicionar e gerir contas</item>
+        <item>Autorização;Conta;Conta Mi;Adicionar;Emparelhar;Xiaomi;Ver;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Alterar palavra-passe</item>
+        <item>Alterar palavra-passe da Conta Mi</item>
+        <item>Alterar;Palavra-passe;Xiaomi;Conta Mi;Conta</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ajuda</item>
+        <item>Obter ajuda e suporte da Conta Mi</item>
+        <item>Xiaomi;Conta;Conta Mi;Ajuda;Suporte;Ver</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificação em 2 passos</item>
+        <item>Definir a verificação em 2 passos para a sua Conta Mi</item>
+        <item>Iniciar sessão;Iniciar sessão;2 passos;Verificação;Xiaomi;Conta;Conta Mi;Definições</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Segurança da conta</item>
+        <item>Email e telefone de recuperação e gestão de palavras-passe</item>
+        <item>Conta;Segurança;Iniciar sessão;Iniciar sessão;Xiaomi;Conta Mi;Número de telefone;Email;Alterar;Palavra-passe;Adicionar;Emparelhar</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispositivos</item>
+        <item>Gerir dispositivos associados com a sua Conta Mi</item>
+        <item>Dispositivos;Gerir;Iniciar sessão;Iniciar sessão;Dispositivos;Xiaomi;Conta Mi;Conta</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Informações de pagamento</item>
+        <item>Ver e gerir as informações de pagamento</item>
+        <item>Pagamentos;Informações;Xiaomi;Conta Mi;Conta</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Política de Privacidade</item>
+        <item>Ver Política de Privacidade da Conta Mi</item>
+        <item>Xiaomi;Conta;Conta Mi;Privacidade;Política;Ver</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Email de recuperação</item>
+        <item>Adicionar email de recuperação</item>
+        <item>Segurança;Email;Xiaomi;Conta;Conta Mi;Adicionar;Emparelhar</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefone de recuperação</item>
+        <item>Adicionar telefone de recuperação</item>
+        <item>Segurança;Conta;Conta Mi;Telefone;Xiaomi;Número de telefone;Adicionar;Emparelhar</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anúncios</item>
+        <item>Gerir anúncios de sistema</item>
+        <item>Sistema;Anúncios;Xiaomi;Conta;Conta Mi;Definições</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informações da conta</item>
+        <item>Ver as informações da sua conta</item>
+        <item>Conta;Informações;Pessoal;Foto de perfil;Nome;Xiaomi;ID;Conta Mi;Ver;Definições</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Termos de Utilização</item>
+        <item>Termos de Utilização</item>
+        <item>Xiaomi;Conta;Conta Mi;Utilização;Termos;Ver</item>
+    </string-array>
+</resources>

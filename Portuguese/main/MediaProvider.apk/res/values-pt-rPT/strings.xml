@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_alarm_text">Adicionar alarme</string>
+  <string name="add_notification_text">Adicionar notificação</string>
+  <string name="add_ringtone_text">Adicionar toque</string>
+  <string name="alarm_sound_default">Toque predefinido do alarme</string>
+  <string name="app_label">Armazenamento multimédia</string>
+  <string name="artist_label">Artista</string>
+  <string name="delete_ringtone_text">Eliminar</string>
+  <string name="grant_dialog_button_allow">Permitir</string>
+  <string name="grant_dialog_button_deny">Negar</string>
+  <string name="notification_sound_default">Toque de notificação predefinido</string>
+  <string name="permission_audio">Permitir <b>^1</b> para modificar ou eliminar esta música?</string>
+  <string name="permission_images">Permitir <b>^1</b> para modificar ou eliminar esta imagem?</string>
+  <string name="permission_required">Necessário permissão para modificar ou eliminar este item</string>
+  <string name="permission_required_action">Continuar</string>
+  <string name="permission_video">Permitir <b>^1</b> para modificar ou eliminar este vídeo?</string>
+  <string name="ringtone_default">Toque predefinido</string>
+  <string name="root_audio">Áudio</string>
+  <string name="root_images">Imagens</string>
+  <string name="root_videos">Vídeos</string>
+  <string name="uid_label">Multimédia</string>
+  <string name="unable_to_add_ringtone">Não foi possível adicionar toque personalizado</string>
+  <string name="unable_to_delete_ringtone">Não foi possível eliminar toque personalizado</string>
+</resources>

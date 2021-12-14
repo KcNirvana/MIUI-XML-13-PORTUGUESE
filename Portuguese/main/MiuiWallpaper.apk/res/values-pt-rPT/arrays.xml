@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Terra</item>
+        <item>Papéis de parede/Super papéis de parede/Terra</item>
+        <item>Terra;Super papéis de parede;Edição Terra;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Papéis de parede/Super papéis de parede/Geometria</item>
+        <item>Geometria;Abstracto;Super papéis de parede;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>O planeta vermelho</item>
+        <item>Papéis de parede/Super papéis de parede/Planeta vermelho</item>
+        <item>Marte;Edição Marte;Super papéis de parede;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Anéis de Saturno</item>
+        <item>Papéis de parede/Super papéis de parede/Anéis de Saturno</item>
+        <item>Planeta;Saturno;Super papéis de parede;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Picos nevados</item>
+        <item>Papéis de parede/Super papéis de parede/Picos nevados</item>
+        <item>Terra;Montanhas;Super papéis de parede;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super papéis de parede</item>
+        <item>Papéis de parede/Super papéis de parede</item>
+        <item>Super papéis de parede;Papel de parede;Papel de parede dinâmico;Papel de parede 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Tempo</item>
+        <item>Papéis de parede/Super papéis de parede/Tempo</item>
+        <item>Tempo;Informações de tempo;Super papéis de parede;Papel de parede</item>
+    </string-array>
+</resources>

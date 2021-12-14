@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Saúde</item>
+        <item>Treinos</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagem</item>
+        <item>Rota</item>
+        <item>Cartão</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Correr</item>
+        <item>Andar</item>
+        <item>Andar de bicicleta</item>
+        <item>Saltar à corda</item>
+        <item>Treinar</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Razoável</item>
+        <item>Longo</item>
+        <item>Demasiado longo</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Hora de mudar!</item>
+        <item>Saber mais</item>
+        <item>Beba um pouco de água e dê um passeio</item>
+        <item>Saber mais</item>
+        <item>Suba um lance de escadas</item>
+        <item>Learn more</item>
+        <item>Não se sente por muito tempo</item>
+        <item>Saber mais</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 horas</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Não definido</item>
+        <item>Pais</item>
+        <item>Irmã</item>
+        <item>Irmão</item>
+        <item>Cônjuge</item>
+        <item>Companheiro</item>
+        <item>Amigo</item>
+        <item>Colega</item>
+        <item>Colega de escola</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Não definido</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Não definido</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Seg, Qua, Sex</item>
+        <item>Ter, Qui, Sáb</item>
+        <item>Qua, Sex, Dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Todas as Segundas</item>
+        <item>Todas as Terças</item>
+        <item>Todas as Quartas</item>
+        <item>Todas as Quintas</item>
+        <item>Todas as Sextas</item>
+        <item>Todas os Sábados</item>
+        <item>Todas os Domingos</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Não definido</item>
+        <item>Negativo</item>
+        <item>Positivo</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sem restrições</item>
+        <item>Limitar a actividade em segundo plano</item>
+        <item>Parar após 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="splash_loading">
+        <item>A calcular objectivos das actividades…</item>
+        <item>Objectivos da actividades: %1$d steps</item>
+        <item>Hoje andou %1$d passos</item>
+        <item>A calcular objectivos do sono…</item>
+        <item>Objectivos do sono: %1$d horas</item>
+        <item>Sem dados de sono</item>
+        <item>A abrir Saúde</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Ser sedentário provoca muitos problemas de saúde. Se a duração total do tempo sedentário não puder ser reduzida, as actividades intermitentes em pé podem melhorar efectivamente esses problemas</item>
+        <item>O assistente ajuda o sedentário a permanecer em pé pelo menos 1 minuto por hora, para atingir o objectivo de 12 horas todos os dias e a ficar longe dos perigos da vida sedentária</item>
+        <item>Toque Continuar para abrir o assistente</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Saúde detecta e regista quando está de pé. Pode também receber lembretes para ficar em pé após uma hora de inactividade</item>
+        <item>Esta funcionalidade regista os seus movimentos e envia lembretes baseados nos resultados</item>
+    </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Não definido</item>
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+</resources>

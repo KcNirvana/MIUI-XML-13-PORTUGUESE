@@ -68,7 +68,7 @@
   <string name="data_usage_context">Se o Wi-Fi não estiver ligado, o seu dispositivo vai ligar às redes móveis o que pode resultar em taxas adicionais. Obrigado!</string>
   <string name="default_device_name">Dispositivo desconhecido</string>
   <string name="default_name">Predefinido</string>
-  <string name="description_title">Modo silêncio</string>
+  <string name="description_title">Modo Silêncio</string>
   <string name="device_status_failed">Não foi possível enviar</string>
   <string name="device_status_sending">A enviar…</string>
   <string name="device_status_success">Enviado com sucesso</string>
@@ -235,7 +235,7 @@
   <string name="set_password_title">Definir uma palavra-passe</string>
   <string name="shutdown_confirm_title">Desligar o dispositivo agora?</string>
   <string name="shutdown_progress">A desligar…</string>
-  <string name="silence_mode">Modo silêncio</string>
+  <string name="silence_mode">Modo Silêncio</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>
   <string name="sim_added_reboot_title">O cartão SIM vai ser activado depois de reiniciar o dispositivo</string>
   <string name="sim_lock_non_ais_msg">O seu cartão SIM não é totalmente compatível com este telefone</string>
@@ -253,7 +253,7 @@
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="standard">Silêncio</string>
   <string name="standard_description">Silenciar os toques de chamadas e notificações</string>
-  <string name="standard_title">Modo silêncio</string>
+  <string name="standard_title">Modo Silêncio</string>
   <string name="start_dump_log">Criar um registo de erros</string>
   <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brilho auto.</string>

@@ -4566,7 +4566,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="multifunction_keyboard">Multifunctional</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="musicfx_title">Efeitos de música</string>
-  <string name="mute">Modo silêncio</string>
+  <string name="mute">Modo Silêncio</string>
   <string name="mute_media_sound_summary">Jogos, música, vídeos e outras aplicações</string>
   <string name="mute_media_sound_title">Silenciar multimédia no modo Silêncio</string>
   <string name="mute_music_stream">Silenciar o som multimédia</string>
@@ -5783,7 +5783,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="ring_volume_option_title">Toques</string>
   <string name="ring_volume_title">Volume do toque e notificações</string>
   <string name="ringer_mode_setting_summary">Silenciar chamadas e notificações</string>
-  <string name="ringer_mode_setting_title">Modo silêncio</string>
+  <string name="ringer_mode_setting_title">Modo Silêncio</string>
   <string name="ringtone_slot_setting_title">Definições SIM individuais</string>
   <string name="ringtone_title">Toque</string>
   <string name="ringtone_uniform_setting_title">Definições do segundo cartão</string>
@@ -6210,14 +6210,14 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="search_settings">Pesquisar</string>
   <string name="search_settings_no_results">Sem resultados</string>
   <string name="search_settings_summary">Gerir as definições e histórico de pesquisa</string>
-  <string name="search_silent_mode_title">Modo silêncio;silencioso;silêncio;silenciar</string>
+  <string name="search_silent_mode_title">Modo Silêncio;silencioso;silêncio;silenciar</string>
   <string name="search_sim_management_title">Redes móveis;Dados móveis;Dados celulares;Dados;Roaming internacional;Roaming;Receber MMS;Nomes dos pontos de acesso;Tipo de rede preferida;Redes móveis</string>
   <string name="search_sim_status_title">Estado do SIM;SIM</string>
   <string name="search_slot_status_title">Informação do IMEI;IMEI</string>
   <string name="search_sms_delivered_sound_title">Mensagem entregue;mensagem entregue;toque de mensagem;estado de entrega</string>
   <string name="search_sms_received_sound_title">Mensagem recebida;Som de mensagem;mensagem recebida;toque de mensagem</string>
   <string name="search_sound_effects_enable_title">Sons de toque;Ligar sons de toque</string>
-  <string name="search_sound_settings">Sons e vibração;Volumes;Modo silêncio;Definições de áudio;Suprimir ruído</string>
+  <string name="search_sound_settings">Sons e vibração;Volumes;Modo Silêncio;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar_settings">Notificações e barra de estado;Notificações;barra de estado</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
@@ -6564,12 +6564,12 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="shut_down_find_device_network_failure_title">Não foi possível ligar à rede</string>
   <string name="shuting_down_find_device">A desligar Localizar Dispositivo…</string>
   <string name="silent_duration">Duração</string>
-  <string name="silent_mode">Modo silêncio</string>
+  <string name="silent_mode">Modo Silêncio</string>
   <string name="silent_mode_disable_media">Silenciar tudo</string>
   <string name="silent_mode_enable_media">Reproduzir multimédia</string>
   <string name="silent_mode_summary">Silenciar chamadas, notificações e multimédia</string>
-  <string name="silent_mode_title">Modo silêncio</string>
-  <string name="silent_mode_toggle_title">Modo silêncio</string>
+  <string name="silent_mode_title">Modo Silêncio</string>
+  <string name="silent_mode_toggle_title">Modo Silêncio</string>
   <string name="silent_notifications_status_bar">Ocultar notificações silenciosas na barra de estado</string>
   <string name="silent_off">Desligado</string>
   <string name="silent_settings">Silêncio/Não incomodar</string>
@@ -6753,7 +6753,7 @@ Esta funcionalidade necessita de permissões para aceder à sua localização, u
   <string name="sound_dashboard_summary">Volume, vibração, Não incomodar</string>
   <string name="sound_effects_enable_title">Sons de toque</string>
   <string name="sound_haptic_settings">Sons e toques</string>
-  <string name="sound_mode">Modo silêncio</string>
+  <string name="sound_mode">Modo Silêncio</string>
   <string name="sound_settings">Som</string>
   <string name="sound_settings_example_summary">Volume do toque e notificações a 80%</string>
   <string name="sound_settings_summary">Volume do toque e notificações a %1$s</string>
@@ -7263,7 +7263,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_layout_current">Tamanho do texto</string>
   <string name="title_layout_current2">Tamanho do texto</string>
   <string name="title_layout_current2_weight">Tamanho do texto</string>
-  <string name="title_miui_music_mute_by_user">Modo silêncio</string>
+  <string name="title_miui_music_mute_by_user">Modo Silêncio</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="title_special_features_health_global">Batimento cardíaco</string>
   <string name="to_close">Desligar</string>
@@ -8785,7 +8785,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_no_exceptions">Nenhuma</string>
   <string name="zen_mode_none_calls">Nenhuma</string>
   <string name="zen_mode_none_messages">Nenhuma</string>
-  <string name="zen_mode_option_miui_silent">Modo silêncio</string>
+  <string name="zen_mode_option_miui_silent">Modo Silêncio</string>
   <string name="zen_mode_option_miui_vibrate">Não incomodar</string>
   <string name="zen_mode_other_options">Outras opções</string>
   <string name="zen_mode_other_sounds_list_count">%d mais</string>

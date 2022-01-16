@@ -687,7 +687,7 @@
   <string name="auto_task_operation_memory_clean_lockscreen">Limpar memória</string>
   <string name="auto_task_operation_mobile_data">Dados móveis</string>
   <string name="auto_task_operation_modify_string">Editar %s</string>
-  <string name="auto_task_operation_mute">Modo silêncio</string>
+  <string name="auto_task_operation_mute">Modo Silêncio</string>
   <string name="auto_task_operation_no_op">Não seleccionar esta acção</string>
   <string name="auto_task_operation_open">Ligado</string>
   <string name="auto_task_operation_open_string">Ligar %s</string>
@@ -1786,7 +1786,7 @@ das suas sessões de jogo"</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
   <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
   <string name="gs_call_handsfree">Mãos livres</string>
-  <string name="gs_call_handsfree_mute">Modo silêncio</string>
+  <string name="gs_call_handsfree_mute">Modo Silêncio</string>
   <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do ecrã inicial. Vá a Segurança &gt; Definições para o restaurar</string>
   <string name="gs_dialog_confirm_close_title">Desligar</string>
   <string name="gs_forbid_autosync">Restringir sincronização em segundo plano</string>

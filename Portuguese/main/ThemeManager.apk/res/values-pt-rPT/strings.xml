@@ -109,6 +109,7 @@
   <string name="current_using_float_wallpaper_text">Transparente</string>
   <string name="current_version">Versão actual: %1$s</string>
   <string name="current_version_incompatible">Não compatível</string>
+  <string name="custom_storage_permission_desc">Para poder alterar as preferências de personalização e guardar os itens transferidos, dê permissão a esta funcionalidade para aceder ao armazenamento primeiro</string>
   <string name="de_apply_icons">Ícones da aplicação</string>
   <string name="de_apply_icons_and_wallpaper">Ícones e papel de parede da aplicação</string>
   <string name="de_author_follow">Seguir</string>

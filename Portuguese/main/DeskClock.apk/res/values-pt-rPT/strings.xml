@@ -310,7 +310,7 @@
   <string name="shutdown_alarm_disable_summary">O alarme não vai tocar com o telefone desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado (se o alarme for definido para pelo menos 10 minutos depois de estar desligado)</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
-  <string name="silent_alarm_summary">Modo silêncio</string>
+  <string name="silent_alarm_summary">Modo Silêncio</string>
   <string name="skip_alarm_once_hint">Desligar uma vez em %s</string>
   <string name="sleep_analysis">Estatísticas</string>
   <string name="sleep_analysis_chart_date_format">dd/MM</string>

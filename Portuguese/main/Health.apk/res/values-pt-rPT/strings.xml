@@ -1240,6 +1240,9 @@ baseados nas suas informações pessoais"</string>
   <string name="sport_btn_pause">Pausar</string>
   <string name="sport_btn_unlock">Desbloquear</string>
   <string name="sport_counter_begin">Iniciar agora</string>
+  <string name="sport_data_use_subtitle">Para monitorizar os seus treinos e progresso, vamos obter e processar as suas inforamções incluindo rotinas de treino, dados de sono, batimentos cardíacos e peso</string>
+  <string name="sport_data_use_tip">"Leia e concorde com a nossa &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Política de Utilização de Dados de Saúde&lt;/a>&lt;/font> para perceber melhor como obtemos e processamos as suas informações. Não vai poder utilizar este serviço se não concordar"</string>
+  <string name="sport_data_use_title">Permissões de dados</string>
   <string name="sport_home_begin">Iniciar</string>
   <string name="sport_home_set_goal">Definir objectivo</string>
   <string name="sport_invalid_dialog_distance_content">A distância percorrida durante este treino é demasiado curta para registar. Terminar este treino mesmo assim?</string>

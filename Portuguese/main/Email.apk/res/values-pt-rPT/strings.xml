@@ -10,7 +10,7 @@
   <string name="account_add_title">Seleccionar serviço de email</string>
   <string name="account_change">Trocar contas</string>
   <string name="account_child_dialog_neg_text">Sair</string>
-  <string name="account_child_dialog_pos_text">Guardian agrees</string>
+  <string name="account_child_dialog_pos_text">Concordar</string>
   <string name="account_child_dialog_text">"Se for menor de 14 anos, deve informar o seu responsável que deve ler e concordar com \"Protecção de dados pessoais de menores da Kingsoft\".
 Para entender completamente os seus direitos como utilizador, assim como processamos os seus dados, leia \"Protecção de dados pessoais de menores da Kingsoft\""</string>
   <string name="account_child_dialog_title">Protecção de dados pessoais de menores</string>

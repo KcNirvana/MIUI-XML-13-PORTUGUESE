@@ -328,6 +328,7 @@
   <string name="pc_todo_fast_create_hint">Introduzir texto e premir \"Enter\" para adicionar uma tarefa não concluída</string>
   <string name="pc_todo_set_remind_time_hint">Definir hora</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar esta funcionalidade para aceder aos seus dados pessoais</string>
+  <string name="permission_data_shared_desc">Partilha de Dados de Terceiros</string>
   <string name="permission_get_account_desc">A sincronizar notas com a Xiaomi Cloud</string>
   <string name="permission_intro_contact">Para marcar notas tiradas durante chamadas</string>
   <string name="permission_intro_microphone">Para gravar notas de voz</string>

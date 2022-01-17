@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="adaptive_fps_tip">2. Alcançar o melhor equilíbrio entre suavidade e duração da bateria ajustando dinâmicamente a taxa de actualização</string>
+  <string name="adaptive_fps_tip">- Alcançar o melhor equilíbrio entre suavidade e duração da bateria ajustando dinâmicamente a taxa de actualização</string>
   <string name="advanced_mode">Definições avançadas</string>
   <string name="africa_introduction">A vida selvagem prospera na África - lar de muitos dos animais mais famosos do mundo</string>
   <string name="african_bush_elephant">Elefante africano</string>
@@ -415,6 +415,8 @@
   <string name="usage_beat_fans">Melhor %s fãs Mi</string>
   <string name="usage_continuous_days">Dias consecutivos</string>
   <string name="usage_creating_weekly_report">A criar relatório semanal…</string>
+  <string name="usage_cta_desc">"Bem-vindo a Definições! Para fornecer estatísticas de tempo de ecrã e Modo Foco, esta aplicação necessita de obter os seguintes dados: número de vezes que desbloqueou o dispositivo, lista de aplicações e duração das mesmas, número de vez que o ecrã ligou e definições do Modo Foco. Os dados obtidos vão ser armazenados localmente.
+"</string>
   <string name="usage_current_week_usage">%s em média nos últimos 7 dias</string>
   <string name="usage_device_limit_app_prolong">Adicionar tempo</string>
   <string name="usage_device_limit_app_prolong_time1">Adicionar 20 minutos</string>

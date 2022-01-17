@@ -1527,6 +1527,7 @@ volunteer"</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
+  <string name="gamebox_brightness">Brilho</string>
   <string name="gamebox_browser_not_find">Instale o Navegador primeiro</string>
   <string name="gamebox_collimator">Mira</string>
   <string name="gamebox_display_1">Nenhum</string>
@@ -1552,9 +1553,12 @@ volunteer"</string>
   <string name="gamebox_immerson_open">A ligar o modo imersivo. Não troque de redes…</string>
   <string name="gamebox_macro">Combinações</string>
   <string name="gamebox_manual_record">Gravar</string>
+  <string name="gamebox_mem_clean">Limpar memória</string>
   <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
+  <string name="gamebox_screenrecord">Gravar</string>
+  <string name="gamebox_screenshot">Captura de ecrã</string>
   <string name="gamebox_recent_task_expand_fail">Aplicações que funcionam com atalhos não estão instaladas</string>
   <string name="gamebox_simcard">Trocar cartões SIM</string>
   <string name="gamebox_time">Temporizador</string>
@@ -1710,6 +1714,14 @@ Grave sequências e utilize-as em qualquer altura!"</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
   <string name="gb_storage_summary">Não mostrar jogos adicionados ao Game Turbo no ecrã inicial</string>
   <string name="gb_storage_title">Remover jogos do ecrã inicial</string>
+  <string name="gb_turbo_collimator_subtitle">Utilizar mira</string>
+  <string name="gb_turbo_macro_subtitle">Executar acções de alto nível</string>
+  <string name="gb_turbo_new_flag">Novo</string>
+  <string name="gb_turbo_shoulder_subtitle">Configurar controlos</string>
+  <string name="gb_turbo_time_subtitle">Programar as suas sessões</string>
+  <string name="gb_turbo_voice_subtitle">Apimentar as suas conversas</string>
+  <string name="gb_turbo_wonder_subtitle">Gravar momentos chave</string>
+  <string name="gb_voice_change_audition_tip">Demo</string>
   <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
   <string name="gb_voice_changer_cartoon">Desenhos animados</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Renovar a sua subscrição para poder utilizar os comentários em tempo real</string>
@@ -1825,6 +1837,17 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gtb_dialog_title_smart_5g">Optimização rede 5G</string>
   <string name="gtb_exit_game_to_gtb">Abrir atalhos</string>
   <string name="gtb_exit_game_to_home">Voltar para o ecrã inicial</string>
+  <string name="gtb_guide_finish">Ignorar</string>
+  <string name="gtb_guide_gtb_button_done">Concluído</string>
+  <string name="gtb_guide_gtb_community_desc">Partilhar a sua experiência com outros jogadores</string>
+  <string name="gtb_guide_gtb_community_title">Comunidade</string>
+  <string name="gtb_guide_gtb_func_desc">Intensificar o jogo</string>
+  <string name="gtb_guide_gtb_func_title">Game Turbo</string>
+  <string name="gtb_guide_gtb_game_effected">Aplicado</string>
+  <string name="gtb_guide_gtb_game_new">Novo</string>
+  <string name="gtb_guide_gtb_line_new">Intensificar o jogo com o novo Game Turbo!</string>
+  <string name="gtb_guide_small_window_app_desc">Utilizar outras aplicações enquanto joga</string>
+  <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
   <string name="gtb_setting_item_summary_smart_5g">Quando o Game Turbo detecta uma rede 5G, pode ligar o seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumentar a velocidade de ligação entre 10% a 20% quando ligado a routers Mi/Redmi</string>
   <string name="gtb_setting_item_title_brightness">Diminuir brilho do ecrã automaticamente</string>

@@ -6697,7 +6697,7 @@ Duplo toque para abrir Recentes"</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>
   <string name="smartcover_sensitive_title">Modo capa inteligente</string>
   <string name="smooth_adjust_ligth">Transições suaves</string>
-  <string name="smooth_adjust_ligth_summary">Tornar as transições mais suaves ao ajustar o brilho manualmentey. Quando esta funcionalidade estiver ligar, podem aparecer pequenas inconsistências de cor</string>
+  <string name="smooth_adjust_ligth_summary">Tornar as transições mais suaves ao ajustar o brilho manualmente. Quando esta funcionalidade estiver ligar, podem aparecer pequenas inconsistências de cor</string>
   <string name="sms_application_title">Mensagens</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>

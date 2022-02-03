@@ -6802,7 +6802,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="standard_info">As chamadas e notificações vão ser silenciadas</string>
   <string name="start_silent_mode">Ligar modo Silêncio</string>
   <string name="starting_android">A iniciar o Android…</string>
-  <string name="status_awake_time">Tempo de actividade</string>
+  <string name="status_awake_time">Tempo ligado</string>
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
   <string name="status_bar_app_enable_floating">Flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Ecrã de bloqueio</string>
@@ -6845,7 +6845,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Toque para ver</string>
   <string name="status_unavailable">Não disponível</string>
-  <string name="status_up_time">Tempo de actividade</string>
+  <string name="status_up_time">Tempo ligado</string>
   <string name="status_voice_network_type">Tipo de rede de voz móvel</string>
   <string name="status_wifi_mac_address">Endereço MAC Wi-Fi</string>
   <string name="storage_category">Armazenamento</string>

@@ -72,8 +72,6 @@
   <string name="delete_file_success">Eliminado com sucesso</string>
   <string name="delete_operation_record">Eliminar este registo?</string>
   <string name="delete_operation_record_timeout">Não foi possível eliminar este registo. Aguarde um momento e tente novamente</string>
-  <string name="delete_operation_record">Eliminar este registo?</string>
-  <string name="delete_operation_record_timeout">Não foi possível eliminar o registo. Aguarde um momento e tente novamente</string>
   <string name="delete_record_only">Os itens seleccionados não vão ser eliminados</string>
   <string name="delete_success">Ficheiro eliminado</string>
   <string name="detail_download_path">"Localização: "</string>

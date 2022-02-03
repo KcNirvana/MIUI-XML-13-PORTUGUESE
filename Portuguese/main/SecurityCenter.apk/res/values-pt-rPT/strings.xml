@@ -46,8 +46,8 @@
   <string name="ac_notification_action_text">Ligar</string>
   <string name="ac_notification_contentText">Ocultar informações sensíveis utilizando uma palavra-passe</string>
   <string name="ac_notification_contentTitle">Experimentar o Bloqueio de aplicações!</string>
-  <string name="ac_post_notification_contentText">Pode proteger todos as aplicações sensíveis</string>
-  <string name="ac_post_notification_contentTitle">Proteger aplicações com apps o Bloqueio de aplicações</string>
+  <string name="ac_post_notification_contentText">Pode proteger todas as aplicações sensíveis</string>
+  <string name="ac_post_notification_contentTitle">Proteger aplicações com o Bloqueio de aplicações</string>
   <string name="ac_pre_notification_contentText">Proteja as suas informações pessoais</string>
   <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicações</string>
   <string name="ac_recommend_guide_dialog_app_content">Utilizar o Bloqueio de aplicações com esta aplicação para proteger as suas informações pessoais</string>
@@ -2852,7 +2852,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_optimize_darkmode_dialog_title">Ligar Modo Escuro</string>
   <string name="power_optimize_darkmode_extend_summary">O Modo Escuro altera o esquema de cores do sistema e aplicações seleccionadas permitindo poupar bateria e reduzir a fadiga ocular</string>
   <string name="power_optimize_darkmode_summary">O Modo Escuro consome menos bateria</string>
-  <string name="power_optimize_disable_5g">Restrngir ligação 5G</string>
+  <string name="power_optimize_disable_5g">Restringir ligação 5G</string>
   <string name="power_optimize_disable_5g_summary">A ligação 5G consome mais bateria</string>
   <string name="power_optimize_disable_aod">Desligar ecrã ambiente</string>
   <string name="power_optimize_disable_app_autostart">Prevenir aplicações de abrirem automaticamente</string>

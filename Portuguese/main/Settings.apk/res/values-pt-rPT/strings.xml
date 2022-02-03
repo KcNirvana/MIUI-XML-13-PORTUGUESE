@@ -2589,7 +2589,7 @@ Pode ver o registo gerado no Ficheiros"</string>
   <string name="edit_rules">Editar</string>
   <string name="effect_preview">Pré-visualizar</string>
   <string name="eighthours">8 horas</string>
-  <string name="elastic_text">Prompts and dropdown menus appear with an elastic pop that brings more focus on these objects</string>
+  <string name="elastic_text">Janelas e menus dropdown aparecem com um pop elástico que traz mais foco nesses objetos</string>
   <string name="emergency_address_summary">Endereço utilizado pelos serviços de emergência como a sua localização se efectuar uma chamada de emergência através de Wi-Fi</string>
   <string name="emergency_address_title">Actualizar o endereço de emergência</string>
   <string name="emergency_info_summary">Informações e contactos de %1$s</string>
@@ -3494,7 +3494,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="interact_across_profiles_switch_enabled">Ligada</string>
   <string name="interact_across_profiles_title">Aplicações pessoais e de trabalho ligada</string>
   <string name="interaction_control_category_title">Controlos de interacção</string>
-  <string name="interesting_text">Sensações tácteis realistas tornam asua interacção com o ecrã tela mais clara e articulada</string>
+  <string name="interesting_text">Sensações tácteis realistas tornam a sua interacção com o ecrã mais clara e articulada</string>
   <string name="interesting_title">Toques realísticos</string>
   <string name="internal_memory">Armazenamento interno</string>
   <string name="internal_storage">Armazenamento interno</string>

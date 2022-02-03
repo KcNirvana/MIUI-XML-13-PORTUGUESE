@@ -175,11 +175,11 @@
   </plurals>
   <plurals name="rs_clean_size_hint_image">
      <item quantity="other">O suficiente para %d fotos</item>
-    <item quantity="one">O suficiente %d foto</item>
+    <item quantity="one">O suficiente para %d foto</item>
   </plurals>
   <plurals name="rs_clean_size_hint_song">
-    <item quantity="other">Enough for %d songs</item>
-    <item quantity="one">Enough for %d song</item>
+    <item quantity="other">O suficiente para %d músicas</item>
+    <item quantity="one">O suficiente para %d música</item>
   </plurals>
   <plurals name="second">
        <item quantity="other">%1$d segundos</item>

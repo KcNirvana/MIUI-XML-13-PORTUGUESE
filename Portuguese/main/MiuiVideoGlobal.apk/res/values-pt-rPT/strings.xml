@@ -239,6 +239,9 @@
   <string name="local_video_space">Ocupado: %s</string>
   <string name="local_video_time">Duração</string>
   <string name="login">Iniciar sessão</string>
+  <string name="login_tip">Iniciar sessão para poder receber respostas aos seus comentários</string>
+  <string name="logout">Terminar sessão</string>
+  <string name="logout_account">Terminar sessão</string>
   <string name="long_video_no_more_content">"That's all for now"</string>
   <string name="long_video_watch_on">Watch on</string>
   <string name="long_video_you_may_also_like">You may also like</string>
@@ -461,8 +464,12 @@
   <string name="ovp_navigation_feedback">Comentários</string>
   <string name="ovp_navigation_history">Histórico</string>
   <string name="ovp_navigation_home">Início</string>
+  <string name="ovp_navigation_language">Idioma</string>
   <string name="ovp_navigation_localvideo">Dispositivo</string>
+  <string name="ovp_navigation_notice">Notificações</string>
+  <string name="ovp_navigation_score">Classificar aplicação</string>
   <string name="ovp_navigation_setting">Definições</string>
+  <string name="ovp_navigation_subscribe">Subscrições</string>
   <string name="ovp_navigation_version_update">Verificar actualizações</string>
   <string name="ovp_player_cached_error_btn">Vídeos online</string>
   <string name="ovp_player_cached_error_hint_info">Não é possível reproduzir vídeos locais agora</string>
@@ -518,6 +525,7 @@ Aumentar a segurança da sua conta"</string>
   <string name="plus_deleting_wait">A eliminar</string>
   <string name="plus_fallback">Comentários</string>
   <string name="plus_gallery_allvideos">Todos os vídeos</string>
+  <string name="plus_gallery_files">Ficheiros</string>
   <string name="plus_gallery_folder_switch_guid">Toque para mudar para vista de lista</string>
   <string name="plus_gallery_mediatype_aimusic">Bandas sonoras</string>
   <string name="plus_gallery_mediatype_changtu">Imagens longas</string>
@@ -751,6 +759,11 @@ Tente ver outros vídeos!"</string>
   <string name="tab_name_moment">Momentos</string>
   <string name="tab_name_trending">Tendências</string>
   <string name="tab_name_video">Vídeos</string>
+  <string name="talkback_ad_clicked">Anúncios</string>
+  <string name="talkback_background_playback">Reprodução em segundo plano</string>
+  <string name="talkback_voice_search">Pesquisa de voz</string>
+  <string name="target_sdk_version_30_upgrade_tips">Alguns vídeos podem não ser vistos aqui devido a restrições de Android. Toque em \"Ficheiros\" para encontrar outros vídeos</string>
+  <string name="temporary_not_available">Funcionalidade ainda não disponível</string>
   <string name="thursday">Quinta-feira</string>
   <string name="title_firework_recommend">Recomendações Firework</string>
   <string name="today">Hoje</string>

@@ -116,6 +116,11 @@
   <string name="dc_light_hint_other">O modo Anti-Oscilação pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
   <string name="dc_lignt_enable_hint">O modo Anti-Oscilação vai definir a taxa de actualização para 60Hz. Trocar para modo Anti-Oscilação?</string>
   <string name="delete_first_to_add_animal">Para adicionar um novo item, elimine um primeiro</string>
+  <string name="desktop_widget_authorization">Toque para dar permissões para ver as estatísticas</string>
+  <string name="desktop_widget_authorization_new">Toque para ver as estatísticas</string>
+  <string name="desktop_widget_not_support">"As estatísticas de utilização de ecrã
+não são geradas no Segundo espaço"</string>
+  <string name="desktop_widget_screen_use_time">Tempo de ecrã</string>
   <string name="display_description">Itens maiores, textos maiores, menos confusão visual</string>
   <string name="display_title">Itens maiores</string>
   <string name="dynamic_ringtone_desc">Nós explorámos diferentes ecossistemas e recriámos os seus sons distintos. Comece a explorar os sons da natureza connosco!</string>

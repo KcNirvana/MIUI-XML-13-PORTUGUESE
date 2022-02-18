@@ -342,6 +342,7 @@
   <string name="menu_new_manual">Inserir número de telefone</string>
   <string name="menu_pick_from_contact">Seleccionar dos contactos</string>
   <string name="menu_preferences">Definições</string>
+  <string name="menu_report">Comentários</string>
   <string name="menu_send_as_common">Enviar como SMS</string>
   <string name="menu_unlock">Remover dos favoritos</string>
   <string name="menu_view_contact">Ver contacto</string>

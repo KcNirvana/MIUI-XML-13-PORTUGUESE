@@ -3898,7 +3898,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_settings_title">Segurança do ecrã</string>
   <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e segurança</string>
   <string name="lock_setup">Configuração concluída</string>
-  <string name="lock_sound_effect_enable_title">Reproduzir sons ao bloquear dispositivo</string>
+  <string name="lock_sound_effect_enable_title">Som de bloqueio de dispositivo</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockdown_settings_summary">Mostrar a opção de botão Ligar/Desligar, que desliga o Smart Lock, o desbloqueio com dados biométricos e as notificações no ecrã de bloqueio</string>
   <string name="lockpassword_cancel_label">Cancelar</string>

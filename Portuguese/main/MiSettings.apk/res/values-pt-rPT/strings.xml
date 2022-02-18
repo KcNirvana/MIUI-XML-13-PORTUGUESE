@@ -554,7 +554,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo Foco apenas permite a utilização da Câmara. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo Foco apenas permite a utilização da Câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_summary">Restringir todas as funcionalidades, excepto a Câmara e chamadas de emergência</string>
-  <string name="usage_state_focus_mode_summary1">Bem começado é meio caminha andado</string>
+  <string name="usage_state_focus_mode_summary1">Bem começado é meio caminho andado</string>
   <string name="usage_state_focus_mode_summary2">Mantenha-se focado</string>
   <string name="usage_state_focus_mode_summary3">É preciso um esforço para manter o foco</string>
   <string name="usage_state_focus_mode_title">Modo Foco</string>

@@ -3743,7 +3743,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="special_perm_intercept_action_title">Saber o seu comportamento e automatizar acções</string>
   <string name="special_perm_intercept_allow">OK (%d)</string>
   <string name="special_perm_intercept_analyze_msg">Permitir que as aplicações saibam que aplicações mais utiliza e com que frequência</string>
-  <string name="special_perm_intercept_analyze_title">Análisar preferências e comportamentos</string>
+  <string name="special_perm_intercept_analyze_title">Analisar preferências e comportamentos</string>
   <string name="special_perm_intercept_app_msg">Incluindo notificações de aplicações bancárias e redes sociais</string>
   <string name="special_perm_intercept_app_title">Ler todas as notificações</string>
   <string name="special_perm_intercept_barrier_free">Acessibilidade</string>
@@ -3775,7 +3775,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="special_perm_intercept_system_msg">Instalar aplicações que podem conter vírus</string>
   <string name="special_perm_intercept_system_title">Influenciar a segurança e estabilidade do sistema</string>
   <string name="special_perm_intercept_title">\"%s\" é uma permissão altamente sensível. Se conceder esta permissão, as suas informações privadas podem ser expostas. Aqui está o que as aplicações têm permissão para fazer:</string>
-  <string name="special_perm_intercept_usb_title">\"%s\" é um serviço altamente sensível destino apenas para programadores. Se o ligar, as suas informações privadas podem ser expostas. Aqui está o que pode acontecer:</string>
+  <string name="special_perm_intercept_usb_title">\"%s\" é um serviço altamente sensível destinado apenas para programadores. Se o ligar, as suas informações privadas podem ser expostas. Aqui está o que pode acontecer:</string>
   <string name="special_perm_manager_msg">Permitir que as aplicações possam controlar este dispositivo</string>
   <string name="special_perm_manager_title">Controlar o dispositivo</string>
   <string name="special_perm_nfc_msg">Permitir que as aplicações possam efectuar pagamentos contactless</string>

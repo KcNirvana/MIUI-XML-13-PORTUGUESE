@@ -316,7 +316,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
-  <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc.</string>
+  <string name="network_purpose">"Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc. "</string>
   <string name="new_privacy_string">Bem-vindo à Calculadora!&lt;br/>Esta aplicação contém as seguintes funcionalidades:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal&lt;br/>• Cálculo de empréstimos e mais&lt;br/>A Calculadora necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar a Calculadora</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>

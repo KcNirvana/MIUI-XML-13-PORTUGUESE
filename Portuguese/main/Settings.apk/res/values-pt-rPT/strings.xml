@@ -1737,7 +1737,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="color_yellow">Amarelo</string>
   <string name="common_issue">FAQ</string>
   <string name="common_settings">Definições rápidas</string>
-  <string name="complete_parameters">Especificações</string>
+  <string name="complete_parameters">Todas as especificações</string>
   <string name="complete_settings">Definições gerais</string>
   <string name="computer_backup_summary">Copiar e restaurar itens utilizando um computador</string>
   <string name="computer_backup_title">Computador</string>
@@ -2266,7 +2266,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número de versão</string>
   <string name="device_camera">Câmara</string>
-  <string name="device_complete_parameters">Especificações</string>
+  <string name="device_complete_parameters">Todas as especificações</string>
   <string name="device_controls_sentence">Controlos de dispositivos</string>
   <string name="device_controls_setting_subtitle">Para aceder aos controlos dos dispositivos ligados, mantenha premido o botão Ligar/Desligar</string>
   <string name="device_controls_setting_toggle">Mostrar controlos de dispositivos</string>

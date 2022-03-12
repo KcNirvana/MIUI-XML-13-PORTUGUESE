@@ -7,6 +7,8 @@
   <string name="HIPS_Action_Reject">Negar</string>
   <string name="HIPS_Action_Reject_Once">Negar uma vez</string>
   <string name="HIPS_Action_Reject_This">Negar uma vez</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES">Ligar a dispositivos próximos</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobrir e ligar a dispositivos próximos</string>
   <string name="HIPS_Perm_Access_Gallery">Acesso à Galeria</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">Permitir que esta aplicação aceda a itens na Galeria</string>
   <string name="HIPS_Perm_AudioRecorder">Gravar áudio</string>

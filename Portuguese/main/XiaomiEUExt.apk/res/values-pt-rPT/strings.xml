@@ -2,6 +2,7 @@
 <resources>
   <string name="add">Adicionar</string>
   <string name="app_name">Extensão Xiaomi.EU</string>
+  <string name="auto">Automático</string>
   <string name="confirm_reset">Confirmar reposição</string>
   <string name="confirm_reset_message">Repor para as aplicações predefinidas?</string>
   <string name="contributors">Contribuidores</string>
@@ -17,4 +18,5 @@
   <string name="reset">Repor</string>
   <string name="select_app">Seleccionar uma aplicação</string>
   <string name="select_apps">Seleccionar aplicações</string>
+  <string name="wifi_region">Região Wi-Fi</string>
 </resources>

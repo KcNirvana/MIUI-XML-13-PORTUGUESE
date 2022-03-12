@@ -72,9 +72,11 @@ d 'de' MMMM"</string>
   <string name="disable_aod_in_dark_room">Desligar quando estiver muito tempo no escuro</string>
   <string name="disable_aod_in_power_save_mode">Desligar quando a poupança de bateria estiver ligada</string>
   <string name="disable_aod_in_power_save_mode_summary">Não mostrar itens para poupar bateria</string>
+  <string name="dual_clock_tip">Relógio duplo ligado. Toque para abrir Definições</string>
   <string name="error_icon_content_description">Erro</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu</string>
   <string name="font_thickness">Texto em negrito</string>
+  <string name="garbage_count">Existem %1$s instâncias antigas</string>
   <string name="icon_content_description">Ícone da caixa de diálogo</string>
   <string name="item_view_role_description">Separador</string>
   <string name="large_time">Relógio grande</string>
@@ -82,6 +84,7 @@ d 'de' MMMM"</string>
   <string name="line_space">Espaço entre linhas</string>
   <string name="material_slider_range_end">Fim do intervalo,</string>
   <string name="material_slider_range_start">Início do intervalo,</string>
+  <string name="memory_leak">Leak de memória</string>
   <string name="mini_time">Relógio pequeno</string>
   <string name="minimalist_clock">Relógio simples</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
@@ -100,6 +103,7 @@ d 'de' MMMM"</string>
   <string name="notification_anim_pulse">Pulsação</string>
   <string name="notification_anim_rhythm">Ritmo</string>
   <string name="notification_anim_star">Estrelas</string>
+  <string name="notification_channel_alerts">Alertas</string>
   <string name="notification_nothing">Nenhuma</string>
   <string name="notification_screen_on">Ligar ecrã</string>
   <string name="off">Desligado</string>
@@ -148,6 +152,7 @@ dd/MM"</string>
   <string name="super_wallpaper_date_lunar">"EEEE
 dd/MM"</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>
+  <string name="temporary_style_5">Por 5 segundos após tocar</string>
   <string name="temporary_style_summary">Recomendado</string>
   <string name="text_color">Cor do texto</string>
   <string name="text_length_exceed_limit_alert">*O texto inserido é demasiado longo</string>

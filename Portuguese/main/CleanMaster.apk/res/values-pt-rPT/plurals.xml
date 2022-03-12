@@ -12,6 +12,10 @@
     <item quantity="other">Não utilizada há %d anos</item>
     <item quantity="one">Não utilizada há %d ano</item>
   </plurals>
+  <plurals name="clean_app_data_selected_app">
+    <item quantity="other">%d aplicações para limpar dados</item>
+    <item quantity="one">%d aplicação para limpar dados</item>
+  </plurals>
   <plurals name="clean_long_msg_p1">
     <item quantity="other">"A limpar %1$d ficheiros: %2$d concluídos
 "</item>
@@ -41,6 +45,10 @@
   <plurals name="dc_item_summary_app_data">
     <item quantity="other">Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> aplicações</item>
     <item quantity="one">Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> aplicação</item>
+  </plurals>
+  <plurals name="dc_item_summary_app_reset">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> aplicações utilizam bastante espaço</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> aplicação utiliza bastante espaço</item>
   </plurals>
   <plurals name="dc_item_summary_image">
     <item quantity="other">Pode eliminar &lt;font color=#0097FF>%d&lt;/font> fotos desnecessárias</item>
@@ -82,7 +90,6 @@
     <item quantity="other">Encontrou %d fotos. Pode eliminar as fotos desnecessárias</item>
     <item quantity="one">Encontrou %d foto. Pode eliminar esta foto</item>
   </plurals>
-    
   <plurals name="deepclean_video_summary">
     <item quantity="other">Encontrou %d vídeos. Pode eliminar os vídeos desnecessários​</item>
     <item quantity="one">Encontrou %d vídeo. Pode eliminar este vídeo</item>
@@ -165,9 +172,15 @@
   </plurals>
   <plurals name="people">
     <item quantity="other">Transferido por %1$d pessoas</item>
+    <item quantity="one">Transferido por %1$d pessoa</item>
   </plurals>
   <plurals name="people_million">
     <item quantity="other">Transferido por %1$d pessoas</item>
+    <item quantity="one">Transferido por %1$d pessoa</item>
+  </plurals>
+  <plurals name="reset_app_selected_app">
+    <item quantity="other">%d aplicações para repor</item>
+    <item quantity="one">%d aplicação para repor</item>
   </plurals>
   <plurals name="resutl_function_install_app_summary">
     <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
@@ -182,8 +195,16 @@
     <item quantity="one">O suficiente para %d música</item>
   </plurals>
   <plurals name="second">
-       <item quantity="other">%1$d segundos</item>
-       <item quantity="one">%1$d segundo</item>
+    <item quantity="other">%1$d segundos</item>
+    <item quantity="one">%1$d segundo</item>
+  </plurals>
+  <plurals name="select_app">
+    <item quantity="other">aplicações seleccionadas</item>
+    <item quantity="one">%d aplicação seleccionada</item>
+  </plurals>
+  <plurals name="unload_app_selected_app">
+    <item quantity="other">%d aplicações para desinstalar</item>
+    <item quantity="one">%d aplicação para desinstalar</item>
   </plurals>
   <plurals name="video_clean_scan_app_result">
      <item quantity="other">%d aplicações com vídeos em cache</item>

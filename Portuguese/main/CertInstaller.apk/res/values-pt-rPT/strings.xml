@@ -11,6 +11,7 @@
   <string name="cert_temp_error">Erro temporário. Tente novamente mais tarde</string>
   <string name="cert_too_large_error">Não foi possível instalar porque o tamanho do certificado é demasiado grande</string>
   <string name="certificate">Certificado</string>
+  <string name="certificate_capabilities_warning">Nota: O emissor deste certificado pode verificar todo o tráfego de e para o dispositivo</string>
   <string name="certificate_name">Nome do certificado</string>
   <string name="credential_info">O pacote contém:</string>
   <string name="credential_password">Introduza a palavra-passe para extrair os certificados</string>

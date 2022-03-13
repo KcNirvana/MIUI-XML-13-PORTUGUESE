@@ -39,6 +39,10 @@
         <item quantity="other">Eliminar %1$d rascunhos?</item>
         <item quantity="one">Eliminar %1$d rascunho?</item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Dispositivo superaquecido. A Câmara vai ser fechada em %d segundos</item>
+        <item quantity="one">Dispositivo superaquecido. A Câmara vai ser fechada em %d segundo</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>

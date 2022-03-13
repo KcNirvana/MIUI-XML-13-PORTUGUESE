@@ -8,6 +8,7 @@ Toque para ver"</string>
   <string name="app_notification_title">Gravador de ecrã</string>
   <string name="auto_stop_title">Vídeo guardado com sucesso</string>
   <string name="battery_not_allowed" formatted="false">Não é possível gravar o ecrã com a bateria a menos de 3%. É recomendado estar a mais de 20%</string>
+  <string name="battery_not_allowed_warning">Não é possível gravar o ecrã com a bateria a menos de %1$s. É recomendado estar a mais de %2$s</string>
   <string name="bit_rate">Qualidade do vídeo</string>
   <string name="bit_rate_summary">Quanto melhor a qualidade maior o tamanho</string>
   <string name="bubble_text">Toque para iniciar a gravação</string>
@@ -50,6 +51,7 @@ Toque para ver"</string>
   <string name="low_battery_title">Bateria fraca</string>
   <string name="low_battery_warning">Bateria fraca. A gravação foi parada e o vídeo guardado</string>
   <string name="low_memory">Tem menos de 1GB de espaço disponível. Pode apenas gravar até 20 minutos</string>
+  <string name="low_memory_for_phone">Tem menos de %1$dGB de espaço disponível. Pode apenas gravar até %2$d minutos</string>
   <string name="low_memory_for_pad">Tem menos de 1GB de espaço disponível. Pode apenas gravar até 20 minutes</string>
   <string name="low_memory_title">Sem espaço suficiente</string>
   <string name="low_momery_warning">Sem espaço suficiente. A gravação foi parada e o vídeo guardado</string>

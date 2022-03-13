@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Cit QR</string>
   <string name="close">Fechar</string>
+  <string name="close_hit_again">Premir novamente para sair do ecrã</string>
   <string name="important_ration_info">Informações importantes</string>
   <string name="no_important_ration_info">Informações não importantes</string>
   <string name="qr_load">A carregar</string>

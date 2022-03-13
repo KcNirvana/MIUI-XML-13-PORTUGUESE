@@ -4,6 +4,7 @@
   <string name="auth_activity_label">Códigos de verificação</string>
   <string name="auth_fingerprint_content">Verifique a sua impressão digital para aceder a palavras-passe guardadas</string>
   <string name="auth_fingerprint_content_message">Não foi possível verificar a sua palavra-passe. Tente novamente</string>
+  <string name="auth_fingerprint_content_message_error">Não foi possível verificar a sua impressão digital. Tente novamente</string>
   <string name="auth_fingerprint_title">Verificação de impressão digital</string>
   <string name="autofill_description">A MIUI pode encriptar e armazenar as suas palavras-passe para que possa introduzi-las automaticamente. A Xiaomi não vai poder ler as suas palavras-passe encriptadas</string>
   <string name="autofill_hint_email_address">Email</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="access_limit">Restrições de acesso</string>
   <string name="access_tips">Não é possível aceder a itens. Tente utilizar a framework Android Storage Access</string>
@@ -24,7 +24,9 @@
   <string name="app_name_miuimusic">Música</string>
   <string name="app_name_miuiringtone">Toques</string>
   <string name="app_name_miuiwallpaper">Papéis de parede</string>
+  <string name="app_name_recorder">Gravador</string>
   <string name="app_name_screenshot">Capturas de ecrã</string>
+  <string name="available_size">Disponível: %s</string>
   <string name="backup_cancel">Não fazer cópia</string>
   <string name="backup_checkbox_msg">Fazer cópias automaticamente</string>
   <string name="backup_confirm">Fazer cópia agora</string>
@@ -32,7 +34,6 @@
   <string name="backup_success_confirm">Ver</string>
   <string name="backup_success_message">Cópia feita para %1$s</string>
   <string name="backup_success_title">Cópia feita</string>
-  <string name="available_size">Disponível: %s</string>
   <string name="big5_summary">Windows chinês tradicional codificação padrão</string>
   <string name="big5_title">BIG5</string>
   <string name="by_date">Data</string>
@@ -95,8 +96,8 @@
   <string name="connection_error">Não foi possível ligar</string>
   <string name="connection_lost">Desligado</string>
   <string name="copy_failed">Não foi possível copiar</string>
-  <string name="create_folder">Criar</string>
   <string name="copy_to">Copiar para…</string>
+  <string name="create_folder">Criar</string>
   <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
   <string name="data_consumption_cancel">Não concordar</string>
   <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
@@ -228,8 +229,11 @@
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="imm_str_storage">Armazenamento</string>
+  <string name="instruction">"Introduzir o endereço seguinte no cliente FTP : "</string>
   <string name="instruction_pre_pad">Toque para iniciar o servidor FTP</string>
   <string name="instruction_pre_phone">Toque para iniciar o servidor FTP</string>
+  <string name="internal_storage">Armazenamento interno</string>
+  <string name="item_view_role_description">Separador</string>
   <string name="just_now">Agora mesmo</string>
   <string name="launcher_icon_add_description">Adicionar um atalho ao ecrã inicial</string>
   <string name="launcher_icon_remove_description_content">Ficheiros é uma aplicação de sistema. Não vai poder gerir ficheiros após remover</string>
@@ -265,6 +269,8 @@
   <string name="message_praise_video">" gostou deste vídeo"</string>
   <string name="message_reply_prefix">Responder</string>
   <string name="mi_router_label">Router</string>
+  <string name="midriver_install_button_text">Instalar</string>
+  <string name="midriver_not_install_title">Mi Drive desinstalada</string>
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
@@ -311,6 +317,8 @@
   <string name="mtp_device">Dispositivo multimédia (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="name_empty">Introduzir nome</string>
+  <string name="need_open_content">Permitir que Ficheiros aceda às suas fotos e ficheiros para utilizar esta funcionalidade</string>
+  <string name="need_open_permission">Permissões necessárias</string>
   <string name="need_read_storage_permission">Ficheiros necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_folder_name">Pasta sem nome</string>
@@ -322,9 +330,10 @@
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
   <string name="no_message">Sem mensagens</string>
-  <string name="no_recent_files">Sem ficheiros recentes</string>
   <string name="no_network_tip">Não é possível ligar à rede. Verifique a ligação e tente novamente</string>
   <string name="no_new_content_tip">Todos os itens estão actualizados</string>
+  <string name="no_permission">Conceder as permissões necessárias para aceder a esta funcionalidade</string>
+  <string name="no_recent_files">Sem ficheiros recentes</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
   <string name="not_added_category">Disponível</string>
@@ -430,6 +439,7 @@
   <string name="refresh_fail">Não foi possível actualizar</string>
   <string name="refresh_success">Actualizado</string>
   <string name="refreshing">A actualizar</string>
+  <string name="reinstall_midriver_message">Instalar novamente agora?</string>
   <string name="release_enter_private">Solte para abrir pastas privadas</string>
   <string name="release_refresh">Solte para actualizar</string>
   <string name="remainder_size">Restante: %s</string>
@@ -534,6 +544,8 @@
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_select_volume">Escolher pasta</string>
+  <string name="to_open">Definições</string>
+  <string name="to_setting">Definições</string>
   <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção</string>
   <string name="tools">Ferramentas</string>
   <string name="total_size">Total: %s</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="cancel">Cancelar</string>
+  <string name="doc_photo_adjust_section_talkback">Cortar e editar</string>
   <string name="doc_photo_adjust_section_title">Arrastar para ajustar</string>
   <string name="doc_photo_cancel">Cancelar</string>
   <string name="doc_photo_confirm">Sair</string>
@@ -82,4 +83,5 @@
   <string name="refocus_type_relighting_small_face">A iluminação 3D funciona em fotos em que os rostos ocupam mais espaço do que aqui</string>
   <string name="refocus_type_static">Focagem</string>
   <string name="refocus_type_video">Trilhas leves</string>
+  <string name="save">Guardar</string>
 </resources>

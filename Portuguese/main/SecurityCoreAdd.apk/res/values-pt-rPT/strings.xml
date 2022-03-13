@@ -438,6 +438,7 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="wating">Aguarde…</string>
   <string name="weibo_send">Enviar para Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
+  <string name="weixin_share_sign">Iniciar sessão e partilhar</string>
   <string name="whatsapp_send">Partilhar no WhatsApp</string>
   <string name="xpsace_guide_button">Criar</string>
   <string name="xspace_account">Contas de aplic. clonadas</string>
@@ -485,4 +486,5 @@ merecem a sua própria aplicação"</string>
   <string name="xspace_uninstalling">A desinstalar…</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

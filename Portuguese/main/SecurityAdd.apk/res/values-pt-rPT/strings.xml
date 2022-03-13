@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="ad_downloading">A transferir…</string>
   <string name="app_name">Plugin do serviço de sistema</string>
   <string name="app_select_title">Adicionar aplicações utilizadas frequentemente</string>
+  <string name="auto_task_now_city">Localização actual</string>
+  <string name="auto_task_select_city">Seleccionar cidade</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="cta_main_purpose">Bem-vindo ao Game Turbo!</string>
@@ -57,15 +59,15 @@
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_no_network_btn">Actualizar</string>
   <string name="gb_adv_touch_adv_title">Modo Clássico (predefinição)</string>
-  <string name="gb_adv_touch_custom1">Resposta de deslize</string>
-  <string name="gb_adv_touch_custom2">Sensibilidade a toques contínuos</string>
-  <string name="gb_adv_touch_custom3">Precisão de mira</string>
-  <string name="gb_adv_touch_custom4">Estabilidade do toque</string>
   <string name="gb_adv_touch_custom_tip1">Uma resposta de deslize mais alta aumenta a velocidade de reacção deste gesto, enquanto que uma resposta de deslize mais baixa torna este gesto mais estável</string>
   <string name="gb_adv_touch_custom_tip2">Uma sensibilidade a toques contínuos mais alta aumenta a velocidade de reacção deste gesto, enquanto que uma sensibilidade mais baixa torna este gesto mais estável</string>
   <string name="gb_adv_touch_custom_tip3">Uma precisão de mira mais alta torna os deslizes mais precisos, enquato que uma precisão de mira mais baixa torna este gesto mais estável</string>
   <string name="gb_adv_touch_custom_tip4">Uma estabilidade de toque mais alta torna os toques mais estáveis, enquanto que uma estabilidade mais baixa aumenta a precisão de deslizes pequenos</string>
   <string name="gb_adv_touch_custom_title">Personalizar</string>
+  <string name="gb_adv_touch_custom1">Resposta de deslize</string>
+  <string name="gb_adv_touch_custom2">Sensibilidade a toques contínuos</string>
+  <string name="gb_adv_touch_custom3">Precisão de mira</string>
+  <string name="gb_adv_touch_custom4">Estabilidade do toque</string>
   <string name="gb_adv_touch_mode_pro_tips">*Este modo é destinado a jogadores profissionais. Os jogadores normais podem achar este modo inconveniente</string>
   <string name="gb_adv_touch_pro_title">Modo Pro</string>
   <string name="gb_advance_settings_edge_gear1">Nenhum</string>
@@ -101,6 +103,7 @@
   <string name="gb_game_speed_closed_fail">Não foi possível desligar o Modo Velocidade</string>
   <string name="gb_game_speed_open">Modo Velocidade ligado</string>
   <string name="gb_game_speed_open_fail">Não foi possível ligar o Modo Velocidade</string>
+  <string name="gb_global_settings">Definições</string>
   <string name="gb_gpu_control_anisotropic_filtering">Filtragem anisotrópica</string>
   <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
   <string name="gb_gpu_control_fps">Taxa de frames</string>
@@ -132,9 +135,17 @@
   <string name="gb_pannel_control_mode_high_quality">Alta qualidade</string>
   <string name="gb_pannel_control_mode_normal">Predefinido</string>
   <string name="gb_pannel_control_mode_power_saving">Poupar bateria</string>
+  <string name="gb_webwindow_schemedialog_accept">Abrir</string>
+  <string name="gb_webwindow_schemedialog_cancel">Cancelar</string>
+  <string name="gb_webwindow_schemedialog_title">Abrir jogos agora?</string>
   <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="gdpr_msg">Para utilizar as funcionalidades básicas de Segurança, tem de concordar que a Xiaomi vai recolher, processar e utilizar os seus dados pessoais de acordo com a nossa <a href="https://privacy.mi.com/all/%1$s_%2$s">Politíca de Privacidade</a></string>
+  <string name="gtb_dialog_privacy_speed_message">"You're about to use Xunyou Game Booster. This service will collect your Mi Account ID to record your membership duration."</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"I've read and agreed to Xunyou Game Booster &lt;a href=\"%1$s\"&gt;Privacy Policy.&lt;/a&gt;"</Data></string>
+  <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
   <string name="hybrid_provider">Fornecido por %1$s</string>
+  <string name="install_success">%s instalado com sucesso</string>
+  <string name="lucky_result_title">Red envelopes</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="miuishare_title_more">Mais</string>
   <string name="miuishare_title_share">Partilhar</string>
@@ -148,6 +159,7 @@
   <string name="no_network_btn">Tente novamente</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Abrir no navegador</string>
+  <string name="pc_activity_title">Optimizar bateria</string>
   <string name="pm_lable_name">Acerca do acesso root</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
@@ -181,5 +193,9 @@
   <string name="tool_box_active_loading">Aguarde…</string>
   <string name="tool_box_active_no_networ">Não foi possível ligar à rede</string>
   <string name="tool_box_active_reload">Actualizar</string>
+  <string name="usage_sorted_loading_text">Aguarde…</string>
+  <string name="web_sso_login_fail">Necessário iniciar sessão novamente</string>
+  <string name="web_sso_login_message">A iniciar sessão…</string>
+  <string name="webview_reload">Tentar novamente</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
 </resources>

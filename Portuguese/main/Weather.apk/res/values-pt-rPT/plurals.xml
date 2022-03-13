@@ -28,6 +28,14 @@
         <item quantity="other">%1$s segundos após comentar</item>
         <item quantity="one">%1$s segundo após comentar</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Pode submeter novamente em %1$s minutos</item>
+        <item quantity="one">Pode submeter novamente em %1$s minuto</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Pode submeter novamente em %1$s segundos</item>
+        <item quantity="one">Pode submeter novamente em %1$s segundo</item>
+    </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Temperatura máxima: %1$s°C</item>
         <item quantity="one">Temperatura máxima: %1$s°C</item>

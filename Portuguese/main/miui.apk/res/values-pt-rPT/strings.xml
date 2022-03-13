@@ -93,6 +93,7 @@
   <string name="close">Fechar</string>
   <string name="com_android_email">Email</string>
   <string name="com_android_soundrecorder">Gravador</string>
+  <string name="com_mi_globalbrowser">Navegador</string>
   <string name="com_mi_liveassistant">Assistente de live streaming</string>
   <string name="com_miui_calculator">Calculadora</string>
   <string name="com_miui_cleanmaster">Limpeza</string>

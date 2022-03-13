@@ -17,6 +17,7 @@
   <string name="activate_feature_register_xiaomi_account">Configuração de Conta Mi</string>
   <string name="activate_feature_remote_assist">Assistente Remoto</string>
   <string name="activate_feature_verify_mx_token">Verificação de Conta Mi</string>
+  <string name="activate_feature_voip">Mi Message VoIP</string>
   <string name="activate_history_canceled_overview">A activação do cartão SIM foi cancelada. A activação é iniciada por \"%1$s\"</string>
   <string name="activate_history_multisim_canceled_overview">A activação do cartão SIM %2$d foi cancelada. A activação é iniciada por \"%1$s\"</string>
   <string name="activate_history_multisim_success_overview">Activou o cartão SIM %2$d com sucesso. A activação é iniciada por \"%1$s\"</string>

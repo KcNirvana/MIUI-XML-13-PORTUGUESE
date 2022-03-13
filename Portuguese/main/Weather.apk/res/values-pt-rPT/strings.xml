@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_weather_setting">Acerca de Tempo</string>
   <string name="about_weather_setting_feedback">Comentários</string>
   <string name="abrupt_weather_alert_channel_name">Alertas do Tempo</string>
   <string name="abrupt_weather_settings_summary_type">Receber alertas sobre precipitação esperada, alterações na qualidade do ar e outras alterações significativas</string>
+  <string name="abrupt_weather_settings_title">Aviso meteorológico incomum</string>
   <string name="act_find_city_hint">Introduzir localização</string>
   <string name="act_find_city_hot_city_title">Cidades populares</string>
   <string name="act_location_error_to_find_city">Não foi possível obter a localização. Pode adicionar uma cidade manualmente</string>
@@ -14,15 +15,15 @@
   <string name="act_weather_find_city_net_no_good">Não é possível ligar à rede</string>
   <string name="act_weather_find_city_no_result">Sem resultados</string>
   <string name="act_weather_find_city_searching">A pesquisar…</string>
-  <string name="activity_alert_detail_title"/>
+  <string name="activity_alert_detail_title" />
   <string name="activity_find_city_dialog_cancel">Cancelar</string>
   <string name="activity_find_city_dialog_message">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
   <string name="activity_find_city_dialog_message_global">Ligue os serviços de localização e dê permissão para determinar a localização através das redes sem fios</string>
   <string name="activity_find_city_dialog_message_location_service">Par obter informações de tempo, dê permissão ao Tempo para aceder à sua localização</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
-  <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_pub_time">Publicado às %1$s</string>
+  <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -33,6 +34,7 @@
   <string name="alert_warning">Alertas de tempo</string>
   <string name="alert_weather_enable_settings_summary">Receber alertas oficiais de tempo</string>
   <string name="alert_weather_enable_settings_title">Alertas de tempo</string>
+  <string name="already_voted_toast">Já votou hoje</string>
   <string name="app_name">Tempo</string>
   <string name="aqi_15_days_desc">Previsão IQA para %d dias</string>
   <string name="aqi_24_hours_desc">Previsão IQA para %d horas</string>
@@ -54,8 +56,17 @@
   <string name="aqi_detail_subtitle">IQA %1$s</string>
   <string name="aqi_detail_title">Indíce de qualidade do ar</string>
   <string name="aqi_detail_unit">Unidade: µg/m³</string>
+  <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_publish_time">Actualizado às %1$s</string>
+  <string name="aqi_quality_co_desc">Monóxido de carbono</string>
+  <string name="aqi_quality_no2_desc">Dióxido de nitrogénio</string>
+  <string name="aqi_quality_o3_desc">Ozono</string>
+  <string name="aqi_quality_pm10_desc">Partículas grossas inaláveis</string>
+  <string name="aqi_quality_pm25_desc">Partículas finas</string>
+  <string name="aqi_quality_so2_desc">Dióxido de enxofre</string>
   <string name="aqi_short_desc">Qualidade do ar %1$s</string>
+  <string name="aqi_station_best_quality_station">Melhor ao redor</string>
+  <string name="aqi_station_min_distance_station">Mais próxima</string>
   <string name="aqi_sub_desc">IQA</string>
   <string name="aqi_top_pollution">Mais poluidores</string>
   <string name="button_allow">OK</string>
@@ -66,8 +77,12 @@
   <string name="button_settings_confirm_to_revoke_msg">Ao desligar isto, está a retirar os seu consentimento com a Política de Privacidade do Tempo</string>
   <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
   <string name="city_exceeded_warning">Não é possível adicionar mais cidades</string>
+  <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
+  <string name="common_open_on_phone">Abrir no telefone</string>
+  <string name="common_signin_button_text">Iniciar sessão</string>
+  <string name="common_signin_button_text_long">Iniciar sessão com Google</string>
   <string name="connect_fail">Não foi possível ligar à rede. Tente novamente</string>
   <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
   <string name="content_desc_activity_main_add_city_manage">Gerir cidades</string>
@@ -87,8 +102,12 @@
   <string name="daily_forecast_detail_date">dd/MM</string>
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
  Puxe para actualizar ou verifique as definições de rede"</string>
-  <string name="data_provided_by"/>
+  <string name="data_provided_by" />
   <string name="dialog_internet_error_title">Ocorreu um erro</string>
+  <string name="dialog_msg_score_midrop">How do you feel about Weather?</string>
+  <string name="dialog_msg_score_not_good">Could you give us your feedback as well?</string>
+  <string name="dialog_msg_score_perfect">Nice! Rate Weather in Play Store as well?</string>
+  <string name="dialog_title_score">Classificar Tempo</string>
   <string name="download_rsc_tips">A carregar áudio…</string>
   <string name="dynamic_weather">Tempo</string>
   <string name="edit_alert_city_title">Gerir alertas</string>
@@ -118,20 +137,20 @@
   <string name="index_item_downloading">A transferir</string>
   <string name="index_item_experience_now">Instalar agora</string>
   <string name="index_item_installing2">A instalar</string>
-  <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
   <string name="indices_title_chance_of_rain">Previsão de chuva</string>
   <string name="indices_title_feel">Sensação térmica</string>
   <string name="indices_title_humidity">Humidade</string>
+  <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_pressure">Pressão</string>
-  <string name="indices_title_wind_speed">Velocidade do vento</string>
   <string name="indices_title_restriction">Espaço da estrada</string>
   <string name="indices_title_sport">Desportos</string>
   <string name="indices_title_uv">Indíce UV</string>
   <string name="indices_title_visibility">Visibilidade</string>
+  <string name="indices_title_wind_speed">Velocidade do vento</string>
   <string name="information_manager_extension">Extensão do tempo</string>
   <string name="information_settings_title">Informação do tempo</string>
-  <string name="information_views"/>
+  <string name="information_views" />
   <string name="international_details_chance_of_rain">Possibilidade de chuva</string>
   <string name="international_details_humidity">Humidade</string>
   <string name="international_details_pressure_title">Pressão</string>
@@ -174,6 +193,9 @@
   <string name="pad_keyboard_add_city">Adicionar localização</string>
   <string name="pad_keyboard_left_switch">Anterior</string>
   <string name="pad_keyboard_right_switch">Seguinte</string>
+  <string name="particulate_matter_exceeded">Alta</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
+  <string name="particulate_matter_serious_exceeded">Demasiado alta</string>
   <string name="permission_device_info">Informação de dispositivo</string>
   <string name="permission_device_introduce">Para reconhecer o ID dispositivo baseado no modelo e IMEI e fornecer serviços de localização baseado nas preferências de idioma</string>
   <string name="permission_exit">Sair</string>
@@ -196,12 +218,15 @@
   <string name="radar_cloud_update_time">Antes de %1$s</string>
   <string name="rain_sound_setting_summary_text">Acompanhar as mudanças do tempo por efeitos sonoros</string>
   <string name="rain_sound_setting_title_text">Efeitos sonoros</string>
+  <string name="rating_dialog_later">Mais tarde</string>
+  <string name="rating_dialog_rate_now">Classificar agora</string>
   <string name="real_time_sunrise">Nascer do sol %1$s</string>
   <string name="real_time_sunset">Pôr do sol %1$s</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade</string>
   <string name="realtime_temperature_no_data">Sem dados</string>
   <string name="realtime_wind_default_title">Vento</string>
+  <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="refresh_fail">Não foi possível ligar à rede</string>
   <string name="reminder_from_xiaomi_weather_app">Alertas de Tempo</string>
   <string name="request_cta_connect_net">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
@@ -214,6 +239,7 @@
   <string name="save_to_gallery_failure_message">Não foi possível guardar na Galeria</string>
   <string name="save_to_gallery_icon_name">Guardar na Galeria</string>
   <string name="save_to_gallery_success_message">Guardado na Galeria com sucesso</string>
+  <string name="select_show_city">Seleccionar localização</string>
   <string name="settings">Definições</string>
   <string name="settings_atmospheric_pressure_atm">Atmosfera padrão (atm)</string>
   <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>

@@ -63,7 +63,7 @@
   <string name="error_package_invalid">Não é possível utilizar a aplicação de administrador. Faltam componentes ou está danificada. Para obter ajuda, contacte o seu administrador</string>
   <string name="error_wifi">Não foi possível ligar à rede Wi-Fi</string>
   <string name="expand">Expandir</string>
-  <string name="expand_button_title">Avançadas</string> 
+  <string name="expand_button_title">Avançado</string>
   <string name="for_help_contact_admin">Para ajuda, contacte o seu administrador</string>
   <string name="frp_clear_progress_text">Aguarde…</string>
   <string name="frp_clear_progress_title">A eliminar</string>

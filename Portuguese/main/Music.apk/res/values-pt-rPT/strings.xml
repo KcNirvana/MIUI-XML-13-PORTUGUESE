@@ -230,7 +230,7 @@
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizador</string>
   <string name="error_not_support">Não suportado</string>
-  <string name="expand_button_title">Avançadas</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="expired">Expirado</string>
   <string name="expires">Expira este mês:</string>
   <string name="fail_to_play">Não é possível reproduzir a música</string>

@@ -587,7 +587,7 @@ Envie este código para o supervisor."</string>
     <string name="exo_track_surround_5_point_1">Som surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
     <string name="exo_track_unknown">Desconhecida</string>
-    <string name="expand_button_title">Avançadas</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="external_app_restricted_access_error">O Navegador Mi não pode aceder a este item.</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="fast_search_title">Pesquisa rápida</string>

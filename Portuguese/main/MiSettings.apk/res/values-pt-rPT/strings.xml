@@ -678,4 +678,35 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="yellow_necked_spurfowl">Francolim de pescoço amarelo</string>
   <string name="yellow_throated_marten">Marta de garganta amarela</string>
   <string name="yunnan_snub_nosed_monkey">Macaco preto de nariz arrebitado</string>
+  <string name="customize_radio_btn_summary">Preferir a taxa de actualização seleccionada</string>
+  <string name="customize_radio_btn_title">Personalizar</string>
+  <string name="dc_light_hint_normal_anit">O modo Anti-Oscilação pode afectar a forma como itens são mostrados</string>
+  <string name="dc_light_hint_normal_other">O modo Anti-Oscilação pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
+  <string name="dc_light_hint_unnormal_low">O modo Anti-Oscilação de pouca luz pode afectar a forma como itens são mostrados</string>
+  <string name="dc_light_hint_unnormal_other">O modo Anti-Oscilação de pouca luzpode afectar a taxa de actualização e a forma como os itens são mostrados</string>
+  <string name="expand_button_title">Avançado</string>
+  <string name="fps_high">Alto</string>
+  <string name="fps_normal">Standard</string>
+  <string name="fps_radio_btn_title">Taxa de actualização</string>
+  <string name="fps_save_battery_tips">Poupança de bateria ligada. Taxa de actualização definida para %dHz</string>
+  <string name="fps_user_tip_footer">"%1$d. For you to understand the difference between higher and lower refresh rates, demos are played slower here. It might be harder for you to notice the difference during regular use.
+%2$d. In some cases, refresh rate might be adjusted dynamically based on what items are displayed."</string>
+  <string name="high_fps_tip_footer">Using higher refresh rates makes viewing experience smoother but consumes more power.</string>
+  <string name="intelligent_radio_btn_summary">Adjust the refresh rate dynamically based on scenarios to balance performance with power consumption</string>
+  <string name="intelligent_radio_btn_title">Default (recommended)</string>
+  <string name="low_flicker_mode">Low light</string>
+  <string name="low_flicker_mode_summary">Prevent flickering in low light conditions to reduce eye strain</string>
+  <string name="normal_mode_summary_new">Allow flickering in low light conditions</string>
+  <string name="primary_color_region_chinese_only">nature</string>
+  <string name="sim_slot_1">" (SIM 1)"</string>
+  <string name="sim_slot_2">" (SIM 2)"</string>
+  <string name="split_page_authorization">Welcome to Screen time! Here you can set screen time limits and view stats. Tap \"Start\" to turn this feature on.</string>
+  <string name="split_page_start">Iniciar</string>
+  <string name="usage_app_desktop_widget_limit">%s remaining</string>
+  <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Before using this app, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
+  <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+  <string name="usage_remain_hour_miunte">%1$s %2$s</string>
+  <string name="usage_state_hour_minute">%1$dh %2$dm</string>
+  <string name="usage_state_which_mouth">MMM</string>
 </resources>

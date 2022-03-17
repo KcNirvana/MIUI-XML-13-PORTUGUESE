@@ -250,7 +250,7 @@ Selecção"</string>
   <string name="enable_terminal_summary">Activar aplicação terminal que oferece acesso local à shell</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enabled_by_admin">Activada pelo administrador</string>
-  <string name="expand_button_title">Avançadas</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="external_source_trusted">Autorizada</string>
   <string name="external_source_untrusted">Não autorizada</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir definições para %1$s</string>

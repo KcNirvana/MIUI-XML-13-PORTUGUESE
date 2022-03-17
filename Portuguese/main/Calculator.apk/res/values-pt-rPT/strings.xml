@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="age_label_add_to_calendar">Adicionar ao calendário</string>
   <string name="age_label_dob">Data de nascimento</string>
@@ -37,8 +37,8 @@
   <string name="choose_unit">Seleccionar unidade</string>
   <string name="city">Cidade</string>
   <string name="clear">C</string>
-  <string name="clearDesc">limpar</string>
   <string name="clear_history">Limpar histórico</string>
+  <string name="clearDesc">limpar</string>
   <string name="combine_loan">Empréstimo combinado</string>
   <string name="commercial_loan">Empréstimo comercial</string>
   <string name="convert_currency">Conversor de moedas</string>
@@ -58,8 +58,9 @@
   <string name="currency_update_support">As taxas de câmbio são fornecidas por Webull</string>
   <string name="currency_update_time_format">As taxas de câmbio são fornecidas por Webull (%s)</string>
   <string name="currency_update_updating">A actualizar taxas…</string>
-  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_format">dd MMM, yyyy</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">d</string>
   <string name="degDesc">Ângulo</string>
   <string name="del">DEL</string>
@@ -73,6 +74,10 @@
   <string name="dialog_privacy_revoke_btn_ok">Remover</string>
   <string name="dialog_privacy_revoke_title">Remoção de consentimento</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
+  <string name="dialog_rating_desc_ask">O que acha da Calculadora?</string>
+  <string name="dialog_rating_desc_less">Pode-nos dar os seus comentários também?</string>
+  <string name="dialog_rating_desc_perfect">Boa! Avaliar a Calculadora na App Store também?</string>
+  <string name="dialog_rating_title">Avaliar a aplicação</string>
   <string name="divDesc">Dividir</string>
   <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
   <string name="dont_allow">Não concordar</string>
@@ -84,9 +89,13 @@
   <string name="error">Erro</string>
   <string name="error_fomrat">Erro de formato</string>
   <string name="exit">Sair</string>
+  <string name="expand_button_title">Avançado</string>
+  <string name="extra_deduction_instruction">Detalhes da dedução</string>
+  <string name="extra_deduction_tips">Tocar no botão no canto superior do ecrã para ver os detalhes da dedução</string>
+  <string name="extra_deduction_title">Deduções adicionais</string>
   <string name="factorialDesc">Logaritmo</string>
   <string name="float_window_guide_text">Toque minimizar a calculadora</string>
-  <string name="fmt_chinese_date"/>
+  <string name="fmt_chinese_date" />
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
   <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>
@@ -109,6 +118,7 @@
   <string name="from_unit_en">Quilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Empréstimos</string>
+  <string name="further_education">Mais educação</string>
   <string name="global_network_confirm_content">O conversor de divisas necessita de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="global_search_key_area_convertion">Área;Conversor de áreas</string>
   <string name="global_search_key_calculation">Calcular;Calculadora;Conversor de unidades;Converter</string>
@@ -125,13 +135,15 @@
   <string name="global_search_key_word_figure">Caracteres financeiros</string>
   <string name="golbal_search_calculator_setting">Calculadora;Definições da Calculadora;Definições</string>
   <string name="golbal_search_path_calculator_setting">Aplicações de Sistema/Calculadora/Definições</string>
-  <string name="help_content_desc">Ajuda</string>
   <string name="height_prompt">Altura</string>
+  <string name="help_content_desc">Ajuda</string>
   <string name="hint_annual_rate">Introduzir taxa anual</string>
   <string name="hint_enter_amount">Introduzir valor</string>
   <string name="hint_floatwindow_alpha_guide_text">Toque para ajustar opacidade</string>
   <string name="history_delete_confirmation">Limpar histórico agora?</string>
+  <string name="home_loan">Juros</string>
   <string name="home_title_calculator">Calculadora</string>
+  <string name="house_rent">Renda</string>
   <string name="install">Instalar</string>
   <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
   <string name="interest_rate_hint">Introduza a taxa de juro</string>
@@ -167,6 +179,7 @@
   <string name="item_title_vel_conversion">Velocidade</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Peso</string>
+  <string name="l_name_discount">Desconto (% fora)</string>
   <string name="label_about">Acerca</string>
   <string name="label_clear_history">Limpar tudo</string>
   <string name="label_date_difference">Diferença</string>
@@ -197,7 +210,14 @@
   <string name="label_years">Anos</string>
   <string name="leftParenDesc">Parêntese esquerdo</string>
   <string name="lgDesc">Logaritmo</string>
+  <string name="license_host_unreachable">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
   <string name="lnDesc">Logaritmo natural</string>
+  <string name="loading">Aguarde…</string>
+  <string name="loading_fail_message_no_network">Não foi possível ligar à rede. Toque aqui para tentar novamente</string>
+  <string name="loading_fail_refresh">Actualizar</string>
+  <string name="loading_message">A carregar…</string>
+  <string name="loading_slogan">Utilizar aplicações sem as instalar</string>
+  <string name="loading_tips">Definições transferidas com sucesso. Reinicie a Calculadora para aplicar</string>
   <string name="loan_basic_point">Pontos base</string>
   <string name="loan_edittext_hint_commercial">Introduzir valor</string>
   <string name="loan_edittext_hint_commercial_combined">Comerciais (×10K)</string>
@@ -223,10 +243,10 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="lpr_tips_title">LPR (Principal taxa de empréstimo)</string>
   <string name="medical_treatment">Tratamentos médicos</string>
   <string name="menuDesc">Menu</string>
+  <string name="minusDesc">Menos</string>
   <string name="monday">Segunda-feira</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">S</string>
-  <string name="minusDesc">Menos</string>
   <string name="month_april">Abril</string>
   <string name="month_april_short">Abr</string>
   <string name="month_april_shortest">A</string>
@@ -298,6 +318,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="mortgage_tab_combining_loan">Híbrido</string>
   <string name="mortgage_tab_commercial_loan">Comercial</string>
   <string name="mortgage_years_amount">Período da hipoteca</string>
+  <string name="mt_max">O valor introduzido é demasiado grande</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>
   <string name="n_a">N/A</string>
@@ -318,7 +339,10 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="network_confirm_title">Ligação à rede necessária</string>
   <string name="network_purpose">"Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc. "</string>
   <string name="new_privacy_string">Bem-vindo à Calculadora!&lt;br/>Esta aplicação contém as seguintes funcionalidades:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal&lt;br/>• Cálculo de empréstimos e mais&lt;br/>A Calculadora necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar a Calculadora</string>
+  <string name="none">Nenhum</string>
+  <string name="not_set">Não definido</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
+  <string name="ok">OK</string>
   <string name="percentDesc">Percentagem</string>
   <string name="piDesc">Pi</string>
   <string name="plusDesc">Mais</string>
@@ -342,6 +366,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="preference_help">Ajuda e comentários</string>
   <string name="preference_other">Outros</string>
   <string name="preference_privacy_title">Política de Privacidade</string>
+  <string name="preference_rating_title">Rate our app</string>
   <string name="preference_settings">Definições</string>
   <string name="preference_use_degress_summary">Substituir radianos por ângulos nas funções trigonométricas</string>
   <string name="preference_use_degress_title">Utilizar ângulos</string>
@@ -361,8 +386,8 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">S</string>
-  <string name="scannerDesc">Digitalizador</string>
   <string name="scanner_had_been_uninstalled">O Digitalizador está desinstalado</string>
+  <string name="scannerDesc">Digitalizador</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="search_mode_button_back_description">Voltar</string>
   <string name="secondFunction">2º</string>
@@ -410,7 +435,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="tax_detail_rate">Taxa de juro</string>
   <string name="tax_detail_take_off">Dedução</string>
   <string name="tax_detail_tax_payed">Valor pago</string>
-  <string name="tax_edittext_hint"/>
+  <string name="tax_edittext_hint" />
   <string name="tax_endowment">Fundo de reforma</string>
   <string name="tax_fixed_salary_hint">Introduza o seu rendimento bruto</string>
   <string name="tax_income_annual_bonus_list">Bónus anuais</string>
@@ -431,6 +456,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="tax_medical">Médicos</string>
   <string name="tax_param_error">Introduza as taxas correctas do seguro</string>
   <string name="tax_payment_period">Número de pagamentos</string>
+  <string name="tax_rate_provider">Calculado consoante as novas taxas reguladoras. Dados fornecidos por hexun.com e East Money</string>
   <string name="tax_rate_provider_east_money">Calculado consoante as novas taxas reguladoras. Dados fornecidos por East Money</string>
   <string name="tax_result_real_get">Após taxas</string>
   <string name="tax_social_insurance">Seguro social</string>
@@ -454,7 +480,6 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="tv_recurrence_monthly">Mensal</string>
   <string name="tv_recurrence_quaterly">Trimestal</string>
   <string name="tv_recurrence_yearly">Anual</string>
-  <string name="unKnow_error">Erro desconhecido</string>
   <string name="unit_cm">Centímetros</string>
   <string name="unit_data_default_currency_0">EUR</string>
   <string name="unit_data_default_currency_1">USD</string>
@@ -689,20 +714,21 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="unit_pound">Libras</string>
   <string name="unit_year_format">Ano %s</string>
   <string name="unit_yuan">CNY</string>
+  <string name="unKnow_error">Erro desconhecido</string>
+  <string name="updating">A actualizar…</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="user_experience_program_title">Programa de experiência do utilizador</string>
   <string name="view_float_window_move">Mover Calculadora</string>
-  <string name="voiceDesc">Controlos de voz</string>
   <string name="voice_guide_text">Pode ligar a saída de voz aqui</string>
+  <string name="voiceDesc">Controlos de voz</string>
   <string name="warn_locale_unsupport_for_voice">A saída de voz para este idioma ainda não é suportada</string>
-  <string name="weight_prompt">Peso</string>
   <string name="wednesday">Quarta-feira</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Q</string>
+  <string name="weight_prompt">Peso</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
   <string name="withdraw_network_error">O seu dispositivo necessita de ligar à rede para remover o consentimento. Verifique as suas definições de rede e tente novamente</string>
   <string name="word_figure_guide_text">Prima e segure o texto para converter</string>
-  <string name="yesterday">Ontem</string>
   <string name="xiaomi_calculator_delete_description">Calculadora é uma aplicação de sistema. Não vai poder utilizar a mesma depois de desinstalar</string>
   <string name="xiaomi_calculator_delete_title">Desinstalar Calculadora?</string>
   <string name="xiaomi_calculator_remove_icon_description">Calculadora é uma aplicação de sistema. Não vai poder utilizar a mesma depois de a remover do ecrã inicial</string>
@@ -714,4 +740,5 @@ Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Versão %1$s
 Tamanho actualização delta: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Actualização %1$s!</string>
+  <string name="yesterday">Ontem</string>
 </resources>

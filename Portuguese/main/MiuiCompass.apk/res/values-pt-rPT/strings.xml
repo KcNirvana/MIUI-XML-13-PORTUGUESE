@@ -50,7 +50,7 @@
   <string name="guide_toast">Para calibrar a bússola mova o seu dispositivo como demonstrado</string>
   <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude; Verificar latitude;Bússola MIUI;Pressão atmosférica; Verificar altitude</string>
   <string name="latitude">LAT</string>
-  <string name="location_east">Long. L</string>
+  <string name="location_east">Long. E</string>
   <string name="location_enable">Permitir</string>
   <string name="location_enable_later">Mais tarde</string>
   <string name="location_enabled">Pode desligar os serviços de localização a qualquer altura nas Definições</string>

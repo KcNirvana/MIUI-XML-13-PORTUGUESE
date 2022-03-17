@@ -631,7 +631,7 @@ A gravação telefone duplo permite ligar a um dispositivo próximo e criar um v
   <string name="emoticon">Pack de stickers</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="esp_tip">Pré-visualização de ecrã externo</string>
-  <string name="expand_button_title">Avançadas</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="extend_time_watermark_2_logo_text">SuperLua</string>
   <string name="eye_light">Brilho dos olhos</string>
   <string name="eye_light_angel">Anjos</string>

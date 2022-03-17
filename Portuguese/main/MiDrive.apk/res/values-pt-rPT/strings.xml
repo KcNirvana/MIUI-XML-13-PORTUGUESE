@@ -138,7 +138,7 @@
   <string name="exception_param_error">Ocorreu um erro. Aguarde um momento e tente novamente</string>
   <string name="exception_rename_conflict">Não foi possível mudar o nome. Já existe um item com este nome</string>
   <string name="exception_rename_illegal_char">O nome do ficheiro não pode conter caracteres especiais</string>
-  <string name="expand_button_title">Avançadas</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="fab_menu_sort">Ordenar</string>
   <string name="file_info_created">"Carregado: "</string>
   <string name="file_info_local_created">"Criado: "</string>

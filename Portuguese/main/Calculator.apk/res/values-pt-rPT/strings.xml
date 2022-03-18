@@ -179,7 +179,7 @@
   <string name="item_title_vel_conversion">Velocidade</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Peso</string>
-  <string name="l_name_discount">Desconto (% fora)</string>
+  <string name="l_name_discount">Desconto (%s fora)</string>
   <string name="label_about">Acerca</string>
   <string name="label_clear_history">Limpar tudo</string>
   <string name="label_date_difference">Diferença</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="adaptive_fps_tip">- Alcançar o melhor equilíbrio entre suavidade e duração da bateria ajustando dinâmicamente a taxa de actualização</string>
@@ -15,10 +15,10 @@
   <string name="animal_class">Classe</string>
   <string name="animal_item">Ordem</string>
   <string name="animal_select_alert_info">Pode seleccionar até 5 itens</string>
-  <string name="anti_flicker_mode">Anti-oscilação</string>
+  <string name="anti_flicker_mode">Anti-Oscilação</string>
   <string name="anti_flicker_mode_categroy">Modos</string>
   <string name="anti_flicker_mode_summary">Prevenir oscilações de luz para reduzir a fadiga ocular em ambientes mais escuros</string>
-  <string name="anti_flicker_title">Modo Anti-oscilação</string>
+  <string name="anti_flicker_title">Modo Anti-Oscilação</string>
   <string name="app_name">Definições</string>
   <string name="application_sound">Notificações das aplicações</string>
   <string name="apply_ringtone">Aplicar</string>
@@ -109,11 +109,17 @@
   <string name="created_successfully">Criado com sucesso</string>
   <string name="crowned_hornbill">Calau coroado</string>
   <string name="cu_confirm">Definir</string>
+  <string name="customize_radio_btn_summary">Preferir a taxa de actualização seleccionada</string>
+  <string name="customize_radio_btn_title">Personalizar</string>
   <string name="dall_sheep">Carneiro de Dall</string>
   <string name="dart_frog_info">A sua pele azul brilhante e glândulas venenosas são mecanismos de defesa para potenciais predadores</string>
   <string name="dc_light_hint_enable_title">Atenção</string>
   <string name="dc_light_hint_normal">O modo Anti-Oscilação pode afectar a forma como itens são mostrados</string>
+  <string name="dc_light_hint_normal_anit">O modo Anti-Oscilação pode afectar a forma como itens são mostrados</string>
+  <string name="dc_light_hint_normal_other">O modo Anti-Oscilação pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
   <string name="dc_light_hint_other">O modo Anti-Oscilação pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
+  <string name="dc_light_hint_unnormal_low">O modo Anti-Oscilação de luz fraca pode afectar a forma como itens são mostrados</string>
+  <string name="dc_light_hint_unnormal_other">O modo Anti-Oscilação de luz fraca pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
   <string name="dc_lignt_enable_hint">O modo Anti-Oscilação vai definir a taxa de actualização para 60Hz. Trocar para modo Anti-Oscilação?</string>
   <string name="delete_first_to_add_animal">Para adicionar um novo item, elimine um primeiro</string>
   <string name="desktop_widget_authorization">Toque para dar permissões para ver as estatísticas</string>
@@ -134,23 +140,9 @@ não são geradas no Segundo espaço"</string>
   <string name="emu">Emu</string>
   <string name="ermine">Arminho</string>
   <string name="exit_easymode">Desligar Modo Leve</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="first_unlock_time">"Primeiro desbloqueado: "</string>
-  <string name="focus_mode_custom_time">Duração personalizada</string>
-  <string name="focus_mode_timer_add_limit">Pode adicionar até %d temporizadores personalizados</string>
-  <string name="focus_mode_timer_delete">Eliminar</string>
-  <string name="focus_mode_timer_exist">Esta sessão já existe</string>
-  <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
-  <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
-  <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
-  <string name="follow_sim1">Aplicar definições do SIM 1</string>
-  <string name="fps_nature_summary">A taxa máxima de actualização mantém tudo nítido e claro</string>
-  <string name="fps_nature_title">Máxima</string>
-  <string name="fps_smooth_summary">A taxa de actualização alta adiciona mais clareza aos detalhes</string>
-  <string name="fps_smooth_title">Alta</string>
-  <string name="fps_standard_summary">A taxa de actualização standard poupa bateria</string>
-  <string name="fps_standard_title">Standard</string>
-  <string name="fps_user_tip">- Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
-  <string name="fmt_chinese_date"/>
+  <string name="fmt_chinese_date" />
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
   <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>
@@ -165,6 +157,27 @@ não são geradas no Segundo espaço"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month">MM/yyyy</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="focus_mode_custom_time">Duração personalizada</string>
+  <string name="focus_mode_timer_add_limit">Pode adicionar até %d temporizadores personalizados</string>
+  <string name="focus_mode_timer_delete">Eliminar</string>
+  <string name="focus_mode_timer_exist">Esta sessão já existe</string>
+  <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
+  <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
+  <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
+  <string name="follow_sim1">Aplicar definições do SIM 1</string>
+  <string name="fps_high">Alto</string>
+  <string name="fps_nature_summary">A taxa máxima de actualização mantém tudo nítido e claro</string>
+  <string name="fps_nature_title">Máxima</string>
+  <string name="fps_normal">Standard</string>
+  <string name="fps_radio_btn_title">Taxa de actualização</string>
+  <string name="fps_save_battery_tips">Poupança de bateria ligada. Taxa de actualização definida para %dHz</string>
+  <string name="fps_smooth_summary">A taxa de actualização alta adiciona mais clareza aos detalhes</string>
+  <string name="fps_smooth_title">Alta</string>
+  <string name="fps_standard_summary">A taxa de actualização standard poupa bateria</string>
+  <string name="fps_standard_title">Standard</string>
+  <string name="fps_user_tip">- Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
+  <string name="fps_user_tip_footer">"%1$d. Para entender a diferença entre taxas de actualização altas e baixas, veja a demonstração. Pode ser difícil notar a diferença durante a utilização normal
+%2$d. Em alguns casos, a taxa de actualização pode ser ajustada dinâmicamente baseada nos itens que esão a ser mostrados"</string>
   <string name="galapagos_cormorant">Cormorão de Galápagos</string>
   <string name="galapagos_dove">Rola de Galápagos</string>
   <string name="galapagos_hawk">Falcão de Galápagos</string>
@@ -187,11 +200,14 @@ não são geradas no Segundo espaço"</string>
   <string name="healthy_use_phone">Gerir tempo de ecrã</string>
   <string name="helmeted_guineafowl">"Galinha d'Angola"</string>
   <string name="high_fps_description">Taxa de actualização do ecrã alta. Maior consumo de bateria</string>
+  <string name="high_fps_tip_footer">Utilizar taxas de actualização altas torna a experiência de visualização mais suave mas consome mais bateria</string>
   <string name="hippopotamus">Hipopótamo</string>
   <string name="hsv_space_color">Espaço de cores HSV</string>
   <string name="hsv_space_color_hue">Matiz</string>
   <string name="hsv_space_color_saturation">Saturação</string>
   <string name="hsv_space_color_value">Valor</string>
+  <string name="intelligent_radio_btn_summary">Ajustar a taxa de actualização do ecrã dinâmicamente baseada em cenários para alcançar o equilíbrio entre desempenho e duração da bateria</string>
+  <string name="intelligent_radio_btn_title">Predefinido (recomendado)</string>
   <string name="intelligent_recognition_item_summary">Utilizar um toque para chamadas de entregas e serviços de táxi. Esta funcionalidade vai funcionar quando %s está definido como toque predefinido</string>
   <string name="intelligent_recognition_item_title">Identificar serviços</string>
   <string name="item_anura">Anuros</string>
@@ -231,6 +247,8 @@ não são geradas no Segundo espaço"</string>
   <string name="lion_info">Os leões são predadores ferozes e poderosos. Eles vivem em grupos e têm um forte sentido de território</string>
   <string name="lock_summary">Proteger as suas informações pessoais</string>
   <string name="long_tai1ed_iaeger">Moleiro de cauda comprida</string>
+  <string name="low_flicker_mode">Luz fraca</string>
+  <string name="low_flicker_mode_summary">Prevenir oscilações em condições de pouca luz para reduzir a fadiga ocular</string>
   <string name="low_fps_description">Taxa de actualização do ecrã baixa. Menor consumo de bateria</string>
   <string name="low_light_preview">Visualização com pouca luz</string>
   <string name="lynx">Lince</string>
@@ -274,6 +292,7 @@ não são geradas no Segundo espaço"</string>
   <string name="no_sound_summary">Nenhum</string>
   <string name="normal_mode">Normal</string>
   <string name="normal_mode_summary">Não reduzir a fadiga ocular em condições de pouca luz</string>
+  <string name="normal_mode_summary_new">Permitir oscilações em condições de pouca luz</string>
   <string name="north_white_rhinoceros">Rinoceronte branco</string>
   <string name="norway_lemmings">Lemingue da Noruega</string>
   <string name="norway_lemmings_info">O Lemingue da Noruega mora na tundra e nas colinas e prefere viver perto de água</string>
@@ -300,6 +319,7 @@ não são geradas no Segundo espaço"</string>
   <string name="pomarine_jaeger">Moleiro pomarino</string>
   <string name="preview">Pré-visualizar</string>
   <string name="primary_color_region">Original</string>
+  <string name="primary_color_region_chinese_only">Natureza</string>
   <string name="primary_color_region_summary">Identificar a gama de cores automaticamente através da calibração de cores</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="puffin">Papagaio do mar</string>
@@ -347,6 +367,8 @@ não são geradas no Segundo espaço"</string>
   <string name="shortcut_created">Este atalho já existe</string>
   <string name="silent_ringtone_hint">O áudio está silenciado agora. Aumente o volume e tente novamente</string>
   <string name="silver_pheasant">Faisão prateado</string>
+  <string name="sim_slot_1">" (SIM 1)"</string>
+  <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="skywalker_hoolock_gibbon">Gibão Skywalker</string>
   <string name="small_ground_finch">Geospiza fuliginosa</string>
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
@@ -355,6 +377,8 @@ não são geradas no Segundo espaço"</string>
   <string name="snowy_owl">Coruja das neves</string>
   <string name="southern_elephant_seal">Elefante marinho do sul</string>
   <string name="southern_ground_hornbill">Calau gigante</string>
+  <string name="split_page_authorization">Bem-vindo ao tempo de ecrã! Pode utilizar esta aplicação para definir limites de tempo de ecrã e ver estatísticas. Toque em \"Iniciar\" para ligar esta funcionalidade</string>
+  <string name="split_page_start">Iniciar</string>
   <string name="spotted_hyaena">Hiena malhada</string>
   <string name="spotted_hyaena_info">As hienas são predadores nocturnos com os comportamentos sociais mais complexos</string>
   <string name="spur_winged_plover">Abibe de asa esporão</string>
@@ -399,6 +423,7 @@ não são geradas no Segundo espaço"</string>
   <string name="unlock_times_per_day">"Média diária: "</string>
   <string name="unlock_times_per_hour">"Desbloqueios por hora: "</string>
   <string name="usage_agree">Concordar</string>
+  <string name="usage_app_desktop_widget_limit">%s restante</string>
   <string name="usage_app_get_it">Percebi</string>
   <string name="usage_app_holiday_limit">Dias de folga</string>
   <string name="usage_app_limit_alter_summary">Parece que o tempo limite é menor do que o tempo que já utilizou esta aplicação hoje. Definir o limite mesmo assim?</string>
@@ -414,6 +439,7 @@ não são geradas no Segundo espaço"</string>
   <string name="usage_app_over_content">Já utilizou esta aplicação por %s hoje</string>
   <string name="usage_app_over_summary">Já atingiu o limite. Acabou o tempo!</string>
   <string name="usage_app_set_limit_time">Definir limite</string>
+  <string name="usage_app_stop_desc">Todas as permissões e dados do tempo de ecrã armazenados localmente, vão ser eliminados após desligar esta funcionalidade</string>
   <string name="usage_app_system_app_summary">Não pode limitar tempo de ecrã em aplicações de sistema</string>
   <string name="usage_app_weekday_limit">Dias úteis</string>
   <string name="usage_app_weekend_limit">Fins de semana</string>
@@ -458,10 +484,10 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao tempo de ecrã!
 Para funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
 Esta aplicação necessita também de ligar à Internet e das seguintes permissões para obter informações pessoais:"</string>
-  <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
   <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Antes de utilizar esta aplicação, leia e concorde com os nossos &lt;a href='%1s'>Termos de Utilização&lt;/a> e &lt;a href='%2s'>Política de Privacidade&lt;/a>"</Data></string>
   <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
-  <string name="usage_no_net_summary">Verifique as suas definições de rede e tente novamente</string>
   <string name="usage_new_home_app_limit_summary">Definir um limite de tempo de ecrã diário para esta aplicação</string>
   <string name="usage_new_home_app_limit_title">Limitar tempo de ecrã</string>
   <string name="usage_new_home_average">"Média "</string>
@@ -501,6 +527,7 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_new_home_week_unlock_equals_text">Igual à semana anterior</string>
   <string name="usage_new_home_week_usage_title">Aplicações individuais</string>
   <string name="usage_new_home_which_week">Semana %d</string>
+  <string name="usage_no_net_summary">Verifique as suas definições de rede e tente novamente</string>
   <string name="usage_optional_summary">Estas permissões são necessárias quando estiver a utilizar funcionalidades adicionais</string>
   <string name="usage_optional_title">Permissões opcionais</string>
   <string name="usage_permisison_agree_desc_o">Para fornecer estatísticas de tempo de ecrã, esta aplicação necessita de obter as seguintes informações: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação</string>
@@ -512,6 +539,8 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_reach_device_limit">O tempo acabou! Chegou ao seu limite</string>
   <string name="usage_reach_device_limit_warning_text">Chegou ao limite de tempo de ecrã por hoje</string>
   <string name="usage_refresh">Tentar novamente</string>
+  <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+  <string name="usage_remain_hour_miunte">%1$s %2$s</string>
   <string name="usage_request_error_summary">Erro desconhecido</string>
   <string name="usage_request_timeout_summary">Pedido expirado</string>
   <string name="usage_runtime_per_des_summary">Guardar as estatísticas de tempo de ecrã</string>
@@ -548,8 +577,8 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_download">Guardar na Galeria</string>
   <string name="usage_state_duration_title">Esta sessão</string>
   <string name="usage_state_focus_call">Chamada de emergência</string>
-  <string name="usage_state_focus_level1">Estrela em ascenção</string>
   <string name="usage_state_focus_level_summary">Nível actual: %s</string>
+  <string name="usage_state_focus_level1">Estrela em ascenção</string>
   <string name="usage_state_focus_mode_experience_warning_message">O Modo Foco apenas permite a utilização da Câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo Foco apenas permite a utilização da Câmara. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo Foco apenas permite a utilização da Câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
@@ -571,6 +600,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_go_more">Mais aplicações</string>
   <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s %2$s</string>
   <string name="usage_state_holiday_time">Dias de folga: %s</string>
+  <string name="usage_state_hour_minute">%1$dh %2$dm</string>
   <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
   <string name="usage_state_monday">Seg</string>
   <string name="usage_state_mourth_day">Tempo de ecrã em %s</string>
@@ -611,6 +641,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_wednesday">Qua</string>
   <string name="usage_state_week_day_hour_minute">Fins de semana: %1$dh %2$dm</string>
   <string name="usage_state_week_total_text">Tempo de ecrã (últimos 7 dias)</string>
+  <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Dias úteis</string>
   <string name="usage_state_work_day_hour_minute">Dias úteis: %1$dh %2$dm</string>
   <string name="usage_stats_device_limit">Limite de tempo de ecrã diário</string>
@@ -678,35 +709,4 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="yellow_necked_spurfowl">Francolim de pescoço amarelo</string>
   <string name="yellow_throated_marten">Marta de garganta amarela</string>
   <string name="yunnan_snub_nosed_monkey">Macaco preto de nariz arrebitado</string>
-  <string name="customize_radio_btn_summary">Preferir a taxa de actualização seleccionada</string>
-  <string name="customize_radio_btn_title">Personalizar</string>
-  <string name="dc_light_hint_normal_anit">O modo Anti-Oscilação pode afectar a forma como itens são mostrados</string>
-  <string name="dc_light_hint_normal_other">O modo Anti-Oscilação pode afectar a taxa de actualização e a forma como os itens são mostrados</string>
-  <string name="dc_light_hint_unnormal_low">O modo Anti-Oscilação de pouca luz pode afectar a forma como itens são mostrados</string>
-  <string name="dc_light_hint_unnormal_other">O modo Anti-Oscilação de pouca luzpode afectar a taxa de actualização e a forma como os itens são mostrados</string>
-  <string name="expand_button_title">Avançado</string>
-  <string name="fps_high">Alto</string>
-  <string name="fps_normal">Standard</string>
-  <string name="fps_radio_btn_title">Taxa de actualização</string>
-  <string name="fps_save_battery_tips">Poupança de bateria ligada. Taxa de actualização definida para %dHz</string>
-  <string name="fps_user_tip_footer">"%1$d. For you to understand the difference between higher and lower refresh rates, demos are played slower here. It might be harder for you to notice the difference during regular use.
-%2$d. In some cases, refresh rate might be adjusted dynamically based on what items are displayed."</string>
-  <string name="high_fps_tip_footer">Using higher refresh rates makes viewing experience smoother but consumes more power.</string>
-  <string name="intelligent_radio_btn_summary">Adjust the refresh rate dynamically based on scenarios to balance performance with power consumption</string>
-  <string name="intelligent_radio_btn_title">Default (recommended)</string>
-  <string name="low_flicker_mode">Low light</string>
-  <string name="low_flicker_mode_summary">Prevent flickering in low light conditions to reduce eye strain</string>
-  <string name="normal_mode_summary_new">Allow flickering in low light conditions</string>
-  <string name="primary_color_region_chinese_only">nature</string>
-  <string name="sim_slot_1">" (SIM 1)"</string>
-  <string name="sim_slot_2">" (SIM 2)"</string>
-  <string name="split_page_authorization">Welcome to Screen time! Here you can set screen time limits and view stats. Tap \"Start\" to turn this feature on.</string>
-  <string name="split_page_start">Iniciar</string>
-  <string name="usage_app_desktop_widget_limit">%s remaining</string>
-  <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
-  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Before using this app, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
-  <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-  <string name="usage_remain_hour_miunte">%1$s %2$s</string>
-  <string name="usage_state_hour_minute">%1$dh %2$dm</string>
-  <string name="usage_state_which_mouth">MMM</string>
 </resources>

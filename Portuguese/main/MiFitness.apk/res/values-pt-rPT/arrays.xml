@@ -737,7 +737,7 @@
         <item>Temporizador</item>
         <item>Alarme</item>
         <item>IQA</item>
-        <item>Umidade</item>
+        <item>Humidade</item>
         <item>Treino</item>
         <item>Indíce UV</item>
         <item>Nascer e pôr do sol</item>
@@ -754,7 +754,7 @@
     <string-array name="device_settings_unlock_phone_distance_list">
         <item>Muito perto</item>
         <item>Perto</item>
-        <item>Menos perto</item>
+        <item>Mais longe</item>
     </string-array>
     <string-array name="face_fun">
         <item>@string/face_common_null</item>
@@ -779,6 +779,15 @@
         <item>Nascer e pôr do sol</item>
         <item>Vento</item>
     </string-array>
+    <string-array name="habit_date_week_simple1">
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+        <item>Dom</item>
+    </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
         <item>Seg, Qua, Sex</item>
         <item>Ter, Qui, Sáb</item>
@@ -794,66 +803,66 @@
         <item>Dom</item>
     </string-array>
     <string-array name="health_deep_shallow_sleep_guide_descriptions">
-        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
-        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
-        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
-        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+        <item>Coloque o seu dispositivo junto a si para registar os movimentos do corpo e gerar estatísticas do ciclo do sono</item>
+        <item>Para obter estatísticas mais precisas, coloque o seu dispositivo ao lado ou em baixo da almofada e certifique-se que não está a mais de 50 cm do seu corpo</item>
+        <item>Quando a sua hora de dormir estiver configurada, o seu sono vai ser registado automaticamente</item>
+        <item>O registo do sono consome apenas 1% da sua bateria por noite</item>
     </string-array>
     <string-array name="health_deep_shallow_sleep_guide_titles">
-        <item>Track your sleep</item>
-        <item>Place your phone next to your pillow</item>
-        <item>Generate stats automatically</item>
-        <item>Low power consumption</item>
+        <item>Registar o seu sono</item>
+        <item>Colocar o dispositivo junto à sua almofada</item>
+        <item>Gerar estatísticas automaticamente</item>
+        <item>Baixo consumo de bateria</item>
     </string-array>
     <string-array name="health_sleep_evaluation_daily_sleep_arr">
-        <item>Limitar a sua soneca a 30 minutos ajuda a se adaptar melhor.</item>
-        <item>Uma boa higiene do sono pode ajudar a se sentir melhor.</item>
-        <item>Uma soneca de 10 a 20 minutos pode deixá-lo renovado.</item>
-        <item>Tirar a soneca antes das 13h30min pode deixá-lo renovado.</item>
-        <item>A soneca aumenta a sua energia e desempenho.</item>
+        <item>Limitar a sua sesta a 30 minutos ajuda a se adaptar melhor</item>
+        <item>Uma boa higiene do sono pode ajudar a se sentir melhor</item>
+        <item>Uma sesta de 10 a 20 minutos pode deixá-lo renovado</item>
+        <item>Tirar uma sesta antes das 13h30m pode deixá-lo renovado</item>
+        <item>A sesta aumenta a sua energia e desempenho</item>
     </string-array>
     <string-array name="health_sleep_evaluation_long_sleep_arr">
-        <item>Quantidade razoável. A maioria dos adultos precisa de 7 a 9 horas de sono.</item>
-        <item>Quantidade justa. Mantenha horas de sono regulares.</item>
-        <item>Boa quantidade. Continue assim.</item>
-        <item>Sono curto. A maioria dos adultos precisa de entre 7 a 9 horas de sono.</item>
-        <item>Valor maior do que a média. A maioria dos adultos precisa de entre 7 e 9 horas de sono.</item>
-        <item>Boa quantidade de sono profundo. Restaurativo e de reforço da memória.</item>
-        <item>Boa quantidade de sono profundo. Restaurativo e de reforço da imunidade.</item>
-        <item>Maior do que a média de sono profundo. Acompanhe a sua saúde.</item>
-        <item>Um pouco de sono profundo. Tente exercitar-se, mas não antes de dormir.</item>
-        <item>Um pouco de sono profundo. Relaxe a sua mente, durma tranquilamente.</item>
-        <item>Um pouco de sono profundo. Evite energéticos noturnos.</item>
-        <item>Mude a sua hora de dormir para as 22h às 23h.</item>
-        <item>Hora de dormir muito tarde. Defina um horário regular para dormir.</item>
-        <item>Hora de dormir muito tarde. Mantenha horas de sono regulares.</item>
-        <item>Ter tendências noturnas pode ter efeitos sobre a saúde.</item>
-        <item>Tempo acordado maior do que a média. Mantenha seu quarto escuro e silencioso.</item>
-        <item>Acordou algumas vezes. Mantenha o seu quarto silencioso.</item>
-        <item>Acordou algumas vezes. Mantenha o seu quarto escuro e silencioso.</item>
-        <item>Boa quantidade de sono REM. Sua criatividade e habilidade de resolução de problemas são estimuladas.</item>
-        <item>Boa quantidade de sono REM. Repousante e relaxante.</item>
-        <item>Um pouco de sono REM. Tente fazer exercícios, mas não antes de dormir.</item>
-        <item>Um pouco de sono REM. Dormir o suficiente pode ajudar.</item>
-        <item>Maior quantidade de sono REM do que a média. Deixe suas preocupações de lado antes de dormir.</item>
-        <item>Maior quantidade de sono REM do que a média. Mantenha horas de sono regulares.</item>
-        <item>Boa quantidade de sono leve. Restaurativo e de reforço da criatividade.</item>
-        <item>Boa quantidade de sono leve. Restaurativo e de redução do stress.</item>
-        <item>Maior quantidade de sono leve do que a média. Relaxe e descanse antes de dormir.</item>
-        <item>Para ter energia pela manhã, vá dormir antes da meia-noite.</item>
-        <item>Para ter energia pela manhã, vá dormir antes da meia-noite.</item>
+        <item>Quantidade razoável. A maioria dos adultos necessita de 7 a 9 horas de sono</item>
+        <item>Quantidade razoável. Manter horas de sono regulares</item>
+        <item>Boa quantidade. Continuar assim</item>
+        <item>Sono curto. A maioria dos adultos necessita de entre 7 a 9 horas de sono</item>
+        <item>Valor maior que a média. A maioria dos adultos necessita de entre 7 a 9 horas de sono</item>
+        <item>Boa quantidade de sono profundo. Recuperador e de reforço da memória</item>
+        <item>Boa quantidade de sono profundo. Restaurador e de reforço da imunidade</item>
+        <item>Maior que a média de sono profundo. Acompanhar a sua saúde</item>
+        <item>Pouco sono profundo. Tentar exercitar-se mas não antes de dormir</item>
+        <item>Pouco sono profundo. Relaxar a sua mente e durmir tranquilamente</item>
+        <item>Pouco sono profundo. Evitar energéticos à noite</item>
+        <item>Mudar a sua hora de dormir para das 22h às 23h</item>
+        <item>Hora de dormir tardia. Definir um horário regular para dormir</item>
+        <item>Hora de dormir tardia. Manter horas de sono regulares</item>
+        <item>Ter tendências nocturnas pode ter efeitos na sua saúde</item>
+        <item>Tempo acordado maior que a média. Manter o seu quarto escuro e silencioso</item>
+        <item>Acordou algumas vezes. Manter o seu quarto silencioso</item>
+        <item>Acordou algumas vezes. Manter o seu quarto escuro e silencioso</item>
+        <item>Boa quantidade de sono REM. A sua criatividade e habilidade de resolução de problemas estão estimuladas</item>
+        <item>Boa quantidade de sono REM. Repousante e relaxante</item>
+        <item>Pouco sono REM. Tentar fazer exercícios mas não antes de dormir</item>
+        <item>Pouco sono REM. Dormir o suficiente pode ajudar</item>
+        <item>Maior quantidade de sono REM que a média. Deixar as suas preocupações de lado antes de dormir</item>
+        <item>Maior quantidade de sono REM que a média. Manter horas de sono regulares</item>
+        <item>Boa quantidade de sono leve. Repousante e de reforço da criatividade</item>
+        <item>Boa quantidade de sono leve. Restaurador e de redução do stress</item>
+        <item>Quantidade de sono leve maior que a média. Relaxar e descansar antes de dormir</item>
+        <item>Para ter energia pela manhã, dormir antes da meia-noite</item>
+        <item>Para ter energia pela manhã, dormir antes da meia-noite</item>
     </string-array>
     <string-array name="health_sleep_evaluation_monthly_sleep_arr">
-        <item>Boa quantidade de sono e rotina de sono regular. Continue assim.</item>
-        <item>Boa quantidade de sono, mas rotina de sono ligeiramente irregular. Mantenha horas de sono regulares.</item>
-        <item>Boa quantidade de sono, mas rotina irregular na hora de dormir. Estabeleça um horário e mantenha-se fiel a ele.</item>
-        <item>Boa quantidade de sono e rotina de sono regular. Evite energéticos à noite.</item>
-        <item>Boa quantidade de sono, mas rotina de sono ligeiramente irregular. Relaxe e descanse antes de dormir.</item>
-        <item>Boa quantidade de sono, mas rotina irregular na hora de dormir. Mantenha seu quarto escuro e silencioso.</item>
-        <item>Quantidade de sono superior à média e rotina de sono regular. Uma boa higiene do sono pode ajudá-lo a se sentir melhor.</item>
-        <item>Maior quantidade de sono do que a média, mas rotina de sono ligeiramente irregular. Se sentir-se grogue, ajuste suas horas de sono.</item>
-        <item>Maior quantidade de sono do que a média, mas rotina de sono irregular. Mantenha horas de sono regulares.</item>
-        <item>Sono adequado. Estabeleça um horário e mantenha-se fiel a ele.</item>
+        <item>Boa quantidade de sono e rotina de sono regular. Continuar assim</item>
+        <item>Boa quantidade de sono mas rotina de sono ligeiramente irregular. Manter horas de sono regulares</item>
+        <item>Boa quantidade de sono mas rotina irregular na hora de dormir. Estabeleçer um horário e manter-se fiel a ele</item>
+        <item>Boa quantidade de sono e rotina de sono regular. Evitar energéticos à noite</item>
+        <item>Boa quantidade de sono mas rotina de sono ligeiramente irregular. Relaxar e descansar antes de dormir</item>
+        <item>Boa quantidade de sono mas rotina irregular na hora de dormir. Manter o seu quarto escuro e silencioso</item>
+        <item>Quantidade de sono superior à média e rotina de sono regular. Uma boa higiene do sono pode ajudar a se sentir melhor</item>
+        <item>Maior quantidade de sono que a média mas rotina de sono ligeiramente irregular. Se se sentir grogue, ajustar as suas horas de sono</item>
+        <item>Maior quantidade de sono que a média mas rotina de sono irregular. Manter horas de sono regulares</item>
+        <item>Sono adequado. Estabeleçer um horário e manter-se fiel a ele</item>
     </string-array>
     <string-array name="health_sleep_evaluation_stage_arr">
         <item>Sem dados</item>
@@ -861,29 +870,29 @@
         <item>Moderado</item>
         <item>Bom</item>
         <item>Excelente</item>
-        <item>Sem dados noturnos</item>
+        <item>Sem dados</item>
     </string-array>
     <string-array name="health_sleep_evaluation_weekly_sleep_arr">
-        <item>Boa quantidade de sono e rotina de sono regular. Continue assim.</item>
-        <item>Boa quantidade de sono, mas rotina de sono ligeiramente irregular. Mantenha horas de sono regulares.</item>
-        <item>Boa quantidade de sono, mas rotina irregular na hora de dormir. Estabeleça um horário e mantenha-se fiel a ele.</item>
-        <item>Boa quantidade de sono e rotina de sono regular. Evite energéticos à noite.</item>
-        <item>Boa quantidade de sono, mas rotina de sono ligeiramente irregular. Relaxe e descanse antes de dormir.</item>
-        <item>Boa quantidade de sono, mas rotina irregular na hora de dormir. Mantenha seu quarto escuro e silencioso.</item>
-        <item>Quantidade de sono superior à média e rotina de sono regular. Uma boa higiene do sono pode ajudá-lo a se sentir melhor.</item>
-        <item>Maior quantidade de sono do que a média, mas rotina de sono ligeiramente irregular. Se sentir-se grogue, ajuste suas horas de sono.</item>
-        <item>Maior quantidade do que a média, mas rotina de sono irregular. Mantenha horas de sono regulares.</item>
-        <item>Sono adequado. Estabeleça um horário e mantenha-se fiel a ele.</item>
+        <item>Boa quantidade de sono e rotina de sono regular. Continuar assim</item>
+        <item>Boa quantidade de sono mas rotina de sono ligeiramente irregular. Manter horas de sono regulares</item>
+        <item>Boa quantidade de sono mas rotina irregular na hora de dormir. Estabeleçer um horário e manter-se fiel a ele</item>
+        <item>Boa quantidade de sono e rotina de sono regular. Evitar energéticos à noite</item>
+        <item>Boa quantidade de sono mas rotina de sono ligeiramente irregular. Relaxar e descansar antes de dormir</item>
+        <item>Boa quantidade de sono mas rotina irregular na hora de dormir. Manter o seu quarto escuro e silencioso</item>
+        <item>Quantidade de sono superior à média e rotina de sono regular. Uma boa higiene do sono pode ajudar a se sentir melhor</item>
+        <item>Maior quantidade de sono que a média mas rotina de sono ligeiramente irregular. Se se sentir grogue, ajustar as suas horas de sono</item>
+        <item>Maior quantidade de sono que a média mas rotina de sono irregular. Manter horas de sono regulares</item>
+        <item>Sono adequado. Estabeleçer um horário e manter-se fiel a ele</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_descriptions">
-        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
-        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
-        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+        <item>O som vai ser gravado enquanto dorme. A aprendizagem automática permite que Fitness detecte o ressonar, falar e ruídos altos e guarde as gravações no seu dispositivo</item>
+        <item>O microfone vai ser ligado e desligado conforme a sua hora de dormir</item>
+        <item>Certifique-se que o dispositivo tem bateria suficiente antes de ir dormir. A bateria fraca pode interromper a gravação de som</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_titles">
-        <item>Record audio using microphone</item>
-        <item>Detect sounds automatically</item>
-        <item>Keep your phone charged</item>
+        <item>Gravar áudio utilizando o microfone</item>
+        <item>Detectar sons automaticamente</item>
+        <item>Manter o dispositivo carregado</item>
     </string-array>
     <string-array name="settingitem_date_week">
         <item>Seg</item>
@@ -914,24 +923,24 @@
     </string-array>
     <string-array name="userinfo_contact_relation_array">
         <item>Não definido</item>
-        <item>Parente</item>
+        <item>Pais</item>
         <item>Irmã</item>
         <item>Irmão</item>
         <item>Cônjuge</item>
         <item>Casal</item>
-        <item>Amigo(a)</item>
+        <item>Amigo</item>
         <item>Colega</item>
-        <item>Colega de classe</item>
+        <item>Colega de escola</item>
         <item>Criança</item>
-        <item>Parceiro(a)</item>
+        <item>Parceiro</item>
         <item>Assistente</item>
         <item>Chefe</item>
         <item>Colega de quarto</item>
-        <item>Médico(a)</item>
+        <item>Médico</item>
         <item>Membro da família</item>
-        <item>Professsor(a)</item>
-        <item>Cuidador(a)</item>
-        <item>Guardiã(ão)</item>
+        <item>Professsor</item>
+        <item>Cuidador</item>
+        <item>Guardiã</item>
         <item>Assistente social</item>
         <item>Escola</item>
         <item>Creche</item>

@@ -1318,7 +1318,7 @@ Sair desta página agora?"</string>
     <string name="pref_privacy_performance_id_reset">Redefina a sua ID de Performance</string>
     <string name="pref_privacy_performance_id_will_reset">A ID de Performance vai ser redefinida</string>
     <string name="pref_privacy_security_title">Privacidade e segurança</string>
-    <string name="pref_rate_app">Classificar</string>
+    <string name="pref_rate_app">Avaliar</string>
     <string name="pref_save_bandwidth_mode_title">Reduzir a utilização de dados</string>
     <string name="pref_security_accept_cookies">Aceitar cookies</string>
     <string name="pref_security_accept_cookies_summary">Permitir que os sítios guardem, leiam e utilizem cookies para lembrar as suas preferências, mesmo que não visite estas páginas da web</string>
@@ -1519,9 +1519,9 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="scanner_uninstalled_title">O Digitalizador foi desinstalado</string>
     <string name="score_dialog_msg_score_explorer">Gosta do Navegador Mi?</string>
     <string name="score_dialog_msg_score_not_good">Agradecemos os seus comentários!</string>
-    <string name="score_dialog_msg_score_perfect">Obrigado por seu apoio! Classificar nossa aplicação na Play Store também?</string>
-    <string name="score_dialog_title">Classificar a nossa aplicação</string>
-    <string name="score_dialog_toast_scroll_down_score_midrop">Deslize para baixo para classificar a nossa aplicação</string>
+    <string name="score_dialog_msg_score_perfect">Obrigado por seu apoio! Avaliar nossa aplicação na Play Store também?</string>
+    <string name="score_dialog_title">Avaliar a nossa aplicação</string>
+    <string name="score_dialog_toast_scroll_down_score_midrop">Deslize para baixo para avaliar a nossa aplicação</string>
     <string name="screenshot_loading_dialog_title">A capturar</string>
     <string name="sdcard_error">Verifique o cartão SD</string>
     <string name="search">Pesquisar</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="already_in_small_freeform">Algumas aplicações são abertas em janelas flutuantes</string>
   <string name="app_name">Plugin da IU de sistema</string>
@@ -30,7 +30,7 @@
   <string name="controls_favorite_subtitle">Escolha as definições para aceder ao menu de energia</string>
   <string name="controls_favorite_toast_no_changes">As alterações não foram guardadas</string>
   <string name="controls_menu_add">Adicionar definições</string>
-  <string name="controls_menu_edit">Editar definições</string>  
+  <string name="controls_menu_edit">Editar definições</string>
   <string name="controls_mijia_setup_subtitle">Seleccionar aplicações para adicionar e gerir dispositivos</string>
   <string name="controls_mijia_setup_subtitle_login">Toque para adicionar dispositivos</string>
   <string name="controls_mijia_setup_title">Dispositivos casa inteligente</string>
@@ -49,6 +49,7 @@
   <string name="dnd_popup_close_message">Percebi</string>
   <string name="dnd_popup_message">Pode ligar o modo Não incomodar para silenciar chamadas e notificações sem desligar os sons multimédia</string>
   <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancelar</string>
   <string name="hearing_assist_bluetooth_enable_tips_start">Ligar</string>
   <string name="hearing_assist_bluetooth_enable_tips_summary">A monitorização ao vivo funciona com o Bluetooth ligado. Ligar Bluetooth agora?</string>
@@ -63,6 +64,12 @@
   <string name="kddi_miui_toast_zen_standard_to_off">As chamadas e notificações vão ser reproduzidas</string>
   <string name="kddi_miui_toast_zen_to_standard">As chamadas e notificações vão ser silenciadas</string>
   <string name="loading">Estado desconhecido</string>
+  <string name="miplay_detail_divider_title">TVs e altifalantes</string>
+  <string name="miplay_detail_header_no_song">Sem histórico</string>
+  <string name="miplay_device_full_name">%2$s do %1$s</string>
+  <string name="miplay_headset_lc3_hint">Desligar LC3 para poder trocar a saída de áudio para este dispositivo</string>
+  <string name="miplay_service_timeout_toast">Ligação expirada. Tente novamente</string>
+  <string name="miplay_song_title_empty">Sem músicas</string>
   <string name="miui_dnd_count_down">Definir temporizador</string>
   <string name="miui_dnd_count_down_time">"Temporizador Não incomodar
 %s"</string>
@@ -87,15 +94,18 @@
   <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons multimédia vão ser silenciados</string>
   <string name="no_avaliable_application">Sem aplicações disponíveis</string>
   <string name="notification_control_center">Notificações e Centro de Controlo</string>
+  <string name="online">Online</string>
   <string name="power_off">Desligar</string>
   <string name="quick_controls_subtitle">Adicionar controlos dos seus dispositivos ligados</string>
   <string name="quick_controls_title">Controlos do dispositivo</string>
+  <string name="quick_settings_aitranslate_label">Tradução Mi IA</string>
   <string name="quick_settings_hang_label">Janelas flutuantes</string>
   <string name="quick_settings_hang_on">Já pode utilizar janelas flutuantes agora</string>
   <string name="quick_settings_pcmode_cancel_button">Cancelar</string>
   <string name="quick_settings_pcmode_dialog_message_turnoff">Desligar o Modo PC</string>
   <string name="quick_settings_pcmode_dialog_message_turnon">Ligar o Modo PC</string>
   <string name="quick_settings_pcmode_dialog_remember_text">Não mostrar novamente</string>
+  <string name="quick_settings_pcmode_error">Não foi possível encontrar esta aplicação. Instale-a primeiro</string>
   <string name="quick_settings_pcmode_label">Modo PC</string>
   <string name="quick_settings_pcmode_ok_button">OK</string>
   <string name="quick_settings_pcmode_turn_off_description">O ecrã do seu telefone vai ser mostrado no ecrã externo. Desligar o Modo PC?</string>
@@ -110,6 +120,7 @@
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
 
 A longa exposição a sons altos pode causar problemas de audição"</string>
+  <string name="save">Guardar</string>
   <string name="slider_view_content_description">Deslizar para cima para desligar ou para baixo para reiniciar</string>
   <string name="smart_home_title">Dispositivos inteligentes</string>
   <string name="status_bar_setting_title">Centro de Controlo e barra de estado</string>

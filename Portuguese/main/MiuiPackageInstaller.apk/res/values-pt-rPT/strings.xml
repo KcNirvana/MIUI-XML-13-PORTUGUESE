@@ -342,7 +342,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_apps_admin_dlg_text">O seu administrador não permite a instalação de aplicações obtidas de fontes desconhecidas</string>
   <string name="unknown_installer">Ferramentas não identificadas</string>
-  <string name="unlike">Não obrigado</string>
+  <string name="unlike">Não, obrigado</string>
   <string name="untrusted_external_source_always_click">Permitir sempre</string>
   <string name="untrusted_external_source_title">Permitir que \"%1$s\" possa instalar aplicações?</string>
   <string name="untrusted_external_source_warning_summary">O seu telefone e dados pessoais estão vulneráveis a ataques de origens desconhecidas. Ao permitir a instalação destas aplicações por origens desconhecidas, está a responsabilizar-se por qualquer dano ou perda de dados que possa resultar da utilização dessas aplicações</string>

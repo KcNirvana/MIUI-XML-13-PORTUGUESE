@@ -1316,7 +1316,7 @@ Envie este código para o supervisor."</string>
   <string name="feedback_comment_complaint">Não? Deixe-nos os seus comentários.</string>
   <string name="feedback_comment_desc">A gostar da nossa aplicação?</string>
   <string name="feedback_comment_ok">Sim! Classifique-a agora!</string>
-  <string name="feedback_comment_title">Classificar a nossa aplicação</string>
+  <string name="feedback_comment_title">Avaliar a nossa aplicação</string>
   <string name="feedback_common_allow">Permitir</string>
   <string name="feedback_common_hint_network_unavailable">Verifique as suas definições de rede e tente novamente</string>
   <string name="feedback_common_loading_cancel">Cancelar</string>

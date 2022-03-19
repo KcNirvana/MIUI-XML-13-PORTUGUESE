@@ -107,7 +107,7 @@
   <string name="dialog_msg_score_midrop">How do you feel about Weather?</string>
   <string name="dialog_msg_score_not_good">Could you give us your feedback as well?</string>
   <string name="dialog_msg_score_perfect">Nice! Rate Weather in Play Store as well?</string>
-  <string name="dialog_title_score">Classificar Tempo</string>
+  <string name="dialog_title_score">Avaliar Tempo</string>
   <string name="download_rsc_tips">A carregar áudio…</string>
   <string name="dynamic_weather">Tempo</string>
   <string name="edit_alert_city_title">Gerir alertas</string>
@@ -219,7 +219,7 @@
   <string name="rain_sound_setting_summary_text">Acompanhar as mudanças do tempo por efeitos sonoros</string>
   <string name="rain_sound_setting_title_text">Efeitos sonoros</string>
   <string name="rating_dialog_later">Mais tarde</string>
-  <string name="rating_dialog_rate_now">Classificar agora</string>
+  <string name="rating_dialog_rate_now">Avaliar agora</string>
   <string name="real_time_sunrise">Nascer do sol %1$s</string>
   <string name="real_time_sunset">Pôr do sol %1$s</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>

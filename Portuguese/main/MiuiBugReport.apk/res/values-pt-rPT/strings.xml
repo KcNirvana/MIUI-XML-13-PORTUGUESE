@@ -425,7 +425,7 @@ Envie este código ao supervisor"</string>
   <string name="submit_dialog_content_global">O seu comentário, os anexos e os registos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
   <string name="submit_dialog_title">Enviar relatório</string>
   <string name="submit_feedback_info_failed">Não foi possível enviar relatório</string>
-  <string name="suggest_upload_log_dialog_cancel">Não obrigado</string>
+  <string name="suggest_upload_log_dialog_cancel">Não, obrigado</string>
   <string name="suggest_upload_log_dialog_confirm">Enviar</string>
   <string name="suggest_upload_log_dialog_content">"Para ajudar os programadores a resolver os problemas o mais rapidamente possivel, recomendamos que envie os registos relacionados. Os registos são utilizados apenas para analisar problemas e não serão utilizados para outros fins</string>
   <string name="suggest_upload_log_dialog_title">Enviar registos relacionados</string>

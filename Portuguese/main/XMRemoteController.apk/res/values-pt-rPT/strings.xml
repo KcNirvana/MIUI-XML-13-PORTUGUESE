@@ -165,7 +165,7 @@
   <string name="controller_list">Controlos remotos</string>
   <string name="cool_mode">Frio</string>
   <string name="create_shortcut">Adicionar atalho</string>
-  <string name="create_shortcut_cancel">Não obrigado</string>
+  <string name="create_shortcut_cancel">Não, obrigado</string>
   <string name="create_shortcut_confirm">Criar</string>
   <string name="create_shortcut_done">Criado com sucesso</string>
   <string name="create_shortcut_failed">Não foi possível adicionar atalho. Certifique-se que o C.Remoto tem as permissões necessárias</string>

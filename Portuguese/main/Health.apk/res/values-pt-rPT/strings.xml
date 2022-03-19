@@ -1098,7 +1098,7 @@ Se não quiser partilhar esta informação, pode desligar esta funcionalidade"</
   <string name="sleep_detection_guide_three_description">"Quando a sua hora de dormir estiver configurada, o seu sono vai ser registado automaticamente. "</string>
   <string name="sleep_detection_guide_three_title">Gerar estatísticas automaticamente</string>
   <string name="sleep_detection_guide_two_description">Para obter estatísticas mais precisas, coloque o seu dispositivo ao lado ou em baixo da almofada e certifique-se que não está a mais de 50 cm do seu corpo</string>
-  <string name="sleep_detection_guide_two_title">Coloque o dispositivo junto à sua almofada</string>
+  <string name="sleep_detection_guide_two_title">Colocar o dispositivo junto à sua almofada</string>
   <string name="sleep_detection_hint">As estatísticas são fornecidas apenas para referência. Não podem ser utilizadas como fundamento para diagnósticos médicos</string>
   <string name="sleep_detection_question_four_answer">Cada dispositivo está equipado com diferentes sensores. O consumo de bateria pode variar em cada um</string>
   <string name="sleep_detection_question_four_title">Porque é que dispositivos diferentes consomem diferentes quantidades de bateria para registar o sono?</string>

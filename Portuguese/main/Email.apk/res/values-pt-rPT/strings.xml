@@ -1,13 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
-  <string name="SMTP_password_text">Palavra-passe</string>
-  <string name="SMTP_username_text">Nome de utilizador</string>
   <string name="about_checking_update">A verificar actualização…</string>
   <string name="about_go_to_update">Actualizar</string>
   <string name="about_lasted_version">Actualizado</string>
   <string name="account_add_other_sub_des">Outras contas</string>
   <string name="account_add_title">Seleccionar serviço de email</string>
+  <string name="account_cache_provider">Forneceder de conta cache</string>
   <string name="account_change">Trocar contas</string>
   <string name="account_child_dialog_neg_text">Sair</string>
   <string name="account_child_dialog_pos_text">Concordar</string>
@@ -23,6 +21,12 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="account_options_actionbar_title">Definições de conta</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
+  <string name="account_permission_child_statement">Declaração de protecção de dados pessoais de menores</string>
+  <string name="account_permission_dialog_cancel_text">Remover</string>
+  <string name="account_permission_dialog_text">Se continuar, vai remover o seu consentimento à Licença de Utilização, Política de Privacidade e Declaração de protecção de dados pessoais de menores. Após não vai poder utilizar Email e todos os dados vão ser eliminados</string>
+  <string name="account_permission_dialog_title">Remoção de consentimento</string>
+  <string name="account_permission_private_policy">Política de Privacidade</string>
+  <string name="account_permission_user_privacy">Licença de Utilização</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas definições de segurança</string>
   <string name="account_security_dialog_title">Actualização de segurança</string>
   <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android</string>
@@ -98,6 +102,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="account_setup_correct_address_tips">O email introduzido não é válido</string>
   <string name="account_setup_creating_account_msg">A criar a conta…</string>
   <string name="account_setup_deleting_account_msg">A remover conta…</string>
+  <string name="account_setup_domain_invalid_toast">Introduzir um domínio válido</string>
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
   <string name="account_setup_exchange_no_certificate">Nenhum</string>
   <string name="account_setup_failed_auth_required">O método de autenticação não é suportados pelo servidor</string>
@@ -222,13 +227,16 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="attachment_decoding">A desempacotar anexos…</string>
   <string name="attachment_detail_empty_prompt">Seleccionar ficheiros</string>
   <string name="attachment_download_all">Transferir todos</string>
+  <string name="attachment_drag_add_inline">Embutir</string>
+  <string name="attachment_drag_add_picture_prompt">Deseja incorporar ou anexar as imagens seleccionadas?</string>
+  <string name="attachment_drag_create_email_prompt">Anexar os ficheiros seleccionados num novo email?</string>
   <string name="attachment_image">Imagem</string>
   <string name="attachment_list_search_hint">Pesquisar anexos</string>
   <string name="attachment_mgr_name">Anexos</string>
   <string name="attachment_not_exists">O anexo não está disponível!</string>
+  <string name="attachment_open_on_other_app">Abrir noutra aplicação</string>
   <string name="attachment_open_SecurityException_hint">Pode não ter permissões para abrir este ficheiro ou o ficheiro pode estar danificado</string>
   <string name="attachment_open_SecurityException_title">Não é possível abrir o ficheiro</string>
-  <string name="attachment_open_on_other_app">Abrir noutra aplicação</string>
   <string name="attachment_opening_mode">Aplicações para anexos</string>
   <string name="attachment_size_exceed_limit">O tamanho excede o limite do servidor</string>
   <string name="attachment_stop_all">Parar</string>
@@ -247,13 +255,21 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="auto_remind_discribe_text">Ligar para receber lembretes automáticos</string>
   <string name="auto_remind_text">Lembretes automáticos</string>
   <string name="auto_remind_unbind">Parar</string>
+  <string name="auto_sync_off">Sincronização automática está desligada</string>
   <string name="automatic_remind_text">Lembrar automaticamente</string>
-  <string name="bContact_list_search_hint">Pesquisar contactos bloqueados</string>
   <string name="b_contacts">Lista de bloqueio</string>
   <string name="b_contacts_remove">Remover da lista de bloqueio</string>
   <string name="b_contacts_remove_tips">Remover este endereço da lista de bloqueio?</string>
   <string name="back">Voltar</string>
-  <string name="auto_sync_off">Sincronização automática está desligada</string>
+  <string name="bank_card_detail">Detalhes do cartão de crédito</string>
+  <string name="bcc">Bcc</string>
+  <string name="bcc_heading">"Bcc: "</string>
+  <string name="bContact_list_search_hint">Pesquisar contactos bloqueados</string>
+  <string name="bill_center_setting">Definições de facturação</string>
+  <string name="bill_center_setting_head">Importar informações destas contas</string>
+  <string name="bill_cycle_text">Ciclo de facturação</string>
+  <string name="bill_remind">Alertas de pagamentos</string>
+  <string name="bill_remind_due">Um pagamento vence a %s. Toque para ver</string>
   <string name="blank_feedback_toast">Deve escrever um comentário</string>
   <string name="body_forward_email_text">[Avançar]</string>
   <string name="body_hint">Corpo</string>
@@ -277,6 +293,9 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar a transferência de anexos em contas do tipo POP3</string>
   <string name="cant_move_or_change_labels">Não é possível mover itens de várias contas</string>
+  <string name="cc">Cc</string>
+  <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
+  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="certificate_add_failed">Não foi possível adicionar o certificado \"%s\"</string>
   <string name="certificate_added">Certificado \"%s\" adicionadoy</string>
@@ -308,11 +327,16 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="compose">Escrever</string>
   <string name="compose_add_attachment_permission_denied">Não é possível reencaminhar email. É necessário permissões para aceder ao armazenamento</string>
+  <string name="compose_encrypt_lock_description">Encriptar</string>
+  <string name="compose_encrypt_unlock_description">Desencriptar</string>
+  <string name="compose_encrypt_unlock_w_description">Contacto não confiável</string>
   <string name="compose_event">Convites</string>
   <string name="compose_paste_address_oob">Demasiados caracteres</string>
   <string name="compose_picturesexceedlimits">Pode adicionar mais imagens como anexos</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Email enviado</string>
+  <string name="compose_smime_sign_description">Aplicar assinatura</string>
+  <string name="compose_smime_unsign_description">Remover assinatura</string>
   <string name="compose_to_label">Para</string>
   <string name="compress_failed_and_retry">Não foi possível comprimir. Tente mais tarde</string>
   <string name="compress_img">Comprimir imagens</string>
@@ -353,8 +377,8 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL</string>
   <string name="contextmenu_create">Criar novo contacto</string>
-  <string name="contextmenu_edit">Editar contacto</string>
   <string name="contextmenu_dial_dot">Marcar…</string>
+  <string name="contextmenu_edit">Editar contacto</string>
   <string name="contextmenu_feedback">Enviar comentários</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
@@ -367,6 +391,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="conversation_cert_info_tips">Este email foi assinado com um certificado de confiança</string>
   <string name="conversation_cert_info_title">Assinado</string>
   <string name="conversation_cert_trust">Confiar</string>
+  <string name="conversation_content_provider">Fornecedor de conteúdos de conversas</string>
   <string name="conversation_detail_hide">Ocultar</string>
   <string name="conversation_detail_show">Detalhes</string>
   <string name="conversation_folder_moved">Movida para %1$s</string>
@@ -389,6 +414,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="copy_number">Copiar número de telefone</string>
   <string name="copy_toast_msg">Link copiado para a área de transferências</string>
   <string name="create_action">Novo</string>
+  <string name="cur_debt">Saldo da conta</string>
   <string name="custom_from_account_label">Enviar como:</string>
   <string name="database_exception">Ocorreu um erro. Inicie sessão novamente</string>
   <string name="date_heading">"Data: "</string>
@@ -403,6 +429,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="default_signature">Enviado do meu Xiaomi</string>
   <string name="default_signature_2">Enviado do meu %s</string>
   <string name="default_signature_pad">Enviado do meu Mi Pad</string>
+  <string name="default_signature_phone">Enviado do meu telefone Mi</string>
   <string name="delete">Eliminar</string>
   <string name="delete_contact_content">Eliminar este contacto agora?</string>
   <string name="delete_message_event">Eliminar este convite?</string>
@@ -444,6 +471,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="download_confirm_title">Transferir anexo</string>
   <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_bank_bill">Extractos bancários</string>
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir área de navegação</string>
@@ -453,6 +481,8 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="drive_card_title">URL de armazenamento da cloud</string>
   <string name="dtend">Termina</string>
   <string name="dtstart">Inicia</string>
+  <string name="due">Vencidas</string>
+  <string name="due_date_text">Pagamento final</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="edit_signature">Editar assinatura</string>
   <string name="editor_max_length_limit_hint">A mensagem que introduziu é demasiado longa</string>
@@ -472,6 +502,18 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Erro</string>
   <string name="error_icon_content_description">Erro</string>
+  <string name="error_message_account_or_password">ID da conta ou palavra-passe incorrectos</string>
+  <string name="error_message_auth_error">Utilizar um código de verificação para iniciar sessão</string>
+  <string name="error_message_blacklist">A sua conta foi adicionada à lista de bloqueio. Contacte o seu fornecedor de email para resolver este problema</string>
+  <string name="error_message_imap_or_pop3_service_not_open">Ligar IMAP ou POP3 e tentar novamente</string>
+  <string name="error_message_imap_service_not_open">Ligar IMAP e tentar novamente</string>
+  <string name="error_message_outlook_error">Verificar a sua identidade na versão web do Outlook primeiro</string>
+  <string name="error_message_respond_revert_03">Este domínio não existe. Verifique o URL e tente novamente</string>
+  <string name="error_message_respond_revert_06">Palavra-passe introduzida é inválida</string>
+  <string name="error_message_respond_revert_07">Não foi possível verificar a sua identifidade. Utilize um código de verificação para iniciar sessão</string>
+  <string name="error_message_respond_revert_16">A sua palavra-passe expirou. Actualize a sua palavra-passe e inicie sessão novamente</string>
+  <string name="error_message_respond_revert_21">Ligar POP3 e tentar novamente</string>
+  <string name="error_message_respond_revert_25">Verificar ligação e tentar novamente</string>
   <string name="exception_cancel">Este evento foi cancelado para: %s</string>
   <string name="exception_updated">Os detalhes deste evento foram alterados para: %s</string>
   <string name="exchange_login_hint">Toque para iniciar sessão numa conta Exchange</string>
@@ -493,6 +535,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="feedback_sent">Obrigado pelo seu comentário</string>
   <string name="feedback_user_edit_hint">Descreva o problema aqui. Vamos enviar-lhe um email após verificação</string>
   <string name="feedback_user_edit_tag">De MIUI </string>
+  <string name="fetch_bank_sender_list_failure">Não foi possível obter informações</string>
   <string name="fetching_attachment">A obter anexo</string>
   <string name="file_defailt_save_path">Os anexos vão ser guardados na pasta %s por defeito. Pode alterar a pasta nas Definições</string>
   <string name="file_default_save_path_title">Localização predefinida dos anexos</string>
@@ -573,6 +616,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
   <string name="forward_attribution_no_headers">---------- Mensagem reencaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível reencaminhar todos os anexos</string>
   <string name="forward_download_failed_title">Anexo não reencaminhado</string>
+  <string name="free_period_text">Período sem juros</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
@@ -810,6 +854,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="mibill_privacy_policy_description">Permitir que a Mi Wallet analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactiva por defeito para endereços de email empresariais</string>
   <string name="mibill_privacy_policy_link">Ao utilizar esta funcionalidade, está a concordar com os nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
+  <string name="min_payment_text">Pagamento minímo</string>
   <string name="modify_contact_address">Editar email do contacto</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="ms_graph">Novo protocolo Microsoft</string>
@@ -832,6 +877,8 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Não foi encontrada nenhuma aplicação para abrir este anexo</string>
   <string name="no_application_found_title">Abrir este anexo</string>
+  <string name="no_bill_discribe">"Não foi possível encontrar contas.
+Tente uma conta de email diferente"</string>
   <string name="no_contacts">Sem contactos</string>
   <string name="no_content_in_body">[Sem conteúdo]</string>
   <string name="no_conversations">Sem mensagens</string>
@@ -841,9 +888,9 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="no_matched_attachment">Sem resultados</string>
   <string name="no_more_mail">Sem mais mensagens</string>
   <string name="no_open_smime_toast">Adicionar o certificado S/MIME primeiro</string>
-  <string name="not_subject">(Sem assunto)</string>
   <string name="no_search_results">Pesquisar no servidor</string>
   <string name="not_set">Não definido</string>
+  <string name="not_subject">(Sem assunto)</string>
   <string name="not_synced_title">Conta não sincronizada</string>
   <string name="note_title">Configuração automática de email</string>
   <string name="notification_action_archive">Arquivar</string>
@@ -876,6 +923,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="ntes_send_to_content">Se o número de telefone estiver associado com a conta, toque \"Enviar SMS\"</string>
   <string name="ntes_verification_code">Introduzir código: %s</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
+  <string name="oauth_find_browser_error_description">Instalar um navegador antes de iniciar sessão</string>
   <string name="oauth_gmail_login_notify">Introduza o utilizador e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obter código de autorização e iniciar sessão &gt;</string>
@@ -923,9 +971,11 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="output_db_title">Envio de base dados</string>
   <string name="output_to_disk">Guardar registos num ficheiro</string>
   <string name="over_16_content">Confirma ser maior de 16 anos?</string>
-  <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
+  <string name="over_due">Em atraso</string>
   <string name="over_sixteen">Eu tenho mais de 16 anos</string>
+  <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
   <string name="parase_setup_data">A obter dados…</string>
+  <string name="parse_bill_discribe">A processar contas do cartão de crédito…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s vão ser eliminados. Deseja alterar isso agora?</string>
   <string name="password_expire_warning_dialog_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
@@ -940,9 +990,12 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="pdf_save_error">Não é possível converter para PDF . A mensagem é demasiado longa</string>
   <string name="pdf_save_no_body">Aguarde que o texto carregue e tente novamente</string>
   <string name="pdf_save_to">"Guardado em "</string>
+  <string name="pdf_signature_add">Adicionar uma nova assinatura</string>
   <string name="pdf_signature_create_title">Desenhar assinatura</string>
+  <string name="pdf_signature_delete">Eliminar assinatura</string>
   <string name="pdf_signature_manager_max_count">Não é possível adicionar mais assinaturas. Elimine as assinaturas antigas para adicionar novas</string>
   <string name="pdf_signature_manager_title">Gerir assinaturas</string>
+  <string name="pdf_signature_select">Seleccionar assinatura</string>
   <string name="pdf_viewer_actionbar_more_other">Outras aplicações</string>
   <string name="pdf_viewer_actionbar_more_wps">Abrir com WPS</string>
   <string name="pdf_viewer_file_damage_toast">O ficheiro PDF está corrompido. Verifique o ficheiro e tente novamente</string>
@@ -965,11 +1018,11 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="permission_des_contact">Para aceder a emails dos seus contactos devido ao preenchimento automático</string>
   <string name="permission_des_detail">Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar esta aplicação. Pode desinstalar, terminar sessão ou restringir as permissões em Definições</string>
   <string name="permission_des_external_storage">Para criar novos emails e guardar/adicionar anexos</string>
+  <string name="permission_des_phone_status">Para aceder ao IMEI para identificar o seu dispositivo</string>
+  <string name="permission_des_storage">Para criar novos emails, assim como guardar e adicionar anexos</string>
   <string name="permission_get_accounts_subtitle">Para iniciar sessão e gerir contas de sistema</string>
   <string name="permission_phone_status_subtitle">Para identificar diferentes dispositivos</string>
   <string name="permission_phone_status_title">Aceder a contas no dispositivo</string>
-  <string name="permission_des_phone_status">Para aceder ao IMEI para identificar o seu dispositivo</string>
-  <string name="permission_des_storage">Para criar novos emails, assim como guardar e adicionar anexos</string>
   <string name="permission_read_attachment_desc">Permitir que a aplicação leia os anexos dos seus emails</string>
   <string name="permission_read_attachment_label">Ler anexos</string>
   <string name="permission_write_contacts_subtitle">Para mostrar e alterar os endereços de email dos contactos</string>
@@ -977,6 +1030,8 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="personal_data_collection_summary">Quando esta opção está ligada, está a concordar com a obtenção de dados pessoais. Pode desligar esta opção, revogar a autorização ou eliminar os dados dos nossos servidores em qualquer momento</string>
   <string name="personal_data_collection_title">Permitir a obtenção de dados pessoais</string>
   <string name="pl_select_age">Seleccionar idade</string>
+  <string name="pls_parse_bill_discribe">"Analisar contas e informações de viagens no seu email
+para receber alertas sobre pagamentos e viagens"</string>
   <string name="policy_app_blacklist">Não permitir aplicações especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicações especificadas</string>
   <string name="policy_bluetooth_restricted">Restringir a utilização de Bluetooth</string>
@@ -1002,7 +1057,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="pop3_name">POP3</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="preference_eas_tips">Toque Activar para configurar o servidor de email</string>
-  <string name="preference_imap_tips"/>
+  <string name="preference_imap_tips" />
   <string name="preference_pop_tips">Em POP3, os anexos vão ser transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
   <string name="preferences_signature_dialog_title">Assinatura</string>
   <string name="preferences_signature_title">Assinatura</string>
@@ -1010,6 +1065,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="print">Imprimir</string>
   <string name="print_scheduler_title">Imprimir tudo</string>
   <string name="privacy_and_help">Privacidade e ajuda</string>
+  <string name="privacy_and_private_permission">Consentimento de Termos de Utilização e Política de Privacidade</string>
   <string name="privacy_des">Os registos contém informações sobre o email e o seu dispositivo. Esta informação é utilizada para encontrar problemas rapidamente. Ao clicar \"%1$s\", está a concordar com os nossos \"%2$s\"</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_setting_agree">Concordar</string>
@@ -1116,6 +1172,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
   <string name="select_path">Seleccionar pasta</string>
+  <string name="selected">seleccionados</string>
   <string name="send">Enviar</string>
   <string name="send_encrypt_dialog_fail_content">O destinatário deste email não tem um certificado de confiança necessário para encriptar este email. Enviar um email normal?</string>
   <string name="send_encrypt_dialog_fail_title">Não é possível enviar o email encriptado</string>
@@ -1157,7 +1214,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="server_cet_subject_cn">"Domínios suportados: "</string>
   <string name="server_cet_title">Detalhes do certificado</string>
   <string name="server_log">Termos de Serviço</string>
-  <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do \"WPS Mail\""</u></string>
+  <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do \"Email\""</u></string>
   <string name="service_protocol_title">Termos de Serviço</string>
   <string name="set_account_app_password">Definir palavra-passe da aplicação</string>
   <string name="set_network">Definir rede</string>
@@ -1189,8 +1246,13 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="sms_not_found_tip">Não foi possível iniciar a aplicação de SMS</string>
+  <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="smtp_password_error">A palavra-passe do servidor de correio de saída está incorrecta</string>
+  <string name="SMTP_password_text">Palavra-passe</string>
+  <string name="SMTP_username_text">Nome de utilizador</string>
   <string name="sort_attachment">Ordenar por</string>
+  <string name="special_text_5">escreveu:</string>
+  <string name="special_text_sender_en">remetente</string>
   <string name="str_select_all">Seleccionar tudo</string>
   <string name="str_select_none">Desmarcar tudo</string>
   <string name="subject_hint">Assunto</string>
@@ -1228,8 +1290,8 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar o calendário e contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_calendar_permission_switch_allow_only_using">Não foi possível sincronizar. Altere as permissões do Calendário para \"Permitir sempre\"</string>
   <string name="toastbar_calendar_permission_switch_close">Para receber alertas do calendário, conceda ao Email as permissões necessárias nas Definições</string>
-  <string name="toastbar_contacts_permission_switch_close">Para adicionar contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_contacts_permission_switch_allow_only_using">Não foi possível sincronizar. Altere as permissões do Contactos para \"Permitir sempre\"</string>
+  <string name="toastbar_contacts_permission_switch_close">Para adicionar contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ligue a sincronização de contactos e calendário para sincronizar</string>
   <string name="toastbar_local_calendar_sync_switch_close">Ligue a sincronização do calendário para receber alertas</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Ligue a sincronização de contactos para adicionar contactos</string>
@@ -1268,6 +1330,7 @@ Remover conta?"</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
   <string name="unread_string">conversa não lida</string>
+  <string name="unselected">Desmarcados</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_domain_summary">Actualizar configurações e lista de domínios</string>
   <string name="update_domain_title">Actualizar definições de domínios</string>
@@ -1291,16 +1354,17 @@ Remover conta?"</string>
   <string name="user_privacy_settings_path">Pode revogar a sua autorização em Definições &gt; Privacidade</string>
   <string name="user_privacy_settings_summary">Vamos obter o seu ID do Android criptografado e utilizá-lo como o seu identificador único no Email. Pode revogar a sua autorização a qualquer momento nas definições de privacidade</string>
   <string name="user_privacy_settings_title">Declaração de privacidade do Email</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
+  <string name="veiled_address" />
+  <string name="veiled_alternate_text" />
+  <string name="veiled_alternate_text_unknown_person" />
+  <string name="veiled_summary_unknown_person" />
   <string name="verify_code">Código de verificação</string>
   <string name="version_string">Versão: %s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
 Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
+  <string name="wait_help_context">aguardar</string>
   <string name="wait_while_update_db">A actualizar a base de dados…</string>
   <string name="web_view_load_error_tip">O corpo desta mensagem não pode ser mostrado correctamente. Reporte este problema no nosso grupo QQ (952315061)</string>
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
@@ -1326,5 +1390,6 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
   <string name="xiaomi_email">Email</string>
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Utilizar dados móveis para enviar registos?</string>
+  <string name="youfuli">Promoções</string>
   <string name="zip_viewer_no_file">Sem ficheiros</string>
 </resources>

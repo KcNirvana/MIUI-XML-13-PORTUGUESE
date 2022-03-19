@@ -1764,7 +1764,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="screen_pinning_description_recents_invisible_accessible">Vai ser mantido no ecrã até soltar. Prima e segure o botão Início para soltar</string>
   <string name="screen_pinning_exit">Aplicação solta</string>
   <string name="screen_pinning_exposes_personal_data">Dados pessoais podem estar acessíveis (contactos e conteúdos de email)</string>
-  <string name="screen_pinning_negative">Não obrigado</string>
+  <string name="screen_pinning_negative">Não, obrigado</string>
   <string name="screen_pinning_positive">Percebi</string>
   <string name="screen_pinning_start">Aplicação fixada</string>
   <string name="screen_pinning_title">A aplicação está fixada</string>

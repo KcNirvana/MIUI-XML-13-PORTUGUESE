@@ -169,7 +169,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="greenguard_child_des_title">Digitalizar código QR para adicionar dispositivo</string>
   <string name="greenguard_functional_description">"Gerir os dispositivos remotamente, ver a localização,
 controlar aplicações instaladas e restringir a utilização"</string>
-  <string name="greenguard_install_cancle">Não obrigado</string>
+  <string name="greenguard_install_cancle">Não, obrigado</string>
   <string name="greenguard_install_confirm">Instalar</string>
   <string name="greenguard_install_message">A Protecção de família é uma aplicação de sistema. Não necessita de Internet para a instalar</string>
   <string name="greenguard_install_title">Instalar a Protecção de família</string>

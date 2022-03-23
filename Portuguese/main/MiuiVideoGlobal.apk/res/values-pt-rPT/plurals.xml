@@ -32,6 +32,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Esta funcionalidade vai ser desligada por %s dias</item>
+        <item quantity="one">Esta funcionalidade vai ser desligada por %s dia</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>

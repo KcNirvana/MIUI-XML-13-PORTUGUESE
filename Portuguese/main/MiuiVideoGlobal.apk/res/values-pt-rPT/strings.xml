@@ -165,11 +165,18 @@
   <string name="galleryplus_network_connect_confirm">Connect to Wi-Fi or turn on mobile data in the network settings.</string>
   <string name="galleryplus_network_error">"Couldn't connect to the network"</string>
   <string name="galleryplus_network_not_wifi">Using mobile data to stream videos may generate additional carrier fees</string>
-  <string name="galleryplus_online_cta">Mi Video needs to connect to the internet to work normally. Agree?</string>
-  <string name="galleryplus_online_cta_agree">Agree</string>
-  <string name="galleryplus_online_cta_disagree">"Don't agree"</string>
-  <string name="galleryplus_online_cta_title">Terms and conditions</string>
-  <string name="galleryplus_online_video_loading">Just a sec…</string>
+  <string name="galleryplus_next_step">Next</string>
+  <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerir ficheiros %$s Adicionar legendas %$s Transmitir vídeos %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle2">Proteger os seus vídeos com uma palavra-passe %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle3">Transferir vídeos do TikTok, Instagram e Twitter %$s</string>
+  <string name="galleryplus_notification_linkvideo_title1">%$s Verificar todas as funcionalidades de Vídeos!</string>
+  <string name="galleryplus_notification_linkvideo_title2">%$s Tocar para gerir os seus vídeos</string>
+  <string name="galleryplus_notification_linkvideo_title3">%1$s Transferir vídeos gratuitamente %2$s Gerir ficheiros</string>
+  <string name="galleryplus_online_cta">Vídeos necessita de ligar à Internet para funcionar normalmente. Concordar?</string>
+  <string name="galleryplus_online_cta_agree">Concordar</string>
+  <string name="galleryplus_online_cta_disagree">Não concordar</string>
+  <string name="galleryplus_online_cta_title">Termos e Condições</string>
+  <string name="galleryplus_online_video_loading">Aguarde…</string>
   <string name="galleryplus_orientation_lock">Locked orientation successfully</string>
   <string name="galleryplus_orientation_unlock">Screen orientation is unlocked</string>
   <string name="galleryplus_permission_content">Give Mi Video the required permissions to be able to use this feature.</string>

@@ -5,6 +5,9 @@
   <string name="app_name">Localizar Dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para aceder ao número de telefone para localizar este dispositivo quando não estiver ligado à Internet</string>
+  <string name="custom_define_permission_desc_android.permission.SEND_SMS">Para localizar este dispositivo quando não estiver ligado à Internet</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar o seu dispositivo e trocar para o modo perdido</string>
   <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a um pagamento em falta.
 Contacte o seu comercial para mais detalhes"</string>
   <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
@@ -17,7 +20,10 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="emergency_call">Chamada de emergência</string>
   <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="find_device">Localizar Dispositivo</string>
+  <string name="find_device_capture_done_notification_content">Ver a foto em i.mi.com</string>
+  <string name="find_device_capture_done_notification_title">Localizar Dispositivo tirou uma foto remotamente</string>
   <string name="find_device_capture_notification_content">Outro dispositivo autorizado está a tirar uma foto remotamente via Localizar Dispositivo em i.mi.com</string>
   <string name="find_device_capture_notification_title">Localizar Dispositivo está a tirar uma foto remotamente…</string>
   <string name="find_device_crash">Localizar Dispositivo fechou inesperadamente</string>
@@ -71,6 +77,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
   <string name="unlock_error_interrupted">Interrompido</string>
   <string name="unlock_error_network">Não é possível ligar à rede</string>
+  <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está a funcionar</string>
   <string name="unlock_error_rpc">Erro RPC</string>
   <string name="unlock_error_server">Erro de servidor</string>
   <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente</string>

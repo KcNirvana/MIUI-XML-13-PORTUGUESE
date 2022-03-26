@@ -1,11 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="action_use_network">Use</string>
   <string name="ad_service">Serviços de anúncios</string>
   <string name="app_label">Leitor de HTML</string>
+  <string name="app_name">blur</string>
   <string name="app_name_which_call">Aplicação:%s</string>
   <string name="app_version_which_call">Versão da aplicação:%s</string>
   <string name="autoconnect">Ligar automaticamente</string>
+  <string name="copyright">Direitos de autor</string>
+  <string name="error_continue_via_browser">Detalhes</string>
   <string name="ime_privacy_policy">Escolher teclado</string>
+  <string name="instruction">Informações de segurançaImportant safety information</string>
   <string name="legal_written_offer">Oferta escrita</string>
   <string name="license_host_unreachable">"Não foi possível ligar à rede. Para ver esta informação agora, 
 vá a %s noutro dispositivo ligado"</string>
@@ -23,9 +28,14 @@ vá a %s noutro dispositivo ligado"</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="permdesc_accessDrm">Permitir que a aplicação aceda a conteúdo protegido por DRM</string>
+  <string name="poco_launcher_privacy_policy">Política de Privacidade de POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Termos de Utilização de POCO Launcher</string>
+  <string name="poco_privacy_policy">Política de Privacidade e Termos de Utilização de POCO Launcher</string>
   <string name="policy_name">Protocolo:%s</string>
   <string name="pre_installed_apps">Aplicações pré-instaladas</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_station_title">Privacidade na Xiaomi</string>
+  <string name="sar">Informações de exposição RF</string>
   <string name="settings_ad_loading">Aguarde…</string>
   <string name="settings_ad_loading_unavailable">Não foi possível carregar a informação</string>
   <string name="settings_license_activity_loading">Aguarde…</string>
@@ -35,4 +45,8 @@ vá a %s noutro dispositivo ligado"</string>
   <string name="settings_safetylegal_activity_title">Informação de segurança</string>
   <string name="settings_safetylegal_activity_unreachable">Não foi possível ligar à rede. Para ver esta informação agora, vá a %s de qualquer computador ligado à Internet</string>
   <string name="settings_safetylegal_title">Informação de segurança</string>
+  <string name="ssl_error_untrusted">O certificado não está assinado por uma entidade confiável. Utilizar mesmo assim?</string>
+  <string name="user_agreement">Termos de Serviço</string>
+  <string name="user_experience_program">Programa de Experiência do Utilizador</string>
+  <string name="user_manual">Manual do utilizador</string>
 </resources>

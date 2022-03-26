@@ -5,6 +5,7 @@
   <string name="battery_islow_desc">O nível da bateria é demasiado fraco para instalar a actualização. Ligue o carregador e tente novamente mais tarde</string>
   <string name="btn_changelog">Alterações</string>
   <string name="btn_download">Transferir (%1$s)</string>
+  <string name="btn_error">Ocorreu um erro. Tentar novamente?</string>
   <string name="btn_install">Verificar MD5 e instalar</string>
   <string name="btn_no">Não</string>
   <string name="btn_ok">OK</string>
@@ -19,6 +20,7 @@
   <string name="check_new_version">Verificar</string>
   <string name="dialog_3g_desc">Tenha atenção que utilizar dados móveis para transferir ROMs pode consumir todo o seu pacote de dados</string>
   <string name="dialog_3g_title">Aviso!</string>
+  <string name="dialog_ab">Este dispositivo suporta \"Actualizações Sistema AB\". Seleccionar \"Slot A\" no TWRP!</string>
   <string name="dialog_btn_3g">Continuar mesmo assim</string>
   <string name="dialog_btn_wifi">Trocar para Wi-Fi</string>
   <string name="dialog_stop_desc">Tem a certeza que quer parar a transferência? Todo o progresso vai ser perdido e não pode retomar. A próxima transferência vai começar do início</string>
@@ -30,6 +32,20 @@
   <string name="download_fail_desc">O MD5 não corresponde…</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_desc">Transferência em curso. Verifique o estado na área de notificações</string>
+  <string name="fastboot_update_warning">Estea actualização é para instalação fastboot apenas!</string>
+  <string name="fetch_notification_default_channel_name">Transferências</string>
+  <string name="fetch_notification_download_cancel">Cancelar</string>
+  <string name="fetch_notification_download_complete">Concluído</string>
+  <string name="fetch_notification_download_downloading">A transferir</string>
+  <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds restantes</string>
+  <string name="fetch_notification_download_eta_min">%1$dm %2$ds restantes</string>
+  <string name="fetch_notification_download_eta_sec">%1$ds restantes</string>
+  <string name="fetch_notification_download_failed">Erro</string>
+  <string name="fetch_notification_download_pause">Pausar</string>
+  <string name="fetch_notification_download_paused">Pausada</string>
+  <string name="fetch_notification_download_resume">Retomar</string>
+  <string name="fetch_notification_download_retry">Repetir</string>
+  <string name="fetch_notification_download_starting">Iniciar</string>
   <string name="fetching_data">A obter link para transferir…</string>
   <string name="install_desc">"O dispositivo vai reiniciar para o modo restauro e instalar o ficheiro: <b>%1$s</b>.
 Os dados não vão ser eliminados"</string>

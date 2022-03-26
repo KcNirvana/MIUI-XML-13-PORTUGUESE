@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_to_recover">Aguarde…</string>
   <string name="app_is_running">A aplicação está a executar…</string>
@@ -15,6 +15,7 @@
   <string name="backup_action_check_network">Verificar as definições de rede</string>
   <string name="backup_action_clean_disk_space">Libertar espaço</string>
   <string name="backup_action_retry_now">Tentar novamente</string>
+  <string name="backup_failed_reason_app_data_error">Não foi possível copiar dados do WeChat</string>
   <string name="backup_failed_reason_app_usage_denied">Conceder as permissões necessárias para copiar itens</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Sem espaço suficiente na Xiaomi Cloud. Actualize o seu plano ou liberte algum espaço</string>
   <string name="backup_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
@@ -39,6 +40,7 @@ Não é possível copiar"</string>
 Não é possível copiar"</string>
   <string name="backup_warning_reason_no_server_response">"Ligação interrompida.
 Tente novamente"</string>
+  <string name="btn_back">Voltar</string>
   <string name="btn_continue">Continuar</string>
   <string name="btn_restore_abort">Cancelar</string>
   <string name="btn_restore_cancel">Cancelar</string>
@@ -132,6 +134,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="desktop_wait_network">A aguardar…</string>
   <string name="desktop_waiting">A aguardar</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
+  <string name="dialog_app_usage_consent_title">Permitir o acesso de dados de utilização</string>
   <string name="dialog_app_usage_denied">Conceder a Cópias da Xiaomi Cloud a permissão de \"Acesso de utilização\" nas Definições para poder copiar itens</string>
   <string name="dialog_backup_failed">Não foi possível copiar</string>
   <string name="dialog_btn_cancel_backup">Cancelar</string>
@@ -140,6 +143,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="dialog_btn_next">Seguinte</string>
   <string name="dialog_btn_overwrite_backup">Substituir</string>
   <string name="dialog_btn_restore_skip">Restaurar depois</string>
+  <string name="dialog_button_agree">Permitir</string>
+  <string name="dialog_button_disagree">Não permitir</string>
   <string name="dialog_buy_cloud_space">Actualizar</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
@@ -160,6 +165,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="download_meta_failed">Não foi possível carregar dados</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">Não foi possível transferir o ecrã inicial</string>
+  <string name="dump_app_data_record_complete_msg">Localização dos ficheiros: %s</string>
   <string name="error_retry_later">Não foi possível concluir a acção. Tente novamente mais tarde</string>
   <string name="error_unknown">Erro</string>
   <string name="expand_button_title">Avançado</string>
@@ -231,6 +237,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_app_order_search_installed">Aplicações neste dispositivo</string>
   <string name="restore_app_order_search_normal">Aplicações não prioritárias</string>
   <string name="restore_app_order_search_prior">Aplicações prioritárias</string>
+  <string name="restore_app_order_title">Dar prioridade aos itens restaurados</string>
   <string name="restore_cloud_backup_to_phone">Restaurar itens da Xiaomi Cloud</string>
   <string name="restore_data_title">Restaurar dados</string>
   <string name="restore_detail_category_app_data">Dados WeChat</string>
@@ -239,6 +246,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_detail_category_settings">Definições</string>
   <string name="restore_detail_more">Mais</string>
   <string name="restore_detail_title">Seleccionar itens para restaurar</string>
+  <string name="restore_failed_reason_app_data_error">Não foi possível restaurar dados do WeChat</string>
   <string name="restore_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
   <string name="restore_failed_reason_network_error">Erro de rede. Aguarde um momento e tente novamente</string>
   <string name="restore_finish_description">Restauro concluído</string>
@@ -251,6 +259,8 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_init_description">Iniciar restauro</string>
   <string name="restore_network_pause">Pausado para poupar dados móveis. Toque para retomar</string>
   <string name="restore_network_unconnect">%s (A aguardar por ligação)</string>
+  <string name="restore_prepare_item_type_enable">Cópias disponíveis</string>
+  <string name="restore_prepare_item_type_other">Outras cópias</string>
   <string name="restore_task_cancelling">A cancelar…</string>
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_task_unfinished">Não foi possível restaurar</string>

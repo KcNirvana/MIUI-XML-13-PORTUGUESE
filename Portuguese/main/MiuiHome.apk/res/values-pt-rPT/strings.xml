@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_all_app_custom_category_finish">Concluído</string>
   <string name="accessibility_all_app_custom_category_item_remove">Remover \"%1$s\" das categorias</string>
@@ -176,6 +176,13 @@
   <string name="content_description_workspace_thumbnail_item">Pré-visualização de ecrã %1$s</string>
   <string name="current_preview">Pré-visualizar</string>
   <string name="current_wallpaper">Actual</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para efectuar chamadas para contactos de emergência no Modo Leve</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para mostrar contactos de emergência no Modo Leve</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para mostrar o estado do dispositivo</string>
+  <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para mostrar os widgets do Calendário</string>
+  <string name="custom_define_permission_desc_android.permission_group.CAMERA">Para mostrar os widgets da Galeria</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para aceder ao nome do widget do Wi-Fi no Android Q</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para aceder e guardar dados do ecrã inicial</string>
   <string name="custom_wallpaper_picker">Explorar</string>
   <string name="defalut_launcher_title">Launcher predefinido</string>
   <string name="default_folder_title_game">Jogos</string>
@@ -230,6 +237,7 @@
   <string name="emptyplaylist">Toque para adicionar músicas</string>
   <string name="enable_wallpaper_scroll">Ligar efeito de movimento</string>
   <string name="encryption">Encriptação</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="failed_to_delete_temporary">Não é possível remover</string>
   <string name="failed_to_drop">Não é possível mover</string>
   <string name="failed_to_drop_widget_invalid">Widget inválido</string>
@@ -312,9 +320,9 @@
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos de sistema</string>
   <string name="key_shortcut_settings_title">Atalhos de botões</string>
-  <string name="launcher_icon_management">Gerir atalhos do ecrã inicial</string>
   <string name="launcher_global_search_mode_title">Pesquisa</string>
   <string name="launcher_global_search_provider_title">Fornecedor da pesquisa</string>
+  <string name="launcher_icon_management">Gerir atalhos do ecrã inicial</string>
   <string name="launcher_not_exist">Ocorreu um erro. Volte ao início e tente novamente</string>
   <string name="launcher_pull_down_title">Deslizar para baixo no ecrã inicial</string>
   <string name="launcher_search">Pesquisa do ecrã inicial</string>
@@ -326,6 +334,7 @@
   <string name="launcher_slide_up_title">Deslizar para cima no ecrã inicial</string>
   <string name="launcher_sliding_up_gesture">Deslizar para cima para abrir a pesquisa</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
+  <string name="lib_name">Filament Android</string>
   <string name="like">Adicionar aos favoritos</string>
   <string name="liked">Adicionado aos favoritos</string>
   <string name="loading_desktop">Aguarde…</string>
@@ -363,6 +372,7 @@
   <string name="menu_launcher_setting">Definições do launcher</string>
   <string name="menu_lock">Bloquear o layout do ecrã inicial</string>
   <string name="menu_more">Mais</string>
+  <string name="menu_no_word">Não mostrar texto</string>
   <string name="menu_picktheme">Escolher um tema</string>
   <string name="menu_reset_scene">Reiniciar para o layout predefinido</string>
   <string name="menu_search">Pesquisar</string>
@@ -372,6 +382,8 @@
   <string name="menu_wallpaper">Papel de parede</string>
   <string name="menu_workspace_preview">Pré-visualização dos ecrãs iniciais</string>
   <string name="mi_wallpaper">Temas MIUI</string>
+  <string name="minus_one_screen">Assistente</string>
+  <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
@@ -380,8 +392,6 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-  <string name="minus_one_screen">Assistente</string>
-  <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="mtzgadget_missing_text">Widget não disponível</string>
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, arraste o seu ícone e largue aqui</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslizar para cima desde a parte inferior do ecrã e depois deslizar para a esquerda ou direita</string>
@@ -538,6 +548,7 @@
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_frame">Fotograma</string>
   <string name="select_photo">Foto</string>
+  <string name="server_error">Ocorreu um erro de servidor. Aguarde um momente e tente novamente</string>
   <string name="setting_wallpaper_tip">Faça zoom ou deslize para ajustar</string>
   <string name="settings">Definições</string>
   <string name="settings_shortcut">Definições</string>
@@ -549,9 +560,9 @@
   <string name="shortcut_share_dialog_positive_button">Percebi</string>
   <string name="shortcut_share_dialog_title">Aviso legal</string>
   <string name="show_all">Ver tudo</string>
-  <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>
   <string name="show_most_popular_apps_you_used">Mostrar as aplicações frequentas na gaveta</string>
+  <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="slide_to_open_newhome">Deslizar para cima para abrir o centro de conteúdos</string>
   <string name="small_window_button_complete">Concluído</string>
   <string name="small_window_edit_content">Pode adicionar até %d aplicações</string>
@@ -567,7 +578,7 @@
   <string name="starting_preset_app">A iniciar…</string>
   <string name="status_bar_recent_memory_giga">%1$sGB</string>
   <string name="status_bar_recent_memory_info1">%1$s de %2$s disponíveis</string>
-  <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_memory_info2" />
   <string name="status_bar_recent_memory_mega">%1$sMB</string>
   <string name="status_downloaded">Transferido</string>
   <string name="status_downloading">A transferir…</string>
@@ -629,5 +640,10 @@
   <string name="widgets_preview_title">Adicionar widgets</string>
   <string name="work_mode_off_label">As notificações estão desligadas e as aplicações não estão disponíveis</string>
   <string name="work_mode_on_label">Gerido pela sua organização</string>
+  <string name="work_profile_first_content">Os dados pessoais estão separados e ocultos das aplicações de trabalho</string>
+  <string name="work_profile_got_button">Percebi</string>
+  <string name="work_profile_next_button">Seguinte</string>
+  <string name="work_profile_second_content">Os aplicações e dados de trabalho estão visíveis para o seu administrador</string>
+  <string name="work_profile_title">Perfil de trabalho</string>
   <string name="work_profile_toggle_label">Perfil de trabalho</string>
 </resources>

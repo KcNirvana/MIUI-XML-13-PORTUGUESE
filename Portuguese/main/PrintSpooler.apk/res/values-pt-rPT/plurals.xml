@@ -8,4 +8,8 @@
         <item quantity="other">Trabalhos de impressão %1$d</item>
         <item quantity="one">Trabalho de impressão %1$d</item>
     </plurals>
+    <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Instalar para descobrir %1$s impressoras</item>
+        <item quantity="one">Instalar para descobrir %1$s impressora</item>
+     </plurals>
 </resources>

@@ -49,6 +49,11 @@
         <item>Ligar sincronização</item>
         <item>Wi-Fi;Wifi;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sincronizar definições Wi-Fi com a Xiaomi Cloud</item>
+        <item>Ligar sincronização</item>
+        <item>Wi-Fi;Wifi;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_calendar">
         <item>Sincronizar Calendário com a Xiaomi Cloud</item>
         <item>Ligar sincronização</item>
@@ -60,7 +65,12 @@
         <item>Navegador;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizar Segurança com a Xiaomi Cloud</item>
+        <item>Sincronização de Segurança com a Xiaomi Cloud</item>
+        <item>Ligar sincronização</item>
+        <item>Segurança;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Sincronização de Segurança com a Xiaomi Cloud</item>
         <item>Ligar sincronização</item>
         <item>Segurança;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
@@ -79,6 +89,11 @@
         <item>Aceder às suas fotos, contactos, mensagens e dispositivos em qualquer lado</item>
         <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Lixo;Itens eliminados;Segurança</item>
     </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Todos os serviços num só sítio</item>
+        <item>Aceder às suas fotos, notas e dispositivos em qualquer lado</item>
+        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Lixo;Itens eliminados;Segurança</item>
+    </string-array>
     <string-array name="settings_search_find_phone">
         <item>Localizar Dispositivo</item>
         <item>Eliminar dados e bloquear o seu dispositivo se estiver perdido</item>
@@ -90,8 +105,13 @@
         <item>Localizar Dispositivo;Perdido;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Eliminar itens na Xiaomi Cloud</item>
+        <item>Itens eliminados na Xiaomi Cloud</item>
         <item>Restaurar contactos, fotos, mensagens e mais</item>
+        <item>Lixo;Itens eliminados;Reciclagem;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Itens eliminados na Xiaomi Clou</item>
+        <item>Restaurar fotos, notas e mais</item>
         <item>Lixo;Itens eliminados;Reciclagem;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
@@ -125,6 +145,11 @@
     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
         <item>Para identificar o seu dispositivo</item>
         <item>Para localizar o seu dispositivo e trocar para o modo perdido</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Para localizar o seu dispositivo e alterar para o modo perdido</item>
+        <item>Para localizar este dispositivo quando não estiver ligado à Internet</item>
+        <item>Para aceder ao número de telefone para localizar o dispositivo quando não estiver ligado à Internet</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Sincronizar os seus contactos, mensagens, notas, etc.</item>

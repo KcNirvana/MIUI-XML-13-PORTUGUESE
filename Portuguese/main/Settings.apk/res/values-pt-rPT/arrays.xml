@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Sobre outras aplicações</item>
+        <item>Barra de navegação</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Pequeno</item>
+        <item>Grande</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -241,6 +249,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
         <item>Alta qualidade (Predefinido)</item>
@@ -364,6 +373,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Predefinido)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Predefinição de sistema: %1$d</item>
         <item>1</item>
@@ -380,10 +394,8 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desactivado</item>
-        <item>Filtrados</item>
+        <item>Filtrado</item>
         <item>Activado</item>
-        <item>Cabeçalhos filtrados</item>
-        <item>Multimédia filtrado</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -400,6 +412,13 @@
         <item>Diminuir sombra</item>
         <item>Elevado</item>
         <item>Reduzido</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Muito grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
@@ -807,7 +826,6 @@
         <item>Não validar</item>
         <item>Pedir estado do certificado</item>
         <item>Necessário estado do certificado</item>
-        <item>Necessário estados de todos os certificados não fidedignos</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
@@ -978,7 +996,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>A rede está lenta devido ao excesso de tráfego</item>
@@ -1057,7 +1074,23 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Apenas NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>Global</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Apenas GSM</item>
+        <item>Apenas WCDMA</item>
+        <item>GSM/WCDMA preferencial</item>
+     </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
@@ -1336,8 +1369,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>L2TP/IPSec VPN com pré-partilha de chaves</item>
         <item>L2TP/IPSec VPN com certificados</item>
         <item>IPSec VPN com chaves pré-partilhadas e autenticação Xauth</item>
-        <item>IPSec com certificado VPN e autenticação Xauth</item>
-        <item>IPSec VPN com certificados e autenticação hibrida</item>
+        <item>IPSec VPN com certificado e autenticação Xauth</item>
+        <item>IPSec VPN com certificados e autenticação híbrida</item>
+        <item>IKEv2/IPSec VPN com certificados e autenticação utilizador/palavra-passe</item>
+        <item>IKEv2/IPSec VPN with com pré-partilha de chaves</item>
+        <item>IKEv2/IPSec VPN com certificados</item>
     </string-array>
     <string-array name="wfd_status">
         <item>A iniciar sessão…</item>
@@ -1363,7 +1399,18 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Móvel preferencial</item>
         <item>Apenas Wi-Fi</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Ims preferencial</item>
+        <item>Wi-Fi</item>
+        <item>Móvel</item>
+        <item>Apenas Wi-Fi</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Móvel</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Ims preferencial</item>
         <item>Wi-Fi</item>
         <item>Móvel</item>
     </string-array>
@@ -1388,6 +1435,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_link_turbo_mode_summary_entries">
         <item>Optimizar a velocidade da ligação utilizando os dados móveis quando a ligação Wi-Fi for fraca</item>
         <item>Combinar Wi-Fi e dados móveis para optimizar a velocidade da ligação</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detectar automaticamente</item>
+        <item>Tratar como medido</item>
+        <item>Tratar como não medido</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Ligado</item>
@@ -1461,6 +1513,20 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Ligado a %1$s</item>
         <item>Suspenso</item>
         <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>

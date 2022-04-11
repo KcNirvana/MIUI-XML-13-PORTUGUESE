@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_title_ad">Anúncios</string>
   <string name="activity_title_apk">Pacotes</string>
@@ -36,12 +36,21 @@
   <string name="app_clean_group_document_send">Ficheiros enviados</string>
   <string name="app_clean_group_image_recv">Imagens recebidas</string>
   <string name="app_clean_group_image_send">Imagens enviadas</string>
-  <string name="appcleaner_g_day_earlier">Mais cedo</string>
+  <string name="app_cleaned">Limpo com sucesso</string>
   <string name="app_description_content">A Limpeza procura lixo no seu dispositivo e liberta espaço de armazenamento. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="app_description_title">Acerca de Limpeza</string>
   <string name="app_name">Limpeza</string>
+  <string name="app_reset">Repor</string>
+  <string name="app_specific_clean">Limpeza</string>
+  <string name="app_unload">Desinstalar</string>
   <string name="app_usage_never">Não utilizada recentemente</string>
   <string name="app_usage_recently">Utilizada recentemente</string>
+  <string name="appcleaner_g_day_earlier">Mais cedo</string>
+  <string name="appcleaner_g_earlier">Mais cedo</string>
+  <string name="appcleaner_g_last_month">Último mês</string>
+  <string name="appcleaner_g_this_month">Este mês</string>
+  <string name="appcleaner_main_cleaning">A limpar…</string>
+  <string name="appcleaner_result_dc_card_title">Libertar mais espaço</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
   <string name="apps_sort_type_item_time">Utilizado frequentemente</string>
   <string name="apps_sort_type_title">Ordenar</string>
@@ -98,6 +107,21 @@
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Registos de chamadas</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_select_all">Desmarcar tudo</string>
+  <string name="cd_back">back</string>
+  <string name="cd_check_box_checked">checked</string>
+  <string name="cd_check_box_middle">partial selection</string>
+  <string name="cd_check_box_unchecked">not checked</string>
+  <string name="cd_list_item_collapse">collapsed</string>
+  <string name="cd_list_item_expanded">expanded</string>
+  <string name="cd_percent">percent</string>
+  <string name="cd_scanning">scanning</string>
+  <string name="cd_settings">settings</string>
+  <string name="cd_sort_type">sort type</string>
+  <string name="clean_ing">A limpar…</string>
+  <string name="clean_item_tip_data_app">Limpar dados para %s</string>
+  <string name="clean_item_tip_reset_app">Report %s</string>
+  <string name="clean_item_tip_unload_app">Desinstalar %s</string>
   <string name="clean_master_icon_recall_button_text">Adicionar</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
@@ -108,6 +132,7 @@
   <string name="clean_master_icon_recall_title">Limpar lixo mais rapidamente</string>
   <string name="clean_master_icon_recall_toast_text">Adicionado o atalho ao ecrã inicial com sucesso</string>
   <string name="clean_summary">%1$s limpos</string>
+  <string name="clear_app_data">Limpar</string>
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Widget de notificação</string>
@@ -117,6 +142,10 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Ligação de rede para Segurança</string>
   <string name="connecting">A ligar…</string>
+  <string name="continue_check">Seleccionar</string>
+  <string name="continue_to_do">Continuar</string>
+  <string name="copy">Copiar</string>
+  <string name="data_selected">Itens seleccionados</string>
   <string name="dc_activity_title">Limpeza Profunda</string>
   <string name="dc_advise_delete">Libertar espaço</string>
   <string name="dc_group_title_appclean">Aplicações</string>
@@ -135,13 +164,13 @@
   <string name="dc_item_title_wechat_chat">Limpar histórico do WeChat</string>
   <string name="dc_storage_cleaned">Libertado %s</string>
   <string name="dc_storage_info">Disponível %1$s | Total %2$s</string>
-  <string name="deepclean_apk_group_hint_checked">Seleccionar tudo</string>
-  <string name="deepclean_apk_group_hint_unchecked">Desmarcar tudo</string>
   <string name="deep_clean_completed_tips">Limpo com sucesso</string>
   <string name="deep_clean_data_path_clean_title">Limpar cache</string>
   <string name="deep_clean_uninstall_completed_tips">Desinstalado com sucesso</string>
   <string name="deepclean_1_k_clean">Limpar memória</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
+  <string name="deepclean_apk_group_hint_checked">Seleccionar tudo</string>
+  <string name="deepclean_apk_group_hint_unchecked">Desmarcar tudo</string>
   <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>
   <string name="deepclean_app_summary_empty">Verificação concluída. Sem aplicações para eliminar​</string>
@@ -175,6 +204,7 @@
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="delete_confirm">Eliminar</string>
   <string name="delete_confirm_msg">Eliminar todos os ficheiros seleccionados permanentemente?</string>
+  <string name="delete_slected_data">Repor</string>
   <string name="desc_image">Imagem</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Xiaomi Cloud</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
@@ -213,6 +243,7 @@
   <string name="engine_init">A iniciar…</string>
   <string name="engine_mi">Xiaomi</string>
   <string name="engine_tm">Tencent</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="facebook_clean_exit_confirm_cancel">Continuar a verificar</string>
   <string name="facebook_clean_exit_confirm_msg">Ainda não concluiu a verificação. Parar verificação agora?</string>
   <string name="facebook_clean_exit_confirm_ok">Parar</string>
@@ -363,7 +394,10 @@
   <string name="install_time_format">dd/MM/yyyy</string>
   <string name="installed">Instalado</string>
   <string name="installing">A instalar</string>
+  <string name="is_Scanning">A analisar…</string>
+  <string name="item_content_app_reset">%s ocupados</string>
   <string name="item_title_process_mode">Escolha uma acção</string>
+  <string name="jump_to_next">Ignorar</string>
   <string name="junk_tag_RF_EmptyFolders">Pastas vazia</string>
   <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
   <string name="junk_temporary_file">Ficheiros temporários</string>
@@ -419,8 +453,10 @@
   <string name="nb_clear_set">Limpar cache, ver informações de bateria e lista de bloqueio na área de notificações</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="news_change">Alterar</string>
+  <string name="next_step">Seguinte</string>
   <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
+  <string name="not_selected_tips">Seleccionar aplicações primeiro</string>
   <string name="not_set">Não definido</string>
   <string name="notification_apk_clean_button_text">Limpar</string>
   <string name="notification_checker_installed_apk_hint">Não é necessário guardar APKs após instalação</string>
@@ -452,8 +488,8 @@
   <string name="notification_low_storage_size_1.5_GB_btn">Limpar</string>
   <string name="notification_low_storage_size_1.5_GB_hint">Limpar espaço de armazenamento para optimizar o seu dispositivo</string>
   <string name="notification_low_storage_size_1_GB">Menos de %dGB restantes</string>
-  <string name="notification_low_storage_size_1_GB_hint">A Limpeza Profunda pode ajudar</string>
   <string name="notification_low_storage_size_1_gb_hint">Libertar armazenamento para optimizar o seu dispositivo</string>
+  <string name="notification_low_storage_size_1_GB_hint">A Limpeza Profunda pode ajudar</string>
   <string name="notification_low_storage_size_1p5_gb_hint">Limpar lixo para optimizar o seu dispositivo</string>
   <string name="notification_memory_clean_button_text">Optimizar</string>
   <string name="notification_memory_clean_hint">Toque para optimizar velocidade</string>
@@ -555,8 +591,9 @@
   <string name="recommend_news">Receber recomendações</string>
   <string name="recommend_the_following">Execute as acções seguintes para tirar mais do seu dispositivo</string>
   <string name="recommended">Em destaque</string>
-  <string name="remain_item_name_n7p"/>
-  <string name="remain_item_name_pamp"/>
+  <string name="reset_app_dialog_summary">Vai repor as aplicações seleccionadas. Todos os dados das aplicações (início de sessão, imagens em cache, etc.) vão ser eliminados permanentemente e as aplicações vão voltar ao seu estado inicial</string>
+  <string name="reset_app_dialog_title">Repor aplicações</string>
+  <string name="reset_selected">Repor %s</string>
   <string name="resutl_function_deep_clean_summary">"<font color="#ff0000">%1$s</font> de ficheiros podem ser limpos. Liberte mais espaço"</string>
   <string name="rs_clean_size_free_space">Libertar %s</string>
   <string name="rs_clean_size_storage_size">Ocupado %1$s/%2$s</string>
@@ -567,6 +604,7 @@
   <string name="search_history">Pesquisar histórico</string>
   <string name="security_center_slogan">Segurança. Sempre de guarda</string>
   <string name="see_more">Mais</string>
+  <string name="select_all">Seleccionar tudo</string>
   <string name="set_immediately">Definir</string>
   <string name="seton_immediately">Ligar</string>
   <string name="share">Partilhar</string>
@@ -576,6 +614,7 @@
   <string name="similar_image_title">Fotos</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Patrocinado</string>
+  <string name="start_clean">Iniciar</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_install">Instalar agora</string>
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
@@ -586,6 +625,11 @@
   <string name="sys_cache_on_sdcard_item_name">Cache</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
+  <string name="tips_app_reset_dialog">Repor as aplicações liberta espaço sem ter de desinstalar as aplicações. Todos os dados das aplicações (início de sessão, imagens em cache, etc.) vão ser eliminados permanentemente</string>
+  <string name="tips_app_reset_result_page">Repor as aplicações para eliminar todos os seus dados e pô-las no seu estado inicial</string>
+  <string name="tips_app_reset_top">Repor as aplicações para o seu estado inicial e eliminar todos os seus dados</string>
+  <string name="tips_app_specific_clean_result_page">Libertar espaço de armazenamento</string>
+  <string name="tips_data_page">Limpar dados das aplicações para libertar espaço</string>
   <string name="tips_low_storage_dialog_cancel">Cancelar</string>
   <string name="tips_low_storage_dialog_msg_storage">Está a utilizar 90% do seu espaço de armazenamento. Desinstale aplicações que não utiliza</string>
   <string name="tips_low_storage_dialog_msg_storage_new">Está a utilizar %s do seu espaço de armazenamento. Desinstale aplicações que não utiliza</string>
@@ -604,6 +648,9 @@
   <string name="tips_of_traffic_notification">Ver as estatísticas de dados móveis na área de notificações</string>
   <string name="tips_of_traffic_pack_threshold">"Comprar mais dados quando estiver prestes a chegar ao limite do tráfego"</string>
   <string name="tips_of_virus_scan">Verificar regularmente o seu dispositivo por vírus para o manter seguro</string>
+  <string name="tips_reset_page">Repor estas aplicações para eliminar todos os seus dados e libertar espaço</string>
+  <string name="tips_result_ad">Tentar estas aplicações no espaço libertado?</string>
+  <string name="tips_unload_page">Desinstalar as aplicações que não utiliza há %d dias</string>
   <string name="title_auto_cleaner">Limpeza automática</string>
   <string name="title_delete_cache">Limpar cache das aplicações</string>
   <string name="title_delete_clipboard">Conteúdo da área de transferências</string>
@@ -620,6 +667,7 @@
   <string name="title_of_traffic_notification">Barra de estatísticas de dados</string>
   <string name="title_optimizer">Termos e Condições</string>
   <string name="title_share_link">Partilhar URL</string>
+  <string name="to_reset_app">Repor</string>
   <string name="toast_add_white_list_success">Adicionado às excepções</string>
   <string name="toast_app_no_residual_on_sdcard">A aplicações não tem nenhum ficheiro armazenado no cartão SD</string>
   <string name="toast_backup_is_running">A cópia está em execução</string>
@@ -645,6 +693,7 @@
   <string name="total_clean_text">Limpar</string>
   <string name="unlike">Não, obrigado</string>
   <string name="update_date_format">dd-MM-yyyy</string>
+  <string name="updating_tips">Aguarde…</string>
   <string name="video_clean">Limpar vídeos em cache</string>
   <string name="video_clean_auto_clean">Limpar automaticamente</string>
   <string name="video_clean_auto_clean_summary">Limpar vídeos em cache automaticamente após verificação</string>
@@ -707,6 +756,10 @@
   <string name="white_list_large_file_header">Ficheiros grandes e vídeos: %d</string>
   <string name="white_list_residual_header">Residuais: %d</string>
   <string name="white_list_title">Excepções</string>
+  <string name="wqfile_group_chat_file">Ficheiros enviados em aplicações de mensagens</string>
+  <string name="wqfile_group_chat_pic">Imagens de aplicações de mensagens</string>
+  <string name="wqfile_group_chat_video">Vídeos de aplicações de mensagens</string>
+  <string name="wqfile_group_chat_voice">Mensagens de voz</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Ontem</string>
 </resources>

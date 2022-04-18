@@ -387,7 +387,7 @@
   <string name="homepage_today">Agora</string>
   <string name="horoscope">Horóscopo</string>
   <string name="icon_add_description">Adicionar um atalho no ecrã inicial</string>
-  <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="icon_content_description">Ícone de caixa de diálogo</string>
   <string name="icon_remove_confirm">Remover</string>
   <string name="icon_remove_description_content">Calendário é uma aplicação de sistema. Ainda vai pode utilizar o Calendário através do widget no ecrã inicial ou no assistente após remover</string>
   <string name="icon_remove_description_title">Remover \"Calendário\" do ecrã inicial?</string>

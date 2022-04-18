@@ -59,7 +59,7 @@
   <string name="hearing_assist_transmission_tips_continue">Ligar</string>
   <string name="hearing_assist_transmission_tips_summary">Transmitir o microfone do seu telefone para os auriculares Bluetooth. Ligar agora?</string>
   <string name="hearing_assist_transmission_tips_title">Monitorização ao vivo</string>
-  <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="icon_content_description">Ícone de caixa de diálogo</string>
   <string name="item_view_role_description">Separador</string>
   <string name="kddi_miui_toast_zen_standard_to_off">As chamadas e notificações vão ser reproduzidas</string>
   <string name="kddi_miui_toast_zen_to_standard">As chamadas e notificações vão ser silenciadas</string>

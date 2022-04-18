@@ -39,6 +39,10 @@
         <item quantity="other">%d destinatários</item>
         <item quantity="one">%d destinatário</item>
     </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Recebeu %d convites para conversas de grupo</item>
+        <item quantity="one">Recebeu %d convite para conversas de grupo</item>
+    </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s mensagens enviadas</item>
         <item quantity="one">%1$s mensagem enviada</item>

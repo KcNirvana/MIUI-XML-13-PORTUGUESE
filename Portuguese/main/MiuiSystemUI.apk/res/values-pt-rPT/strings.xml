@@ -116,6 +116,7 @@
   <string name="accessibility_ethernet_disconnected">Ethernet desligada</string>
   <string name="accessibility_expand_button">Mostrar mais</string>
   <string name="accessibility_face_dialog_face_icon">Ícone do rosto</string>
+  <string name="accessibility_fingerprint_bouncer">Necessário autenticação. Toque no sensor de impressão digital para autenticar</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone da impressão digital</string>
   <string name="accessibility_gps_acquiring">A adquirir GPS</string>
   <string name="accessibility_gps_enabled">GPS activado</string>
@@ -2202,4 +2203,8 @@ Endereço Wi-Fi (BSSID)
   <string name="zen_priority_introduction">Não vai ser incomodado por sons e vibrações, excepto de alarmes, lembretes, eventos e contactos que especificou. Continua a ouvir tudo o que optar por reproduzir, incluindo música, vídeos e jogos</string>
   <string name="zen_silence_introduction">Esta acção bloqueia TODOS os sons e vibrações, incluindo de alarmes, de músicas, de vídeos e de jogos</string>
   <string name="zen_silence_introduction_voice">Esta acção bloqueia TODOS os sons e vibrações, incluindo de alarmes, música, vídeos e jogos. Continua a poder fazer chamadas</string>
+  
+  
+  
+  
 </resources>

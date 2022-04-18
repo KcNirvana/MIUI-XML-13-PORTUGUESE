@@ -83,11 +83,6 @@
         <item>Qualcomm® aptX™</item>
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ adaptável</item>
-        <item>Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Predefinição de sistema</item>
@@ -96,13 +91,6 @@
         <item>Qualcomm® aptX™</item>
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ adaptável</item>
-        <item>Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Activar codecs opcionais</item>
-        <item>Desactivar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predefinido)</item>
@@ -119,8 +107,6 @@
         <item>Desactivado</item>
         <item>Filtrados</item>
         <item>Activado</item>
-        <item>Cabeçalhos filtrados</item>
-        <item>Multimédia filtrado</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
@@ -246,6 +232,131 @@
         <item>Desenhar região de clipe não retangular a azul</item>
         <item>Realçar comandos de desenho testados a verde</item>
     </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Indisponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
         <item>No ecrã como barras</item>
@@ -310,6 +421,20 @@
         <item>Ligado a %1$s</item>
         <item>Suspenso</item>
         <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>

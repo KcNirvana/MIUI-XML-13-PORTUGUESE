@@ -31,10 +31,35 @@
         <item>1 dia</item>
         <item>Máximo</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>Serviço de mensagens proposto</item>
+        <item>SMS, MMS</item>
+        <item>Conversas RCS, Transferências de ficheiros RCS</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas em modo Silêncio</item>
         <item>Nunca</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Enviar sempre como link SMS</item>
+        <item>Nunca enviar como link SMS</item>
+        <item>Perguntar sempre</item>
+     </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Enviar sempre como SMS</item>
+        <item>Nunca enviar como SMS</item>
+        <item>Perguntar sempre</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>Perguntar sempre</item>
+        <item>Nunca redimensionar</item>
+        <item>Redimensionar sempre e guardar como valor predefinido</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>Perguntar sempre</item>
+        <item>Nunca redimensionar</item>
+        <item>Redimensionar sempre e guardar como valor predefinido</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>

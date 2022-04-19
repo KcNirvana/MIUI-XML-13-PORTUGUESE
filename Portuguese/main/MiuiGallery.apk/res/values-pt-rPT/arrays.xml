@@ -293,10 +293,6 @@
         <item>Fim de semana do pequenino</item>
         <item>O pequenino</item>
     </string-array>
-    <string-array name="last_year_group_people">
-        <item>Novos e velhos amigos</item>
-        <item>Reuniões do último ano</item>
-    </string-array>
     <string-array name="menu_copy_or_move">
         <item>Mover</item>
         <item>Copiar</item>

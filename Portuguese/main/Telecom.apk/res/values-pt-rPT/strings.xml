@@ -565,7 +565,7 @@ Verifique a validade dos certificados"</string>
   <string name="wifi_wapi_fail_to_init">"Não foi possível abrir os certificados WAPI
 O armazenamento de credenciais pode não estar activo"</string>
   <string name="wifi_wapi_psk_type">Tipo de palavra-passe</string>
-  <string name="wifi_wapi_user_certificate">Certificado de Utilizador</string>
+  <string name="wifi_wapi_user_certificate">Certificado de utilizador</string>
   <string name="window_animation_scale_title">Escala da janela de animação</string>
   <string name="zen_alarm_warning">Não vai ouvir o próximo alarme à(s) %1$s</string>
   <string name="zen_alarm_warning_indef">Só vai ouvir o próximo alarme %1$s se desligar esta funcionalidade antes dessa hora</string>

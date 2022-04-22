@@ -29,13 +29,13 @@
   <string name="childhood">Childhood</string>
   <string name="chimes">Chimes</string>
   <string name="chirp">Chilro</string>
-  <string name="chord">Acorde</string>
+  <string name="chord">Acordes</string>
   <string name="citylight">Luzes da cidade</string>
   <string name="clank">Clank</string>
   <string name="cloud_state_disabled">Sincronização com a Xiaomi Cloud desligada</string>
   <string name="cloud_state_finished">Sincronizado com a Xiaomi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud</string>
-  <string name="country">País</string>
+  <string name="country">Países</string>
   <string name="countryside">Campo</string>
   <string name="cowboy">Cowboy</string>
   <string name="crystal">Cristal</string>
@@ -128,7 +128,7 @@ d 'de' MMMM"</string>
   <string name="robot">Robot</string>
   <string name="secretgarden">Jardim secreto</string>
   <string name="southwestmountain_preview">Montanhas</string>
-  <string name="spaceage">Space age</string>
+  <string name="spaceage">Era espacial</string>
   <string name="spring">Primavera</string>
   <string name="stoneskimming_preview">Passos leves</string>
   <string name="sunrise">Nascer do sol</string>

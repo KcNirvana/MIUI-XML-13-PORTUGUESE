@@ -116,6 +116,14 @@
         <item quantity="other">%s aplicações vão ser protegidas pelo Bloqueio de aplicações</item>
         <item quantity="one">%s aplicação vai ser protegidas pelo Bloqueio de aplicações</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplicações incluindo %1$s</item>
+        <item quantity="one">%2$d aplicação incluindo %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d vezes</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicações podem ligar à rede em segundo plano</item>
         <item quantity="one">%d aplicação pode ligar à rede em segundo plano</item>
@@ -241,6 +249,14 @@ You can get a %d-day free trial now!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Get a %d-day free trial</item>
         <item quantity="one">Get a %d-day free trial</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Adicionar até %d aplicações</item>
+        <item quantity="one">Adicionar até %d aplicação</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Adicionar até %d aplicações</item>
+        <item quantity="one">Adicionar até %d aplicação</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Esta funcionalidade diminui o brilho do ecrã após %d minutos de inactividade automaticamente. Manter ligada?</item>
@@ -401,6 +417,10 @@ You can get a %d-day free trial now!"</item>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d aplicações, incluindo %1$s, estão a descarregar a bateria</item>
         <item quantity="one">%2$d aplicação, incluindo %1$s, está a descarregar a bateria</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Eliminar %d pacotes de instalação</item>
+        <item quantity="one">Eliminar %d pacote de instalação</item>
     </plurals>
     <plurals name="notification_link_cleaner_2006">
         <item quantity="other">Eliminar %d APKs</item>
@@ -634,6 +654,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">%s aplicações com acesso permanente</item>
         <item quantity="one">%s aplicação com acesso permanente</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permitido para %s aplicações</item>
+        <item quantity="one">Permitido para %s aplicação</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s vezes</item>
         <item quantity="one">%s vez</item>
@@ -762,9 +786,25 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">Actualizações disponíveis para %d aplicações</item>
         <item quantity="one">Actualização disponível para %d aplicação</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Modo Foco ligado por %d minutos</item>
+        <item quantity="one">Modo Foco ligado por %d minuto</item>
+    </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Após o ecrã estar bloqueado por %d minutos</item>
+        <item quantity="one">Após o ecrã estar bloqueado por %d minuto</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">Ainda não sincronizou as estatísticas de utilização de dados em %d dias</item>
         <item quantity="one">Ainda não sincronizou as estatísticas de utilização de dados em %d dia</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Bloquear ecrã após %d minutos</item>
+        <item quantity="one">Bloquear ecrã após %d minuto</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
@@ -807,6 +847,10 @@ Faça um intervalo!"</item>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizações</item>
         <item quantity="one">%1$d visualização</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Limpar %d aplicações seleccionadas?</item>
+        <item quantity="one">Limpar %d aplicação seleccionada?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicações maliciosas: %d</item>

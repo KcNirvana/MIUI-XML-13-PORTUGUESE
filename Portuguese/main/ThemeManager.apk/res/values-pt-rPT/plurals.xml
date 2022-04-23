@@ -32,9 +32,37 @@
         <item quantity="other">%1$d itens não adicionados à sua conta</item>
         <item quantity="one">%1$d item não adicionado à sua conta</item>
     </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Disponíveis actualizações para %1$d temas</item>
+        <item quantity="one">Disponíveis actualizações para %1$d tema</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">A actualizar %1$d temas</item>
+        <item quantity="one">A actualizar %1$d tema</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fãs</item>
+        <item quantity="one">%1$d fã</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="de_icon_count">
         <item quantity="other">%1$d ícones</item>
         <item quantity="one">%1$d ícone</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">Mais %1$d comentários</item>
+        <item quantity="one">Mais %1$d comentário</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s recompensas</item>
+        <item quantity="one">%s recompensa</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s recompensas</item>
+        <item quantity="one">%s recompensa</item>
     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d horas atrás</item>

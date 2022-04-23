@@ -6,4 +6,23 @@
     <string name="bugreport_finished_text">Toque para partilhar o seu relatório de erros</string>
     <string name="bugreport_finished_title">Relatório de erros terminado</string>
     <string name="bugreport_storage_title">Relatórios de erros</string>
+    <string name="bugreport_add_details_to_zip_failed">"Couldn't add bug report details to zip file"</string>
+    <string name="bugreport_confirm_dont_repeat">Não mostrar novamente</string>
+    <string name="bugreport_finished_pending_screenshot_text">Tap to share your bug report without a screenshot or wait for the screenshot to finish</string>
+    <string name="bugreport_in_progress_title">Bug report #%d is being generated</string>
+    <string name="bugreport_info_action">Detalhes</string>
+    <string name="bugreport_info_description">Bug summary</string>
+    <string name="bugreport_info_dialog_title">Bug report #%d details</string>
+    <string name="bugreport_info_name">Filename</string>
+    <string name="bugreport_info_title">Bug title</string>
+    <string name="bugreport_intent_chooser_title">Share Bug report</string>
+    <string name="bugreport_notification_channel">Bug reports</string>
+    <string name="bugreport_screenshot_action">Screenshot</string>
+    <string name="bugreport_screenshot_failed">Screenshot could not be taken.</string>
+    <string name="bugreport_screenshot_taken">Screenshot taken successfully.</string>
+    <string name="bugreport_unnamed">Sem nome</string>
+    <string name="bugreport_unreadable_text">Bug report file could not be read</string>
+    <string name="bugreport_updating_title">Adding details to the bug report</string>
+    <string name="bugreport_updating_wait">Please wait…</string>
+    <string name="save">Guardar</string>
 </resources>

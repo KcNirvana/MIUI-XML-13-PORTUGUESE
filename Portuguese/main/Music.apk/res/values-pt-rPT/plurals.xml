@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Your subscription is expiring in %d days.
+Do you want us to help renew it?"</item>
+        <item quantity="one">"Your subscription is expiring in %d day.
+Do you want us to help renew it?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="one">You can download %1$d free song. Download %2$s now?</item>
+    </plurals>
     <plurals name="Nalbum_total_songs">
         <item quantity="other">Total músicas: %d</item>
         <item quantity="one">Total músicas: %d</item>
@@ -45,6 +55,20 @@ Total músicas: %2$d"</item>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Eliminar %d itens?</item>
         <item quantity="one">Eliminar %d item?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Eliminar %d itens?
+Nota: Os ficheiros também vão ser eliminados"</item>
+        <item quantity="one">"Eliminar %d item?
+Nota: O ficheiros também vai ser eliminado"</item>
+    </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d of the selected songs are stored in an external folder. Grant the required permissions to delete them.</item>
+        <item quantity="one">%d of the selected songs is stored in an external folder. Grant the required permissions to delete it.</item>
+    </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d free downloads left</item>
+        <item quantity="one">%d free download left</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Eliminar %d músicas?</item>
@@ -97,5 +121,21 @@ Total músicas: %2$d"</item>
     <plurals name="songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="one">Crossfade between songs: %d second</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Vídeos</item>
+        <item quantity="one">Vídeo</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s view</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d day remaining</item>
     </plurals>
 </resources>

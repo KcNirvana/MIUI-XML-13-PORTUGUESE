@@ -1534,7 +1534,6 @@ Pretende fechá-la?"</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Requesting SP Equivalent Home PLMN unlock…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP Equivalent Home PLMN unlock successful.</string>
   <string name="RestrictedStateContentMsimTemplate">Temporarily turned off by your carrier for SIM %d</string>
-"</string>
   <string name="accessibility_shortcut_multiple_service_warning">"Holding down both volume keys for a few seconds turns on accessibility features. This may change how your device works.
 
 Current features:

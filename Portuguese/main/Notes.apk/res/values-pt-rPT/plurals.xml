@@ -16,6 +16,10 @@
         <item quantity="other">%1$d dias antes</item>
         <item quantity="one">%1$d dia ante</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s pastas</item>
+        <item quantity="one">%1$s pasta</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s notas removidas da pasta</item>
         <item quantity="one">%1$s nota removida da pasta</item>
@@ -27,6 +31,10 @@
     <plurals name="item_terms">
         <item quantity="other">%1$s itens</item>
         <item quantity="one">%1$s item</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notas</item>
+        <item quantity="one">%1$s nota</item>
     </plurals>
     <plurals name="pc_notes_search_result">
         <item quantity="other">Encontrou %1$s notas</item>
@@ -75,13 +83,5 @@
     <plurals name="word_count">
         <item quantity="other">%d caracteres</item>
         <item quantity="one">%d caracter</item>
-    </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s pastas</item>
-        <item quantity="one">%1$s pasta</item>
-    </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s notas</item>
-        <item quantity="one">%1$s nota</item>
     </plurals>
 </resources>

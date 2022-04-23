@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="folder_operations">
-        <item>Renomear</item>
-        <item>Eliminar</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Câmara</item>
         <item>Galeria</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>Data de criação</item>
-        <item>Data de modificação</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>
@@ -25,12 +17,6 @@
         <item>Endereço</item>
         <item>Nota</item>
     </string-array>
-    <string-array name="font_size_names">
-        <item>Pequena</item>
-        <item>Média</item>
-        <item>Grande</item>
-        <item>Enorme</item>
-    </string-array>
     <string-array name="first_guide_contents">
         <item>Bem-vindo às Notas</item>
         <item>Tire notas</item>
@@ -40,6 +26,20 @@
         <item>Pode criar capturas de ecrã nas Notas automaticamente e partilhá-las com os amigos</item>
         <item>Crie e mude entre pastas</item>
         <item>Prima a seta para criar uma nova pasta ou mudar entre as existentes</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Renomear</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequena</item>
+        <item>Média</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Data de criação</item>
+        <item>Data de modificação</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Notas de voz</item>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="contact_entries">
         <item>Nome</item>
@@ -45,7 +45,7 @@
         <item>Enviar sempre como link SMS</item>
         <item>Nunca enviar como link SMS</item>
         <item>Perguntar sempre</item>
-     </string-array>
+    </string-array>
     <string-array name="rcs_message_fallback">
         <item>Enviar sempre como SMS</item>
         <item>Nunca enviar como SMS</item>
@@ -69,10 +69,6 @@
         <item>SMS</item>
         <item>Mi Message</item>
     </string-array>
-    <string-array name="switch_sdk">
-         <item>Mi Message</item>
-         <item>CMCC SMS Inteligentes</item>
-    </string-array>
     <string-array name="select_dialog_items">
         <item>1 segundo</item>
         <item>2 segundos</item>
@@ -85,5 +81,9 @@
         <item>9 segundos</item>
         <item>10 segundos</item>
         <item>Outros</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi Message</item>
+        <item>CMCC SMS Inteligentes</item>
     </string-array>
 </resources>

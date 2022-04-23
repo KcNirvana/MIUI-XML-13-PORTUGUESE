@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string-array name="cta_permission_names">
+    <string-array name="cta_permission_names">
         <item>aceder à rede</item>
         <item>ler SMS</item>
         <item>modificar SMS</item>

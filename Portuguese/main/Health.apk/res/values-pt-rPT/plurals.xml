@@ -60,13 +60,13 @@
         <item quantity="other">%1$d ciclos</item>
         <item quantity="one">%1$d ciclo</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">%1$d segundos restantes</item>
-        <item quantity="one">%1$d segundo restante</item>
-    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d segundos restantes</item>
+        <item quantity="one">%1$d segundo restante</item>
     </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d dias desde a última pesagem</item>
@@ -252,7 +252,7 @@
         <item quantity="other">" dias"</item>
         <item quantity="one">" dia"</item>
     </plurals>
-   <plurals name="unit_group">
+    <plurals name="unit_group">
         <item quantity="other">" ciclos"</item>
         <item quantity="one">" ciclo"</item>
     </plurals>

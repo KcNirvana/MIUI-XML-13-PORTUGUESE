@@ -4,6 +4,9 @@
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
+    <string-array name="feature_desc">
+        <item>Optimizado para utilizadores internacionais</item>
+    </string-array>
     <string-array name="month12">
         <item>Janeiro</item>
         <item>Fevereiro</item>
@@ -18,7 +21,4 @@
         <item>Novembro</item>
         <item>Dezembro</item>
     </string-array>
-    <string-array name="feature_desc">
-        <item>Optimizado para utilizadores internacionais</item>
-    </string-array>
- </resources>
+</resources>

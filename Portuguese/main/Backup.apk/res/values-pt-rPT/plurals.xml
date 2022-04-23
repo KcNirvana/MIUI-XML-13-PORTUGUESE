@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="backup_items_app_tailer">
+    <plurals name="backup_items_app_tailer">
         <item quantity="other">%d ficheiros de aplicações</item>
         <item quantity="one">%d ficheiro de aplicações</item>
     </plurals>

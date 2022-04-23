@@ -18,7 +18,7 @@
         <item>Dia especial</item>
         <item>Dia para relembrar</item>
         <item>Momentos vibrantes</item>
-        </string-array>
+    </string-array>
     <string-array name="annual_foods_title">
         <item>Um ano delicioso</item>
         <item>Três cursos. Quatro estações</item>
@@ -110,6 +110,20 @@
         <item>Espíritos afins</item>
         <item>Momentos brilhantes da vida</item>
     </string-array>
+    <string-array name="last_month">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </string-array>
     <string-array name="last_some_day_babies_title">
         <item>Ocupado a crescer</item>
         <item>Mais bonito e mais bonito</item>
@@ -139,6 +153,11 @@
     <string-array name="last_some_day_wedding_title">
         <item>Um grande dia</item>
         <item>Abaixo do corredor!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Hora de brincar</item>
+        <item>Fim de semana do pequenino</item>
+        <item>O pequenino</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Os meus fins-de-semana</item>
@@ -273,25 +292,6 @@
         <item>Brasil</item>
         <item>Islândia</item>
         <item>Quénia</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>Janeiro</item>
-        <item>Fevereiro</item>
-        <item>Março</item>
-        <item>Abril</item>
-        <item>Maio</item>
-        <item>Junho</item>
-        <item>Julho</item>
-        <item>Agosto</item>
-        <item>Setembro</item>
-        <item>Outubro</item>
-        <item>Novembro</item>
-        <item>Dezembro</item>
-    </string-array>
-    <string-array name="last_week_baby_title">
-        <item>Hora de brincar</item>
-        <item>Fim de semana do pequenino</item>
-        <item>O pequenino</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Mover</item>

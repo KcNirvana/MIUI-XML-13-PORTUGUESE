@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessing_notification_title">A aceder ficheiros de %1$s</string>
-  <string name="app_label">Anfitrião MTP</string>
-  <string name="downloads_app_label">Transferências</string>
-  <string name="error_busy_device">O outro dispositivo está ocupado. Não pode transferir ficheiros até estar disponível</string>
-  <string name="error_locked_device">Sem ficheiros. O outro dispositivo pode estar bloqueado. Se estiver, desbloqueie e tente novamente</string>
+    <string name="accessing_notification_title">A aceder ficheiros de %1$s</string>
+    <string name="app_label">Anfitrião MTP</string>
+    <string name="downloads_app_label">Transferências</string>
+    <string name="error_busy_device">O outro dispositivo está ocupado. Não pode transferir ficheiros até estar disponível</string>
+    <string name="error_locked_device">Sem ficheiros. O outro dispositivo pode estar bloqueado. Se estiver, desbloqueie e tente novamente</string>
 </resources>

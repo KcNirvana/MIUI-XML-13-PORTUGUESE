@@ -44,9 +44,9 @@
         <item quantity="other">Aniversário: %2$d anos de %1$s</item>
         <item quantity="one">Aniversário: %2$d anos de %1$s</item>
     </plurals>
-   <plurals name="anniversary_year">
-       <item quantity="other">%1$s anos</item>
-       <item quantity="one">%1$s ano</item>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s anos</item>
+        <item quantity="one">%1$s ano</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
         <item quantity="other">Há %1$d dias foi o</item>

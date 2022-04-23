@@ -154,11 +154,6 @@
         <item>Fim de semana</item>
         <item>Semana inteira</item>
     </string-array>
-    <string-array name="repeat_countdown">
-        <item>Nunca</item>
-        <item>Mensalmente</item>
-        <item>Anualmente</item>
-    </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Seg</item>
         <item>Ter</item>
@@ -167,6 +162,11 @@
         <item>Sex</item>
         <item>Sáb</item>
         <item>Dom</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Nunca</item>
+        <item>Mensalmente</item>
+        <item>Anualmente</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>dia</item>

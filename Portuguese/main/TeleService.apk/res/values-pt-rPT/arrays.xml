@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Apenas casa</item>
+        <item>Automático</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA preferencial</item>
         <item>Apenas GSM</item>
@@ -35,10 +39,6 @@
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Apenas casa</item>
-        <item>Automático</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>

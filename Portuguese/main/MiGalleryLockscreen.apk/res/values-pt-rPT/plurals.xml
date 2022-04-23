@@ -8,17 +8,17 @@
         <item quantity="other">%s artigos recomendados para si</item>
         <item quantity="one">%s artigo recomendado para si</item>
     </plurals>
-     <plurals name="lockscreen_magazine_subscribe">
-         <item quantity="other">%1$s pessoas que subscreveram</item>
-         <item quantity="one">%1$s pessoa que subscreveu</item>
-     </plurals>
-     <plurals name="llks_tools_remote_control_data">
+    <plurals name="llks_tools_remote_control_data">
         <item quantity="other">%s itens</item>
         <item quantity="one">%s item</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
         <item quantity="other">%s dispositivos</item>
         <item quantity="one">%s dispositivo</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s pessoas que subscreveram</item>
+        <item quantity="one">%1$s pessoa que subscreveu</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s papéis de parede</item>
@@ -44,4 +44,4 @@
         <item quantity="other">%d imagens</item>
         <item quantity="one">%d imagem</item>
     </plurals>
- </resources>
+</resources>

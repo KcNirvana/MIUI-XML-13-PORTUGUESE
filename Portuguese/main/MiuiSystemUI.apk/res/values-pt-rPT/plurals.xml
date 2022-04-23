@@ -44,18 +44,6 @@
         <item quantity="other">%1$d h e %2$d m restantes</item>
         <item quantity="one">%1$d h e %2$d m restante</item>
     </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d minutos restantes</item>
-        <item quantity="one">%d minuto restante</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d horas restantes</item>
-        <item quantity="one">%d hora restante</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$dh e %2$dm restantes</item>
-        <item quantity="one">%1$dh e %2$dm restante</item>
-    </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
@@ -67,6 +55,18 @@
     <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">%1$d h %2$d m</item>
         <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d horas restantes</item>
+        <item quantity="one">%d hora restante</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">%d minuto restante</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$dh e %2$dm restantes</item>
+        <item quantity="one">%1$dh e %2$dm restante</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Introduza o PIN do SIM. Tem %d tentativas restantes</item>
@@ -116,13 +116,13 @@
         <item quantity="other">Mais %s notificações dentro</item>
         <item quantity="one">Mais %s notificação dentro</item>
     </plurals>
-    <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">Tente novamente em %d segundos</item>
-        <item quantity="one">Tente novamente em %d segundo</item>
-    </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Tente novamente em %d minutos</item>
         <item quantity="one">Tente novamente em %d minuto</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Tente novamente em %d segundos</item>
+        <item quantity="one">Tente novamente em %d segundo</item>
     </plurals>
     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
         <item quantity="other">%d devices</item>

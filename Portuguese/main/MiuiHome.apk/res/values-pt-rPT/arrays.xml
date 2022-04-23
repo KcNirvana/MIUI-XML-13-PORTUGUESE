@@ -1,40 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="editing_mode_entries">
-       <item>Papel parede</item>
-       <item>Widgets</item>
-       <item>Definições</item>
+        <item>Papel parede</item>
+        <item>Widgets</item>
+        <item>Definições</item>
     </string-array>
     <string-array name="gadget_weather_image">
-       <item>Céu limpo</item>
-       <item>Com nuvens</item>
-       <item>Céu nublado</item>
-       <item>Nevoeiro</item>
-       <item>Tempestade forte</item>
-       <item>Tempestade</item>
-       <item>Chuva torrencial</item>
-       <item>Trovoada</item>
-       <item>Aguaceiros</item>
-       <item>Chuva forte</item>
-       <item>Chuva</item>
-       <item>Chuviscos</item>
-       <item>Chuva com neve</item>
-       <item>Tempestade de neve</item>
-       <item>Neve</item>
-       <item>Nevão</item>
-       <item>Neve</item>
-       <item>Fraca queda de neve</item>
-       <item>Forte tempestade de areia</item>
-       <item>Tempestade de areia</item>
-       <item>Fraca tempestade de areia</item>
-       <item>Tempestade de areia</item>
-       <item>Granizo</item>
-       <item>Poeiras</item>
-       <item>Neblina</item>
+        <item>Céu limpo</item>
+        <item>Com nuvens</item>
+        <item>Céu nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade forte</item>
+        <item>Tempestade</item>
+        <item>Chuva torrencial</item>
+        <item>Trovoada</item>
+        <item>Aguaceiros</item>
+        <item>Chuva forte</item>
+        <item>Chuva</item>
+        <item>Chuviscos</item>
+        <item>Chuva com neve</item>
+        <item>Tempestade de neve</item>
+        <item>Neve</item>
+        <item>Nevão</item>
+        <item>Neve</item>
+        <item>Fraca queda de neve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Fraca tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-       <item>Predefinido</item>
-       <item>Clássico</item>
+        <item>Predefinido</item>
+        <item>Clássico</item>
+    </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Nenhuma</item>
+        <item>Deslizar para cima</item>
+        <item>Barra de pesquisa</item>
     </string-array>
     <string-array name="icon_size">
         <item>XS</item>
@@ -44,23 +49,18 @@
         <item>XL</item>
     </string-array>
     <string-array name="transformation_entries">
-       <item>Deslizar</item>
-       <item>Desvanecer</item>
-       <item>Moinho</item>
-       <item>Página</item>
-       <item>Cascata</item>
-       <item>Rotação</item>
-       <item>Cubo 3D</item>
+        <item>Deslizar</item>
+        <item>Desvanecer</item>
+        <item>Moinho</item>
+        <item>Página</item>
+        <item>Cascata</item>
+        <item>Rotação</item>
+        <item>Cubo 3D</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-       <item>Predefinido</item>
-       <item>Centro</item>
-       <item>Esquerda</item>
-       <item>Direita</item>
-    </string-array>
-    <string-array name="global_search_mode_entries">
-        <item>Nenhuma</item>
-        <item>Deslizar para cima</item>
-        <item>Barra de pesquisa</item>
+        <item>Predefinido</item>
+        <item>Centro</item>
+        <item>Esquerda</item>
+        <item>Direita</item>
     </string-array>
 </resources>

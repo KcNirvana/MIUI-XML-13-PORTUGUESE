@@ -32,6 +32,10 @@
         <item quantity="other">%1$d itens não adicionados à sua conta</item>
         <item quantity="one">%1$d item não adicionado à sua conta</item>
     </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d ícones</item>
+        <item quantity="one">%1$d ícone</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d horas atrás</item>
         <item quantity="one">%d hora atrás</item>
@@ -40,9 +44,9 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
     </plurals>
-    <plurals name="de_icon_count">
-        <item quantity="other">%1$d ícones</item>
-        <item quantity="one">%1$d ícone</item>
+    <plurals name="guide_used_number">
+        <item quantity="other">Aplicado em %1$d dispositivos</item>
+        <item quantity="one">Aplicado em %1$d dispositivo</item>
     </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="other">Disponíveis actualizações para %1$d ícones</item>
@@ -51,10 +55,6 @@
     <plurals name="icon_batch_updating_text">
         <item quantity="other">A actualizar %1$d ícones…</item>
         <item quantity="one">A actualizar %1$d ícon…</item>
-    </plurals>
-    <plurals name="guide_used_number">
-        <item quantity="other">Aplicado em %1$d dispositivos</item>
-        <item quantity="one">Aplicado em %1$d dispositivo</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentários</item>

@@ -68,7 +68,7 @@
     <plurals name="autofill_passwords_count">
         <item quantity="other">%1$d palavras-passe</item>
         <item quantity="one">%1$d palavra-passe</item>
-     </plurals>
+    </plurals>
     <plurals name="battery_manager_app_restricted">
         <item quantity="other">%1$d aplicações restringidas</item>
         <item quantity="one">%1$d aplicação restringida</item>
@@ -352,7 +352,7 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
-     </plurals>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>
         <item quantity="one">1 segundo</item>

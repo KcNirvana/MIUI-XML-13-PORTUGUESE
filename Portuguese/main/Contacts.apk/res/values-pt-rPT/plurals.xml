@@ -12,15 +12,15 @@
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora mesmo</item>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">em %1$d minutos</item>
         <item quantity="one">em %1$d minuto</item>
     </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%1$d minutos atrás</item>
@@ -74,6 +74,10 @@
         <item quantity="other">Desbloquear %1$d números de telefone?</item>
         <item quantity="one">Desbloquear %1$d número de telefone?</item>
     </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Copiados %d contactos</item>
+        <item quantity="one">Copiado um contacto</item>
+    </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">Cartão SIM pode armazenar %1$d contactos</item>
         <item quantity="one">Cartão SIM pode armazenar um contacto</item>
@@ -93,10 +97,6 @@
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
-    </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copiados %d contactos</item>
-        <item quantity="one">Copiado um contacto</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">%1$d itens</item>

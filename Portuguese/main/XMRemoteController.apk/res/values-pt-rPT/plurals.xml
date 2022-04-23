@@ -8,10 +8,6 @@
         <item quantity="other">%1$s utilizadores</item>
         <item quantity="one">%1$s utilizador</item>
     </plurals>
-    <plurals name="match_brand_selection_des">
-        <item quantity="other">%d marcas disponíveis</item>
-        <item quantity="one">1 marca disponível</item>
-    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d dias atrás</item>
         <item quantity="one">%1$d dia atrás</item>
@@ -19,6 +15,10 @@
     <plurals name="hours_ago">
         <item quantity="other">%1$d horas atrás</item>
         <item quantity="one">%1$d hora atrás</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d marcas disponíveis</item>
+        <item quantity="one">1 marca disponível</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d minutos atrás</item>

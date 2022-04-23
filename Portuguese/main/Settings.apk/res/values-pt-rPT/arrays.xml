@@ -1007,6 +1007,14 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Percentagem (no ícone)</item>
         <item>Percentagem (ao lado)</item>
     </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Definições</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhuma</item>
         <item>480p</item>
@@ -1090,16 +1098,16 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Apenas GSM</item>
         <item>Apenas WCDMA</item>
         <item>GSM/WCDMA preferencial</item>
-     </string-array>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
-       <item>Mensagens</item>
-       <item>Fotos</item>
-       <item>Ficheiros</item>
-       <item>Notas</item>
+        <item>Mensagens</item>
+        <item>Fotos</item>
+        <item>Ficheiros</item>
+        <item>Notas</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
@@ -1180,14 +1188,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>XS</item>
         <item>S</item>
         <item>L</item>
-    </string-array>
-    <string-array name="notification_shade_shortcut_entries">
-        <item>Pesquisa</item>
-        <item>Definições</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Perguntar</item>

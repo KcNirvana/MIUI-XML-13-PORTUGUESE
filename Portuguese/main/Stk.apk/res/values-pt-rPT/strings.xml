@@ -29,6 +29,8 @@
     <string name="stk_dialog_accept">SIM</string>
     <string name="stk_dialog_reject">NÃO</string>
     <string name="stk_dialog_title">Ferramentas do SIM</string>
+    <string name="stk_ic_remove_content">Após remover o atalho do ecrã inicial, ainda pode utilizar as ferramentas USIM nas Definições</string>
+    <string name="stk_ic_remove_title">Remover ferramentas USIM do ecrã inicial?</string>
     <string name="stk_intent_permission">Dar as permissões necessárias</string>
     <string name="stk_no_service">Nenhum serviço disponível</string>
 </resources>

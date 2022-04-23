@@ -1419,7 +1419,7 @@ Pretende fechá-la?"</string>
   <string name="app_blocked_message">%1$s não está disponível agora</string>
   <string name="confirm_battery_saver">OK</string>
   <string name="face_error_vendor_unknown">Erro. Tente novamente</string>
-  <string name="fingerprint_error_vendor_unknown">Erro. Tente novamente<</string>
+  <string name="fingerprint_error_vendor_unknown">Erro. Tente novamente</string>
   <string name="permission_remember_choice">Memorizar preferência</string>
   <string name="wfc_mode_ims_preferred_summary">Ims preferido</string>
     <!--Android 12 strings-->
@@ -1539,7 +1539,7 @@ Pretende fechá-la?"</string>
 
 Current features:
 %1$s
-You can change selected features in Settings > Accessibility."</string>
+You can change selected features in Settings &gt; Accessibility."</string>
   <string name="accessibility_shortcut_single_service_warning">"Holding down both volume keys for a few seconds turns on %1$s, an accessibility feature. This may change how your device works.
 
 You can change this shortcut to another feature in Settings > Accessibility."</string>

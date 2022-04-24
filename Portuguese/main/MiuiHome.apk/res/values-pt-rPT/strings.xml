@@ -342,7 +342,7 @@
     <string name="local_apps">Aplicações locais</string>
     <string name="local_wallpaper">Transferido</string>
     <string name="lock_screen">Ecrã de bloqueio</string>
-    <string name="lock_screen_cells_title">Bloquear disposição do ecrã</string>
+    <string name="lock_screen_cells_title">Bloquear layout do ecrã</string>
     <string name="lock_screen_failed_message">Não foi possível definir</string>
     <string name="lock_screen_success_message">Aplicado</string>
     <string name="lock_screen_wallpaper">Papel de parede do ecrã de bloqueio</string>
@@ -370,7 +370,7 @@
     <string name="menu_finish">Concluído</string>
     <string name="menu_item_add_item">Colocar no ecrã inicial</string>
     <string name="menu_launcher_setting">Definições do launcher</string>
-    <string name="menu_lock">Bloquear a disposição do ecrã inicial</string>
+    <string name="menu_lock">Bloquear layout do ecrã inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_no_word">Não mostrar texto</string>
     <string name="menu_picktheme">Escolher um tema</string>
@@ -448,8 +448,8 @@
     <string name="open_personal_assistant_settings">Definições do assistente</string>
     <string name="open_personal_assistant_title">Assistente</string>
     <string name="ota_layout_adjustment_button_text">Percebi</string>
-    <string name="ota_layout_adjustment_content">Os layouts do ecrã inicial foram sincronizados na nova versão</string>
-    <string name="ota_layout_adjustment_title">Layouts de ecrã inicial</string>
+    <string name="ota_layout_adjustment_content">O layout do ecrã inicial foi sincronizada na nova versão</string>
+    <string name="ota_layout_adjustment_title">Layout do ecrã inicial</string>
     <string name="out_of_space">Não existe mais espaço neste ecrã inicial</string>
     <string name="perfect_icons_switch_summary">Renderizar animações em ícones de aplicações de terceiros</string>
     <string name="perfect_icons_switch_title">Animações de ícones</string>
@@ -540,7 +540,7 @@
     <string name="reset_scene_prompt">O ecrã vai ser reiniciado para o layout predefinido</string>
     <string name="reset_title">Restaurar</string>
     <string name="restore_icon_successful">Adicionado com sucesso</string>
-    <string name="screen_cells_config_title">Disposição do ecrã inicial</string>
+    <string name="screen_cells_config_title">Layout do ecrã inicial</string>
     <string name="screen_locked_toast">O layout do ecrã inicial está bloqueado</string>
     <string name="screen_number">%d ecrã</string>
     <string name="search_in_apps_store">Pesquisar \"%1$s\" em %2$s</string>

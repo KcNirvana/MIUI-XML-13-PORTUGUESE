@@ -353,7 +353,7 @@ adicionados à lista de bloqueio"</string>
     <string name="invalid_recipient_message">Corrija os destinatários ou eles não vão receber a mensagem</string>
     <string name="invisible_mode_on">Está anónimo</string>
     <string name="is_composing">A escrever…</string>
-    <string name="layout_selector_title">"Disposição de diapositivos "</string>
+    <string name="layout_selector_title">"Layout de diapositivos "</string>
     <string name="leave_mms_tips_context_app">Sair de Mensagens e abrir a aplicação agora?</string>
     <string name="leave_mms_tips_context_app_name">Sair de Mensagens e abrir \"%s\" agora?</string>
     <string name="leave_mms_tips_context_browser">Sair de Mensagens e abrir o navegador agora?</string>

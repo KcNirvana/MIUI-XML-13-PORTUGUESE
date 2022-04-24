@@ -567,7 +567,7 @@
     <string name="next_step">Seguinte</string>
     <string name="no_contact_birthday_hint">Sem aniversários para importar</string>
     <string name="no_events_hint">Sem eventos</string>
-    <string name="no_holiday_selected">"Days off aren't selected"</string>
+    <string name="no_holiday_selected">Não tem dias de folga seleccionados</string>
     <string name="no_internet">Não foi possível ligar à Internet</string>
     <string name="no_internet_dialog_message">O seu dispositivo necessita de ligar à Internet para remover o consentimento. Verifique as definições de rede e tente novamente</string>
     <string name="no_internet_dialog_title">Ocorreu um erro</string>
@@ -738,7 +738,7 @@
     <string name="revoke_fail_message">Não é possível ligar à rede</string>
     <string name="revoke_processing_message">A processar…</string>
     <string name="saturday">Sábado</string>
-    <string name="saturday_click_disabled">Cada segundo e quarto Sábado são dias de folga</string>
+    <string name="saturday_click_disabled">Todos os segundo e quarto Sábado são dias de folga</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">S</string>
     <string name="save">Guardar</string>
@@ -750,9 +750,9 @@
     <string name="search_events">Pesquisar eventos</string>
     <string name="search_history">Pesquisar histórico</string>
     <string name="search_menu_title">Pesquisa</string>
-    <string name="second_saturday_holiday">Every second Saturday is a day off</string>
+    <string name="second_saturday_holiday">Todo o segundo Sábado é um dia de folga</string>
     <string name="select_date">Ir para a data</string>
-    <string name="select_menstruation_end_date">Select the end date of this period</string>
+    <string name="select_menstruation_end_date">Seleccionar a data de fim deste período</string>
     <string name="select_today_tip">Hoje</string>
     <string name="select_weekly_off_dialog_title">Seleccionar dias de folga</string>
     <string name="service_rejected_temporarily">Certificado rejeitado temporariamente</string>
@@ -952,7 +952,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="tuesday">Terça-feira</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">T</string>
-    <string name="two_selected_holiday">%1$s e %2$s são feriados</string>
+    <string name="two_selected_holiday">%1$s e %2$s são dias de folga</string>
     <string name="txt_account">Conta</string>
     <string name="txt_account_exist">Esta conta já existe</string>
     <string name="txt_account_name_empty">Introduzir nome do calendário</string>

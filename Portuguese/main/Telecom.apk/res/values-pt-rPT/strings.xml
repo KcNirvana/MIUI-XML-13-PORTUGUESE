@@ -327,7 +327,7 @@ Selecção"</string>
     <string name="force_resizable_activities">Forçar as actividades redimensionáveis</string>
     <string name="force_resizable_activities_summary">Tornar todas as actividades redimensionáveis para várias janelas, independentemente dos valores do manifesto</string>
     <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
+    <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL do layout do ecrã para todos os locais</string>
     <string name="guest_exit_guest">Remove guest</string>
     <string name="guest_new_guest">Add guest</string>
     <string name="guest_nickname">Guest</string>
@@ -494,6 +494,7 @@ Selecção"</string>
     <string name="private_dns_mode_provider">Nome de anfitrião do fornecedor DNS privado</string>
     <string name="private_dns_mode_provider_failure">Não foi possível ligar</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduza o nome do fornecedor DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off &amp; back on</string>
     <string name="profile_info_settings_title">Profile info</string>
     <string name="remaining_length_format">%1$s restantes</string>

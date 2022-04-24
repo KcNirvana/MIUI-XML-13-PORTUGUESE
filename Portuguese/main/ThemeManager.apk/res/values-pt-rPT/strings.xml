@@ -1076,6 +1076,7 @@ Toque aqui para iniciar agora"</string>
     <string name="forbid_video_wallpaper_by_second_space">Apply dynamic wallpaper in First space first.</string>
     <string name="hide_phone_wallpaper">Hide phone wallpapers</string>
     <string name="i_know">Got it</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="load_from_local_photos">Gallery</string>
     <string name="local_mode">Offline mode</string>
     <string name="local_mode_close">Turn off offline mode?</string>
@@ -1101,6 +1102,8 @@ d 'de' MMMM"</string>
     <string name="not_allow">Not granted</string>
     <string name="not_set">Not set</string>
     <string name="official_accounts">WeChat</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"You won't be able to perform the following actions after you sign out:
+View and use the items you purchased or added to favorites."</string>
     <string name="personalize">Personalization</string>
     <string name="personalize_recommend_switch_desc">Receive personalized content recommendations based on device ID</string>
     <string name="personalized_cta_content_text">Welcome to Themes! You can use this app to manage your wallpapers, ringtones, fonts, and more.</string>
@@ -1128,6 +1131,16 @@ d 'de' MMMM"</string>
     <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
     <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
     <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
+    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
+2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
+3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
+All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
+All the wallpapers, fonts, and ringtones downloaded to this device.
+All the permissions preferences, settings, and cached items generated on this device.
+All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
     <string name="privacy_permission_management_description">Permissions details</string>
     <string name="privacy_permission_related_content">Permissions</string>
     <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a>. Agree to the updated Privacy Policy now?"</string>
@@ -1182,6 +1195,17 @@ All the personalization items currently used on this device. Default personaliza
     <string name="privacy_revoking_warning">Withdrawing consent…</string>
     <string name="privacy_select_mode">Select mode</string>
     <string name="privacy_select_mode_desc">"Since you haven't agreed to our Privacy Policy, select one of the following modes:"</string>
+    <string name="privacy_update_prompt_title">Updated Privacy Policy</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
+2. Your withdrawal of consent to the Privacy Policy of Wallpaper and personalization won't affect the normal usage of other Xiaomi products.
+3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
+All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
+All the wallpapers, fonts, and ringtones downloaded to this device.
+All the permissions preferences, settings, and cached items generated on this device.
+All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Wallpaper and personalization, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
+5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
     <string name="prvicay_permission_not_allow_desc">"This app needs to access storage to delete all the data generated on this device. Without this permission, some data may not be deleted. Cancel services anyway?
 You can grant this permission in Settings &gt; Privacy."</string>
     <string name="purchased">Orders</string>

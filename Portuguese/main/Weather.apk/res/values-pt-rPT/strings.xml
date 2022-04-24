@@ -102,7 +102,7 @@
     <string name="daily_forecast_detail_date">dd/MM</string>
     <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
  Puxe para actualizar ou verifique as definições de rede"</string>
-    <string name="data_provided_by">Dados fornecidos por</string>
+    <string name="data_provided_by"/>
     <string name="dialog_internet_error_title">Ocorreu um erro</string>
     <string name="dialog_msg_score_midrop">How do you feel about Weather?</string>
     <string name="dialog_msg_score_not_good">Could you give us your feedback as well?</string>

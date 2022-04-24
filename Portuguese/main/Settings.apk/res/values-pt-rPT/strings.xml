@@ -28,6 +28,7 @@
     <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
     <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para repor palavra-passe</string>
     <string name="access_point_names">Pontos de acesso (APN)</string>
+    <string name="accessibility_audio_adjustment_title">Ajuste de áudio</string>
     <string name="accessibility_autoclick_custom_title">Personalizado</string>
     <string name="accessibility_autoclick_default_title">Desligado</string>
     <string name="accessibility_autoclick_description">O clique automático funciona com um rato ligado. Pode definir o cursor do rato para clicar automaticamente quando o cursor deixar de se mover durante um determinado período de tempo</string>
@@ -42,6 +43,27 @@
     <string name="accessibility_autoclick_short_title">Curto</string>
     <string name="accessibility_autoclick_shorter_desc">Mais curto</string>
     <string name="accessibility_back">Voltar</string>
+    <string name="accessibility_banner_message_dismiss">Rejeitar</string>
+    <string name="accessibility_button_description">"Aceder rápidamente a funcionalidades de acessibilidade em qualquer ecrã. 
+
+Para começar, vá às definições de acessibilidade e seleccione uma funcionalidade. Toque no atalho e seleccione o botão de acessibilidade"</string>
+    <string name="accessibility_button_fade_summary">Desaparecer após alguns segundos para ver melhor o ecrã</string>
+    <string name="accessibility_button_fade_title">Desaparecer quando não utilizado</string>
+    <string name="accessibility_button_gesture_description">"Aceder rápidamente a funcionalidades de acessibilidade em qualquer ecrã. 
+
+Para começar, vá às definições de acessibilidade e seleccione uma funcionalidade. Toque no atalho e seleccione o botão de acessibilidade.
+
+Para utilizar o botão de acessibilidade na barra de navegação, alterar para a navegação de 2 ou 3 botões"</string>
+    <string name="accessibility_button_gesture_title">Botão e gesto de acessibilidade</string>
+    <string name="accessibility_button_high_label">Não transparente</string>
+    <string name="accessibility_button_intro">Utilizar o botão de acessibilidade. O gesto não está disponível na navegação de 3 botões</string>
+    <string name="accessibility_button_location_title">Localização</string>
+    <string name="accessibility_button_low_label">Transparente</string>
+    <string name="accessibility_button_opacity_title">Transparência quando não utilizado</string>
+    <string name="accessibility_button_or_gesture_title">Utilizar botão ou gesto</string>
+    <string name="accessibility_button_size_title">Tamanho</string>
+    <string name="accessibility_button_summary">Aceder rápidamente a funcionalidades de acessibilidade</string>
+    <string name="accessibility_button_title">Botão de acessibilidade</string>
     <string name="accessibility_caption_master_switch_summary">Apenas para aplicações suportadas</string>
     <string name="accessibility_caption_master_switch_title">Mostrar legendas</string>
     <string name="accessibility_caption_preference_summary">Nem todas as aplicações suportam estas preferências de legendas</string>
@@ -135,6 +157,8 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
     <string name="accessibility_service_default_description">Sem descrição fornecida</string>
     <string name="accessibility_service_master_open_title">Abrir %1$s</string>
     <string name="accessibility_service_master_switch_title">Utilizar %1$s</string>
+    <string name="accessibility_service_primary_open_title">Abrir %1$s</string>
+    <string name="accessibility_service_primary_switch_title">Utilizar %1$s</string>
     <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo do ecrã e sobrepor conteúdo a outras aplicações</string>
     <string name="accessibility_service_screen_control_title">Ver e controlar ecrã</string>
     <string name="accessibility_service_warning">%1$s está a solicitar o controlo total deste dispositivo. O serviço pode ler o ecrã e agir em nome de utilizadores com necessidades de acessibilidade. Este nível de controlo não é adequado para a maioria das aplicações</string>
@@ -1984,7 +2008,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
     <string name="cloud_backup_section_title">Cópias da Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Definições das cópias</string>
     <string name="cloud_category_text">Xiaomi Cloud</string>
-    <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
+    <string name="cloud_restore_section_summary">Restaurar aplicações, layout do ecrã inicial e as definições de sistema</string>
     <string name="cloud_restore_section_summary_new">Copiar o layout do ecrã inicial, aplicações, definições de sistema e mais</string>
     <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
     <string name="cloud_restore_section_title_new">Na Xiaomi Cloud</string>
@@ -2541,7 +2565,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
     <string name="debug_view_attributes">Activar visualização de atributos</string>
     <string name="decline_remote_bugreport_action">Rejeitar</string>
     <string name="decryption_settings_summary">Telefone não encriptado</string>
-    <string name="defalut_launcher_title">Ecrã inicial predefinido</string>
+    <string name="defalut_launcher_title">Launcher predefinido</string>
     <string name="default_active_sim_calls">chamadas</string>
     <string name="default_active_sim_mobile_data">dados móveis</string>
     <string name="default_active_sim_sms">SMS</string>
@@ -3520,7 +3544,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="force_resizable_activities">Forçar actividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Tornar todas as actividades redimensionáveis, independentemente dos valores do manifesto</string>
     <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Forçar direcção RTL da disposição do ecrã de para todos os locais</string>
+    <string name="force_rtl_layout_all_locales_summary">Forçar direcção RTL do layout do ecrã para todos os locais</string>
     <string name="force_stop">Forçar paragem</string>
     <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
     <string name="force_stop_dlg_title">Forçar paragem</string>
@@ -4093,10 +4117,10 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="keyboard_disconnected">Não ligado</string>
     <string name="keyboard_funtion_key">Tecla de função</string>
     <string name="keyboard_layout_default_label">Predefinido</string>
-    <string name="keyboard_layout_dialog_setup_button">Definir disposição do teclado</string>
+    <string name="keyboard_layout_dialog_setup_button">Definir layout do teclado</string>
     <string name="keyboard_layout_dialog_switch_hint">Para trocar, prima Control-Barra de espaços</string>
-    <string name="keyboard_layout_dialog_title">Escolher disposição do teclado</string>
-    <string name="keyboard_layout_picker_title">Disposição de teclado</string>
+    <string name="keyboard_layout_dialog_title">Escolher layout do teclado</string>
+    <string name="keyboard_layout_picker_title">Layout do teclado</string>
     <string name="keyboard_mouse_touch">Teclado, rato e track pad</string>
     <string name="keyboard_settings_category">Métodos de entrada</string>
     <string name="keyboard_settings_title">Teclado Android</string>
@@ -4422,7 +4446,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="location_app_permission_summary_location_off">Localização desligada</string>
     <string name="location_category">Location</string>
     <string name="location_category_location_services">Serviços de localização</string>
-    <string name="location_category_recent_location_access">Acessos à localização recentes</string>
+    <string name="location_category_recent_location_access">Acessos recentes</string>
     <string name="location_category_recent_location_requests">Pedidos de localização recentes</string>
     <string name="location_gps">Satélites GPS</string>
     <string name="location_high_battery_use">Utilização elevada de bateria</string>
@@ -4445,7 +4469,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="location_network_based">Wi-Fi e redes móveis</string>
     <string name="location_no_recent_accesses">Sem aplicações</string>
     <string name="location_no_recent_apps">Sem aplicações</string>
-    <string name="location_recent_location_access_see_all">See all</string>
+    <string name="location_recent_location_access_see_all">Ver todos</string>
     <string name="location_recent_location_access_view_details">Ver detalhes</string>
     <string name="location_recent_location_requests_see_all">Ver tudo</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações procurem dispositivos Bluetooth em qualquer altura, mesmo com o Bluetooth desligado</string>
@@ -4453,14 +4477,14 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="location_scanning_screen_title">Pesquisa Wi-Fi e Bluetooth</string>
     <string name="location_scanning_wifi_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem redes Wi-Fi em qualquer altura, mesmo com o Wi-Fi desligado</string>
     <string name="location_scanning_wifi_always_scanning_title">Pesquisa Wi-Fi</string>
-    <string name="location_services_preference_title">Location services</string>
-    <string name="location_services_screen_title">Location services</string>
-    <string name="location_settings_footer_general">Apps with the Nearby devices permission can determine the relative position of connected devices.</string>
-    <string name="location_settings_footer_learn_more_content_description">Learn more about Location Settings.</string>
+    <string name="location_services_preference_title">Serviços de localização</string>
+    <string name="location_services_screen_title">Serviços de localização</string>
+    <string name="location_settings_footer_general">Aplicações com a permissão de dispositivos próximos podem determinar a posição relativa dos dispositivos ligados</string>
+    <string name="location_settings_footer_learn_more_content_description">Saber mais sobre as definições de localização</string>
     <string name="location_settings_footer_location_off">Location access is off for apps and services. Your device location may still be sent to emergency responders when you call or text an emergency number.</string>
     <string name="location_settings_loading_app_permission_stats">A carregar…</string>
     <string name="location_settings_master_switch_title">Utilizar localização</string>
-    <string name="location_settings_primary_switch_title">Use location</string>
+    <string name="location_settings_primary_switch_title">Utilizar localização</string>
     <string name="location_settings_summary_location_off">Desligada</string>
     <string name="location_settings_title">Localização</string>
     <string name="location_sources_heading">Fontes da localização</string>
@@ -5293,7 +5317,7 @@ Continuar para aceder a definições adicionais"</string>
     <string name="mobile_data_always_on">Dados móveis sempre ligados</string>
     <string name="mobile_data_always_on_summary">Manter sempre os dados móveis ligados, mesmo quando o Wi-Fi estiver activado (para mudança de rede rápida)</string>
     <string name="mobile_data_ap_mode_disabled">Não disponível durante o Modo Avião</string>
-    <string name="mobile_data_connection_active">Connected</string>
+    <string name="mobile_data_connection_active">Ligado</string>
     <string name="mobile_data_disable_message">You won’t have access to data or the internet through %s. Internet will only be available via Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">your carrier</string>
     <string name="mobile_data_disable_title">Turn off mobile data?</string>
@@ -5357,7 +5381,7 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
     <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
     <string name="more_dark_mode_settings">Mais opções do Modo Escuro</string>
     <string name="more_installed_services_title">Mais serviços transferidos</string>
-    <string name="more_settings_button">More Settings</string>
+    <string name="more_settings_button">Mais definições</string>
     <string name="morning">Manhã</string>
     <string name="move_app">Mover</string>
     <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
@@ -6141,8 +6165,8 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
     <string name="permission_settings_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
     <string name="permission_settings_title">Permissões da aplicação</string>
     <string name="permissions_label">Permissões</string>
-    <string name="permissions_usage_summary">Show which apps recently used permissions</string>
-    <string name="permissions_usage_title">Privacy dashboard</string>
+    <string name="permissions_usage_summary">Mostrar aplicações que utilizaram permissões recentemente</string>
+    <string name="permissions_usage_title">Painel de privacidade</string>
     <string name="permit_draw_overlay">Permitir a sobreposição a outras aplicações</string>
     <string name="permit_manage_external_storage">Permitir acesso para gerir todos os ficheiros</string>
     <string name="permit_running_network">Dados em segundo plano</string>
@@ -6531,6 +6555,7 @@ Press Power and Volume up at the same time."</string>
     <string name="privileged_action_disable_sub_dialog_title">Turn off %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Turn off SIM?</string>
     <string name="process_dex2oat_label">Optimização de aplicações</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor de multimédia</string>
     <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
     <string name="process_service_in_use_description">Serviço %1$s está em utilização</string>
@@ -6633,7 +6658,7 @@ Press Power and Volume up at the same time."</string>
     <string name="recent_conversations">Recent conversations</string>
     <string name="recent_convo_removed">Conversation removed</string>
     <string name="recent_convos_removed">Recent conversations removed</string>
-    <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
+    <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à localização</string>
     <string name="recent_location_requests_title">Acesso à localização</string>
     <string name="recent_notifications">Enviadas recentemente</string>
     <string name="recent_notifications_see_all_title">Ver todas dos últimos 7 dias</string>
@@ -8030,6 +8055,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
     <string name="status_bar_settings">Notificações e barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
     <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
     <string name="status_bar_settings_notification_bar">Área de notificações</string>
@@ -9582,7 +9608,7 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
     <string name="wifi_cellular_data_fallback_summary">Utilize os dados móveis quando não tiver acesso à Internet via Wi-Fi. Podem aplicar-se custos de utilização de dados</string>
     <string name="wifi_cellular_data_fallback_title">Mudar automaticamente para dados móveis</string>
     <string name="wifi_certificate">Certificado</string>
-    <string name="wifi_check_password_try_again">Check password and try again</string>
+    <string name="wifi_check_password_try_again">Verificar palavra-passe e tentar novamente</string>
     <string name="wifi_click_login_wlan">Necessário autorização</string>
     <string name="wifi_click_share_wlan">Toque para partilhar palavra-passe</string>
     <string name="wifi_config_info">Configurações de Wi-Fi</string>
@@ -9810,7 +9836,7 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_modify">Modificar</string>
     <string name="wifi_more">Mais</string>
     <string name="wifi_multi_network_acceleration">Aceleração de rede inteligente</string>
-    <string name="wifi_multi_network_acceleration_title">Network acceleration</string>
+    <string name="wifi_multi_network_acceleration_title">Aceleração de rede</string>
     <string name="wifi_multiple_cert_added">(vários certificados adicionados)</string>
     <string name="wifi_network_optimization">Optimização de ligação</string>
     <string name="wifi_network_prefix_length">Compr. do prefixo de rede</string>
@@ -9869,8 +9895,8 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_protection_tip">A MIUI vai proteger os seus dados pessoais quando existirem pedidos de endereços MAC aleatórios quando o Wi-Fi estiver a procurar redes</string>
     <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
-    <string name="wifi_region_summary">Requires Wi-Fi to be restarted to take effect</string>
-    <string name="wifi_region_title">Wi-Fi region</string>
+    <string name="wifi_region_summary">Necessário reiniciar o Wi-Fi para fazer efeito</string>
+    <string name="wifi_region_title">Região Wi-Fi region</string>
     <string name="wifi_remembered">Guardada</string>
     <string name="wifi_remembered_disabled_auto_connect">Guardada. Não vai ligar automaticamente</string>
     <string name="wifi_require_sim_card_to_connect">Requires SIM to connect</string>
@@ -10127,7 +10153,7 @@ Looks like credential storage isn't enabled."</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Won’t automatically connect</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expired</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Temporary poor network conditions</string>
-    <string name="wifitrackerlib_wifi_remembered">Saved</string>
+    <string name="wifitrackerlib_wifi_remembered">Guardada</string>
     <string name="wifitrackerlib_wifi_security_none">None</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Unmetered</string>

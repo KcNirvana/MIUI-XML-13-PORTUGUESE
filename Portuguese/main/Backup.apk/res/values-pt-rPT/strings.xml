@@ -540,7 +540,7 @@ Liberte pelo menos %s"</string>
     <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta cópia foi feita utilizando a sua Conta Mi</string>
     <string name="summary_err_restore_no_network">Não é possível ligar à rede</string>
     <string name="system_backup">Cópias de segurança</string>
-    <string name="system_backup_info">Definições do sistema e disposição do ecrã inicial</string>
+    <string name="system_backup_info">Definições do sistema e layout do ecrã inicial</string>
     <string name="task_backup_cancel_progress">A parar…</string>
     <string name="task_backup_finished_local">"Copiado "</string>
     <string name="task_canceled">A cópia foi cancelada</string>
@@ -669,7 +669,7 @@ para transferir e instalar o Mi Mover"</string>
     <string name="trans_intro_title_new">Num novo telefone:</string>
     <string name="trans_intro_title_old">Num telefone antigo:</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
-    <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
+    <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, layout do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
     <string name="trans_my_device">O meu dispositivo</string>
     <string name="trans_native_no_space">"Não existe espaço suficiente no dispositivo antigo. (%s disponível).
 Liberte espaço ou transfira apenas itens importantes"</string>

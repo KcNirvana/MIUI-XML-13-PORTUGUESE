@@ -548,9 +548,11 @@ Send this code to the supervisor."</string>
     <string name="mibi_btn_exit">Exit the App</string>
     <string name="mibi_btn_return_home">Return Home</string>
     <string name="mibi_business_title">Other services</string>
+    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_disagree">Disagree</string>
     <string name="mibi_camera_open_failed">Camera open failed</string>
     <string name="mibi_check_giftcard">View coupons</string>
+    <string name="mibi_colon">": "</string>
     <string name="mibi_cta_agreement_checkbox_description">Please read and agree to the %1$s and %2$s</string>
     <string name="mibi_cta_agreement_tips">Please agree to the terms and use.</string>
     <string name="mibi_cta_description">"Welcome to Mi Coin, this application provides functions such as Mi Coin recharge and gift certificate viewing. We will process your relevant information as required by laws and regulations. Here, we solemnly remind you:
@@ -563,6 +565,7 @@ Send this code to the supervisor."</string>
 4. We take and protect your personal information very seriously. If you have any questions, comments or suggestions about the content of this policy, you can contact us by visiting %2$s.
 "</string>
     <string name="mibi_cta_title">Dear Mi Fans</string>
+    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_mipay_no_installed">"Mi Wallet isn't installed on your device."</string>
     <string name="mibi_error_no_available_channels">Sorry,no available channels currently.</string>
     <string name="mibi_error_privacy_summary">You revoked authorization.</string>

@@ -928,7 +928,7 @@ Introduza o seu PIN"</string>
     <string name="force_resizable_activities">Forçar actividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Tornar todas as actividades redimensionáveis, independentemente dos valores do manifesto</string>
     <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Forçar direcção RTL da disposição do ecrã de para todos os locais</string>
+    <string name="force_rtl_layout_all_locales_summary">Forçar direcção RTL do layout do ecrã para todos os locais</string>
     <string name="forced_resizable_secondary_display">A aplicação pode não funcionar num ecrã secundário</string>
     <string name="forget_password_string">Esqueceu a palavra-passe</string>
     <string name="fs_gesture_back_home_summary">Deslize de baixo rapidamente</string>
@@ -1532,7 +1532,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="nav_bar">Barra de navegação</string>
     <string name="nav_bar_default">(predefinição)</string>
     <string name="nav_bar_edge_panel">Painel lateral de navegação</string>
-    <string name="nav_bar_layout">Disposição</string>
+    <string name="nav_bar_layout">Layout</string>
     <string name="new_notification_image_content_description">%1$s enviou uma imagem</string>
     <string name="new_notification_text_content_description">%1$s enviou uma mensagem: %2$s</string>
     <string name="new_status_content_description">%1$s tem uma actualização de estado: %2$s</string>
@@ -1764,6 +1764,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="private_dns_mode_provider">Anfitrião de DNS privado</string>
     <string name="private_dns_mode_provider_failure">Não é possível ligar</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduzir anfitrião ou fornecedor de DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problema ao ligar. Desligue e volte a ligar o dispositivo</string>
     <string name="profile_info_settings_title">Informação de perfil</string>
     <string name="profile_owned_footer">O perfil pode ser monitorizado</string>
@@ -2145,8 +2146,8 @@ monitorizada"</string>
     <string name="status_bar_airplane">Modo Avião</string>
     <string name="status_bar_alarm">Alarmes</string>
     <string name="status_bar_clear_all_button">Limpar</string>
-    <string name="status_bar_clock_date_format">"EEEE, d 'de' MMMM"</string>
-    <string name="status_bar_clock_date_format_12">"EEEE, d 'de' MMMM"</string>
+    <string name="status_bar_clock_date_format">EEE, dd/MM</string>
+    <string name="status_bar_clock_date_format_12">EEE, dd/MM</string>
     <string name="status_bar_clock_date_time_format">"H:mm | EEEE, d 'de' MMMM"</string>
     <string name="status_bar_clock_date_time_format_12">"h:mm aa | EEEE, d 'de' MMMM"</string>
     <string name="status_bar_clock_date_weekday_format">EEE, dd/MM</string>
@@ -2411,6 +2412,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
     <string name="user_switch_to_user">Trocar para %s</string>
     <string name="v7_preference_off">Desligado</string>
     <string name="v7_preference_on">Ligado</string>
+    <string name="velocity_tracker_impl">Plataforma</string>
     <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>
     <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
     <string name="video_status">A ver</string>

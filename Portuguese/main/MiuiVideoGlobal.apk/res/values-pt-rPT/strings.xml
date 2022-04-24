@@ -77,7 +77,7 @@
     <string name="dialog_privacy_change_title">Actualização da Política de Privacidade</string>
     <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
     <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
-    <string name="dialog_privacy_info_new4"><Data>Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:&lt;br>&lt;/br> - Streaming online&lt;br>&lt;/br> - Leitor de vídeos&lt;br>&lt;/br>. O Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br>. Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</Data></string>
+    <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br/> - Streaming online<br/> - Leitor de vídeos<br/>. Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Remover (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">Se continuar, vai remover o consentimento da Política de Privacidade de Vídeos. As informações pessoais obtidas vão ser eliminadas de acordo com as leis em vigor. A remoção de consentimento da Política de Privacidade vai ser considerada como uma recusa em aceitar os serviços online</string>
@@ -165,7 +165,6 @@
     <string name="galleryplus_network_connect_confirm">Connect to Wi-Fi or turn on mobile data in the network settings.</string>
     <string name="galleryplus_network_error">"Couldn't connect to the network"</string>
     <string name="galleryplus_network_not_wifi">Using mobile data to stream videos may generate additional carrier fees</string>
-    <string name="galleryplus_next_step">Next</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerir ficheiros %$s Adicionar legendas %$s Transmitir vídeos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Proteger os seus vídeos com uma palavra-passe %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Transferir vídeos do TikTok, Instagram e Twitter %$s</string>
@@ -1069,9 +1068,9 @@ Send this code to the supervisor."</string>
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
     <string name="failure">"Couldn't download"</string>
     <string name="favor_movie">Movies</string>
-    <string name="favor_online_video">Videos</string>
-    <string name="favor_playlist">Playlists</string>
-    <string name="favorite">Favorites</string>
+    <string name="favor_online_video">Vídeos</string>
+    <string name="favor_playlist">Listas de reprodução</string>
+    <string name="favorite">Favoritos</string>
     <string name="favorite_cancel_fail">"Couldn't remove from favorites"</string>
     <string name="favorite_cancel_success">Removed from favorites successfully</string>
     <string name="favorite_fail">"Couldn't add to favorites. Try again."</string>
@@ -1081,14 +1080,7 @@ Send this code to the supervisor."</string>
     <string name="file_space_not_enough_tip">Not enough storage space. Free up at least %d MB and launch the app again.</string>
     <string name="find_psw">Forgot password</string>
     <string name="for_diagnosis_usage_only">Logs are used only for diagnostics.</string>
-    <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
-    <string name="galleryplus_next_step">Next</string>
-    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Manage files %$s Add subtitles %$s Cast videos %$s</string>
-    <string name="galleryplus_notification_linkvideo_subtitle2">Protect your private videos with a password %$s</string>
-    <string name="galleryplus_notification_linkvideo_subtitle3">Download videos from TikTok, Instagram, and Twitter %$s</string>
-    <string name="galleryplus_notification_linkvideo_title1">%$s Check out all the cool features of Mi Video!</string>
-    <string name="galleryplus_notification_linkvideo_title2">%$s Tap to manage your videos</string>
-    <string name="galleryplus_notification_linkvideo_title3">%1$s Download videos for free %2$s Manage files</string>
+    <string name="galleryplus_next_step">Seguinte</string>
     <string name="galleryplus_permission_content_opt2">"Mi Video needs permissions to work normally. Clear all app data in the Settings and open the app again.
 This operation won't affect your gallery pictures."</string>
     <string name="galleryplus_permission_storage_content_reshowable_video_player">To be able to use local video player, allow this app to access storage first.</string>
@@ -1143,7 +1135,7 @@ for the best viewing experience"</string>
     <string name="local_play_tip">A reproduzir vídeo</string>
     <string name="local_push_setting_power_tag">Notificações acerca de vídeos no dispositivo</string>
     <string name="local_push_title">Destaques hoje</string>
-    <string name="local_push_video_title">Verificar novos vídeos no dispositivoScan for new local videos</string>
+    <string name="local_push_video_title">Verificar novos vídeos no dispositivo</string>
     <string name="local_video_edit_playlist">Editar lista</string>
     <string name="lock_screen">Ecrã de bloqueio</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
@@ -1201,6 +1193,7 @@ for the best viewing experience"</string>
     <string name="offline_opt_in_title">"Open ad when you're back online."</string>
     <string name="online_play_title">Enter URL</string>
     <string name="open_settings">Go to settings</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recent subscriptions</string>
     <string name="order_recently_updated">Recently updated</string>
     <string name="ovp_home_local">Dispositivo</string>
@@ -1312,16 +1305,15 @@ Update Mi Video to the latest version first."</string>
     <string name="pip_not_supported_toast">Update MIUI to be able to use picture-in-picture.</string>
     <string name="plus_menu_rename_cant_empty">"Filename can't be empty"</string>
     <string name="plus_share_channel_qzone">Qzone</string>
-    <string name="popup_click_for_download_video">Download video</string>
-    <string name="popup_pip_activate_button">Settings</string>
-    <string name="popup_pip_not_activated">Allow Mi Video to use picture-in-picture first.</string>
-    <string name="popup_window_home_tip">Download online videos</string>
-    <string name="privacy_agree_subtitle">Consent to the Privacy Policy allows you to use all features of Mi Video</string>
-    <string name="privacy_agree_title">Consent</string>
+    <string name="popup_click_for_download_video">Transferir vídeo</string>
+    <string name="popup_pip_activate_button">Definições</string>
+    <string name="popup_pip_not_activated">Permitir que Vídeos utilize ecrã no ecrã primeiro</string>
+    <string name="popup_window_home_tip">Transferir vídeos online</string>
+    <string name="privacy_agree_subtitle">O consentimento da Política de Privacidade permite utilizar todas as funcionalidades de Vídeos</string>
+    <string name="privacy_agree_title">Consentimento</string>
     <string name="privacy_experience_plan">Join our User Experience program to share user data with us in order to help us improve our products and services</string>
     <string name="privacy_experience_title">User Experience Program</string>
     <string name="privacy_revoke_subtitle">Remover consentimento da Política de Privacidade</string>
-    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">Remove ads for %s</string>
     <string name="pro_prize_popup_style_two">Unlock more features for %s</string>
     <string name="psw_hint">Password</string>
@@ -1470,15 +1462,6 @@ Update Mi Video to the latest version first."</string>
     <string name="welcome_tip_skip">Ignorar</string>
     <string name="welcome_tip_title">Bem-vindo a Vídeos</string>
     <string name="year">year</string>
-    <string name="ytb_account">Contas</string>
-    <string name="ytb_author_video">Vídeos</string>
-    <string name="ytb_login">Iniciar sessão</string>
-    <string name="ytb_login_btn">Iniciar sessão</string>
-    <string name="ytb_login_hint">Iniciar sessão para ver as suas subscrições do YouTube</string>
-    <string name="ytb_logout">Terminar sessão</string>
-    <string name="ytb_play_next">Próximo</string>
-    <string name="ytb_subscribed">Subscrições</string>
-    <string name="ytb_trending">Destaques</string>
     <string name="tip_login_for_your_online_playlist">Iniciar sessão para ver as suas listas</string>
     <string name="local_hide_folder_dialog_content">Os vídeos ocultos não vão ser mostrados nas suas listas</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>

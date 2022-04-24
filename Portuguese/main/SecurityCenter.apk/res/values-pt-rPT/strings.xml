@@ -3709,7 +3709,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="sp_settings_check_item_title_virus_exception">Excepções</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">Sem itens</string>
-    <string name="sp_settings_group_title_check_item">Vários itens</string>
+    <string name="sp_settings_group_title_check_item">Outros</string>
     <string name="sp_settings_info_input_method">Testar teclados por falhas de segurança ao efectuar pagamentos</string>
     <string name="sp_settings_info_monitor">Monitorizar ambiente do sistema quando as aplicações de pagamento iniciarem</string>
     <string name="sp_settings_title_input_method">Testar teclados por falhas de segurança</string>
@@ -5136,14 +5136,13 @@ Withdraw consent now?"</string>
     <string name="virus_clear_dialog_title">Clear malicious apps</string>
     <string name="virus_detail_app">Contains viruses</string>
     <string name="virus_detail_title">Viruses</string>
-    <string name="virus_engine_choose_text">Online virus definitions</string>
-    <string name="virus_engine_split_text">", "</string>
+    <string name="virus_engine_choose_text">Definições de vírus online</string>
+    <string name="virus_engine_split_text">"|"</string>
     <string name="virus_ignore_dialog_content">"If you choose to ignore possible risks posed by an app, you'll no longer be notified about them. However, you should remember that it doesn't mean such risks are neutralized."</string>
-    <string name="virus_ignore_dialog_no_remind">"Don't show again"</string>
+    <string name="virus_ignore_dialog_no_remind">Não mostrar novamente</string>
     <string name="virus_ignore_dialog_title">Ignoring risks</string>
     <string name="virus_info_title">Description</string>
     <string name="virus_news_title">Related info</string>
-    <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">Type</string>
     <string name="weight_heavy">Bold</string>
     <string name="weight_light">Light</string>

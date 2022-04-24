@@ -494,7 +494,6 @@ Selecção"</string>
     <string name="private_dns_mode_provider">Nome de anfitrião do fornecedor DNS privado</string>
     <string name="private_dns_mode_provider_failure">Não foi possível ligar</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduza o nome do fornecedor DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off &amp; back on</string>
     <string name="profile_info_settings_title">Profile info</string>
     <string name="remaining_length_format">%1$s restantes</string>

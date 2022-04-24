@@ -1076,7 +1076,6 @@ Toque aqui para iniciar agora"</string>
     <string name="forbid_video_wallpaper_by_second_space">Apply dynamic wallpaper in First space first.</string>
     <string name="hide_phone_wallpaper">Hide phone wallpapers</string>
     <string name="i_know">Got it</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="load_from_local_photos">Gallery</string>
     <string name="local_mode">Offline mode</string>
     <string name="local_mode_close">Turn off offline mode?</string>

@@ -6531,7 +6531,6 @@ Press Power and Volume up at the same time."</string>
     <string name="privileged_action_disable_sub_dialog_title">Turn off %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Turn off SIM?</string>
     <string name="process_dex2oat_label">Optimização de aplicações</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor de multimédia</string>
     <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
     <string name="process_service_in_use_description">Serviço %1$s está em utilização</string>
@@ -8031,7 +8030,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
     <string name="status_bar_settings">Notificações e barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
     <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
     <string name="status_bar_settings_notification_bar">Área de notificações</string>

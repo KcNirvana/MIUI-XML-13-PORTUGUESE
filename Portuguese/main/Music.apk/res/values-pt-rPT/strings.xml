@@ -847,7 +847,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="hungama_subscribe_title">PRO membership</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="id_namespace">hungama</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Sign in</string>
     <string name="individuation_card_login_message">"Sign in to find more songs you'll love"</string>
     <string name="individuation_card_title">For you</string>
@@ -987,7 +986,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="only_pro_can_choose_hd_sound_quality">HD audio is only available to PRO members</string>
     <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
     <string name="open_service">Turn on</string>
-    <string name="partner_id">3041</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="payment_success_message">Thank you! Your payment was processed successfully. Enjoy PRO services.</string>
     <string name="payment_success_title">Congrats!</string>

@@ -711,7 +711,7 @@ Para activar a sua conta, siga o
     <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
     <string name="passport_login_recycle_account_no">Não</string>
     <string name="passport_login_recycle_account_yes">Sim</string>
-    <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
+    <string name="passport_login_title">Iniciar sessão na sua Conta Mi</string>
     <string name="passport_login_using_other_ways">Outros métodos de iniciar sessão</string>
     <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
     <string name="passport_next">Seguinte</string>

@@ -44,12 +44,12 @@
     <string name="accessibility_autoclick_shorter_desc">Mais curto</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_banner_message_dismiss">Rejeitar</string>
-    <string name="accessibility_button_description">"Aceder rápidamente a funcionalidades de acessibilidade em qualquer ecrã. 
+    <string name="accessibility_button_description">"Aceder rapidamente a funcionalidades de acessibilidade em qualquer ecrã.
 
 Para começar, vá às definições de acessibilidade e seleccione uma funcionalidade. Toque no atalho e seleccione o botão de acessibilidade"</string>
     <string name="accessibility_button_fade_summary">Desaparecer após alguns segundos para ver melhor o ecrã</string>
     <string name="accessibility_button_fade_title">Desaparecer quando não utilizado</string>
-    <string name="accessibility_button_gesture_description">"Aceder rápidamente a funcionalidades de acessibilidade em qualquer ecrã. 
+    <string name="accessibility_button_gesture_description">"Aceder rapidamente a funcionalidades de acessibilidade em qualquer ecrã.
 
 Para começar, vá às definições de acessibilidade e seleccione uma funcionalidade. Toque no atalho e seleccione o botão de acessibilidade.
 
@@ -62,7 +62,7 @@ Para utilizar o botão de acessibilidade na barra de navegação, alterar para a
     <string name="accessibility_button_opacity_title">Transparência quando não utilizado</string>
     <string name="accessibility_button_or_gesture_title">Utilizar botão ou gesto</string>
     <string name="accessibility_button_size_title">Tamanho</string>
-    <string name="accessibility_button_summary">Aceder rápidamente a funcionalidades de acessibilidade</string>
+    <string name="accessibility_button_summary">Aceder rapidamente a funcionalidades de acessibilidade</string>
     <string name="accessibility_button_title">Botão de acessibilidade</string>
     <string name="accessibility_caption_master_switch_summary">Apenas para aplicações suportadas</string>
     <string name="accessibility_caption_master_switch_title">Mostrar legendas</string>
@@ -5260,7 +5260,7 @@ Continuar para aceder a definições adicionais"</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1$s recebeu a mensagem</string>
     <string name="miui_sos_emergency_failed_sms">Não foi possível enviar a mensagem para %1$s (%2$s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Não foi possível enviar mensagem para %1s</string>
-    <string name="miui_sos_enable_switch_summary">Prima rápidamente o botão Ligar/Desligar 5 vezes para enviar uma mensagem de texto SOS com a sua localização para os seus contactos de emergência</string>
+    <string name="miui_sos_enable_switch_summary">Prima rapidamente o botão Ligar/Desligar 5 vezes para enviar uma mensagem de texto SOS com a sua localização para os seus contactos de emergência</string>
     <string name="miui_sos_enable_switch_title">SOS Emergência</string>
     <string name="miui_sos_exit_dialog_cancel">Cancelar</string>
     <string name="miui_sos_exit_dialog_message">Activou o SOS Emergência. A sua localização está a ser enviada para os seus contactos de emergência. Desligar mesmo assim?</string>
@@ -6555,7 +6555,6 @@ Press Power and Volume up at the same time."</string>
     <string name="privileged_action_disable_sub_dialog_title">Turn off %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Turn off SIM?</string>
     <string name="process_dex2oat_label">Optimização de aplicações</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor de multimédia</string>
     <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
     <string name="process_service_in_use_description">Serviço %1$s está em utilização</string>
@@ -7559,7 +7558,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="select_logpersist_dialog_title">Seleccionar buffers de registo para armazenamento persistente no dispositivo</string>
     <string name="select_logpersist_title">Arm. dados de registo persist. no disp.</string>
     <string name="select_private_dns_configuration_dialog_title">Seleccionar modo de DNS privado</string>
-    <string name="select_private_dns_configuration_title">Private DNS</string>
+    <string name="select_private_dns_configuration_title">DNS Privado</string>
     <string name="select_sim_card">Seleccionar cartão SIM</string>
     <string name="select_sim_for_calls">Ligar com</string>
     <string name="select_sim_for_data">Seleccionar um SIM para dados</string>
@@ -8055,7 +8054,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
     <string name="status_bar_settings">Notificações e barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
     <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
     <string name="status_bar_settings_notification_bar">Área de notificações</string>
@@ -10126,8 +10124,8 @@ Looks like credential storage isn't enabled."</string>
     <string name="wifitrackerlib_osu_opening_provider">Opening %1$s</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Sign-up complete. Connecting…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
-    <string name="wifitrackerlib_private_dns_broken">Private DNS server cannot be accessed</string>
-    <string name="wifitrackerlib_saved_network">Saved by %1$s</string>
+    <string name="wifitrackerlib_private_dns_broken">O DNS privado não pode ser acedido</string>
+    <string name="wifitrackerlib_saved_network">Guardado por %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Fast</string>
     <string name="wifitrackerlib_speed_label_medium">Medium</string>
     <string name="wifitrackerlib_speed_label_okay">OK</string>

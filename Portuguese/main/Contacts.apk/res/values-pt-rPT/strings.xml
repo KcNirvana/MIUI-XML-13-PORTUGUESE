@@ -566,7 +566,7 @@ Motivo: \"%s\""</string>
     <string name="people">Contactos</string>
     <string name="permission_camera_desc">Para tirar fotos durante a verificação de ID</string>
     <string name="permission_dailog_positive_button">Ir</string>
-    <string name="permission_dailog_title">Necessário permissões</string>
+    <string name="permission_dailog_title">Permissões necessárias</string>
     <string name="permission_notice_desc_access_fine_location">Para importar contactos de outros dispositivos via Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Para utilizar o VoiceMail</string>
     <string name="permission_notice_desc_call_phone">Para efectuar chamadas em aplicações de terceiros</string>
@@ -575,7 +575,7 @@ Motivo: \"%s\""</string>
     <string name="permission_notice_desc_read_contacts">Para ver contactos</string>
     <string name="permission_notice_desc_read_external_storage">Para adicionar fotos de perfil e importar vCards</string>
     <string name="permission_notice_desc_read_phone_state">Para aceder às informações do SIM</string>
-    <string name="permission_notice_desc_title">Necessário permissões</string>
+    <string name="permission_notice_desc_title">Permissões necessárias</string>
     <string name="permission_notice_desc_write_call_logs">Para editar o registo de chamadas</string>
     <string name="permission_notice_desc_write_contacts">Para gerir contactos</string>
     <string name="permission_notice_desc_write_external_storage">Para adicionar fotos de perfil e importar vCards</string>

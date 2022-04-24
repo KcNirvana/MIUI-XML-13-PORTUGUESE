@@ -778,12 +778,12 @@ d 'de' MMMM"</string>
     <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
     <string name="subscribe_dlg_btn_txt">Subscribe</string>
     <string name="subscribe_dlg_desc">Subscribe to view slideshows</string>
-    <string name="summary3">"Welcome to Wallpaper Carousel! Here you can subscribe to your favorite wallpaper categories and get new images delivered to your Lock screen regularly. This app needs to connect to the internet and collect the required personal data to be able to work normally.&lt;br>To provide additional services, we might ask for the permission to access and save items to this device's storage.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before using this app."</string>
-    <string name="summary4">"Welcome to Wallpaper Carousel! Here you can subscribe to your favorite wallpaper categories and get new images delivered to your Lock screen regularly. "</string>
+    <string name="summary3">"Bem-vindo aos papéis de parede aleatórios! Pode subscrever as suas categorias de papéis de parede favoritas e receber imagens novas todos os dias. Esta aplicação necessita de ligar à Internet para funcionar normalmente.&lt;br>To provide additional services, we might ask for the permission to access and save items to this device's storage.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before using this app."</string>
+    <string name="summary4">"Bem-vindo aos papéis de parede aleatórios! Pode subscrever as suas categorias de papéis de parede favoritas e receber imagens novas todos os dias. "</string>
     <string name="summary5">"To provide additional services, we might ask for the permission to access and save items to this device's storage. "</string>
     <string name="system_default">Default</string>
     <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
-    <string name="tb_collapse_desc">Hide the \"Share\" menu</string>
+    <string name="tb_collapse_desc">Ocultar o menu \"Partilhar\"</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
     <string name="time_interval_dialog_content1">Wallpaper Carousel allows you to see a new image every time you unlock the device.</string>
     <string name="time_interval_dialog_content2">You can change wallpaper update frequency in \"Slideshow settings\".</string>

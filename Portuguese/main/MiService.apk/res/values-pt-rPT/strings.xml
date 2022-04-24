@@ -149,7 +149,7 @@
     <string name="public_net_error_retry">Tentar novamente</string>
     <string name="public_net_error_sub_title">Verifique as suas definições de rede e tente novamente</string>
     <string name="public_net_error_title">Não foi possível ligar à rede</string>
-    <string name="public_please_authorize">Necessário permissões para continuar</string>
+    <string name="public_please_authorize">Permissões necessárias para continuar</string>
     <string name="rationale_ask">Esta aplicação pode não funcionar correctamente sem as permissões necessárias</string>
     <string name="rationale_ask_again">Esta aplicação pode não funcionar correctamente sem as permissões necessárias. Abra as definições da aplicação para modificar as permissões</string>
     <string name="search_menu_title">Pesquisar</string>

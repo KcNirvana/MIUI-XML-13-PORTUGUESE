@@ -55,7 +55,7 @@
     <string name="new_permission_agree">Antes de utilizar os nossos serviços, leia e concorde com os Termos de Utilização e Política de Privacidade</string>
     <string name="new_permission_agree_explain">Se não concordar em conceder estas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode sempre escolher desinstalar ou restringir as permissões nas Definições</string>
     <string name="new_permission_content_first_line">"Bem-vindo ao Mi Ditto! Pode utilizar esta aplicação para transcrever áudio e gerar fala com base na sua entrada de texto.
-As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.
 Esta aplicação necessita de se ligar à Internet e das seguintes permissões para obter as suas informações pessoais:"</string>
     <string name="not_remind">Não mostrar novamente</string>
     <string name="not_set">Não definido</string>

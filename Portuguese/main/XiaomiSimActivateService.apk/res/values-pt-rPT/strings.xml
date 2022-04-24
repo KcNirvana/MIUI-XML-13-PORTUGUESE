@@ -11,7 +11,7 @@
     <string name="activate_feature_find_device">Posicionamento por SMS</string>
     <string name="activate_feature_live_talk">Pacote de carregamento</string>
     <string name="activate_feature_mi_roaming">Mi Roaming</string>
-    <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
+    <string name="activate_feature_mms_sync">Sincronização de mensagens</string>
     <string name="activate_feature_mx">Mi Message</string>
     <string name="activate_feature_mx_and_voip">Mi Message e Voice</string>
     <string name="activate_feature_register_xiaomi_account">Configuração de Conta Mi</string>
@@ -139,7 +139,7 @@ Introduza o número de telefone associado ao o seu novo cartão SIM para reactiv
     <string name="activate_status_desc_wait_for_sms_success">Recebida SMS de activação do servidor</string>
     <string name="activate_status_title_activating">A activar cartão SIM</string>
     <string name="activate_status_title_activating_msim">A activar cartão SIM %d</string>
-    <string name="activate_status_title_activating_sim">A activar cartão \"%2$s\" utilizando o cartão SIM %1$d…</string>
+    <string name="activate_status_title_activating_sim">A activar \"%2$s\" utilizando o cartão SIM %1$d…</string>
     <string name="activate_status_title_registering_xiaomi_account">A criar Conta Mi…</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">A criar Conta Mi utilizando o cartão SIM %d…</string>
     <string name="agree">Permitir</string>

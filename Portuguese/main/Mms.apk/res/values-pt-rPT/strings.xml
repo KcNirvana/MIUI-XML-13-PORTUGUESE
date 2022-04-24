@@ -701,7 +701,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="priority_normal">Normal</string>
     <string name="privacy_dialog_error_service">Ocorreu um erro. Aguarde um momento e tente novamente</string>
     <string name="privacy_dialog_text_policy_link">Política de Privacidade</string>
-    <string name="privacy_dialog_tips_revoke" formatted="false">Se continuar, vai remover o consentimento da Política de Privacidade de %s. As informações pessoais obtidas vão ser eliminadas de acordo com as leis aplicáveis. Como %s fornece os seus serviços baseados nas suas informações pessoais, a remoção de consentimento vai ser considerada como uma recusa a aceitar os seus serviços. Remover consentimento agora?</string>
+    <string name="privacy_dialog_tips_revoke" formatted="false">Se continuar, vai remover o consentimento da Política de Privacidade de %s. As informações pessoais obtidas vão ser eliminadas de acordo com as leis aplicáveis. Como %s fornece os seus serviços baseados nas suas informações pessoais, a remoção de consentimento vai ser considerada como uma recusa em aceitar os seus serviços. Remover consentimento agora?</string>
     <string name="privacy_dialog_tips_update" formatted="false">"%s A Política de Privacidade foi actualizada:
 %s
 Leia e concorde com a nova versão da Política de Privacidade antes de continuar"</string>
@@ -1122,7 +1122,7 @@ Veja as recomendadas!"</string>
     <string name="system_permission_declare_double_link" formatted="false">Leia e concorde com os nossos %1s e %2s antes de utilizar esta funcionalidade</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Bem-vindo ao Mi Message!</string>
-    <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
+    <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.
 Se não concordar com as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
     <string name="system_permission_declare_privacy_declare">%1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_declare_new">Esta aplicação necessita de ligar à Internet e das seguintes permissões para funcionar normalmente:</string>

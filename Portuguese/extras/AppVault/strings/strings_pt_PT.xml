@@ -36,7 +36,7 @@
     <string name="shortcuts_external">Atalhos de terceiros</string>
     <string name="shortcuts_system">Atalhos de sistema</string>
     <string name="whatsapp_photos">Fotos</string>
-    <string name="widget_apps">Aplicações com suporte a widgets</string>
+    <string name="widget_apps">Aplicações suportadas</string>
     <string name="widget_appvault_shortcuts">Atalhos</string>
     <string name="widget_appvault_shortcuts_desc">Iniciar aplicação utilizadas frequentemente</string>
     <string name="widget_appvault_smart_shortcuts">Sugestões</string>

@@ -91,7 +91,7 @@
     <string name="cheetah_info">As chitas são os animais terrestres mais rápidos, com uma estrutura social flexível e complexa</string>
     <string name="chinstrap_penguin">Pinguim de barbicha</string>
     <string name="class_amphibious">Anfíbios</string>
-    <string name="class_bird">Aves</string>
+    <string name="class_bird">Pássaros</string>
     <string name="class_breast_feeding">Mamíferos</string>
     <string name="click_to_save">Toque \"Concluído\" para definir um toque geral</string>
     <string name="color_gamut">Gama de cores</string>
@@ -267,7 +267,7 @@ não são geradas no Segundo espaço"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
     <string name="mix_match_random">Aleatório</string>
     <string name="mix_match_submit">Aplicar</string>
-    <string name="mix_match_type_bird">Aves</string>
+    <string name="mix_match_type_bird">Pássaros</string>
     <string name="mix_match_type_galapagos_islands">Ilhas Galápagos</string>
     <string name="mix_match_type_land">Terrestes</string>
     <string name="mix_match_type_polar">Polares</string>
@@ -484,10 +484,10 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
     <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao tempo de ecrã!
 Para funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
 Esta aplicação necessita também de ligar à Internet e das seguintes permissões para obter informações pessoais:"</string>
-    <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
+    <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Antes de utilizar esta aplicação, leia e concorde com os nossos &lt;a href='%1s'>Termos de Utilização&lt;/a> e &lt;a href='%2s'>Política de Privacidade&lt;/a>"</Data></string>
-    <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
+    <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
     <string name="usage_new_home_app_limit_summary">Definir um limite de tempo de ecrã diário para esta aplicação</string>
     <string name="usage_new_home_app_limit_title">Limitar tempo de ecrã</string>
     <string name="usage_new_home_average">"Média "</string>

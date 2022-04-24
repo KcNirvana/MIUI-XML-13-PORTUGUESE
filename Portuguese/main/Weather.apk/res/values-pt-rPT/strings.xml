@@ -73,8 +73,8 @@
     <string name="button_confirm">Concordar</string>
     <string name="button_exit">Não concordar</string>
     <string name="button_settings_cancel">Cancelar</string>
-    <string name="button_settings_confirm">Retirar</string>
-    <string name="button_settings_confirm_to_revoke_msg">Ao desligar isto, está a retirar os seu consentimento com a Política de Privacidade do Tempo</string>
+    <string name="button_settings_confirm">Remover</string>
+    <string name="button_settings_confirm_to_revoke_msg">Ao desligar isto, está a remover os seu consentimento com a Política de Privacidade do Tempo</string>
     <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
     <string name="city_exceeded_warning">Não é possível adicionar mais cidades</string>
     <string name="clear_net_mock_success">Net mock clear success</string>
@@ -102,7 +102,7 @@
     <string name="daily_forecast_detail_date">dd/MM</string>
     <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
  Puxe para actualizar ou verifique as definições de rede"</string>
-    <string name="data_provided_by" />
+    <string name="data_provided_by">Dados fornecidos por</string>
     <string name="dialog_internet_error_title">Ocorreu um erro</string>
     <string name="dialog_msg_score_midrop">How do you feel about Weather?</string>
     <string name="dialog_msg_score_not_good">Could you give us your feedback as well?</string>
@@ -183,7 +183,7 @@
     <string name="night_not_disturb_settings_summary">Bloquear alertas entre as 23:00 e as 7:00</string>
     <string name="night_not_disturb_settings_title">Não incomodar à noite</string>
     <string name="no_data">Sem dados</string>
-    <string name="no_internet_message">O seu dispositivo necessita de ligar à rede para poder retirar o consentimento. Verifique as suas definições de rede e tente novamente</string>
+    <string name="no_internet_message">O seu dispositivo necessita de ligar à rede para poder remover o consentimento. Verifique as suas definições de rede e tente novamente</string>
     <string name="non_wifi_environment">Ligue-se ao Wi-Fi para transferir os efeitos de áudio</string>
     <string name="notif_aqi_title">IQA é %1$d em %2$s hoje</string>
     <string name="notif_weather_title">%1$s em %2$s hoje</string>
@@ -205,11 +205,11 @@
     <string name="permission_storage_introduce">Para aceder a itens no dispositivo e guardar ficheiros</string>
     <string name="permission_user_protocol">Termos de Utilização (obrigatório)</string>
     <string name="pressure_content">%1$s %2$s</string>
-    <string name="privacy_grant_or_revoke_settings">Retirar consentimento</string>
+    <string name="privacy_grant_or_revoke_settings">Remover consentimento</string>
     <string name="privacy_grant_success">Autorização concedida com sucesso</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_msg"><Data>Esta aplicação contém as seguintes funcionalidades:<br/>• Informação de tempo na sua localização<br/>• Previsões do tempo<br/>• Alertas de tempo<br/><br/>O Tempo necessita de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar o Tempo. Pode retirar o seu consentimento nas Definições</Data></string>
-    <string name="privacy_policy_msg_for_gp"><Data>Esta aplicação contém as seguintes funcionalidades:<br/>• Informação de tempo na sua localização<br/>• Previsões do tempo<br/>• Alertas de tempo<br/><br/>O Tempo necessita de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar o Tempo. Pode retirar o seu consentimento nas Definições</Data></string>
+    <string name="privacy_policy_msg"><Data>Esta aplicação contém as seguintes funcionalidades:<br/>• Informação de tempo na sua localização<br/>• Previsões do tempo<br/>• Alertas de tempo<br/><br/>O Tempo necessita de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar o Tempo. Pode remover o seu consentimento nas Definições</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Esta aplicação contém as seguintes funcionalidades:<br/>• Informação de tempo na sua localização<br/>• Previsões do tempo<br/>• Alertas de tempo<br/><br/>O Tempo necessita de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar o Tempo. Pode remover o seu consentimento nas Definições</Data></string>
     <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
     <string name="privacy_settings">Política de Privacidade</string>
     <string name="pull_fresh_updated">Actualizado com sucesso</string>
@@ -235,7 +235,7 @@
     <string name="request_permission_read_phone_state_dialog_content">Para identificar o seu dispositivo</string>
     <string name="request_permission_storage_dialog_content">Para partilhar a informação do tempo no formato de imagem</string>
     <string name="revoke_fail">Não é possível ligar à rede</string>
-    <string name="revoke_privacy_policy_title">Retirar consentimento</string>
+    <string name="revoke_privacy_policy_title">Remover consentimento</string>
     <string name="save_to_gallery_failure_message">Não foi possível guardar na Galeria</string>
     <string name="save_to_gallery_icon_name">Guardar na Galeria</string>
     <string name="save_to_gallery_success_message">Guardado na Galeria com sucesso</string>

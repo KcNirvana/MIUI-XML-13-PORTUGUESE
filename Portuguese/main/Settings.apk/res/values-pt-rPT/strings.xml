@@ -3610,8 +3610,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="game_settings_title">Game settings</string>
     <string name="game_storage_settings">Jogos</string>
     <string name="gd_setting_title">Barra lateral</string>
-    <string name="general_category_title">General</string>
-    <string name="general_notification_header">Manage</string>
+    <string name="general_category_title">Geral</string>
+    <string name="general_notification_header">Gerir</string>
     <string name="general_text">Campo de texto</string>
     <string name="general_time">Hora: %1$d:%2$d. Vibrações longas representam horas, vibrações curtas representam minutos. Vai haver uma breve pausa entre horas e minutos. Duplo toque para experimentar</string>
     <string name="gentle_notifications_also_display">Mostrar também em</string>
@@ -4473,7 +4473,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="location_time_zone_detection_not_allowed">Location time zone detection changes are not allowed</string>
     <string name="location_time_zone_detection_not_applicable">Location time zone detection is disabled</string>
     <string name="location_time_zone_detection_not_supported">Location time zone detection is not supported</string>
-    <string name="location_time_zone_detection_toggle_title">Use location to set time zone</string>
+    <string name="location_time_zone_detection_toggle_title">Utilizar localização para definir fuso horário</string>
     <string name="location_title">A minha localização</string>
     <string name="lock_after_timeout">Bloquear após suspensão</string>
     <string name="lock_after_timeout_summary">%1$s depois de suspender</string>
@@ -5936,7 +5936,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
     <string name="onehour">30 minutos</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
-    <string name="open_app_button">Open %1$s</string>
+    <string name="open_app_button">Abrir %1$s</string>
     <string name="open_demo_mode">Ligar</string>
     <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
     <string name="open_game_accelerate">Ligar Game Turbo</string>
@@ -7927,7 +7927,7 @@ Se não concordar em conceder estas permissões, não vai poder utilizar as func
     <string name="sos_privacy_dialog_message">"Leia e concorde com os nossos %s antes de utilizar esta funcionalidade.
 Esta funcionalidade necessita de permissões para aceder à sua localização, utilizar redes móveis e ler os seus contactos. Concorda?"</string>
     <string name="sos_privacy_dialog_message_new_version">"O SOS Emergência permite partilhar a sua localização em tempo real e enviar mensagens de texto para os seus contatos de emergência.
-As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Pprivacidade.
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.
 Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
 • Aceder ao armazenamento
 Para guardar contactos de emergência
@@ -7952,7 +7952,7 @@ Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string
     <string name="sos_privacy_policy_revoke">Remoção de consentimento</string>
     <string name="sos_privacy_policy_revoke_message_reject">"Se continuar, vai remover o consentimento da Política de Privacidade da Emergência SOS. As informações pessoais obtidas vão ser eliminadas de acordo com as leis em vigor.
   
-Como a Emergência SOS fornece serviços baseado nas suas informações pessoais, a remoção de consentimento vai ser considerada como uma recusa em aceitar os serviços de segurança.
+Como a Emergência SOS fornece serviços baseado nas suas informações pessoais, a remoção de consentimento vai ser considerada como uma recusa em aceitar os serviços de Segurança.
 
 Remover consentimento de %s agora?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Atenção</string>

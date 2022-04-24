@@ -59,7 +59,7 @@ Visitar https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
     <string name="dialog_request_network_btn_negative">Sair</string>
     <string name="dialog_request_network_btn_positive">Aceitar</string>
     <string name="dialog_request_network_message">"Bem-vindo ao Mi Mover! Pode utilizar esta aplicação para transferir dados do seu dispositivo antigo para um novo.
-As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. O Mi Mover necessita de ligar à Internet e das seguintes permissões obter as suas informações pessoais: ligar e desligar o Wi-Fi, aceder e transferir contactos, registo de chamadas, SMS, MMS, gravações de chamada e gravações de áudio"</string>
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade. O Mi Mover necessita de ligar à Internet e das seguintes permissões obter as suas informações pessoais: ligar e desligar o Wi-Fi, aceder e transferir contactos, registo de chamadas, SMS, MMS, gravações de chamada e gravações de áudio"</string>
     <string name="dialog_request_network_message_extra">Se não concordar em conceder estas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode sempre escolher desinstalar ou restringir as permissões nas Definições</string>
     <string name="dialog_tip_upgrade_summary">O Mi Mover está desactualizado. Actualize o Mi Mover para a sua versão mais recente para poder transferir ficheiros</string>
     <string name="dialog_tip_upgrade_title">Actualizar Mi Mover</string>

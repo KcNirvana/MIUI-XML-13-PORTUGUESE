@@ -69,7 +69,7 @@ Esta funcionalidade é suportado por dispositivos de OPPO, Vivo, Realme e outras
     <string name="operate_too_fast">Demasiado rápido! Aguarde até as operações em curso estarem concluídas</string>
     <string name="pc_device_model_name">Computador</string>
     <string name="permission_denied_hint">Conceda as permissões necessárias para poder utilizar o Mi Share</string>
-    <string name="purpose">"Bem-vindo ao Mi Share! Pode utilizar esta aplicação para transferir ficheiros entre dispositivos. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
+    <string name="purpose">"Bem-vindo ao Mi Share! Pode utilizar esta aplicação para transferir ficheiros entre dispositivos. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.
 Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim como dar permissão para obtermos as informações pessoais necessárias:"</string>
     <string name="queue_full">Conclua as transferências em curso antes de adicionar novas</string>
     <string name="receive_complete">Recebido com sucesso</string>

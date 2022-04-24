@@ -1128,14 +1128,6 @@ d 'de' MMMM"</string>
     <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
     <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
     <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
-    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
-2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
-3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
     <string name="privacy_permission_management_description">Permissions details</string>
     <string name="privacy_permission_related_content">Permissions</string>
     <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a>. Agree to the updated Privacy Policy now?"</string>

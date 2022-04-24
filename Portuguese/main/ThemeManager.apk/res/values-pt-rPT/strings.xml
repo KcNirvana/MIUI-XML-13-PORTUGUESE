@@ -1182,16 +1182,8 @@ All the personalization items currently used on this device. Default personaliza
     <string name="privacy_revoking_warning">Withdrawing consent…</string>
     <string name="privacy_select_mode">Select mode</string>
     <string name="privacy_select_mode_desc">"Since you haven't agreed to our Privacy Policy, select one of the following modes:"</string>
-    <string name="privacy_update_prompt_title">Updated Privacy Policy</string>
-2. Your withdrawal of consent to the Privacy Policy of Wallpaper and personalization won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
     <string name="prvicay_permission_not_allow_desc">"This app needs to access storage to delete all the data generated on this device. Without this permission, some data may not be deleted. Cancel services anyway?
-You can grant this permission in Settings > Privacy."</string>
+You can grant this permission in Settings &gt; Privacy."</string>
     <string name="purchased">Orders</string>
     <string name="read_and_agree_account_privacy"><Data>"I've read and agreed to the Mi Account &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font>."</Data></string>
     <string name="repeat_exchange_dialog_content">"Can't redeem code. Check what other rewards are available now?"</string>

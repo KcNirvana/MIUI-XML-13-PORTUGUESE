@@ -240,11 +240,8 @@
     <string name="user_feedback">Comentários</string>
     <string name="wifi_recommended_body" formatted="false">Se utilizar a sua ligação de dados móveis para transferir este ficheiro (%s) vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais. Para aguardar por uma ligação Wi-Fi para transferir este ficheiro toque em %s</string>
     <string name="wifi_recommended_title">Aviso de utilização de dados</string>
-        <string name="allowed">Granted</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="copy">Copy</string>
-    <string name="download">Download</string>
+    <string name="allowed">Concedida</string>
+    <string name="download">Transferir</string>
     <string name="err_msg_abandon">Order was abandoned</string>
     <string name="err_msg_complete">Order was completed</string>
     <string name="err_msg_convert_fail">"Couldn't convert"</string>
@@ -267,7 +264,7 @@
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="invisible_mode_error_tip">Turn off Incognito mode in the Settings to be able to use microphone</string>
     <string name="item_view_role_description">Tab</string>
-    <string name="korea_permission_phone">Phone</string>
+    <string name="korea_permission_phone">Telefone</string>
     <string name="korea_permission_phone_resc">For accessing device status and handling recordings during calls</string>
     <string name="korea_permission_record">Microphone</string>
     <string name="korea_permission_record_resc">For recording audio</string>
@@ -275,7 +272,6 @@
     <string name="korea_permission_storage_desc">For saving recordings</string>
     <string name="loading_order_list">Just a sec…</string>
     <string name="loading_order_list_empty">No orders here.</string>
-    <string name="lyric_item_point_count">%1$d to %2$d</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
     <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
     <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
@@ -331,7 +327,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="permission_storage_description">For managing recordings and downloading them from the cloud</string>
     <string name="permission_storage_description_for_download">For downloading recordings from the cloud</string>
     <string name="permission_storage_description_for_manage_files">For managing recordings</string>
-    <string name="privacy_settings">Privacy</string>
+    <string name="privacy_settings">Privacidade</string>
     <string name="progress">Playback progress bar</string>
     <string name="recognition_button_add_to_queue">Add to queue</string>
     <string name="recognition_button_cancel">Not now</string>
@@ -375,10 +371,10 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="reg_error_upload_audio">"Couldn't upload file, try again."</string>
     <string name="reg_error_upload_order">"Couldn't upload, try again."</string>
     <string name="service_instructions">About iflyrec.com</string>
-    <string name="settings_saf_permission">File management permissions</string>
-    <string name="storage_permission_dialog_title">Storage permissions required</string>
+    <string name="settings_saf_permission">Permissões de gestão de ficheiros</string>
+    <string name="storage_permission_dialog_title">Necessário permissões de armazenamento</string>
     <string name="text_btn_recognize_pending">"Pending "</string>
-    <string name="view_privacy">View Privacy Policy</string>
+    <string name="view_privacy">Ver Política de Privacidade</string>
     <string name="webview_check_network">Network settings</string>
     <string name="webview_data_error">An error occurred</string>
     <string name="webview_locating_fail">"Couldn't find your location"</string>

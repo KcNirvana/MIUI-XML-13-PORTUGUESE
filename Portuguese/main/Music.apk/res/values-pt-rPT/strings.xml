@@ -847,7 +847,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="hungama_subscribe_title">PRO membership</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="id_namespace">hungama</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Sign in</string>
     <string name="individuation_card_login_message">"Sign in to find more songs you'll love"</string>
     <string name="individuation_card_title">For you</string>

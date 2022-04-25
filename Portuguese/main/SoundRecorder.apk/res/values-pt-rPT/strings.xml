@@ -66,8 +66,9 @@
     <string name="loading_more">Aguarde…</string>
     <string name="low_battery_error">Faltam menos de 5% na bateria. Pare e guarde a sua gravação para garantir que não vai ser perdida</string>
     <string name="low_battery_error_confirm">OK</string>
-    <string name="low_battery_error_for_pad">Faltam menos de 5% na bateria. Pare e guarde a sua gravação para garantir que não vai ser perdida</string>
+    <string name="low_battery_error_for_pad">Faltam menos de %s na bateria. Pare e guarde a sua gravação para garantir que não vai ser perdida</string>
     <string name="low_battery_error_title">Bateria fraca</string>
+	<string name="lyric_item_point_count">%1$d até %2$d</string>
     <string name="mark_point_list_title">Marcadores</string>
     <string name="menu">Menu</string>
     <string name="message_file_size_error">A gravação atingiu o tamanho máximo suportado por %s</string>

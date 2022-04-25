@@ -378,7 +378,7 @@
     <string name="company">Trabalho</string>
     <string name="company_or_school">Trabalho ou escola</string>
     <string name="cta_desc">Todas as funcionalidades num só lugar</string>
-    <string name="cta_dialog_all_purpose">Bem vindo ao assistente! Esta aplicação é uma centralização para trabalho, estilo de vida e serviços de viagens.</string>
+    <string name="cta_dialog_all_purpose">"Bem-vindo ao assistente! Esta aplicação é uma centralização para trabalho, estilo de vida e serviços de viagens. "</string>
     <string name="cta_dialog_desc_calendar">Para mostrar os eventos do calendário</string>
     <string name="cta_dialog_desc_location">Para calcular a duração das suas deslocações diárias</string>
     <string name="cta_dialog_desc_phone_state">Para identificar o seu dispositivo utilizando o IMEI</string>

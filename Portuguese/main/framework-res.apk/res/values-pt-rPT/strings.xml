@@ -160,11 +160,7 @@ You can change selected features in Settings &gt; Accessibility."</string>
     <string name="accessibility_shortcut_single_service_warning">"Holding down both volume keys for a few seconds turns on %1$s, an accessibility feature. This may change how your device works.
 
 You can change this shortcut to another feature in Settings > Accessibility."</string>
-    <string name="accessibility_shortcut_toogle_warning">"Quando o atalho está ligado, premir ambos os botões de volume durante 3 segundos inicia uma funcionalidade de acessibilidade.
-  Funcionalidade de acessibilidade actual:
- %1$s
-
-  Pode alterar esta funcionalidade em Definições &gt; Acessibilidade"</string>
+    <string name="accessibility_shortcut_toogle_warning">Quando o atalho está ligado, premir ambos os botões de volume durante 3 segundos inicia uma funcionalidade de acessibilidade</string>
     <string name="accessibility_shortcut_warning_dialog_title">Pretende utilizar o atalho de acessibilidade?</string>
     <string name="action_bar_home_description">Ir para a página inicial</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>

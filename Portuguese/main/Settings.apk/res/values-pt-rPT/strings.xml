@@ -659,7 +659,7 @@ Alterar definições agora?"</string>
     <string name="app_permission_summary_not_allowed">Não permitida</string>
     <string name="app_permissions">Gestor de permissões</string>
     <string name="app_permissions_summary">Aplicações a utilizar %1$s</string>
-    <string name="app_permissions_summary_more">Aplicações a utilizar %1$ e mais</string>
+    <string name="app_permissions_summary_more">Aplicações a utilizar %1$s e mais</string>
     <string name="app_pinning_intro">A fixação de aplicações permite manter a aplicação actual visível até soltar. Esta funcionalidade pode ser utilizada para permitir que um amigo fidedigno jogue um jogo específico</string>
     <string name="app_pinning_main_switch_title">Utilizar fixação de aplicações</string>
     <string name="app_process_limit_title">Limite de processos em segundo plano</string>
@@ -1055,7 +1055,7 @@ As cópias são guardadas na Xiaomi Cloud e podem ser acedidas de qualquer lugar
     <string name="battery_saver_on_summary">Ligada</string>
     <string name="battery_saver_schedule_settings_title">Programar</string>
     <string name="battery_saver_seekbar_title_placeholder">Ligar</string>
-    <string name="battery_saver_sticky_description_new">Desligar quando a bateria estiver a %1$s</string>
+    <string name="battery_saver_sticky_description_new">Desligar quando a bateria estiver a ^1%</string>
     <string name="battery_saver_sticky_title_new">Desligar quando carregada</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
     <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -1203,7 +1203,7 @@ em ^2"</string>
     <string name="block_list_no_device">Sem dispositivos na lista de bloqueio</string>
     <string name="block_list_qcom_dialog_content">Esta acção vai desligar %s deste dispositivo e adicioná-lo à lista de bloqueio</string>
     <string name="block_list_remove_dialog_content">%s vai poder ligar a este PA Móvel</string>
-    <string name="block_list_remove_dialog_title">Remover %s da lista de bloqueio</string>
+    <string name="block_list_remove_dialog_title">Atenção</string>
     <string name="block_list_summary">Ver os dispositivos que não estão permitidos de ligar a este PA Móvel</string>
     <string name="block_list_title">Lista de bloqueio</string>
     <string name="block_title">Notificações</string>
@@ -3757,7 +3757,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="gxzw_quick_open_fast_title">Deslizar rápido (avançado)</string>
     <string name="gxzw_quick_open_slow_summary">Prima e segure o ícone da impressão digital para abrir o menu de atalhos. Deslize para utilizar</string>
     <string name="gxzw_quick_open_slow_title">Premir e segurar</string>
-    <string name="gxzw_quick_open_title">Atalhos</string>
     <string name="handy_mode">Modo Uma Mão</string>
     <string name="handy_mode_enable">Modo Uma Mão</string>
     <string name="handy_mode_size">Tamanho do ecrã</string>
@@ -10345,7 +10344,7 @@ Looks like credential storage isn't enabled."</string>
     <string name="zen_mode_duration_summary_always_prompt">Perguntar sempre</string>
     <string name="zen_mode_duration_summary_forever">Até desligar</string>
     <string name="zen_mode_duration_summary_time_hours">{count, plural, =1 {1 hour} other {# hours} }</string>
-    <string name="zen_mode_duration_summary_time_minutes">%d minutos</string>
+    <string name="zen_mode_duration_summary_time_minutes">{count, plural, =1 {1 minute} other {# minutes} }</string>
     <string name="zen_mode_effected_always">Sempre</string>
     <string name="zen_mode_enable_dialog_turn_on">Ligar</string>
     <string name="zen_mode_end_time">Hora de fim</string>

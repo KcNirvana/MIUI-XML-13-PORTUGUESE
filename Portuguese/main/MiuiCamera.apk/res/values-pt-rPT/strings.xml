@@ -1608,7 +1608,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
     <string name="unknow_error">Erro desconhecido</string>
     <string name="unsupported_microphones_3d_record_tips">O som 3D não suporta microfones externos</string>
     <string name="unsupported_microphones_audio_zoom_tips">O zoom de áudio não suporta microfones externos</string>
-    <string name="update_loading">Transferidos %1$d%%</string>
+    <string name="update_loading">Transferidos %1$s</string>
     <string name="update_start">Actualizar %1$s</string>
     <string name="user_agree">Concordar</string>
     <string name="user_agreement2">Termos de Serviço</string>

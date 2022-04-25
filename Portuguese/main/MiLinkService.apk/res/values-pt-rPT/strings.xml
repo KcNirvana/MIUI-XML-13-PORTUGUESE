@@ -161,7 +161,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="path_setting_cast_feature">Ligações e partilha/Transmissão/Funcionalidades especiais</string>
     <string name="path_setting_cast_help">Ligações e partilha/Transmissão/Ajuda</string>
     <string name="privacy_agree">Concordar</string>
-    <string name="privacy_detail">This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a></string>
+    <string name="privacy_detail">Allow this app to connect to the internet and grant the required permissions before you continue.</string>
     <string name="privacy_detail_extra">Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a> and &lt;a href=%2$s>HappyCast Legal Statement&lt;/a></string>
     <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
     <string name="privacy_negative">Sair</string>

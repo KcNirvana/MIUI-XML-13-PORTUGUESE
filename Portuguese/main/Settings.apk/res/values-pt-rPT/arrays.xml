@@ -1189,11 +1189,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>S</item>
         <item>L</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Perguntar</item>
-        <item>Nunca permitir</item>
-        <item>Permitir sempre</item>
-    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desligado</item>
         <item>64 KB</item>

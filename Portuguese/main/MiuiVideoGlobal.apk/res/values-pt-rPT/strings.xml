@@ -7,7 +7,10 @@
     <string name="ad_join">Aderir à comunidade</string>
     <string name="ad_more">Mais</string>
     <string name="add_local_shortcut_add">Adicionar</string>
-    <string name="add_local_shortcut_des">Adicionar “Os meus vídeos” ao ecrã inicial</string>
+    <string name="add_local_shortcut_des">Adicionar \"Os meus vídeos\" ao ecrã inicial</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">Nome</string>
+    <string name="add_search_channel_tip">Pesquisar por \"%s\" no site de destino e depois copiar e colar o URL aqui</string>
     <string name="agree">Concordar</string>
     <string name="agree_and_continue">Concordar</string>
     <string name="app_description_content">Vídeos é uma aplicação de sistema que contém um leitor de vídeo. Ainda vai poder reproduzir vídeos após remover do ecrã inicial</string>
@@ -77,7 +80,7 @@
     <string name="dialog_privacy_change_title">Actualização da Política de Privacidade</string>
     <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
     <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
-    <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br/> - Streaming online<br/> - Leitor de vídeos<br/>. Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
+    <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br/> - Streaming online<br/> - Leitor de vídeos<br/>Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Remover (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">Se continuar, vai remover o consentimento da Política de Privacidade de Vídeos. As informações pessoais obtidas vão ser eliminadas de acordo com as leis em vigor. A remoção de consentimento da Política de Privacidade vai ser considerada como uma recusa em aceitar os serviços online</string>
@@ -112,7 +115,7 @@
     <string name="for_you">Para si</string>
     <string name="friday">Sexta-feira</string>
     <string name="fw_loading">Aguarde…</string>
-    <string name="fw_reload_sub_title">Toque no ecrã para tentar novamente</string>
+    <string name="fw_reload_sub_title">Tocar no ecrã para tentar novamente</string>
     <string name="fw_reload_title">Não foi possível ligar à rede</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Câmara</string>
@@ -465,6 +468,7 @@
     <string name="ovp_loading_video_netplay_label_v5">Aguarde…</string>
     <string name="ovp_local_videos_title">Dispositivo</string>
     <string name="ovp_navigation_category">Categoria</string>
+    <string name="ovp_navigation_content">Cooperação de conteúdo</string>
     <string name="ovp_navigation_darkmode">Modo Escuro</string>
     <string name="ovp_navigation_favorites">Favoritos</string>
     <string name="ovp_navigation_feedback">Comentários</string>
@@ -473,6 +477,7 @@
     <string name="ovp_navigation_language">Idioma</string>
     <string name="ovp_navigation_localvideo">Dispositivo</string>
     <string name="ovp_navigation_notice">Notificações</string>
+    <string name="ovp_navigation_playlist">Listas de reprodução</string>
     <string name="ovp_navigation_score">Avaliar aplicação</string>
     <string name="ovp_navigation_setting">Definições</string>
     <string name="ovp_navigation_subscribe">Subscrições</string>
@@ -652,7 +657,7 @@ Aumentar a segurança da sua conta"</string>
     <string name="push_message_switch">Notificações push</string>
     <string name="push_message_tips">Ligar para receber notificações push</string>
     <string name="pw_category">Categorias</string>
-    <string name="pw_click_channel_scrol_to_top">Toque novamente para voltar ao topo</string>
+    <string name="pw_click_channel_scrol_to_top">Tocar novamente para voltar ao topo</string>
     <string name="pw_comment_back">Voltar</string>
     <string name="pw_comment_detail">Detalhes</string>
     <string name="pw_comment_let_me_comment">Eu tenho um comentário…</string>
@@ -726,7 +731,7 @@ Tente ver outros vídeos!"</string>
     <string name="s_double_tap_play_stop">Duplo toque para pausar ou retomar</string>
     <string name="saturday">Sábado</string>
     <string name="save">Guardar</string>
-    <string name="save_cancel_toast">Toque novamente para cancelar</string>
+    <string name="save_cancel_toast">Tocar novamente para cancelar</string>
     <string name="screenrecord_cancel">Problemas de compatibilidade</string>
     <string name="screenrecord_nosupport_record">A gravação de ecrã não é suportada neste dispositivo</string>
     <string name="search">Pesquisar</string>
@@ -745,7 +750,7 @@ Tente ver outros vídeos!"</string>
     <string name="sunday">Domingo</string>
     <string name="switch_ratio_pause">A velocidade de reprodução está instável. A voltar à velocidade padrão…</string>
     <string name="t_downloading">A transferir:</string>
-    <string name="t_exit_app">Toque novamente para sair</string>
+    <string name="t_exit_app">Tocar novamente para sair</string>
     <string name="t_lv_check_delete_history">Seleccionar itens para eliminar</string>
     <string name="t_lv_check_hide_file">Seleccionar vídeos para ocultar</string>
     <string name="t_lv_check_unhide_file">Seleccionar vídeos para mostrar</string>
@@ -893,7 +898,7 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="activity_not_found_notice">"Can't find the app"</string>
     <string name="ad">Ad</string>
     <string name="add_to_trust_device">This is a trusted device</string>
-    <string name="add_website">Add a website</string>
+    <string name="add_website">Adicionar um site</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
     <string name="ai_music_save_cancel">Cancel</string>
     <string name="ai_music_save_dialog_title">Save</string>
@@ -1007,7 +1012,7 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="content_can_not_null">"Can't submit feedback without description."</string>
     <string name="content_country_key">content_country</string>
     <string name="content_language_key">content_language</string>
-    <string name="controller_bar_edit">Edit</string>
+    <string name="controller_bar_edit">Editar</string>
     <string name="current_service_key">service</string>
     <string name="day">day</string>
     <string name="default_localization_key">system</string>
@@ -1041,8 +1046,8 @@ Send this code to the supervisor."</string>
     <string name="dialog_jumpto_content">Alterar para Vídeos para aceder a funcionalidades adicionais?</string>
     <string name="dialog_jumpto_title">Vídeos</string>
     <string name="dialog_no_video_confirm">Percebi</string>
-    <string name="dialog_no_video_tip">Try to open video details first. The download button will be available once a video is found.</string>
-    <string name="dialog_no_video_title">"Couldn't find video"</string>
+    <string name="dialog_no_video_tip">Tente abrir os detalhes do vídeo primeiro. O botão de transferências vai ficar disponível assim que um vídeo for encontrado</string>
+    <string name="dialog_no_video_title">Não foi possível encontrar vídeo</string>
     <string name="dialog_privacy_experience_plan">Join our User Experience program to share user data with us in order to help us improve our products and services.</string>
     <string name="dialog_privacy_revoke_title">Remoção de consentimento</string>
     <string name="dialog_set_default_later">Não, obrigado</string>
@@ -1348,10 +1353,10 @@ Update Mi Video to the latest version first."</string>
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="set_success">Changed successfully</string>
-    <string name="share_fail">"Couldn't share. Check your network settings and try again."</string>
-    <string name="share_success">Shared successfully</string>
-    <string name="share_text_before_link">Watch and download great videos for free on Mi Video</string>
-    <string name="show_the_location">Notification types</string>
+    <string name="share_fail">Não foi possível partilhar. Verifique as suas definições de rede e tente novamente</string>
+    <string name="share_success">Partilhado com sucesso</string>
+    <string name="share_text_before_link">Ver e transferir vídeos gratuitamente em Vídeos</string>
+    <string name="show_the_location">Tipos de notificações</string>
     <string name="sign_in">A iniciar sessão</string>
     <string name="sign_in_google_account">Iniciar sessão com Google</string>
     <string name="sign_in_google_account_hint">Iniciar sessão na sua conta Google para ver mais vídeos que vai gostar</string>
@@ -1432,6 +1437,7 @@ Update Mi Video to the latest version first."</string>
     <string name="toast_bookmark_input_name">Introduzir nome do marcador</string>
     <string name="toast_bookmark_success_to_add">Marcador adicionado</string>
     <string name="toast_bookmark_success_to_delete">Marcador eliminado</string>
+    <string name="toast_bookmark_url_error">Introduzir um URL válido</string>
     <string name="toast_no_data">Este item não está disponível. Tente mais tarde</string>
     <string name="toast_request_too_frequently">Não tão rápido!</string>
     <string name="toast_share_failed">Não foi possível partilhar. Aguarde um momento e tente novamente</string>

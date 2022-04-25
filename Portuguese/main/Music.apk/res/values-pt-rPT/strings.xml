@@ -68,7 +68,7 @@
     <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
     <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
     <string name="avoid_to_use_traffic_title">Utilizar dados móveis para reproduzir músicas</string>
-    <string name="back_confirm">Toque novamente para pôr a aplicação em segundo plano</string>
+    <string name="back_confirm">Tocar novamente para meter a aplicação em segundo plano</string>
     <string name="banner_op">Música</string>
     <string name="bluetooth_device">Dispositivo áudio Bluetooth</string>
     <string name="btn_text_edit">Editar</string>
@@ -830,7 +830,7 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="hungama_batch_download_alert_summary">Only PRO members can download multiple songs. Get a PRO membership now?</string>
     <string name="hungama_batch_download_alert_summary_toast">Get a subscription to download the whole playlist.</string>
     <string name="hungama_category_chart">Charts</string>
-    <string name="hungama_category_playlist">Playlists</string>
+    <string name="hungama_category_playlist">Listas de reprodução</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videos</string>
     <string name="hungama_category_vip">Pro</string>
@@ -900,7 +900,7 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="joox_auth_title_vip_function">VIP features</string>
     <string name="joox_category_artist">Artists</string>
     <string name="joox_category_chart">Charts</string>
-    <string name="joox_category_playlist">Playlists</string>
+    <string name="joox_category_playlist">Listas de reprodução</string>
     <string name="joox_category_vip">Fan Center</string>
     <string name="joox_download_tab_title">JOOX</string>
     <string name="joox_download_title">JOOX downloads</string>
@@ -1062,8 +1062,8 @@ Be Happy"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sync</string>
     <string name="upload_playlist_to_hungama_title">Sync online songs to Hungama to be able to access them on other devices where you use your Mi Account.</string>
     <string name="upload_playlist_to_hungama_toast">Online songs will be synced to Hungama</string>
-    <string name="user_playlist_plaza">Playlists</string>
-    <string name="user_profile_created_playlist_title">Custom playlists</string>
+    <string name="user_playlist_plaza">Listas de reprodução</string>
+    <string name="user_profile_created_playlist_title">Listas personalizadas</string>
     <string name="user_profile_fans_count">Followers: %s</string>
     <string name="user_profile_follow_count">Following: %s</string>
     <string name="vhigh_sound_quality">HD</string>
@@ -1072,5 +1072,5 @@ Be Happy"</string>
     <string name="video_retry_btn">Try again</string>
     <string name="view_album">View album</string>
     <string name="you_may_like">You may also like</string>
-    <string name="youtube_play_history">Playback history</string>
+    <string name="youtube_play_history">Histórico de reprodução</string>
 </resources>

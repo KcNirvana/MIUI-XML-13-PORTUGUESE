@@ -7,7 +7,7 @@
     <string name="ad_download">Transferir</string>
     <string name="add_private">Ocultar ficheiros agora</string>
     <string name="add_private_files">Adicionar ficheiros</string>
-    <string name="added_category">Adicionada</string>
+    <string name="added_category">Adicionadas</string>
     <string name="aggree_desc">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="agree">Concordar</string>
     <string name="app_all_purpose">"Bem-vindo a Ficheiros! Pode utilizar esta aplicação para gerir os ficheiros armazenados no seu dispositivo. "</string>
@@ -336,7 +336,7 @@
     <string name="no_recent_files">Sem ficheiros recentes</string>
     <string name="no_wifi">Não foram detectadas redes</string>
     <string name="no_wifi_hint">Sem ligação</string>
-    <string name="not_added_category">Disponível</string>
+    <string name="not_added_category">Disponíveis</string>
     <string name="not_support_documentui">Ficheiros não é suportado neste dispositivo</string>
     <string name="not_use">Agora não</string>
     <string name="notif_server_starting">A iniciar o servidor FTP…</string>

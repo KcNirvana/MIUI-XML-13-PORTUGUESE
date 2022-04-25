@@ -8,7 +8,7 @@
     <string name="about_lasted_version">Actualizado</string>
     <string name="account_add_other_sub_des">Outras contas</string>
     <string name="account_add_title">Seleccionar serviço de email</string>
-    <string name="account_change">Trocar contas</string>
+    <string name="account_change">Alterar contas</string>
     <string name="account_child_dialog_neg_text">Sair</string>
     <string name="account_child_dialog_pos_text">Concordar</string>
     <string name="account_child_dialog_text">"Se for menor de 14 anos, deve informar o seu responsável que deve ler e concordar com \"Protecção de dados pessoais de menores da Kingsoft\".
@@ -619,6 +619,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
     <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+    <string name="general_preference_delete_message_prompt_title">Perguntar antes de eliminar</string>
     <string name="general_preference_load_picture">Carregar imagens online</string>
     <string name="general_preference_str_auto_translation">Tradução rápida</string>
     <string name="general_preference_str_auto_translation_prompt">Copiar texto para ver a tradução</string>

@@ -1443,7 +1443,7 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
     <string name="prep_video_ai_audio_new_mutex_tip">Não é possível utilizar o zoom de áudio agora </string>
     <string name="prep_video_ai_audio_single_desc_tip">Os sons atrás do ecrã vão ser filtrados</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Os sons detrás do ecrã são filtrados no modo paisagem</string>
-    <string name="prep_video_ai_audio_single_mutex_tip">Não é possível gravar o som frontal´agora</string>
+    <string name="prep_video_ai_audio_single_mutex_tip">Não é possível gravar o som frontal agora</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">O zoom de áudio não funciona com microfones externos</string>
     <string name="preparing_sd">A verificar armazenamento interno…</string>
     <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>

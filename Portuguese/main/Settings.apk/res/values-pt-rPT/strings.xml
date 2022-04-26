@@ -5737,7 +5737,7 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
     <string name="normal_smartcover_title">Capa com frente opaca</string>
     <string name="not_allowed">O seu cartão SIM não permite uma ligação a esta rede</string>
     <string name="not_battery_optimizing">Sem optimização de bateria</string>
-    <string name="not_default_data_content_description">Not set to use data</string>
+    <string name="not_default_data_content_description">Não definido para utilizar dados</string>
     <string name="not_enabled">Desligado</string>
     <string name="not_installed">Não instalado</string>
     <string name="not_set">Não definido</string>
@@ -5745,7 +5745,7 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
     <string name="notch_force_black_desc">Ligar para escurecer a área à volta do entalhe</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notch_settings">Entalhe</string>
-    <string name="notch_style_mod_description">Opções de visualização da barra de estado e entalhe</string>
+    <string name="notch_style_mod_description">Opções de visualização do entalhe</string>
     <string name="notch_style_mod_title">Ocultar entalhe</string>
     <string name="notch_style_show">Não ocultar</string>
     <string name="notch_style_status_bar_inside">Ocultar sem mover a barra de estado</string>

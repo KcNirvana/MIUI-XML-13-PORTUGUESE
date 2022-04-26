@@ -570,10 +570,10 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="notification_ad_content">Recebeu uma mensagem de promoções de %s</string>
     <string name="notification_add_todo">Lembrar-me</string>
     <string name="notification_add_todo_content">Código de levantamento: %s</string>
-    <string name="notification_channel_msg_description">Notificação de mensagem</string>
+    <string name="notification_channel_msg_description">Notificações de mensagens</string>
     <string name="notification_channel_msg_name">Mensagem</string>
     <string name="notification_channel_name_xiaomi">Notificações de actualizações</string>
-    <string name="notification_channel_other_description">Notificação de outros</string>
+    <string name="notification_channel_other_description">Outras notificações</string>
     <string name="notification_channel_other_name">Outros</string>
     <string name="notification_channel_sim1_description">Notificação de mensagem do SIM1</string>
     <string name="notification_channel_sim1_name">Mensagem do SIM1</string>

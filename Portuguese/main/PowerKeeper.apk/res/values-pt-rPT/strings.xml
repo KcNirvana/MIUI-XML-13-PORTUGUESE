@@ -133,6 +133,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
     <string name="sucess">Concluído</string>
     <string name="thermal_cancel">Cancelar</string>
     <string name="thermal_confirm">OK</string>
+    <string name="time_picker_dialog_title">Definir hora</string>
     <string name="title_dry_history">DryHistory</string>
     <string name="title_history">LifeHistory</string>
     <string name="title_home">Início</string>

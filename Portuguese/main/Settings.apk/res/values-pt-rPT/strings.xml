@@ -1967,8 +1967,8 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
     <string name="choose_smartcover_type">Seleccionar tipo de capa</string>
     <string name="choose_spell_checker">Escolher verificador ortográfico</string>
     <string name="choose_timezone">Escolher fuso horário</string>
-    <string name="choose_unlock_face_msg">Defina um bloqueio de ecrã antes de gravar os dados do rosto</string>
-    <string name="choose_unlock_fingerprint_msg">Defina um bloqueio de ecrã antes de adicionar a impressão digital</string>
+    <string name="choose_unlock_face_msg">Definir um bloqueio de ecrã antes de gravar os dados do rosto</string>
+    <string name="choose_unlock_fingerprint_msg">Definir um bloqueio de ecrã antes de adicionar a impressão digital</string>
     <string name="choose_voice_input_title">Escolher entrada de voz</string>
     <string name="classic_mode_summary">Alterar para cores mais quentes para reduzir o nível de luz azul</string>
     <string name="classic_mode_title">Clássico</string>
@@ -5781,7 +5781,7 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
 
 A aplicação também pode ligar ou desligar o modo Não incomodar e alterar definições relacionadas"</string>
     <string name="notification_assistant_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
-    <string name="notification_assistant_summary">Get suggested actions, replies, and more</string>
+    <string name="notification_assistant_summary">Obter acções sugeridas, repostas e mais</string>
     <string name="notification_assistant_title">Notificações adaptáveis</string>
     <string name="notification_badge_title">Permitir ponto de notificação</string>
     <string name="notification_badging_title">Pontos de notificação no ícone</string>
@@ -9855,7 +9855,7 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
     <string name="wifi_off_airplane_on_title">Atenção</string>
     <string name="wifi_on_time">Tempo de ligação Wi-Fi</string>
-    <string name="wifi_other_connection_mode">Outras métodos de ligação</string>
+    <string name="wifi_other_connection_mode">Outros métodos de ligação</string>
     <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se ligar com %1$s?</string>
     <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
     <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>

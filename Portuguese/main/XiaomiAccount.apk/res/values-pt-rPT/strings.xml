@@ -145,6 +145,7 @@ Envie este código ao supervisor"</string>
     <string name="find_device_title">Localizar Dispositivo</string>
     <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
     <string name="for_diagnosis_usage_only">Utilizado apenas para diagnósticos</string>
+    <string name="get_back_password">Repor palavra-passe</string>
     <string name="get_back_pwd">A repor palavra-passe</string>
     <string name="get_device_list_failed">Não é possível obter dispositivos</string>
     <string name="get_identity_auth_url_failed">Não foi possível verificar ID</string>
@@ -625,7 +626,7 @@ Envie este código ao supervisor"</string>
     <string name="permission_read_sms">Aceder a mensagens</string>
     <string name="permission_withdraw">Remover</string>
     <string name="permission_write_external_storage">Aceder e guardar itens no armazenamento</string>
-    <string name="personal_info_desc">Foto, alcunha e mais</string>
+    <string name="personal_info_desc">Foto, nome e mais</string>
     <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Mi Account unless you agree to the new version of its Privacy Policy. Agree to the updated Mi Account &lt;a href=%1$s>Privacy Policy&lt;/a> now?"</string>
     <string name="privacy_policy_reject_confirm_title">"Can't use Mi Account"</string>
     <string name="privacy_policy_update_msg">Mi Account Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>

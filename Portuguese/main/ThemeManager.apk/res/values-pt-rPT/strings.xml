@@ -1015,10 +1015,10 @@ Toque aqui para iniciar agora"</string>
     <string name="xiaoai_speech_not_installed_download">Transferir</string>
     <string name="xiaoai_speech_not_installed_message">Transferir e instalar o assistente de voz Mi AI para continuar</string>
     <string name="xiaoai_speech_not_installed_title">O assistente de voz Mi AI não está instalado</string>
-    <string name="allow">Granted</string>
-    <string name="application_notify_title">Attention</string>
-    <string name="apply_failed">"Couldn't apply"</string>
-    <string name="apply_succeed">Applied successfully</string>
+    <string name="allow">Concedida</string>
+    <string name="application_notify_title">Atenção</string>
+    <string name="apply_failed">Não foi possível aplicar</string>
+    <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>
     <string name="basic_mode">Offline mode</string>
     <string name="basic_mode_desc">"Themes won't connect to the Internet and will only use local content. Your personal information won't be collected."</string>
@@ -1044,7 +1044,7 @@ Toque aqui para iniciar agora"</string>
     <string name="de_icon_text_reward">Reward</string>
     <string name="deep_sea">Deep sea</string>
     <string name="deep_sea_resource_comment">The origin of life on Earth</string>
-    <string name="detail_reward_alert">Reward talented designers for their work</string>
+    <string name="detail_reward_alert">Recompensar designers pelo seu trabalho</string>
     <string name="detail_reward_build_order_error">"Couldn't create order. Wait a minute or two and try again."</string>
     <string name="detail_reward_custom_amount">Custom amount</string>
     <string name="detail_reward_duplicate_order_error">Too many attempts. Wait a minute or two and try again.</string>

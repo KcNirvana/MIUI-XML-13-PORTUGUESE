@@ -434,7 +434,7 @@
     <string name="cloud_backup_space">Armazenamento da Xiaomi Cloud</string>
     <string name="cloud_backup_status_disable">Desligado</string>
     <string name="cloud_backup_status_eneble">Ligado</string>
-    <string name="cloud_backup_title">Sincronizar com a Xiaomi Cloud</string>
+    <string name="cloud_backup_title">Sincronização com a Xiaomi Cloud</string>
     <string name="cloud_bacup_disable_button">Desligar sincronização</string>
     <string name="cloud_bacup_disable_processing">A processar…</string>
     <string name="cloud_camera_display_name">Fotos da câmara</string>
@@ -957,7 +957,7 @@ efeitos de fotos"</string>
     <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
     <string name="gallery_setting">Definições</string>
     <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
-    <string name="generate_story_summary">Tirar fotos suficientes, ligar carregado e desligar o ecrã para fazer as memórias aparecerem</string>
+    <string name="generate_story_summary">Tirar fotos suficientes, ligar carregador e desligar o ecrã para fazer as memórias aparecerem</string>
     <string name="generate_story_title">Memórias</string>
     <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
     <string name="gif_tip">GIF</string>

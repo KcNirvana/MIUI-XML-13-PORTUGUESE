@@ -4361,7 +4361,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="layout_size_normal_text">Normal</string>
     <string name="layout_size_small">XS</string>
     <string name="layout_size_small_text">Pequeno</string>
-    <string name="learn_more">Learn more</string>
+    <string name="learn_more">Saber mais</string>
     <string name="led_colors_summary">Cor do LED</string>
     <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
     <string name="led_pulse_summary">Activar LED para notificações</string>
@@ -4418,7 +4418,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="locale_not_translated">May not be available in some apps</string>
     <string name="locale_remove_menu">Remove</string>
     <string name="locale_settings">Região</string>
-    <string name="location_access_summary">As aplicações podem obter informação da sua localização</string>
+    <string name="location_access_summary">As aplicações podem obter informações da sua localização</string>
     <string name="location_access_title">Acesso à localização</string>
     <string name="location_agps_apn_choose_dialog_title">Tipos APN</string>
     <string name="location_agps_apn_summary">Seleccionar tipo de APN preferido</string>
@@ -7618,7 +7618,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
     <string name="settings_shortcut">Atalho das definições</string>
-    <string name="settingslib_learn_more_text">Learn more</string>
+    <string name="settingslib_learn_more_text">Saber mais</string>
     <string name="setup_add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital</string>
     <string name="setup_choose_unlock_mixed_password">Palavra-passe</string>
     <string name="setup_choose_unlock_mixpassword_title">Definir palavra-passe</string>

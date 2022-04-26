@@ -49,7 +49,7 @@
     <string name="ac_post_notification_contentText">Pode proteger todas as aplicações sensíveis</string>
     <string name="ac_post_notification_contentTitle">Proteger aplicações com o Bloqueio de aplicações</string>
     <string name="ac_pre_notification_contentText">Proteja as suas informações pessoais</string>
-    <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicações</string>
+    <string name="ac_pre_notification_contentTitle">Experimentar o Bloqueio de aplicações</string>
     <string name="ac_recommend_guide_dialog_app_content">Utilizar o Bloqueio de aplicações com esta aplicação para proteger as suas informações pessoais</string>
     <string name="ac_recommend_guide_dialog_content">Pode proteger as suas informações pessoais utilizando o Bloqueio de aplicações</string>
     <string name="ac_recommend_guide_dialog_ignore">Não mostrar novamente</string>
@@ -1360,7 +1360,7 @@ volunteer"</string>
     <string name="face_unlock_verity_dialog_title_succeed">Verificado com sucesso</string>
     <string name="file_confirm_start_activity">%s não tem permissão para aceder à Galeria e a aplicações de redes sociais. Esta aplicação quer o acesso a ficheiros armazenados neste dispositivo para partilhar itens. Permitir?</string>
     <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Definições</string>
-    <string name="fingerprint_identify_msg">Desbloqueio com impressão digital</string>
+    <string name="fingerprint_identify_msg">Ligar desbloqueio com impressão digital</string>
     <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>
     <string name="fingerprint_not_remind">Não perguntar novamente</string>
     <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>

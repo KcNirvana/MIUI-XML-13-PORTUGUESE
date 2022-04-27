@@ -243,4 +243,16 @@ to continue"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">This device is connected to a different device now. Wait a minute or two and try again.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Couldn't connect to MIUI+"</string>
     <string name="yesterday">Yesterday</string>
+    <string name="clipboard_tip">Copied from %1$s</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">For transmitting audio while casting</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">For transferring files between devices</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="invisible_mode_dialog_cancel">Cancel</string>
+    <string name="invisible_mode_dialog_message">"Can't use MIUI+ Screen Combo when you're incognito. Turn off Incognito mode first."</string>
+    <string name="invisible_mode_dialog_positive">Turn off</string>
+    <string name="invisible_mode_dialog_title">"You're incognito"</string>
+    <string name="invisible_mode_toast">Turn off Incognito mode first</string>
+    <string name="loading_view_abort_close_text">Close</string>
+    <string name="loading_view_abort_text">"Connection timed out.
+Close this page and try again."</string>
 </resources>

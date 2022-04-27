@@ -484,4 +484,148 @@ Envie este código ao supervisor"</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">Email/Telefone/ID Conta Mi</string>
+    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
+    <string name="catch_full_log_action_cancel">Cancel</string>
+    <string name="catch_full_log_action_complete">Finish and upload</string>
+    <string name="catch_full_log_action_start">Start</string>
+    <string name="catch_full_log_add_original_photo">Add original image or short video</string>
+    <string name="catch_full_log_add_photo">Add photo</string>
+    <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
+    <string name="catch_full_log_category">Log types</string>
+    <string name="catch_full_log_dialog_confirm_text">Go to Home screen</string>
+    <string name="catch_full_log_dialog_content">"This might affect the overall performance of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
+    <string name="catch_full_log_dialog_title">Generating logs…</string>
+    <string name="catch_full_log_dump_hprof_failed">"Couldn't generate lagging log"</string>
+    <string name="catch_full_log_item_content_catch_direct">"1. Go back to the feature you want to report and reproduce it.
+2. Come back to this page and tap \"Finish and upload\"."</string>
+    <string name="catch_full_log_item_content_catching">Generating logs…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Tap \"Start\" to start generating logs.
+%2$d. Reproduce the issue you've encountered.
+%3$d. Come back to this page and tap \"Finish and upload\"."</string>
+    <string name="catch_full_log_item_content_title">How to generate logs</string>
+    <string name="catch_full_log_item_title_audio">Audio, call sound, and audio recording</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_camera">Camera</string>
+    <string name="catch_full_log_item_title_charge">Charging</string>
+    <string name="catch_full_log_item_title_dump_heap">Lagging</string>
+    <string name="catch_full_log_item_title_gps">Location services</string>
+    <string name="catch_full_log_item_title_sensor">Sensors</string>
+    <string name="catch_full_log_item_title_signal">Phone, signal, and mobile networks</string>
+    <string name="catch_full_log_item_title_trace">Lag</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
+    <string name="catch_full_log_notification_content">Tap to go back to logs</string>
+    <string name="catch_full_log_notification_title">Generating log…</string>
+    <string name="catch_full_log_privacy_content_audio">"You're generating logs and saving them on your device. The logs may contain the information about the audio on your device, including playback history and recording history. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_bt">"You're generating logs and saving them on your device. The logs may contain Bluetooth device usage info (including call history, messages, transferred files etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_camera">"You're generating logs and saving them on your device. The logs may contain Camera usage info (including CPU frequency, system call, memory usage etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_charge">"You're generating logs and saving them on your device. The logs may contain charging stats. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_gps">"You're generating logs and saving them on your device. The logs may contain your personal info and location info. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_sensor">"You're generating logs and saving them on your device. The logs may contain the information collected by your device's sensors (including ambient light sensor, barometer, pedometer, magnetometer, etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_signal">"You're generating logs and saving them on your device. The logs may contain your messages, call history, network info, and communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_trace">"You're generating logs and saving them on your device. The logs may contain app usage stats (including CPU frequency, system call, memory usage, etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_wifi">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted Wi-Fi network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_wifi_china">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted Wi-Fi network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_start_dump_hprof">Generate lagging log</string>
+    <string name="catch_full_log_submit_directly">Submit</string>
+    <string name="copy">Copy</string>
+    <string name="doing_login">Signing in…</string>
+    <string name="doing_query_account">Checking account info…</string>
+    <string name="doing_register">Creating account…</string>
+    <string name="facebook_application_id" />
+    <string name="failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
+    <string name="google_application_id" />
+    <string name="header_help">Help</string>
+    <string name="i_get_it">Got it</string>
+    <string name="input_length_exceeds_limit">The text you entered is too long</string>
+    <string name="jump_full_log_dialog_cancel">Cancel</string>
+    <string name="jump_full_log_dialog_confirm">Generate</string>
+    <string name="jump_full_log_dialog_content">"Logs will help us locate and fix the issue you're about to report much faster. Generate logs and attach them to your feedback."</string>
+    <string name="jump_full_log_dialog_title">Generate logs</string>
+    <string name="kr_authorization_agree">Accept</string>
+    <string name="kr_authorization_contact">Accounts</string>
+    <string name="kr_authorization_contact_desc">For accessing Mi Account info in order to identify device</string>
+    <string name="kr_authorization_exit">Exit</string>
+    <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
+    <string name="kr_authorization_log_protocol_desc">"In order to improve the services provided to you, we'll upload usage stats and system logs to our servers. These items may include your personal information, as well as the information about your device and networks. We'll use uploaded items to locate and analyze the problems in the system."</string>
+    <string name="kr_authorization_phone">Phone</string>
+    <string name="kr_authorization_phone_desc">For accessing device model, IMEI, and device ID in order to locate and solve issues</string>
+    <string name="kr_authorization_privacy_policy">Privacy Policy (mandatory)</string>
+    <string name="kr_authorization_select_all">Select all</string>
+    <string name="kr_authorization_storage">Storage</string>
+    <string name="kr_authorization_storage_desc">For accessing storage and saving items including logs, images, and videos</string>
+    <string name="kr_authorization_summary">Legal documents</string>
+    <string name="kr_authorization_user_protocol">User Agreement (mandatory)</string>
+    <string name="login_by_local_phone_long_text">Sign in now</string>
+    <string name="login_by_local_phone_short_text">Sign in</string>
+    <string name="login_other">Another Mi Account</string>
+    <string name="login_register_by_local_phone_long_text">Create account</string>
+    <string name="login_with_sns">Other ways to sign in</string>
+    <string name="mishop_login_other">Another Account</string>
+    <string name="net_error_info">No network connection, tap here to go to Settings</string>
+    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
+    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
+    <string name="not_set">Not set</string>
+    <string name="passport_auth_title" />
+    <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
+    <string name="phone_hint">Phone number</string>
+    <string name="phone_num_use_for">Phone number is used for:</string>
+    <string name="phone_number">Phone number</string>
+    <string name="photoPickerNotFoundText">No photos available.</string>
+    <string name="please_agree_protocal">Please Agree Protocal</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+%2$s
+Read and agree to the new version of %3$s before you continue."</string>
+    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="progressbar_title">Checking for security issues…</string>
+    <string name="protocal_dialog_cancel">Cancel</string>
+    <string name="protocal_dialog_confirm">Agree</string>
+    <string name="protocal_dialog_title">Attention</string>
+    <string name="psw_hint">Password</string>
+    <string name="psw_sign_in">Sign in using password</string>
+    <string name="register_by_local_phone_long_text">Create account</string>
+    <string name="register_by_local_phone_short_text">Create account</string>
+    <string name="reply_option_log_hint">Optional</string>
+    <string name="reply_select_log_hint">Select log</string>
+    <string name="request_agree">Allow</string>
+    <string name="request_cancel">Cancel</string>
+    <string name="request_error_invalid_token">"Couldn't verify"</string>
+    <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
+    <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
+    <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
+    <string name="service_unavailiable">"Couldn't get info, try again later"</string>
+    <string name="skip_query_account">Skip</string>
+    <string name="submit_dialog_content_global_with_contactinfo"><Data>"Your feedback, along with attachments (if any), logs (you can uncheck the corresponding boxes for the items you don't want to upload), phone number or email will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a>."</Data></string>
+    <string name="submit_dialog_not_show_again">"Don't show again"</string>
+    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
+    <string name="title_catch_full_log">Logs</string>
+    <string name="toast_file_format_not_support">"This file format isn't supported. Try selecting a different file."</string>
+    <string name="unknown_error_info">Unknown error</string>
+    <string name="update_dialog_cancel">Cancel</string>
+    <string name="update_dialog_confirm">Update</string>
+    <string name="update_dialog_content_log">"What's new:
+%1$s
+Size: %2$s"</string>
+    <string name="update_dialog_content_version">You can update to the version %1$s now.</string>
+    <string name="update_dialog_title">An update is available</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> and Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%5$s\">Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
+    <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
+    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%3$s\">Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> and Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_must_known">Attention</string>
+    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_name_phone_number">Phone number</string>
+    <string name="v_code_title">Enter verification code</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="withdraw_consent">Withdrawal of consent</string>
+    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
+    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+    <string name="withdraw_consent_hint">"If you continue, you'll withdraw your consent to the Privacy Policy of %1$s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %2$s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %3$s services. Withdraw consent now?"</string>
+    <string name="withdrawing">Withdrawing consent…</string>
 </resources>

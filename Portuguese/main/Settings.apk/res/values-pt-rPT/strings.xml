@@ -2952,9 +2952,9 @@ Se isto continuar a acontecer, pode ser necessário desinstalar a aplicação pa
     <string name="dsds_notification_after_suw_text">Escolher o SIM activo ou utilizar 2 SIMs em simultâneo</string>
     <string name="dsds_notification_after_suw_title">Configurar o seu outro SIM</string>
     <string name="dsu_is_running">DSU is running</string>
-    <string name="dsu_loader_description">Load a Dynamic System Update Image</string>
+    <string name="dsu_loader_description">Carregar uma imagem DSU</string>
     <string name="dsu_loader_loading">Loading...</string>
-    <string name="dsu_loader_title">DSU Loader</string>
+    <string name="dsu_loader_title">Carregamento DSU</string>
     <string name="dtmf_tone_enable_title">Tons de marcação</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">Combinação de SIM</string>
     <string name="dual_cdma_sim_warning_notification_summary">A utilização dos operadores %1$s pode limitar a funcionalidade. Toque para saber mais</string>
@@ -5981,7 +5981,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
     <string name="osu_sign_up_complete">Registo concluído. A ligar…</string>
     <string name="osu_sign_up_failed">Não foi possível concluir o registo. Toque para tentar novamente</string>
     <string name="ota_disable_automatic_update">Actualizações de sistema automáticas</string>
-    <string name="ota_disable_automatic_update_summary">Apply updates when device restarts</string>
+    <string name="ota_disable_automatic_update_summary">Aplicar actualizações quando o dispositivo reiniciar</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Desligado</string>
     <string name="otg_opened">Ligado</string>
@@ -9009,7 +9009,7 @@ Desligar esta funcionalidade não afecta o envio de informação necessário par
     <string name="usb_control_host">Dispositivo ligado</string>
     <string name="usb_control_title">USB controlado por</string>
     <string name="usb_default_info">When another device is connected and your phone is unlocked, these settings will be applied. Only connect to trusted devices.</string>
-    <string name="usb_default_label">Default USB configuration</string>
+    <string name="usb_default_label">Configuração USB predefinida</string>
     <string name="usb_eject">Ejectar armazenamento USB</string>
     <string name="usb_eject_summary">Ejectar armazenamento USB para o remover em segurança</string>
     <string name="usb_file_transfer_title">File transfer options</string>

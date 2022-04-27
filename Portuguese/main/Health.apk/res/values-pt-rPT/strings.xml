@@ -1611,4 +1611,43 @@ Actualizar agora?"</string>
     <string name="well">Bom</string>
     <string name="write_strorage_perm_description">Registar os problemas que encontrou na utilização</string>
     <string name="yoga">Yoga</string>
+    <string name="add_model_card2">"Tocar no botão acima para adicionar cartões.
+Vai poder registar os seus treinos e actividades"</string>
+    <string name="audio_permission_subtitle">Para detectar ressonar e falar</string>
+    <string name="audio_permission_title">Gravar áudio</string>
+    <string name="body_sport_permission_subtitle">Para registar os seus passos</string>
+    <string name="body_sport_permission_title">Aceder a dados de saúde e actividades</string>
+    <string name="camera_permission_subtitle">Para obter alterações do fluxo sanguíneo e definir fotos de perfil</string>
+    <string name="camera_permission_title">Utilizar câmara</string>
+    <string name="collect_diagnosis_log">Collect diagnosis log</string>
+    <string name="contact_permission_subtitle">Para definir contactos de emergência</string>
+    <string name="contact_permission_title">Aceder a contactos</string>
+    <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
+    <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
+    <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
+ID:%s
+Please send this code to the technician."</string>
+    <string name="dialog_upgrade_description">"1. Novo design
+2. Sincronizar dados em todos os dispositivos
+3. Ver dados de saúde de Saúde, Xiaomi Wear e outras aplicações num só sítio"</string>
+    <string name="dialog_upgrade_positive_btn">Actualizar</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
+    <string name="external_storage_permission_subtitle">Para definir fotos de perfil</string>
+    <string name="external_storage_permission_title">Aceder e guardar itens no armazenamento</string>
+    <string name="for_diagnosis_usage_only">Utilizar apenas para diagnósticos</string>
+    <string name="free_training">Treino livre</string>
+    <string name="freestyle">Estilo livre</string>
+    <string name="guide_exit">Sair</string>
+    <string name="guide_exit_description">Não podemos fornecer serviços a pessoas menores de 14 anos. Certifique-se que está a utilizar este dispositivo com permissão do seu tutor legal. Toque no botão abaixo para sair</string>
+    <string name="guide_exit_title">Pode começar a utilizar Saúde depois de fazer 14 anos</string>
+    <string name="hr_disable_in_split_screen">Não é possível medir o batimento cardíaco no ecrã dividido</string>
+    <string name="location_permission_subtitle">Para registar treinos ao ar livre e gravar rotas</string>
+    <string name="location_permission_title">Aceder à localização</string>
+    <string name="ok">OK</string>
+    <string name="passport_oauth_actionbar_title">Conta Mi</string>
+    <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="send_diagnosis_log">Send diagnosis log</string>
+    <string name="sending">A enviar…</string>
+    <string name="system_permission">Detalhes das permissões</string>
 </resources>

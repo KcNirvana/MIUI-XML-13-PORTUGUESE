@@ -969,9 +969,9 @@
         <item>Não</item>
     </string-array>
     <string-array name="week_label">
+        <item>D</item>
         <item>S</item>
-        <item>S</item>
-        <item>Q</item>
+        <item>T</item>
         <item>Q</item>
         <item>Q</item>
         <item>S</item>

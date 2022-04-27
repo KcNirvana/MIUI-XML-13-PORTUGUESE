@@ -601,7 +601,7 @@ Toque aqui para iniciar agora"</string>
     <string name="resource_pack_warning">Já comprou %1$d componentes neste tema. É mais barato se comprar os componentes restantes individualmente</string>
     <string name="resource_present">Presente</string>
     <string name="resource_price_free">Gratuito</string>
-    <string name="resource_price_unit">Mi Credits</string>
+    <string name="resource_price_unit">" Mi Credits"</string>
     <string name="resource_purchase_common_error">Ocorreu um erro. Tente novamente</string>
     <string name="resource_purchase_continue_to_pay">Continuar o pagamento %s</string>
     <string name="resource_purchase_getting_order">A recuperar informação da compra…</string>

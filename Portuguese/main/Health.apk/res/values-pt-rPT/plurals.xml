@@ -284,4 +284,24 @@
         <item quantity="other">%1$d anos</item>
         <item quantity="one">%1$d ano</item>
     </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metros</item>
+        <item quantity="one">%1$d metro</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d calorias</item>
+        <item quantity="one">%1$d caloria</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
 </resources>

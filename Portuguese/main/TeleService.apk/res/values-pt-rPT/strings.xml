@@ -1836,7 +1836,6 @@ Se seleccionar preferência pelas redes móveis, vão ser utilizadas por defeito
     <string name="adb_wireless_verifying_qrcode_text">Pairing device…</string>
     <string name="add_user_failed">Failed to create a new user</string>
     <string name="advanced_options_title">Advanced</string>
-    <string name="advanced_settings_container">advanced settings container</string>
     <string name="alarm_template">at %1$s</string>
     <string name="alarm_template_far">on %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Allow this app to set alarms and schedule time-sensitive actions. This lets the app run in the background, which may use more battery.
@@ -2500,7 +2499,6 @@ Please confirm your default calling account setting."</string>
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY Off</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="uplmn_summary">Show available carrier network preferences in SIM details</string>
     <string name="uplmn_title">Carrier network preferences</string>
     <string name="usb_audio_disable_routing">Disable USB audio routing</string>
@@ -2550,11 +2548,8 @@ Any user can update apps for all other users."</string>
     <string name="vm_change_pin_progress_message">Please wait.</string>
     <string name="voice_number_setting_primary_user_only">Voicemail Settings can only be modified by the Primary User.</string>
     <string name="voicemail_change_pin_dialog_title">Change PIN</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
-    <string name="voicemail_notifications_key">voicemail_notification_key</string>
     <string name="voicemail_notifications_preference_title">Notifications</string>
     <string name="voicemail_set_pin_dialog_title">Set PIN</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
     <string name="vvm_unsupported_message_format">Unsupported message type, call %s to listen.</string>
     <string name="wapi_all_sel_mode">Select mode</string>

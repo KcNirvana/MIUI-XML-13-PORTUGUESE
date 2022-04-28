@@ -9,8 +9,8 @@
         <item quantity="one">%1$d-%2$d vez</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Ande pelo menos %1$d passos todos os dias</item>
-        <item quantity="one">Ande pelo menos %1$d passo todos os dias</item>
+        <item quantity="other">Andar pelo menos %1$d passos todos os dias</item>
+        <item quantity="one">Andar pelo menos %1$d passo todos os dias</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d dias</item>

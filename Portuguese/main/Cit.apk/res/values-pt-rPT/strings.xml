@@ -857,6 +857,11 @@ test fail!"</string>
  
 \u0009\u0009\u0009sar switch is off, please turn it on manually 
 \u0009\u0009\u0009sar locked, please set DSI value"</string>
+    <string name="edittextdisplayf">"
+\u0009\u0009\u0009Permissions have been limited 
+
+\u0009\u0009Make sure to pass in the xml file in the internal \u0009\u0009\u0009network and in the response path: 
+\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
     <string name="enrol">Enrol</string>
     <string name="enrolCount">EnrolCount</string>
     <string name="enrolQuality">EnrolQuality</string>

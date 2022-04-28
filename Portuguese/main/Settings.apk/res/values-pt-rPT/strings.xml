@@ -4032,7 +4032,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="installed">Instalada</string>
     <string name="instant_app_details_summary">Mais informações em %1$s</string>
     <string name="instant_apps_account">Conta de aplicações instantâneas</string>
-    <string name="instant_apps_settings">Instant Apps preferences</string>
+    <string name="instant_apps_settings">Preferências das aplicações instantâneas</string>
     <string name="instruction_privacy_password">Itens protegidos com este padrão</string>
     <string name="instruction_title">Informações importantes</string>
     <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>

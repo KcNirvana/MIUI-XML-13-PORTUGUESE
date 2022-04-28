@@ -10123,7 +10123,7 @@ Looks like credential storage isn't enabled."</string>
     <string name="wifitrackerlib_osu_opening_provider">Opening %1$s</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Sign-up complete. Connecting…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
-    <string name="wifitrackerlib_private_dns_broken">O DNS privado não pode ser acedido</string>
+    <string name="wifitrackerlib_private_dns_broken">Não é possível aceder ao servidor DNS privado</string>
     <string name="wifitrackerlib_saved_network">Guardado por %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Fast</string>
     <string name="wifitrackerlib_speed_label_medium">Medium</string>

@@ -9,9 +9,11 @@
     <string name="network_switch_metered_detail">O dispositivo utiliza %1$s quando %2$s não tem Internet</string>
     <string name="network_switch_metered_toast">Trocado de %1$s para %2$s</string>
     <string name="network_switch_type_name_unknown">Tipo de rede desconhecido</string>
+    <string name="notification_channel_network_status">Estado da rede</string>
     <string name="other_networks_no_internet">A rede não tem acesso à Internet</string>
     <string name="private_dns_broken_detailed">O servidor de DNS privado não pode ser acedido</string>
     <string name="wifi_available_sign_in">Iniciar sessão na rede Wi-Fi</string>
     <string name="wifi_no_internet">%1$s não tem Internet</string>
     <string name="wifi_no_internet_detailed">Tocar para opções</string>
+    <string name="wifitrackerlib_private_dns_broken">Não é possível aceder ao servidor DNS privado</string>
 </resources>

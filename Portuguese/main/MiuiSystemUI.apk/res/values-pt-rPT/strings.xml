@@ -2549,7 +2549,7 @@ O armazenamento de credenciais pode não estar activo"</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Registo concluído. A ligar…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Não foi possível concluir registo. Toque para tentar novamente</string>
     <string name="wifitrackerlib_private_dns_broken">Não é possível aceder ao servidor DNS privado</string>
-    <string name="wifitrackerlib_saved_network">Guardada por %1$s.</string>
+    <string name="wifitrackerlib_saved_network">Guardada por %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Rápida</string>
     <string name="wifitrackerlib_speed_label_medium">Média</string>
     <string name="wifitrackerlib_speed_label_okay">Razoável</string>

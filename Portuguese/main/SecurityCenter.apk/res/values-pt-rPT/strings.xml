@@ -4803,13 +4803,13 @@ Tente aumentar a resolução!"</string>
     <string name="gb_ngtb_cpu">CPU</string>
     <string name="gb_ngtb_fps">FPS</string>
     <string name="gb_ngtb_gpu">GPU</string>
-    <string name="gb_performance_balance">Balanced</string>
-    <string name="gb_performance_balance_tips">"Balanced mode saves power
-while lowering refresh rate and temperature limits"</string>
-    <string name="gb_performance_high">Performance</string>
-    <string name="gb_performance_mode">Gaming mode</string>
-    <string name="gb_performance_tips">"Performance mode improves graphics performance,
-but also increases power consumption and allows your device to overheat"</string>
+    <string name="gb_performance_balance">Equilibrado</string>
+    <string name="gb_performance_balance_tips">"O modo equilibrado poupa bateria
+equanto baixa os limites da taxa de actualização e temperatura"</string>
+    <string name="gb_performance_high">Desempenho</string>
+    <string name="gb_performance_mode">Modo jogo</string>
+    <string name="gb_performance_tips">"O modo desempenho melhora o desempenho gráfico,
+mas aumenta o consumo de bateria e permite que o dispositivo possa superaquecer"</string>
     <string name="gb_voice_changer_user_vip_expired">Expired</string>
     <string name="gb_voice_changer_user_vip_remain_time">Expiry date: %s</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
@@ -5127,7 +5127,7 @@ Remover consentimento agora?"</string>
     <string name="virus_detail_app">Contém vírus</string>
     <string name="virus_detail_title">Vírus</string>
     <string name="virus_engine_choose_text">Definições de vírus online</string>
-    <string name="virus_engine_split_text">"|"</string>
+    <string name="virus_engine_split_text">" | "</string>
     <string name="virus_ignore_dialog_content">Se escolher ignorar possíveis riscos duma aplicação, não vai mais ser notificado sobre eles</string>
     <string name="virus_ignore_dialog_no_remind">Não mostrar novamente</string>
     <string name="virus_ignore_dialog_title">Ignorar riscos</string>

@@ -4949,9 +4949,9 @@ Não pode reverter esta acção!"</string>
     <string name="media_controls_summary">Leitor multimédia nas Definições Rápidas</string>
     <string name="media_controls_title">Media</string>
     <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
-    <string name="media_management_apps_description">If allowed, this app can modify or delete media files created with other apps without asking you. App must have permission to access files and media.</string>
-    <string name="media_management_apps_title">Media management apps</string>
-    <string name="media_management_apps_toggle_label">Allow app to manage media</string>
+    <string name="media_management_apps_description">Se permitido, esta aplicação pode modificar ou eliminar ficheiros multimédia criados por outras aplicações sem lhe perguntar. A aplicação tem de ter permissão para aceder a ficheiro e multimédia</string>
+    <string name="media_management_apps_title">Gerir multimédia</string>
+    <string name="media_management_apps_toggle_label">Permitir que a aplicação gira multimédia</string>
     <string name="media_out_summary_ongoing_call_state">Não disponível durante chamadas</string>
     <string name="media_output_default_summary">Este dispositivo</string>
     <string name="media_output_disconnected_status">%1$s (desligado)</string>
@@ -8862,7 +8862,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
     <string name="unlock_set_unlock_password_title">Palavra-passe</string>
     <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
-    <string name="unlock_set_unlock_pin_summary">Introduza entre %1$d a %2$d números</string>
+    <string name="unlock_set_unlock_pin_summary">Segurança fraca</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
     <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>

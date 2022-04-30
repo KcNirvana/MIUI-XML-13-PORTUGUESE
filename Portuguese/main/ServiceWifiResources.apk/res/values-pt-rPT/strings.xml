@@ -45,8 +45,8 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_p2p_to_message">To:</string>
     <string name="wifi_sim_required_message">To connect to %1$s, insert a %2$s SIM</string>
     <string name="wifi_sim_required_title">Wi-Fi disconnected</string>
-    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">No devices connected. Tap to modify.</string>
-    <string name="wifi_softap_auto_shutdown_timeout_expired_title">Hotspot turned off</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Sem dispositivos ligados. Toque para modificar</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">PA Móvel desligado</string>
     <string name="wifi_suggestion_action_allow_app">Allow</string>
     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Connect</string>
     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Connect</string>

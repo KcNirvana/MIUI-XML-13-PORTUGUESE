@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Gestor de rede</string>
+    <string name="connected">Ligado</string>
+    <string name="notification_channel_description_connected">Mostrar notificações quando o dispositivo for autenticado com sucesso numa rede de portal cativo</string>
+    <string name="notification_channel_description_network_venue_info">Mostrar notificações para indicar que a rede tem uma página de informações do local</string>
+    <string name="notification_channel_name_connected">Autenticação do portal cativo</string>
+    <string name="notification_channel_name_network_venue_info">Informações do local da rede</string>
+    <string name="tap_for_info">Ligado / Toque para ver site</string>
+</resources>

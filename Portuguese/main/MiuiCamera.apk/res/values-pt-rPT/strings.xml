@@ -1291,6 +1291,8 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
     <string name="pref_camera_square_mode_title">Quadrado</string>
     <string name="pref_camera_stereo_mode_title">Estéreo</string>
     <string name="pref_camera_super_resolution_title">Ligar SR</string>
+    <string name="pref_camera_tap_shoot_summary">Tocar no ecrã para tirar uma foto</string>
+    <string name="pref_camera_tap_shoot_title">Tocar para tirar foto</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
     <string name="pref_camera_tilt_shift_title">Tilt-Shift</string>
@@ -1312,7 +1314,7 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
     <string name="pref_camera_video_log_tips">Registos</string>
     <string name="pref_camera_video_show_faceview_title">Mostrar quadrado de rosto no modo vídeo</string>
     <string name="pref_camera_video_tag">Permitir a marcação de vídeos</string>
-    <string name="pref_camera_video_tag_description">Toque em \"Marcar\" enquanto grava um vídeo para poder voltar atrás nos momentos marcados durante a reprodução</string>
+    <string name="pref_camera_video_tag_description">Tocar em \"Marcar\" enquanto grava um vídeo para poder voltar atrás nos momentos marcados durante a reprodução</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Exposição</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Disparo</string>
     <string name="pref_camera_volumekey_function_entry_timer">Contagem</string>

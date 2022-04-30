@@ -863,6 +863,12 @@ para armazenar cache e informação de dispositivos duplicados.
 Se não concordar em conceder estas permissões ou não permitir obter as informações acima, não vai poder utilizar esta aplicação. Pode desinstalar ou sair desta aplicação
 "</string>
     <string name="privacy_content_cn_sub">Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a></string>
+    <string name="global_privacy_content">"\u0009Bem-vindo ao C. Remoto. Com esta aplicação pode controlar os seus dispositivos IR e muito mais. Vamos cumprir rigorosamente com as leis em vigor e com a nossa Política de Privacidade para proteger as suas informações pessoais.
+\u0009Para fornecer serviços adicionais, esta aplicação necessita das seguintes permissões:
+• Localização: Para partilhar ou localizar dispositivos partilhados
+• Câmara: Para digitalizar códigos QR de dispositivos partilhados
+• Gravação de áudio: Para utilizar os controlos de voz nos dispositivos ligados
+\u0009Se não concordar em conceder estas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode desinstalar, sair ou restringir permissões desta aplicação nas Definições nestes casos"</string>
     <string name="privacy_content_new">Leia %1$s e %2$s da Xiaomi antes de utilizar o C. Remoto. É necessário aceder à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
     <string name="privacy_content_new_license">\"Termos de Utilização\"</string>
     <string name="privacy_content_new_privacy">\"Política de Privacidade\"</string>

@@ -431,6 +431,10 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="default_signature_phone">Enviado do meu telefone Mi</string>
     <string name="delete">Eliminar</string>
     <string name="delete_contact_content">Eliminar este contacto agora?</string>
+    <string name="delete_message_dialog_content">Eliminar este email e bloquear o remetente?</string>
+    <string name="delete_message_dialog_left_button">Eliminar e bloquear</string>
+    <string name="delete_message_dialog_right_button">Eliminar apenas</string>
+    <string name="delete_message_dialog_title">A eliminar email</string>
     <string name="delete_message_event">Eliminar este convite?</string>
     <string name="deleted">Eliminada</string>
     <string name="device_activity_btn_str">Activar</string>

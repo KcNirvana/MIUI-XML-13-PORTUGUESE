@@ -209,8 +209,8 @@
         <item quantity="one">%1$.2f hora</item>
     </plurals>
     <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
     </plurals>
     <plurals name="time_duration_hour_standard">
         <item quantity="other">%1$.1f-%2$.1f horas</item>
@@ -257,16 +257,16 @@
         <item quantity="one">" ciclo"</item>
     </plurals>
     <plurals name="unit_hours">
-        <item quantity="other">" hrs "</item>
-        <item quantity="one">" hr "</item>
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="unit_hours2">
         <item quantity="other">" horas "</item>
         <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="unit_mins">
-        <item quantity="other">" mins "</item>
-        <item quantity="one">" min "</item>
+        <item quantity="other">" minutos "</item>
+        <item quantity="one">" minuto "</item>
     </plurals>
     <plurals name="unit_mins2">
         <item quantity="other">" minutos "</item>

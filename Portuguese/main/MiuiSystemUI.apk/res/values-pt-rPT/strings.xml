@@ -1906,7 +1906,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">Até ao nascer do sol</string>
     <string name="quick_settings_nightmode_label">Modo Escuro</string>
     <string name="quick_settings_notifications_label">Notificações</string>
-    <string name="quick_settings_papermode_label">Modo de Leitura</string>
+    <string name="quick_settings_papermode_label">Modo Leitura</string>
     <string name="quick_settings_powermode_label">Desempenho</string>
     <string name="quick_settings_quietmode_label">Não incomodar</string>
     <string name="quick_settings_reset_confirmation_button">Ocultar</string>

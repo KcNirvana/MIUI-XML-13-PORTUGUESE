@@ -28,7 +28,7 @@
         <item>Abrir a câmara frontal</item>
         <item>Abrir a aplicação anterior</item>
         <item>Ligar a lanterna</item>
-        <item>Ligar o Modo de Leitura</item>
+        <item>Ligar o Modo Leitura</item>
         <item>Nenhum</item>
     </string-array>
     <string-array name="alarm_repeat_type">

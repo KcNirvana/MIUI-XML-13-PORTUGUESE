@@ -327,7 +327,7 @@
     <string name="screen_on_proximity_sensor_summary">Não tape a zona do auscultador</string>
     <string name="screen_on_proximity_sensor_summary_for_kddi">Não tape a zona do sensor de proximidade</string>
     <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
-    <string name="screen_paper_mode_enter_toast">O Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
+    <string name="screen_paper_mode_enter_toast">O Modo Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo Leitura</string>
     <string name="screen_rotation_freeze_message">Rotação automática desligada</string>
     <string name="screenshot_gesture_detect_alert_button">Activar nas Definições</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Não mostrar novamente</string>
@@ -390,7 +390,7 @@
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_mute">Silêncio</string>
     <string name="status_bar_toggle_nfc">NFC</string>
-    <string name="status_bar_toggle_paper_mode">Modo de Leitura</string>
+    <string name="status_bar_toggle_paper_mode">Modo Leitura</string>
     <string name="status_bar_toggle_power_mode">Desempenho</string>
     <string name="status_bar_toggle_quiet_mode">N. incomodar</string>
     <string name="status_bar_toggle_rotate">Rotação</string>

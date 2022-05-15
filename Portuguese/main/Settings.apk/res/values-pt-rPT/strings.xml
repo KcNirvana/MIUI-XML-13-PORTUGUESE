@@ -1368,9 +1368,9 @@ Não se ligou a %2$s antes"</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizado para entrada</string>
     <string name="bluetooth_incoming_pairing_msg">De:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Emparelhar com este dispositivo?</string>
     <string name="bluetooth_inform_messgae">"Não foi possível ligar a %1$s.
-Aqui está o que pode estar errado:
-1. Bluetooth desligado ou fora do alcance.
-2. Este dispositivo não está no modo visível.
+O que pode estar errado:
+1. Bluetooth desligado ou fora do alcance
+2. Este dispositivo não está no modo visível
 3. O dispositivo está ligado a outros dispositivos. Desligue e tente novamente"</string>
     <string name="bluetooth_inform_messgae_title">Não foi possível ligar</string>
     <string name="bluetooth_is_disconnect_question">Desligar %1$s?</string>

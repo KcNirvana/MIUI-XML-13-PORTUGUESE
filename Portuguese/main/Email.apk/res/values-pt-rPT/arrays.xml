@@ -25,9 +25,14 @@
     <string-array name="error_message_respond">
         <item>LOGIN Login error or password error</item>
         <item>LOGIN Login error password error</item>
+        <item>Invalid login user or password</item>
+        <item>LOGIN failure, invalid username/password</item>
+        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Login error user suspended</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
         <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
         <item>Login fail. Password is incorrect or service is not open</item>
@@ -45,8 +50,8 @@
         <item>ERR custom pop3 off</item>
         <item>LOGIN Login error user name or password error</item>
         <item>Invalid login or password</item>
-        <item>ip XXXXXXX in blacklist please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
-        <item>java.net.UnknownHostException: Unable to resolve host XXXX : No address associated with hostname</item>
+        <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Unable to resolve host</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Minúsculo</item>

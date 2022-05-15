@@ -4778,7 +4778,7 @@ Tente aumentar a resolução!"</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">For deleting messages from your blocklist</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer funcionalidade relevantes à sua localização no centro de aviso MIUI, SOS Emergência, poupança de bateria, verificação de pagamentos e localização aproximada</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para limpar lixo e verificar vírus</string>
-    <string name="default_condition_summary">P.e. \"Bateria abaixo de %s\"</string>
+    <string name="default_condition_summary">P.e. \"Bateria abaixo de 20%\"</string>
     <string name="default_condition_title">Adicionar condição</string>
     <string name="default_condition_title_continue">Adicionar condição</string>
     <string name="default_result_summary">P.e. \"Desligar Modo Avião\"</string>

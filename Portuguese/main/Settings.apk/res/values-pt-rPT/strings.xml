@@ -6456,7 +6456,7 @@ Press Power and Volume up at the same time."</string>
     <string name="privacy_authorize_cloud_msg">Para assegurar a segurança da sua conta, inicie sessão em i.mi.com se quiser revogar a autorização para os serviços Xiaomi Cloud</string>
     <string name="privacy_authorize_dialog_agree">Concordar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
-    <string name="privacy_authorize_dialog_message">Para utilizar as funcionalidade básicas dos serviços Xiaomi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="https://privacy.mi.com/all/%1$s_%2$s">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s">Termos de Utilização</a></string>
+    <string name="privacy_authorize_dialog_message"><Data>Para utilizar as funcionalidade básicas dos serviços Xiaomi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Termos de Utilização&lt;/a></Data></string>
     <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
     <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
     <string name="privacy_authorize_revoke">Revogar</string>

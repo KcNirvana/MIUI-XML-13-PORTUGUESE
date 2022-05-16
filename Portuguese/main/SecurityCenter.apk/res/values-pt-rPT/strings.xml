@@ -5169,7 +5169,7 @@ Remover consentimento agora?"</string>
 %3$d. This feature is only supported by mobile carriers in China."</string>
     <string name="function_gwsd_detail_new">"About this feature:
  %1$d. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- %2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity.
+ %2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity."</string>
     <string name="gamebox_bullet_chat">Comentários no ecrã</string>
     <string name="gb_dialog_record_way_ai_new">AI recordings are saved in the gamebox and stored there for %d days.</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Record %d-%d seconds of video during gaming session manually.</string>

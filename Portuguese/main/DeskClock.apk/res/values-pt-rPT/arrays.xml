@@ -34,6 +34,14 @@
         <item>Alarme vai tocar daqui a %2$s e %3$s</item>
         <item>Alarme vai tocar daqui a %1$s %2$s e %3$s</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Satisfatório</item>
+        <item>Moderamente poluído</item>
+        <item>Mau</item>
+        <item>Muito mau</item>
+        <item>Grave</item>
+    </string-array>
     <string-array name="auto_silence_entries">
         <item>Nunca</item>
         <item>1 minuto</item>

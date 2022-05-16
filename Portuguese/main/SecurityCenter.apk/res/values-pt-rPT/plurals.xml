@@ -212,6 +212,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Desinstalar %2$d jogos (incluindo %1$s)</item>
         <item quantity="one">Desinstalar %2$d jogo (incluindo %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Gravar momentos chave automaticamente e gerar vídeos com as sessões. Pode escolher guardar permanentemente após cada sessão de jogo. Vídeos não guardados vão ser eliminados após %1$d dias</item>
+        <item quantity="one">Gravar momentos chave automaticamente e gerar vídeos com as sessões. Pode escolher guardar permanentemente após cada sessão de jogo. Vídeos não guardados vão ser eliminados após %1$d dia</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d gravações IA guardadas no Game Turbo</item>
         <item quantity="one">%d gravação IA guardada no Game Turbo</item>

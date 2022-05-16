@@ -59,6 +59,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
     <string name="high_temp_benchmark_state_message">O seu dispositivo está demasiado quente. Tente novamente mais tarde</string>
     <string name="high_temp_state">Sobreaquecimento</string>
     <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
+    <string name="high_temp_state_message_orange_es">Para melhorar o desempenho, algumas aplicações foram desactivadas temporariamente</string>
     <string name="hints_loading_text">Aguarde…</string>
     <string name="important_warning">Atenção</string>
     <string name="insert_data">Inserir dados</string>

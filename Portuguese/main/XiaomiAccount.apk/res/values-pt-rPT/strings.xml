@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device_info">Ver detalhes do dispositivo</string>
+    <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="access_token_expired_warning">A sua conta Weibo expirou</string>
     <string name="access_token_invalid_warning">A sua conta Weibo é inválida</string>
     <string name="account">Conta</string>
@@ -173,6 +174,9 @@ Envie este código ao supervisor"</string>
     <string name="login_check_find_device">A obter informação de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança</string>
     <string name="login_find_device_bind">Este dispositivo está associado à Conta Mi (%s)</string>
+    <string name="login_notification_button_text">Iniciar sessão</string>
+    <string name="login_notification_desc">Disfrute dos serviços cloud, espaço de armazenamento e mais</string>
+    <string name="login_notification_title">Iniciar sessão na sua Conta Mi</string>
     <string name="logout_account">Terminar sessão</string>
     <string name="logout_failed">Não é possível terminar sessão</string>
     <string name="mi_account_identity_title">Verificar a sua identidade</string>
@@ -200,6 +204,8 @@ Envie este código ao supervisor"</string>
     <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
     <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Xiaomi Cloud</string>
     <string name="my_device_title">Dispositivo actual</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique as suas definições de rede e tente novamente</string>
+    <string name="network_timeout_info">Não foi possível ligar à rede. Tente novamente</string>
     <string name="no_network_btn">Actualizar</string>
     <string name="no_network_title">Não é possível ligar à rede</string>
     <string name="no_phone">Sem número de telefone</string>

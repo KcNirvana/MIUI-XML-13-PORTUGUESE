@@ -148,6 +148,7 @@
     <string name="clipboard_read_deny_dialog_title">Restringido o acesso à área de transferências a %1$s</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_permission_description">executar acções desconhecidas</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="forbid_notice_me">Parar notificações</string>
     <string name="go_behavior_record">Histórico de comportamento</string>
     <string name="go_perm_manager">Gerir permissões</string>

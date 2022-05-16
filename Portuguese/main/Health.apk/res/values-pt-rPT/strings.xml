@@ -1508,6 +1508,7 @@ baseados nas suas informações pessoais"</string>
     <string name="tb_weight_no_record">Sem pesagens</string>
     <string name="tb_weight_pre_time">Pesagem anterior</string>
     <string name="tb_weight_result">Resultado estimado: %s</string>
+    <string name="temporary_not_available">Temporariamente não disponível</string>
     <string name="text_edit_exercise_goal">Alterar objectivo</string>
     <string name="text_save_exercise_goal">Concluído</string>
     <string name="time">Tempo</string>

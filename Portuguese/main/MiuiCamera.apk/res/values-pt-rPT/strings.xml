@@ -336,15 +336,24 @@ e ajustar as preferências automaticamente"</string>
     <string name="beauty_lens_none">Desfocar</string>
     <string name="beauty_lens_use_hint">Utilizar abertura grande para desfocar o fundo e dar relevância aos itens em primeiro plano</string>
     <string name="beauty_makeups_bluefemale">Geada</string>
+    <string name="beauty_makeups_danyan">Nú</string>
     <string name="beauty_makeups_gentleman">Prata</string>
-    <string name="beauty_makeups_nude">Nu</string>
+    <string name="beauty_makeups_nude">Nú</string>
     <string name="beauty_makeups_pinkfemale">Pétala</string>
+    <string name="beauty_makeups_qianjin">Ruivo</string>
+    <string name="beauty_makeups_ruanmei">Jovem</string>
     <string name="beauty_makeups_solid">Contorno</string>
+    <string name="beauty_makeups_subeffect_filter">Filtros</string>
+    <string name="beauty_makeups_subeffect_makeup">Maquilhagem</string>
     <string name="beauty_makeups_toughman">Bronze</string>
+    <string name="beauty_makeups_xiazhi">Sombra de pálpebra inferior</string>
+    <string name="beauty_makeups_yanku">Rainha do gelo</string>
+    <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Natural</string>
     <string name="beauty_mo_ma">Clássico</string>
     <string name="beauty_mo_or">Original</string>
     <string name="beauty_mode_reset_toast">Efeitos de figura repostos</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=>Desligar&lt;/a> efeitos de maquilhagem primeiro</string>
     <string name="beauty_ne">Original</string>
     <string name="beauty_no_t">Embelezar desligado</string>
     <string name="beauty_origin_skincolor">Original</string>
@@ -367,6 +376,7 @@ e ajustar as preferências automaticamente"</string>
     <string name="button_fisheye_camera_title">Olho-de-Peixe</string>
     <string name="button_front_camera_title">Tirar uma selfie</string>
     <string name="button_normal_video_title">Gravar vídeo</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Pode gravar até %d minutos em 4K</string>
     <string name="camcorder_tip_8k_max_video_duration">Pode gravar até 6 minutos em 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Pode gravar até %d minutos na resolução actual</string>
     <string name="camera_disabled">A câmara foi desactivada</string>
@@ -510,6 +520,7 @@ e ajustar as preferências automaticamente"</string>
     <string name="cta_perm_voice">Utilizar microfone</string>
     <string name="cta_perm_voice_desc">Para gravar áudio enquanto tira fotos</string>
     <string name="cta_user_tips">"Para compreender os seus direitos de utilizador e como fazemos a gestão dos seus dados, leia e concorde com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href ='%2$s'>Política de Privacidade</a>"</string>
+    <string name="custom_content_unavailable_alert">Não é possível utilizar o texto que introduziu. Tente outro texto</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Predefinido</string>
     <string name="custom_sound_modern">Moderno</string>
@@ -609,6 +620,7 @@ A gravação telefone duplo permite ligar a um dispositivo próximo e criar um v
     <string name="dual_video_user_guide_standalone_content">Grave com duas câmaras simultaneamente e guarde ambas as gravações como vídeos separados</string>
     <string name="dual_video_user_guide_standalone_content_new">Grave com duas câmaras simultaneamente e guarde ambas as gravações como vídeos separados</string>
     <string name="edit_blusher">Rouge</string>
+    <string name="edit_cheekbone">Maçãs do rosto</string>
     <string name="edit_chin">Queixo</string>
     <string name="edit_color_skin">Tom de pele</string>
     <string name="edit_eye_large">Olhos grandes</string>
@@ -616,11 +628,14 @@ A gravação telefone duplo permite ligar a um dispositivo próximo e criar um v
     <string name="edit_face_ruddy">Rosado</string>
     <string name="edit_face_slender">Delicado</string>
     <string name="edit_hairline">Traços</string>
+    <string name="edit_head_narrow">Tamanho da cabeça</string>
+    <string name="edit_jaw">Maxilar inferior</string>
     <string name="edit_jelly_lips">Brilho labial</string>
     <string name="edit_lips">Lábios</string>
     <string name="edit_makeup">Maquilhagem</string>
     <string name="edit_neck">Pescoço</string>
     <string name="edit_nose">Nariz</string>
+    <string name="edit_nose_tip">Ponta do nariz</string>
     <string name="edit_pupil_line">Delineador</string>
     <string name="edit_risorius">Bochechas</string>
     <string name="edit_skin_smooth">Suave</string>
@@ -628,6 +643,8 @@ A gravação telefone duplo permite ligar a um dispositivo próximo e criar um v
     <string name="edit_slim_nose">Nariz</string>
     <string name="edit_smile">Sorriso</string>
     <string name="edit_solid">Contorno</string>
+    <string name="edit_temple">Templos</string>
+    <string name="edit_touch_up">Maquilhagem</string>
     <string name="emoticon">Pack de stickers</string>
     <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
     <string name="esp_tip">Pré-visualização de ecrã externo</string>

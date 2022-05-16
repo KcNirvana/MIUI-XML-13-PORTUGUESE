@@ -494,6 +494,7 @@
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Atalhos</string>
     <string name="setting_big_screen_layout_title">Layout de ecrã grande</string>
+    <string name="setting_cloud_service">Serviços Xiaomi Cloud</string>
     <string name="setting_layout">Layout</string>
     <string name="setting_micloud_sync_title">Sincronizar com a Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Layout</string>

@@ -108,10 +108,10 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio multimédia</string>
     <string name="bluetooth_active_battery_level">Activado. %1$s de bateria</string>
-    <string name="bluetooth_active_battery_level_untethered">Activado. E: bateria %1$s | D: bateria %2$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Activado. E: Bateria %1$s | D: Bateria %2$s</string>
     <string name="bluetooth_active_no_battery_level">Activado</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
-    <string name="bluetooth_battery_level_untethered">E: bateria %1$s | D: bateria %2$s</string>
+    <string name="bluetooth_battery_level_untethered">E: Bateria %1$s | D: Bateria %2$s</string>
     <string name="bluetooth_connected">Ligado %1$s</string>
     <string name="bluetooth_connected_battery_level">Ligado. Bateria a %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia)%1$s</string>
@@ -2591,4 +2591,34 @@ Any user can update apps for all other users."</string>
     <string name="wifi_scan_throttling_summary">Reduzir o descarregamento da bateria e melhorar o desempenho da rede</string>
     <string name="xcap_setting_summary">Call barring, Voicemail &amp; call forwarding, and Call waiting</string>
     <string name="xcap_setting_title">Call service settings</string>
+    <string name="disable_esim_dialog_summary">"SIM %s will be activated if you deactivate eSIM now.
+Deactivate eSIM anyway?"</string>
+    <string name="disable_esim_dialog_title">Deactivating eSIM</string>
+    <string name="disable_esim_error_toast_message">"Couldn't deactivate eSIM"</string>
+    <string name="disable_esim_progress_activating_message">Deactivating eSIM…</string>
+    <string name="enable_esim_dialog_summary">"SIM %s will be deactivated if you activate eSIM now.
+Activate eSIM anyway?"</string>
+    <string name="enable_esim_dialog_title">Activating eSIM</string>
+    <string name="enable_esim_error_toast_message">"Couldn't activate eSIM"</string>
+    <string name="enable_esim_progress_activating_message">Activating eSIM…</string>
+    <string name="enable_esim_title">Use eSIM</string>
+    <string name="enter_esim_manager">Manage eSIM</string>
+    <string name="enter_esim_manager_title">Manage eSIM</string>
+    <string name="esim_goto_active">Activate</string>
+    <string name="esim_inactive_message">Inactive eSIM</string>
+    <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
+    <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
+    <string name="esim_inactive_notification_message">No SIM card detected. Tap to activate eSIM.</string>
+    <string name="esim_inactive_notification_message_global">No SIM card detected. Tap to activate eSIM.</string>
+    <string name="esim_inactive_notification_title_global">Dual SIM &amp; mobile networks</string>
+    <string name="esim_inactive_settings_title">Dual SIM &amp; mobile networks</string>
+    <string name="esim_setting_title">eSIM settings</string>
+    <string name="fiveg_nrca_switch_summary">Use 5G carrier aggregation for better connectivity</string>
+    <string name="fiveg_nrca_switch_title">5G carrier aggregation</string>
+    <string name="no_active_esim_text">Inactive eSIM</string>
+    <string name="nrca_switch_summary">Use 5G carrier aggregation for better connectivity</string>
+    <string name="nrca_switch_title">Use NRCA</string>
+    <string name="set_esim_toast_phone_in_call">"Can't perform this action during calls"</string>
+    <string name="switch_cancel_btn_text">Cancelar</string>
+    <string name="switch_confirm_btn_text">OK</string>
 </resources>

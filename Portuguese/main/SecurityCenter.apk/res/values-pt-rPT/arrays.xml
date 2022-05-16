@@ -33,6 +33,10 @@
         <item>Muito grande</item>
         <item>Enorme</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Tamanho</item>
+        <item>Nome</item>
+    </string-array>
     <string-array name="cellular_package_type">
         <item>Mensal</item>
         <item>Ilimitado</item>
@@ -168,8 +172,20 @@
         <item>Ordenar por espaço utilizado</item>
         <item>Ordenar por data de instalação</item>
     </string-array>
+    <string-array name="sort_title_new">
+        <item>Ordenar por nome da aplicação</item>
+        <item>Ordenar por utilização</item>
+        <item>Ordenar por espaço utilizado</item>
+        <item>Ordenar por data de instalação</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Estado</item>
+        <item>Nome da aplicação</item>
+        <item>Utilização</item>
+        <item>Espaço utilizado</item>
+        <item>Data de instalação</item>
+    </string-array>
+    <string-array name="sort_type_new">
         <item>Nome da aplicação</item>
         <item>Utilização</item>
         <item>Espaço utilizado</item>

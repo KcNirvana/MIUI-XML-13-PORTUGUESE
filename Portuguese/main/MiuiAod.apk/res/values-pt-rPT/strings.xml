@@ -158,6 +158,7 @@ dd/MM"</string>
     <string name="text_length_exceed_limit_alert">*O texto inserido é demasiado longo</string>
     <string name="text_size">Tamanho do texto</string>
     <string name="theme_cate_title">Tema</string>
+    <string name="theme_manager_other">Mais itens</string>
     <string name="time_location">Posição do relógio</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">Layout</string>

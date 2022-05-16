@@ -12,6 +12,10 @@
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="app_name">blur</string>
+    <string name="bluetooth_permission_content">As permissões de sistema foram actualizadas. Permitir que esta aplicação possa aceder aos nomes dos dispositivos Bluetooth para os poder ver</string>
+    <string name="bluetooth_permission_grant_immediately">Permitir</string>
+    <string name="bluetooth_permission_later">Agora não</string>
+    <string name="bluetooth_permission_title">Permissões necessárias</string>
     <string name="callFailed_cb_enabled">Não pode efectuar chamadas enquanto o barramento de chamadas estiver ligado</string>
     <string name="callFailed_congestion">Rede ocupada</string>
     <string name="callFailed_dialToDial">Pedido de marcação modificado para marcar com um número diferente</string>
@@ -134,6 +138,7 @@
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="enter_ai_assistant">Utilizar</string>
     <string name="enter_ai_assistant_tip">O assistente de chamadas IA pode atender esta chamada e transcrever o discurso da outra pessoa. Permitir que a IA atenda agora?</string>
+    <string name="font_camera_tip">Dobrar o dispositivo para utilizar a câmara frontal</string>
     <string name="inCallLabel">Telefone</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar para a chamada</string>
     <string name="incall_call_type_label_sip">Chamadas pela Internet</string>
@@ -159,6 +164,7 @@
     <string name="incoming_video_crs_call">A reproduzir vídeo de perfil…</string>
     <string name="manageConferenceLabel">Gerir chamada de conferência</string>
     <string name="manager_conference_done">Concluído</string>
+    <string name="msim_select_default_last">Utilizado recentemente</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="notification_action_accept">Aceitar</string>
     <string name="notification_action_answer_video">Vídeo</string>
@@ -209,6 +215,15 @@
     <string name="relay_network_error_msg">Não é possível atender chamadas neste dispositivo devido a um erro de rede. Altere para o seu telefone</string>
     <string name="remind_unlock_message">O seu dispositivo está bloqueado. \"%s\" vai estar disponível após desbloquear o seu dispositivo. Desbloquear agora?</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
+    <string name="saf_permission_content">"As permissões de sistema foram actualizadas. Para poder gravar chamadas, conceda permissões primeiro.
+
+Como conceder permissões
+Tocar em \"%1$s\" e depois seleccionar \"%2$s\""</string>
+    <string name="saf_permission_grant_permission_immediately">Seguinte</string>
+    <string name="saf_permission_later">Agora não</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Para poder guardar gravações, desbloqueie o seu dispositivo primeiro. Desbloquear agora?</string>
+    <string name="saf_permission_refused">Não é possível gravar chamadas devido a permissões em falta</string>
+    <string name="saf_permission_title">Permissões necessárias</string>
     <string name="select_audio_dialog_title">Seleccionar modo de atendimento</string>
     <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Apenas pode utilizar SIM %1$d Sub %2$d</string>

@@ -804,4 +804,31 @@ d 'de' MMMM"</string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
     <string name="user_name_phone_number">Phone number</string>
+    <string name="lks_cta_dont_mention">"Don't show again"</string>
+    <string name="lks_cta_ok">Agree</string>
+    <string name="lks_cta_reject">"Don't agree"</string>
+    <string name="lks_cta_summary1">Wallpaper Carousel provides the following features:</string>
+    <string name="lks_cta_summary2">"1. Automatically updated wallpapers&lt;br>2. Fresh images and stories delivered to your Lock screen&lt;br>3. Customization options&lt;br>This feature needs to connect to the internet to work normally.&lt;br>&lt;br>To provide additional services, we might ask for permission to access and save items to this device's storage. Read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+    <string name="lks_cta_title">Terms and conditions</string>
+    <string name="lks_data_warning_toast_1">"You're using mobile data to browse wallpapers.
+This may generate additional fees."</string>
+    <string name="lks_dislike">"I don't like it"</string>
+    <string name="lks_loop_icon_ask_cancle">Cancel</string>
+    <string name="lks_loop_icon_ask_dlg">Turn on Lock screen slideshow to get fresh images and stories delivered to your Lock screen daily.</string>
+    <string name="lks_loop_icon_ask_ok">Turn on</string>
+    <string name="lks_loop_icon_ask_title">Lock screen slideshow</string>
+    <string name="lks_loop_icon_close_cancle">Cancel</string>
+    <string name="lks_loop_icon_close_dlg">Lock screen slideshow will be turned off if you set this image as your Lock screen. Set as Lock screen now?</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Attention</string>
+    <string name="lks_loop_icon_dlg_title">Lock screen slideshow</string>
+    <string name="lks_loop_icon_open_dlg">Lock screen slideshow is turned on and delivering fresh images and stories to your Lock screen daily.</string>
+    <string name="lks_loop_icon_open_ok">Got it</string>
+    <string name="lks_more_pics_coming_toast">New images are on their way</string>
+    <string name="lks_new_user_help_anime">Swipe up to see more from Wallpaper Carousel</string>
+    <string name="lks_no_network">"Couldn't connect to the network"</string>
+    <string name="lks_please_reload">Reload</string>
+    <string name="lks_retry">Try again</string>
+    <string name="lks_to_history">History</string>
+    <string name="lks_to_setting">Definições dos papéis de parede aleatórios</string>
 </resources>

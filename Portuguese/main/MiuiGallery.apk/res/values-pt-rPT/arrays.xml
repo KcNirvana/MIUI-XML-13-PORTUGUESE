@@ -72,6 +72,20 @@
         <item>Feliz Ano Novo!</item>
         <item>Alvorada de Ano Novo</item>
     </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Ano do Macaco</item>
+        <item>Ano do Galo</item>
+        <item>Ano do Cão</item>
+        <item>Ano do Porco</item>
+        <item>Ano do Rato</item>
+        <item>Ano do Boi</item>
+        <item>Ano do Tigre</item>
+        <item>Ano do Coelho</item>
+        <item>Ano do Dragão</item>
+        <item>Ano da Cobra</item>
+        <item>Ano do Cavalo</item>
+        <item>Ano do Bode</item>
+    </string-array>
     <string-array name="city_title">
         <item>Paisagens urbanas</item>
         <item>Estradas e cantos</item>

@@ -1232,7 +1232,7 @@ em ^2"</string>
     <string name="bluetooth_audio_share_feature_notice_summary">Partilhar áudio com outros dispositivos ligados?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Partilhar áudio</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
-    <string name="bluetooth_battery_level_untethered">E: bateria %1$s | D: bateria %2$s</string>
+    <string name="bluetooth_battery_level_untethered">E: Bateria %1$s | D: Bateria %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Ligado ao servidor BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Utilizar para BA</string>
     <string name="bluetooth_bcast_rcvr_device_name">Receptor de transmissão</string>

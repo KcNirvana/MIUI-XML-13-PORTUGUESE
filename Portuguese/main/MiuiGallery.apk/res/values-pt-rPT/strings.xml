@@ -453,6 +453,7 @@
     <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
     <string name="cloud_settings">Sincronização</string>
     <string name="cloud_storage_extend">Aumentar o espaço da Xiaomi Cloud</string>
+    <string name="cloud_full_space_tip_title_completely">Xiaomi Cloud cheia</string>
     <string name="cloud_storage_ok_append_desc">Disponível %s</string>
     <string name="cloud_storage_ok_desc">Total %s</string>
     <string name="cloud_storage_ok_title">Espaço na Xiaomi Cloud</string>
@@ -522,6 +523,7 @@
     <string name="correct_photo_time">Corrigir data e hora nas fotos</string>
     <string name="correct_time_success">Corrigido com sucesso</string>
     <string name="correct_time_tip">A corrigir data e hora…</string>
+    <string name="create_album_failed_because_dup">Este álbum já existe. Adicionar itens a este álbum agora?</string>
     <string name="create_baby_album">Criar um álbum de bebé</string>
     <string name="create_baby_album_dialog_msg">Criar um álbum para \"%s\"?</string>
     <string name="create_baby_album_later_toast">Criar um álbum de bebé em qualquer altura nas Definições</string>
@@ -547,6 +549,7 @@
     <string name="default_relation_name">Novo grupo</string>
     <string name="define_by_user">Personalizado</string>
     <string name="delete">Eliminar</string>
+    <string name="delete_account_message">A Galeria necessita de limpar a cache devido a ter terminado a sessão da Conta Mi</string>
     <string name="delete_album_failed">Não foi possível eliminar álbum</string>
     <string name="delete_album_msg_format">Eliminar álbum \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Eliminar %1$s %2$s da Xiaomi Cloud e dispositivos sincronizados?</string>
@@ -962,6 +965,8 @@ efeitos de fotos"</string>
     <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="grant_permission_manage_storage">Permissões necessárias</string>
+    <string name="grant_permission_manage_storage_unlock">Desbloquear o seu dispositivo e permitir que esta aplicação aceda a todos os ficheiros para poder ver itens</string>
     <string name="grant_permission_go_and_set">Definir</string>
     <string name="grant_permission_go_and_set_2">Definições</string>
     <string name="grant_permission_go_and_set_3">Definições</string>
@@ -1080,6 +1085,7 @@ efeitos de fotos"</string>
     <string name="kick_sharer_failed">Não foi possível remover esta pessoa</string>
     <string name="kick_sharer_successfully">Esta pessoa foi removida</string>
     <string name="kilobyteShort">KB</string>
+    <string name="last_some_performance_title">Coisas que eu vi</string>
     <string name="limit_height">A altura deve ser &gt; 0</string>
     <string name="limit_width">A largura deve ser &gt; 0</string>
     <string name="live_photo">Foto ao vivo</string>
@@ -1489,6 +1495,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde alguns minutos e tente novamente</string>
     <string name="operation_unforce_top">Soltar</string>
     <string name="operation_unhide">Mostrar</string>
+    <string name="operation_upgrade_gallery">Actualizar</string>
     <string name="operation_video_compress">Comprimir vídeo</string>
     <string name="orientation_lock_tip">Auto-rotação desligada</string>
     <string name="orientation_unlock_tip">Auto-rotação ligada</string>
@@ -1550,6 +1557,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="photo_editor_crop_size_origin">Original</string>
     <string name="photo_editor_doodle">Rabiscar</string>
     <string name="photo_editor_filter">Filtrar</string>
+    <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
     <string name="photo_editor_frame">Moldura</string>
     <string name="photo_editor_label">Editar</string>
     <string name="photo_editor_long_crop">Cortar</string>

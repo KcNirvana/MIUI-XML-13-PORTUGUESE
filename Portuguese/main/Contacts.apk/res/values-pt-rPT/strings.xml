@@ -989,6 +989,8 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_more_traffic_pkg">More data packages</string>
     <string name="bh_more_value">Other amount</string>
     <string name="bh_ms">Mi SIM</string>
+    <string name="bh_open_carrier_services_short">Mi Carrier Services</string>
+    <string name="bh_open_carrier_services_short_reason">Turn on Mi Carrier Services to be able to use this feature.</string>
     <string name="bh_net_error">A network error occurred</string>
     <string name="bh_no_permission_read_call_log_desc">This permission allows displaying call duration</string>
     <string name="bh_no_permission_read_contact_desc">This permission allows access to phone numbers in contacts</string>
@@ -1027,6 +1029,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_please_fill_total_limit">Add mobile data included in your plan</string>
     <string name="bh_please_set_pkg">Set your plan to be able to check your balance.</string>
     <string name="bh_privacy_policy">Privacy Policy</string>
+    <string name="bh_qualification_and_certificate">Licenses and certification</string>
     <string name="bh_receive_zero_card">Free SIM</string>
     <string name="bh_recharge_money">Amount</string>
     <string name="bh_recharge_record">Recharge record</string>
@@ -1156,12 +1159,14 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="permission_write_external_storage_desc">For saving app data</string>
     <string name="privacy_password_set_password">Set</string>
     <string name="privacy_password_title1">Set password</string>
+    <string name="privacy_settings_blue_scan_connect">Ligar a dispositivos próximos</string>
     <string name="saf_permission_dialog_content">"Android doesn't allow Contacts and Phone to access call recordings by default. Allow these apps to access call recordings to be able to view them."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Allow</string>
     <string name="saf_permission_dialog_later">Later</string>
     <string name="saf_permission_dialog_title">Allow Contacts and Phone to access call recordings</string>
     <string name="seven_letter">PQRS</string>
     <string name="six_letter">MNO</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permitir que esta funcionalidade se ligue a dispositivos próximos via Bluetooth para poder importar contactos de outros dispositivos</string>
     <string name="text_msim_balance">Used today</string>
     <string name="text_vsim_remain_time">Remaining minutes</string>
     <string name="undefined">Not set</string>

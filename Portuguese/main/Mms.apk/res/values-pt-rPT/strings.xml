@@ -1178,6 +1178,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
     <string name="title_allow_network_access">Actualizar informações automaticamente</string>
     <string name="title_collapse_sp_messages">Agrupar notificações</string>
     <string name="title_hide_verification_code">Ocultar auto. OTP no ecrã de bloqueio</string>
+    <string name="title_not_show_read_mms_perm_req">Permissões necessárias</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
     <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
@@ -1199,6 +1200,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
     <string name="toast_not_show_email_perm_req">Permitir que Mensagens aceda ao seu email para utilizar esta funcionalidade</string>
     <string name="toast_not_show_location_perm_req">Permitir que Mensagens aceda à sua localização para utilizar esta funcionalidade</string>
     <string name="toast_not_show_microphone_perm_req">Permitir que Mensagens utilize o microfone para poder utilizar esta funcionalidade</string>
+    <string name="toast_not_show_read_mms_perm_req">Para poder ver as mensagens recebidas, é necessário permissões para ler SMS e MMS. Pode conceder esta permissão nas Definições</string>
     <string name="toast_not_show_send_sms_perm_req">Para poder utilizar esta funcionalidade, permitir que esta aplicação envie mensagens primeiro</string>
     <string name="toast_not_show_storage_perm_req">Permitir que Mensagens aceda ao armazenamento para poder utilizar esta funcionalidade</string>
     <string name="toast_not_show_write_contacts_perm_req">Permitir que Mensagens edite contactos para utilizar esta funcionalidade</string>

@@ -451,4 +451,21 @@ You must agree to Kika Privacy Policy before using this feature."</string>
     <string name="trade_in">Trocas</string>
     <string name="voice_assist_advice">A Mi IA permite utilizar os controlos de voz, mas consome mais bateria (+1% a cada hora)</string>
     <string name="withdraw_consent">Se remover o consentimento, os papéis de parede aleatórios vão ser desactivados</string>
+    <string name="activate_esim_tips">Não foi possível activar. Tente novamente</string>
+    <string name="activating_esim_tips">A activar…</string>
+    <string name="bluetooth_usage_desc">A configuração inicial permite definir as preferências básicas para este dispositivo. Para configurar o seu dispositivo, os serviços Bluetooth vão utilizar as seguintes permissões:</string>
+    <string name="enable_or_disable_bluetooth">A ligar/desligar o Bluetooth</string>
+    <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
+    <string name="item_facerecognition">Desbloqueio facial</string>
+    <string name="miui_provision">Configuração inicial</string>
+    <string name="multisim_settings_sb_title">Cartão SIM %d detectado</string>
+    <string name="other_settings_quality_service">Permissões MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon é utilizado para melhorar a estabilidade e desempenho do sistema. Para poder funcionar normalmente, este serviço necessita de permissões para aceder e guardar itens no armazenamento</string>
+    <string name="permission_enable_disable_bluetooth_summary">Para localizar dispositivos próximos para ligar e transferir dados</string>
+    <string name="sim_card_detection_info_sb">"Inserir um cartão SIM antes de continuar. Localizar Dispositivo e funcionalidades de sincronização não vão estar disponíveis se não criar uma conta sem um cartão SIM. Este dispositivo suporta eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Tocar para activar eSIM</string>
+    <string name="sim_card_detection_sb_esim">Activar eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Não activado</string>
+    <string name="sim_card_dial_card">SIM %d para chamadas</string>
+    <string name="sim_card_network_card">SIM %d para dados</string>
 </resources>

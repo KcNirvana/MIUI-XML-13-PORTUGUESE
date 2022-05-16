@@ -68,7 +68,8 @@
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">Faltam menos de %s na bateria. Pare e guarde a sua gravação para garantir que não vai ser perdida</string>
     <string name="low_battery_error_title">Bateria fraca</string>
-	<string name="lyric_item_point_count">%1$d até %2$d</string>
+    <string name="lyric_item_point_count">%1$d até %2$d</string>
+    <string name="manage_external_storage">Aceder a todos os ficheiros</string>
     <string name="mark_point_list_title">Marcadores</string>
     <string name="menu">Menu</string>
     <string name="message_file_size_error">A gravação atingiu o tamanho máximo suportado por %s</string>
@@ -207,6 +208,7 @@
     <string name="status_bar_back">Toque para voltar ao Gravador</string>
     <string name="status_bar_recording">A gravar…</string>
     <string name="status_bar_recording_pause">Gravação em pausa</string>
+    <string name="sync_desc_state_complete">Sincronizado: %1$s</string>
     <string name="tab_all">Tudo</string>
     <string name="tab_apps">Aplicações</string>
     <string name="tab_call">Chamadas</string>

@@ -12,6 +12,8 @@
     <string name="freeform_demo_previous_tutorial">Voltar</string>
     <string name="freeform_demo_title_finish">Fixe!</string>
     <string name="freeform_demo_title_skip">Ignorar</string>
+    <string name="freeform_guide_to_sidehide_summary">Arrastar rapidamente a janela para a lateral do ecrã</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultar janelas flutuantes</string>
     <string name="freeform_slide_to_small_freeform">Minimizar janelas flutuantes</string>
     <string name="freeform_slide_to_small_freeform_summary">Premir e deslizar para um canto</string>
     <string name="fullscreen_slide_to_small_freeform">Minimizar uma aplicação</string>

@@ -451,7 +451,7 @@ Tente novamente dentro de %d segundos"</string>
     <string name="bluetooth_active_battery_level_untethered">Activo | E: Bateria %1$s | D: Bateria %2$s</string>
     <string name="bluetooth_active_no_battery_level">Activo</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
-    <string name="bluetooth_battery_level_untethered">E: Bateria %1$s | D: bateria %2$s</string>
+    <string name="bluetooth_battery_level_untethered">E: Bateria %1$s | D: Bateria %2$s</string>
     <string name="bluetooth_connected">Ligado</string>
     <string name="bluetooth_connected_battery_level">Ligado | Bateria %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia) %1$s</string>
@@ -1758,6 +1758,8 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar no topo da secção de conversas</string>
     <string name="priority_onboarding_show_avatar_text">Mostram a imagem do perfil no ecrã de bloqueio</string>
     <string name="priority_onboarding_title">Conversa definida como prioritária</string>
+    <string name="privacy_dialog_title">Notificações acerca de acções sensíveis</string>
+    <string name="privacy_recent_used_title">Recentes</string>
     <string name="private_dns_broken">Não é possível aceder ao servidor DNS privado</string>
     <string name="private_dns_mode_off">Desligado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
@@ -1768,6 +1770,8 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="profile_info_settings_title">Informação de perfil</string>
     <string name="profile_owned_footer">O perfil pode ser monitorizado</string>
     <string name="qs_alarm_tile_no_alarm">Sem alarmes definidos</string>
+    <string name="qs_bill_message_balance">%1$s %2$s restantes</string>
+    <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_closed">Desligado</string>
     <string name="qs_control_big_tile_state_closing">A desligar…</string>
     <string name="qs_control_big_tile_state_connected">Ligado</string>
@@ -1799,6 +1803,9 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="qs_rearrange">Organizar as Definições rápidas</string>
     <string name="qs_status_phone_muted">Telefone silenciado</string>
     <string name="qs_status_phone_vibrate">Telefone em vibração</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s acima do limite</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restantes</string>
+    <string name="qs_traffic_message_type_used">Utilizados %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Premir sem soltar o botão Ligar/Desligar para aceder aos controlos</string>
     <string name="quick_controls_setup_title">Configurar os controlos de dispositivos</string>
     <string name="quick_controls_subtitle">Adicionar controlos para os seus dispositivos associados</string>
@@ -1958,6 +1965,9 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="rapid_charge_mode_tip">Carregamento rápido</string>
     <string name="reboot_info_auto_boot_global">Próximo alarme: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Alarme de desligar: %s</string>
+    <string name="recent_used_camera">Esta aplicação utilizou a câmara</string>
+    <string name="recent_used_camera_and_microphone">Esta aplicação gravou áudio e utilizou a câmara</string>
+    <string name="recent_used_microphone">Esta aplicação gravou áudio</string>
     <string name="recent_conversations">Conversas recentes</string>
     <string name="recents_quick_scrub_onboarding">Arrastar para a direita para mudar de aplicação</string>
     <string name="recents_swipe_up_onboarding">Deslizar para cima para mudar de aplicação</string>
@@ -2409,6 +2419,9 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
     <string name="user_setup_dialog_title">Configurar o utilizador agora?</string>
     <string name="user_setup_profile_dialog_message">Configurar o perfil agora?</string>
     <string name="user_switch_to_user">Trocar para %s</string>
+    <string name="using_camera">Esta aplicação está a utilizar a câmara</string>
+    <string name="using_camera_and_microphone">Esta aplicação está a gravar áudio e a utilizar a câmara</string>
+    <string name="using_microphone">Esta aplicação está a gravar áudio</string>
     <string name="v7_preference_off">Desligado</string>
     <string name="v7_preference_on">Ligado</string>
     <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>

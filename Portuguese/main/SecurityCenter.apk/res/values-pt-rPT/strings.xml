@@ -5169,7 +5169,8 @@ Remover consentimento agora?"</string>
 %3$d. This feature is only supported by mobile carriers in China."</string>
     <string name="function_gwsd_detail_new">"About this feature:
  %1$d. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- %2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity."</string>
+ %2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity.
+ %5$d. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
     <string name="gamebox_bullet_chat">Comentários no ecrã</string>
     <string name="gb_dialog_record_way_ai_new">AI recordings are saved in the gamebox and stored there for %d days.</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Record %d-%d seconds of video during gaming session manually.</string>
@@ -5252,10 +5253,10 @@ Your device is %s faster now."</string>
     <string name="open_wlan_title">Allow this app to turn Wi-Fi on and off</string>
     <string name="operator_location_settings">Set carrier and location</string>
     <string name="operator_location_settings_message">"Couldn't recognize your carrier and location. Can't set phone balance and data usage warnings now."</string>
-    <string name="privacy_flares_behavior_recent">App behavior</string>
-    <string name="privacy_flares_capsule_current">%1s | Now</string>
-    <string name="privacy_flares_capsule_recent">%1s | Recently</string>
-    <string name="privacy_flares_current">Current action</string>
+    <string name="privacy_flares_behavior_recent">Comportamento da aplicação</string>
+    <string name="privacy_flares_capsule_current">%1s | Agora</string>
+    <string name="privacy_flares_capsule_recent">%1s | Recentemente</string>
+    <string name="privacy_flares_current">Acção actual</string>
     <string name="privacy_flares_current_detail_cam">This app is using camera</string>
     <string name="privacy_flares_current_detail_cam_loc">This app is using camera and accessing your location</string>
     <string name="privacy_flares_current_detail_cam_mic">This app is using camera and microphone</string>
@@ -5272,12 +5273,12 @@ Your device is %s faster now."</string>
     <string name="privacy_flares_recent_detail_mic_loc">This app has used microphone and accessed your location</string>
     <string name="privacy_flares_recent_detail_more">This app has used a sensitive permission</string>
     <string name="reminder_once_month">Once a month</string>
-    <string name="reminder_tips">Attention</string>
-    <string name="reminder_type">Warning type</string>
-    <string name="reminder_warning">Limit</string>
-    <string name="repeat_type">Repeat</string>
-    <string name="resume">Restore</string>
-    <string name="select_traffic_type_and_reminder_type">Tap to set</string>
+    <string name="reminder_tips">Atenção</string>
+    <string name="reminder_type">Tipo de aviso</string>
+    <string name="reminder_warning">Limitar</string>
+    <string name="repeat_type">Repetir</string>
+    <string name="resume">Restaurar</string>
+    <string name="select_traffic_type_and_reminder_type">Toque para definir</string>
     <string name="settings_negative_button_text">Agora não</string>
     <string name="signed_rule_one_new">%1$d. Check in %2$d, %3$d, or %4$d days in a row every month to get a Xunyou boost for %5$d, %6$d, or %7$d days respectively.</string>
     <string name="signed_rule_three_new">"%1$d. Days when you check in are annulled at the beginning of every month. The remaining days aren't rolled over."</string>
@@ -5290,9 +5291,9 @@ Your device is %s faster now."</string>
     <string name="storage_fbo_tools">Storage optimization</string>
     <string name="storage_file_delete_tip">Delete selected items permanently? Some of them may be loaded again when necessary.</string>
     <string name="storage_file_dialog_delete_title">Delete items</string>
-    <string name="storage_file_list_btn">Delete %1$s</string>
-    <string name="storage_file_list_form_default">SD card</string>
-    <string name="storage_file_list_from">From %s</string>
+    <string name="storage_file_list_btn">Eliminar %1$s</string>
+    <string name="storage_file_list_form_default">Cartão SD</string>
+    <string name="storage_file_list_from">De %s</string>
     <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_item_system_data">System</string>
     <string name="storage_system_log">System logs</string>

@@ -6288,7 +6288,7 @@ Press Power and Volume up at the same time."</string>
     <string name="power_menu_under_keyguard_title">Aceder ao menu de Ligar/Desligar</string>
     <string name="power_mgr">Optimização de bateria</string>
     <string name="power_mode">Definições de energia</string>
-    <string name="power_mode_balanced_title">Modo equilibrado</string>
+    <string name="power_mode_balanced_title">Modo Equilibrado</string>
     <string name="power_monitor_summary">Ferramentas utilizadas para monitorizar energia</string>
     <string name="power_monitor_title">Controlo de energia</string>
     <string name="power_optimize">Poupança de bateria</string>
@@ -10535,4 +10535,199 @@ Actualizar definições para:
     <string name="zone_menu_by_region">Seleccionar por região</string>
     <string name="zone_time_type_dst">Mudança de hora</string>
     <string name="zone_time_type_standard">Hora standard</string>
+    <string name="about_phone_device_name_warning">O nome do seu dispositivo é visível em aplicações no seu telefone. Pode ser visto por outras pessoas quando ligar a dispositivos Bluetooth, ligar a uma rede Wi-Fi ou configurar um PA Móvel</string>
+    <string name="accessibility_magnification_switch_shortcut_message">"Utilizar o triplo toque para ampliar parte do seu ecrã pode causar falhas na digitação e outros atrasos.
+
+O botão de acessibilidade flutua no seu ecrã em cima de outras aplicações. Toque nele para ampliar"</string>
+    <string name="accessibility_menu_description_pad">"O menu de acessibilidade fornece atalhos convenientes que permitem controlar o seu dispositivo.
+
+Ligar esta funcionalidade e tocar no botão de acessibilidade no fundo do ecrã para abrir o menu"</string>
+    <string name="accessibility_tutorial_dialog_message_gesture">"Para utilizar esta funcionalidade, deslize para cima com 2 dedos.
+
+Para trocar entre funcionalidades, deslize para cima com 2 dedos e segure"</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings">"Para utilizar uma funcionalidade de acessibilidade, deslize para cima com 2 dedos.
+
+Para trocar entre funcionalidades, deslize para cima com 2 dedos e segure"</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Para utilizar uma funcionalidade de acessibilidade, deslize para cima com 3 dedos.
+
+Para trocar entre funcionalidades, deslize para cima com 3 dedos e segure"</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Para utilizar uma funcionalidade de acessibilidade, deslize para cima com 3 dedos.
+
+Para trocar entre funcionalidades, deslize para cima com 3 dedos e segure"</string>
+    <string name="adapt_embedded">Janelas paralelas disponíveis</string>
+    <string name="animation_off">Animações desligadas</string>
+    <string name="application_mode_empty_text">Sem aplicações</string>
+    <string name="application_mode_name">Modo de visualização da aplicação</string>
+    <string name="at_most_one_process">No máximo %d processos</string>
+    <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Utilizar protocolos P2P de alta velocidade para transferências Bluetooth</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptável vai fornecer reprodução de alta qualidade e baixar a latência de áudio de jogos e vídeos enquanto aumento o consumo de bateria. A reprodução pode ser interrompida devido a limitações de hardware Bluetooth</string>
+    <string name="bt_aptx_adaptive_open_dialog_title">Trocar para aptX Adaptável?</string>
+    <string name="bt_lc3plus_open_dialog_summary">LC3plus vai fornecer reprodução de alta qualidade e baixar a latência de áudio de jogos e vídeos enquanto aumento o consumo de bateria. A reprodução pode ser interrompida devido a limitações de hardware Bluetooth</string>
+    <string name="bt_lc3plus_open_dialog_title">Trocar para LC3plus?</string>
+    <string name="bt_plugin_current_version">Versão actual</string>
+    <string name="bt_plugin_new_version">Actualizar</string>
+    <string name="bt_plugin_preference_button">Actualizar</string>
+    <string name="bt_plugin_preference_msg">Actual: %1$s | Novo: %2$s</string>
+    <string name="bt_plugin_preference_title">Nova versão</string>
+    <string name="bt_plugin_set_net_dialog_cancle">Cancelar</string>
+    <string name="bt_plugin_set_net_dialog_message">Verificar as suas definições de rede e tentar novamente</string>
+    <string name="bt_plugin_set_net_dialog_retry">Tentar novamente</string>
+    <string name="bt_plugin_set_net_dialog_title">Não foi possível ligar à rede</string>
+    <string name="dclight_unavailable_prompt">O Modo Anti-Oscilação é apenas suportado pelo ecrã externo</string>
+    <string name="deferred_setup_hintViewTitle">A verificar…</string>
+    <string name="device_mall_card_title">Verificar benefícios disponíveis</string>
+    <string name="dialog_esim_button_negative">Cancelar</string>
+    <string name="dialog_esim_button_positive">OK</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Manter</string>
+    <string name="dialog_softbank_esim_wipe_info">Limpar todos os dados do eSIM agora? Isto não vai cancelar o seu plano de serviço móvel</string>
+    <string name="dialog_softbank_esim_wipe_ok">Limpar</string>
+    <string name="dialog_softbank_esim_wipe_title">Limpar dados eSIM</string>
+    <string name="dialog_softbank_esime_context">Este dispositivo necessita de ligar à Internet para poder activar o eSIM. Ignorar activação de eSIM também?</string>
+    <string name="dialog_softbank_esime_title">Ignorar activação de eSIM</string>
+    <string name="display_prompt_confirm">Percebi</string>
+    <string name="expand_card_action">Cartões adicionais</string>
+    <string name="eye_gaze_summary">O dispositivo não vai bloquear enquanto detectar que está a olhar para o ecrã</string>
+    <string name="eye_gaze_title">Detectar olhar</string>
+    <string name="face_data_suggesstion_first_cn_highlight">O desbloqueio facial é menos seguro que PIN, palavra-passe ou padrão. O seu dispositivo pode ser desbloqueado com a sua foto ou pessoas com aparência similar</string>
+    <string name="fiveg_nrca_switch_summary">Melhorar a ligação 5G para ambiente de testes</string>
+    <string name="fiveg_nrca_switch_title">Agregação de operadora 5G</string>
+    <string name="fiveg_vonr_switch_summary">Utilizar VoNR na rede 5G para melhorar a experiência de chamadas. Esta funcionalidade é fornecida apenas para efeitos de teste</string>
+    <string name="fiveg_vonr_switch_title">Definições VoNR</string>
+    <string name="font_cta_alert_btn_negative">Cancelar</string>
+    <string name="font_cta_alert_btn_positive">Concordar</string>
+    <string name="font_cta_alert_message">Ler e concordar com os termos e condições de Temas para continuar</string>
+    <string name="font_cta_alert_title">Termos e Condições</string>
+    <string name="force_msaa_new">Forçar %dx MSAA</string>
+    <string name="force_msaa_summary_new">Activar %2$dx MSAA em aplicações OpenGL ES %1$.1f</string>
+    <string name="freeform_guide_to_sidehide_summary">Arrastar a aplicação para o lado do ecrã para a ocultar</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultar janelas flutuantes</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar na aplicação na barra lateral para a abrir numa janela flutuante
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou na lateral para utilizar o ecrã dividido"</string>
+    <string name="guide_button_text">Percebi</string>
+    <string name="guide_text_center">"Deslizar para cima no meio do ecrã.
+A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada ao centro"</string>
+    <string name="guide_text_left">"Deslizar para cima a partir do canto inferior esquerdo.
+A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada à esquerda"</string>
+    <string name="guide_text_right">"Deslizar para cima a partir do canto inferior direito.
+A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada à direita"</string>
+    <string name="guide_title_center">Deslizar para cima no meio</string>
+    <string name="guide_title_left">Deslizar para cima na esquerda</string>
+    <string name="guide_title_right">Deslizar para cima na direita</string>
+    <string name="gxzw_vibrate_summary">Vibrar enquanto a animação de impressão digital é reproduzida</string>
+    <string name="gxzw_vibrate_title">Vibração enquanto desbloqueia</string>
+    <string name="handy_mode_hint">O Modo Uma Mão está apenas disponível no ecrã externo</string>
+    <string name="le_audio_title">Áudio LE</string>
+    <string name="link_speed">%1$dMbps</string>
+    <string name="max_number_of_processes">No máximo %d processos</string>
+    <string name="miheadset_LEAudio_summary">Algumas funcionalidades não vão estar disponíveis quando o áudio LE estiver ligado</string>
+    <string name="miheadset_LEAudio_title">Ligar áudio LE?</string>
+    <string name="miheadset_LE_on_toast">Certifique-se que ambos os auriculares estão carregados e tire-os da caixa antes de ligar esta funcionalidade</string>
+    <string name="miheadset_anc_manual">Manual</string>
+    <string name="miheadset_audio_sound_quality">Qualidade de áudio</string>
+    <string name="miheadset_audio_sound_quality_summary">Seleccionar codec áudio Bluetooth</string>
+    <string name="miheadset_codec_sample_rate">Taxa de áudio Bluetooth</string>
+    <string name="miheadset_same_account_incall">Receber chamadas de todos os dispositivos sincronizados</string>
+    <string name="miheadset_same_account_incall_summary">Ligar auriculares a outros dispositivos sincronizados para receber chamadas</string>
+    <string name="miheadset_singleear_toast">Sem suporte para apenas um auricular</string>
+    <string name="miui_sos_around_photo_summary">Anexar %d foto de cada câmara ao envio da mensagem de texto para os seus contactos de emergência</string>
+    <string name="miui_sos_around_photo_title">Anexar fotos</string>
+    <string name="miui_sos_around_voice_summary">Anexar uma gravação de áudio de %d segundos ao envio da mensagem de texto para os seus contactos de emergência</string>
+    <string name="miui_sos_around_voice_title">Anexar um áudio de %d segundos</string>
+    <string name="miui_sos_call_fire">Bombeiros</string>
+    <string name="miui_sos_call_hospital">Ambulância</string>
+    <string name="miui_sos_call_police">Polícia</string>
+    <string name="miui_sos_emergency_title">SOS Emergência</string>
+    <string name="miui_sos_exit_emergency_title">Desligar</string>
+    <string name="miui_sos_exit_send_location_title">Partilhar localização com os contactos de emergência em tempo real</string>
+    <string name="miui_sos_hospital_card">Cartão médico</string>
+    <string name="miui_sos_hospital_card_important_info">As suas informações médicas critícas para os primeiros-socorros</string>
+    <string name="miui_sos_unknow_contract">Contacto desconhecido</string>
+    <string name="music_video_flow_across_device">Controlar e transferir áudios entre dispositivos</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Para poder utilizar o desbloqueio facial, adicione um rosto primeiro. Adicionar agora?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Adicionar rosto</string>
+    <string name="no_background_processes">Sem processos em segundo plano</string>
+    <string name="nrca_switch_title">Utilizar agregação de operadora 5G</string>
+    <string name="rename_words_reached_limit">O novo nome não pode ser maior que isto</string>
+    <string name="screen_refresh_unavailable_prompt">A alteração da taxa de actualização é apenas suportado pelo ecrã externo</string>
+    <string name="sidebar_setting">Definições da barra lateral</string>
+    <string name="sim_no_service">Sem serviço</string>
+    <string name="size_embedded">Janelas paralelas</string>
+    <string name="size_full">Ecrã inteiro</string>
+    <string name="sos_privacy_dialog_message_old_version">"O SOS Emergência permite partilhar a sua localização em tempo real e enviar mensagens de texto para os seus contatos de emergência.
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.
+Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
+• Aceder ao armazenamento
+Para guardar contactos de emergência
+• Aceder aos contactos
+Para marcar contactos como contactos de emergência
+• Enviar SMS
+Para enviar mensagens de texto para os contactos de emergência
+• Aceder à localização
+Para partilhar a localização com os contactos de emergência
+Se não concordar em conceder estas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode sempre escolher desligar esta funcionalidade.
+Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string>
+    <string name="standard_limit">Limite standard</string>
+    <string name="string_after_int_minute">Após %d minuto</string>
+    <string name="string_after_int_minutes">Após %d minutos</string>
+    <string name="string_after_int_seconds">Após %d segundos</string>
+    <string name="string_always">Sempre</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Baixa latência (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Média latência (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Alta latência (%1$d~%2$dms)</string>
+    <string name="string_float_inches">%f polegadas</string>
+    <string name="string_float_seconds">%f segundos</string>
+    <string name="string_immediately">Imediatamente</string>
+    <string name="string_int_hour">%d hora</string>
+    <string name="string_int_hours">%d horas</string>
+    <string name="string_int_minute">%d minuto</string>
+    <string name="string_int_minutes">%d minutos</string>
+    <string name="string_int_second">%d segundo</string>
+    <string name="string_int_seconds">%d segundos</string>
+    <string name="string_never">Nunca</string>
+    <string name="string_scale_float">Escala de animação %.1fx</string>
+    <string name="string_scale_int">Escala de animação %dx</string>
+    <string name="string_unlimited">Ilimitado</string>
+    <string name="subscreen_title">Ecrã traseiro</string>
+    <string name="time_format_entries_1">%d-hora 1:00 PM</string>
+    <string name="time_format_entries_2">%d-hora 13:00</string>
+    <string name="time_format_entries_3">Auto (baseado no idioma do sistema)</string>
+    <string name="unadapt_embedded">As janelas paralelas não estão disponíveis</string>
+    <string name="use_system_preference">Utilizar predefinição de sistema</string>
+    <string name="vonr_switch_title">Utilizar VoNR</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">%1$s não está encriptado</string>
+    <string name="wifi_type_11AC">Wi-Fi 5</string>
+    <string name="wifi_type_11AX">Wi-Fi 6</string>
+    <string name="wifi_type_11N">Wi-Fi 4</string>
+    <string name="double_g_v">Duplicação de G e V</string>
+    <string name="double_g_v_sumary">Duplicar os botões central no teclado ergonómico para uma experiência mais flexível</string>
+    <string name="felica_wallet">Carteira FeliCa</string>
+    <string name="felica_wallet_desc">Carteira FeliCa</string>
+    <string name="gxzw_quick_open_title">Atalhos</string>
+    <string name="imitate_real_keyboard">Teclado tradicional</string>
+    <string name="imitate_real_keyboard_summary">Conveniente quando o seu dispositivo está deitado numa superfície plana</string>
+    <string name="left_right_hand_switch">Esquerda e direita</string>
+    <string name="left_right_hand_switch_summary">Tornar as partes esquerda e direita do teclado trocarem de lugar com um simples toque</string>
+    <string name="mishow_disable_password_setting">Não é possível definir palavras-passe no modo demonstração</string>
+    <string name="miui_lab_drive_mode_desc_new">Utilizar controlos de voz</string>
+    <string name="miui_nfc_dialog_message">Não vai poder utilizar funcionalidades NFC que incluem Mi Pay, cartões de transportes e cartões chave se desligar o NFC. Desligar mesmo assim?</string>
+    <string name="miui_nfc_dialog_negative">Desligar</string>
+    <string name="miui_nfc_dialog_positive">Cancelar</string>
+    <string name="miui_nfc_dialog_title">A desligar NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, cartões de transportes, cartões chave</string>
+    <string name="nfc_image_preference_text_click">Verificar onde está a antena NFC neste dispositivo</string>
+    <string name="nfc_image_preference_text_noclick">"Colocar o seu dispositivo próximo dum terminal sem fios para utilizar Mi Pay, cartões de transportes, cartões chave e outras funcionalidades NFC. "</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">Não receber notificações acerca de etiquetas NFC não reconhecidas</string>
+    <string name="rx_link_speed">%1$dMbps</string>
+    <string name="screen_enhance_engine_memc_open">MEMC</string>
+    <string name="screen_enhance_engine_memc_title">MEMC</string>
+    <string name="se_in_ese">Elemento de segurança incorporado</string>
+    <string name="se_in_ese_desc">Elemento de segurança incorporado</string>
+    <string name="separate_keyboard">Teclado ergonómico</string>
+    <string name="sim_wallet">Carteira SIM</string>
+    <string name="sim_wallet_desc">Carteira SIM</string>
+    <string name="symbol_fast_input">Caracteres especiais</string>
+    <string name="symbol_fast_input_summary">Tocar no botão designado para manter-se no teclado com caracteres especiais e introduzir vários símbolos ao mesmo tempo</string>
+    <string name="tablet_screen_settings_title">Funcionalidades para tablets</string>
+    <string name="wallpaper_setting_title">Papel de parede</string>
 </resources>

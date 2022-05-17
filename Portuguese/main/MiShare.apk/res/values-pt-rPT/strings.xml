@@ -206,4 +206,6 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="xiaomi">Mi</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+    <string name="seize_content">Parar a partilha de ecrã para poder transferir itens. Parar partilha agora?</string>
+    <string name="seize_title">Parar a partilha de ecrã</string>
 </resources>

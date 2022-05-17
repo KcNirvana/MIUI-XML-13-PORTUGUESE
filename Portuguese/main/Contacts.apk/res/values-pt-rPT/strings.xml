@@ -1172,4 +1172,5 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="undefined">Not set</string>
     <string name="webview_btn_retry">Try again</string>
     <string name="webview_network_failure">"Couldn't connect to the network"</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Não é possível mostrar códigos QR em ecrã dividido</string>
 </resources>

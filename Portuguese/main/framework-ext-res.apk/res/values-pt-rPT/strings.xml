@@ -523,4 +523,6 @@
     <string name="vivo_phone">Vivo</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+    <string name="tip_for_phone_and_camera">Dobrar o seu dispositivo para utilizar os altifalantes ou a câmara frontal</string>
+    <string name="unreplace_freeform_count_max">Não é possível abrir mais janelas flutuantes</string>
 </resources>

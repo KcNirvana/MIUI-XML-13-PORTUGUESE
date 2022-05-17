@@ -1815,7 +1815,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
     <string name="gs_gamebox_slip">Puxar para abrir</string>
     <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
     <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
-    <string name="gs_performance_mode">Modo desempenho</string>
+    <string name="gs_performance_mode">Modo Desempenho</string>
     <string name="gs_performance_mode_detail">Optimizar o desempenho do sistema para jogos</string>
     <string name="gs_show_way">Orientação da página inicial</string>
     <string name="gs_show_way_horizontal">Horizontal</string>
@@ -2534,7 +2534,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pc_battery_history_usetime_title">Activo</string>
     <string name="pc_hidemode_normal">Equilibrado</string>
     <string name="pc_hidemode_performance">Desempenho</string>
-    <string name="pc_hidemode_performance_title">Modo desempenho</string>
+    <string name="pc_hidemode_performance_title">Modo Desempenho</string>
     <string name="pc_hidemode_power_save">Poupança</string>
     <string name="pc_install_manager">Instalação via USB</string>
     <string name="pc_main_activity_back">Voltar</string>
@@ -2547,10 +2547,10 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm até estar carregada</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante</string>
-    <string name="pc_performance_mode_dialog_summary">O seu dispositivo vai funcionar por %s no modo desempenho. O modo desempenho aumenta o consumo de bateria e pode levar a sobreaquecimento</string>
+    <string name="pc_performance_mode_dialog_summary">O seu dispositivo vai funcionar por %s no Modo Desempenho. O Modo Desempenho aumenta o consumo de bateria e pode levar a sobreaquecimento</string>
     <string name="pc_performance_mode_dialog_summary2">O desempenho do dispositivo vai melhorar. Isto vai aumentar o consumo de bateria e pode levar a sobreaquecimento. Ligar mesmo assim?</string>
-    <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
-    <string name="pc_performance_mode_noti_summary">O modo desempenho pode aumentar o consumo de bateria e levar a sobreaquecimento</string>
+    <string name="pc_performance_mode_dialog_title">Modo Desempenho</string>
+    <string name="pc_performance_mode_noti_summary">O Modo Desempenho pode aumentar o consumo de bateria e levar a sobreaquecimento</string>
     <string name="pc_performance_mode_noti_title">Desempenho melhorado</string>
     <string name="pc_search_keywords_battery">Bateria</string>
     <string name="pc_search_keywords_battery_save">Poupança de bateria</string>
@@ -4212,7 +4212,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
     <string name="text_button">Percebi</string>
     <string name="text_done">OK</string>
     <string name="text_security">Privacidade</string>
-    <string name="thermal_tips_message">Jogar no modo desempenho pode levar a sobreaquecimento</string>
+    <string name="thermal_tips_message">Jogar no Modo Desempenho pode levar a sobreaquecimento</string>
     <string name="thermal_tips_title">Atenção</string>
     <string name="third_application">Aplicações instaladas</string>
     <string name="third_desktop_dialog_content">Como os launchers de terceiros podem ter vários problemas, apenas os launchers verificados pela MIUI pode ser definidos como predefinidos</string>
@@ -4804,11 +4804,11 @@ Tente aumentar a resolução!"</string>
     <string name="gb_ngtb_fps">FPS</string>
     <string name="gb_ngtb_gpu">GPU</string>
     <string name="gb_performance_balance">Equilibrado</string>
-    <string name="gb_performance_balance_tips">"O modo equilibrado poupa bateria
+    <string name="gb_performance_balance_tips">"O Modo Equilibrado poupa bateria
 equanto baixa os limites da taxa de actualização e temperatura"</string>
     <string name="gb_performance_high">Desempenho</string>
     <string name="gb_performance_mode">Modo jogo</string>
-    <string name="gb_performance_tips">"O modo desempenho melhora o desempenho gráfico,
+    <string name="gb_performance_tips">"O Modo Desempenho melhora o desempenho gráfico,
 mas aumenta o consumo de bateria e permite que o dispositivo possa superaquecer"</string>
     <string name="gb_voice_changer_user_vip_expired">Expirado</string>
     <string name="gb_voice_changer_user_vip_remain_time">Data de expiração: %s</string>
@@ -5312,4 +5312,26 @@ Your device is %s faster now."</string>
     <string name="traffic_reminder_settings">Set data usage warning</string>
     <string name="turn_off_auto_correction">Turning off auto sync</string>
     <string name="unknown_operator">"You can call %2$s to confirm your plan's details with %1$s."</string>
+    <string name="gb_game_fill_desc">Content might be distorted in some cases</string>
+    <string name="gb_game_mode">Display mode</string>
+    <string name="gb_game_mode_change">Switch between display modes here</string>
+    <string name="gb_game_mode_change_btn_right">Restart</string>
+    <string name="gb_game_mode_change_message">Restart the game to apply changes now?</string>
+    <string name="gb_game_mode_change_title">Restart the game</string>
+    <string name="gb_game_mode_choose_game_area">Active area</string>
+    <string name="gb_game_mode_choose_title">Select display mode</string>
+    <string name="gb_game_mode_empty">No games here yet</string>
+    <string name="gb_game_mode_fill">Fill screen</string>
+    <string name="gb_game_mode_fill_type">Fill screen</string>
+    <string name="gb_game_mode_ratio">Original</string>
+    <string name="gb_game_mode_ratio_type">Original</string>
+    <string name="gb_game_mode_recommend">" (Recommended)"</string>
+    <string name="gb_game_mode_search">Search for apps</string>
+    <string name="gb_game_ratio_bottom">Bottom</string>
+    <string name="gb_game_ratio_center">Center</string>
+    <string name="gb_game_ratio_desc_h">"Active area won't be cropped, black areas might appear"</string>
+    <string name="gb_game_ratio_desc_v">"Active area won't be cropped, black areas might appear"</string>
+    <string name="gb_game_ratio_left">Left</string>
+    <string name="gb_game_ratio_right">Right</string>
+    <string name="gb_game_ratio_top">Top</string>
 </resources>

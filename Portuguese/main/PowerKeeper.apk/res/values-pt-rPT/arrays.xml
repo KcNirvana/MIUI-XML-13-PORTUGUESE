@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo predefinido</item>
-        <item>Modo desempenho actual</item>
+        <item>Modo Desempenho actual</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Dar prioridade à temperatura</item>

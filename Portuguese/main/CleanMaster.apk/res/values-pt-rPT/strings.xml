@@ -617,6 +617,7 @@
     <string name="start_clean">Iniciar</string>
     <string name="start_downloading_app">A iniciar transferência: %1$s</string>
     <string name="start_install">Instalar agora</string>
+    <string name="storage_system_log">Registos de sistema</string>
     <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
     <string name="summary_delete_cache">Limpar cache das aplicações seleccionadas?</string>
     <string name="summary_delete_large_file">Eliminar ficheiros seleccionados?</string>

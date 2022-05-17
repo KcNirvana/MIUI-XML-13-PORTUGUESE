@@ -2943,7 +2943,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_wireless_update_text">Actualizado</string>
     <string name="power_wireless_update_tv_text">A actualizar firmware… Não desligue o dispositivo</string>
     <string name="pp_anti_track_summary">Não permitir o rastreio de actividades</string>
-    <string name="pp_antitrack_detail">As aplicações pode rastrear as suas actividades pessoais através de identificadores, localização e outras informações pessoais. Rastrear as suas actividades em diferentes aplicações e sites permite a personalização de anúncios e conteúdo relevante para si</string>
+    <string name="pp_antitrack_detail">As aplicações podem rastrear as suas actividades pessoais através de identificadores, localização e outras informações pessoais. Rastrear as suas actividades em diferentes aplicações e sites permite a personalização de anúncios e conteúdo relevante para si</string>
     <string name="pp_app_behavior_record_detail">Registar todos os comportamentos da aplicação</string>
     <string name="pp_app_del_img_intercept_detail">Receber notificações quando as aplicações eliminarem itens da Galeria sem a sua permissão</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando as aplicações utilizarem permissões de alto risco</string>
@@ -2962,7 +2962,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pp_chain_start_is_prohibited">Restringir o início desencadeado</string>
     <string name="pp_chain_start_is_prohibited_detail">Controlar as situações em que as aplicações de terceiros iniciam outras aplicações e obtêm as suas informações pessoais sem o seu conhecimento</string>
     <string name="pp_clipboard">Área de transferências</string>
-    <string name="pp_comprehensive_privacy_management">Proteção de Privacidade abrangente</string>
+    <string name="pp_comprehensive_privacy_management">Protecção de Privacidade abrangente</string>
     <string name="pp_contacts_msg">Contactos</string>
     <string name="pp_data_rights_realization">Direitos de dados</string>
     <string name="pp_fuzzy_positioning">Baixar a precisão de posicionamento</string>
@@ -2983,8 +2983,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pp_one_app_two_use">Utilizar duas contas sem terminar sessão</string>
     <string name="pp_one_phone_two_space">Utilizar um dispositivo como dois</string>
     <string name="pp_only_allow_permission_during_this_run">Permitir que as aplicações utilizem as permissões uma vez</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">Pode permitir a utilização de permissões relacionadas com relacionadas com localização, gravação de áudio e contactos apenas uma vez. Estas permissões vão ser restringidas novamente após fechar a aplicação</string>
-    <string name="pp_operator_get_number">Aprovação para aceder ao número de telefone</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">Pode permitir a utilização de permissões relacionadas com localização, gravação de áudio e contactos apenas uma vez. Estas permissões vão ser restringidas novamente após fechar a aplicação</string>
+    <string name="pp_operator_get_number">Permissão para aceder ao número de telefone</string>
     <string name="pp_operator_get_number_summary">As aplicações vão pedir permissão sempre que necessitarem de aceder ao seu número de telefone para iniciar sessão</string>
     <string name="pp_optional_protection_function">Medidas de protecção opcionais</string>
     <string name="pp_permission_action_virtual_detail">Conceder permissões mas enviar ficheiros em branco em vez de informações pessoais</string>

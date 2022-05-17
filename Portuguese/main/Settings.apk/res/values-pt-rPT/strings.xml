@@ -3785,7 +3785,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="haptic_single_selection_02_content_description">Item seleccionado</string>
     <string name="haptic_switch_summary">Receber feedback táctil específico para os itens seleccionados quando o leitor de ecrã estiver ligado</string>
     <string name="haptic_switch_title">Feedback táctil</string>
-    <string name="haptic_text_edit_popup_13_content_description">Menu popup</string>
+    <string name="haptic_text_edit_popup_13_content_description">Menu pop-up</string>
     <string name="haptic_upper_right_menu_15_content_description">Menu suspenso</string>
     <string name="haptic_video_content_description">Vídeo de demonstração de feedback táctil</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajustar volume</string>

@@ -254,6 +254,7 @@ Verifique as suas definições de rede e tente novamente"</string>
     <string name="restore_from_cloud">Restaurar da cópia da Xiaomi Cloud</string>
     <string name="restore_from_mimover">Transferir do seu dispositivo antigo utilizando o Mi Mover</string>
     <string name="restore_from_this_device">Restaurar utilizando esta cópia</string>
+    <string name="restore_header_backup_size">Tamanho da cópia: %s</string>
     <string name="restore_home_failed">Não foi possível restaurar o ecrã inicial</string>
     <string name="restore_home_screen_apps">Restaurar da cópia da Xiaomi Cloud</string>
     <string name="restore_init_description">Iniciar restauro</string>

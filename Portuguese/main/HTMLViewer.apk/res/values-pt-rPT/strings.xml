@@ -10,7 +10,7 @@
     <string name="copyright">Direitos de autor</string>
     <string name="error_continue_via_browser">Detalhes</string>
     <string name="ime_privacy_policy">Escolher teclado</string>
-    <string name="instruction">Informações de segurançaImportant safety information</string>
+    <string name="instruction">Informações de segurança</string>
     <string name="legal_written_offer">Oferta escrita</string>
     <string name="license_host_unreachable">"Não foi possível ligar à rede. Para ver esta informação agora, 
 vá a %s noutro dispositivo ligado"</string>

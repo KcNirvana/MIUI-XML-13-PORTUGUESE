@@ -5781,9 +5781,9 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
     <string name="notification_animation_style">Efeitos especiais</string>
     <string name="notification_app_settings_button">Definições de notificações</string>
     <string name="notification_app_switch_label">Todas as notificações de %1$s</string>
-    <string name="notification_assistant_security_warning_summary">"O %1$s consegue ler todas as notificações, incluindo informações pessoais como nomes de contactos e o texto das mensagens recebidas. Também consegue modificar ou ignorar notificações, assim como accionar botões de acção que estas contenham.
+    <string name="notification_assistant_security_warning_summary">"As notificações melhoradas substituíram as notificações adaptáveis do Android no Android 12. Esta funcionalidade mostra acções e respostas sugeridas e organiza as suas notificações. 
 
-A aplicação também pode ligar ou desligar o modo Não incomodar e alterar definições relacionadas"</string>
+As notificações melhoradas podem aceder a todo o conteúdo das notificações, incluindo informações pessoais como nomes de contactos e mensagens. Esta funcionalidade também pode ignorar ou responder a notificações, como atender chamadas telefónicas e controlar o modo Não incomodar"</string>
     <string name="notification_assistant_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
     <string name="notification_assistant_summary">Obter acções sugeridas, repostas e mais</string>
     <string name="notification_assistant_title">Notificações adaptáveis</string>

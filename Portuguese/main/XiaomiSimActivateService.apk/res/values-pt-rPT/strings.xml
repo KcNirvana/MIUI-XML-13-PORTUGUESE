@@ -104,7 +104,6 @@ Introduza o número de telefone associado ao o seu novo cartão SIM para reactiv
     <string name="activate_progress_status_title">A activar \"%s\"…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">Não foi possível criar a Conta Mi</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Conta Mi criada com sucesso</string>
-    <string name="activate_sms_postfix">Mi</string>
     <string name="activate_status_desc_acquire_phone_number">A verificar número de telefone…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Ocorreu um erro no servidor enquanto verificava o número de telefone</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Não é possível verificar o número de telefone</string>

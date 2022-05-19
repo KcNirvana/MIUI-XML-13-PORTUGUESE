@@ -533,7 +533,7 @@
     <string name="app_predict_widget_name_2x4">Sugestões das aplicações</string>
     <string name="app_running_tip_dialog_negative">Cancelar</string>
     <string name="app_running_tip_dialog_positive">OK</string>
-    <string name="app_running_tip_dialog_text">Sair de %1$s para prevenir de executar em segundo plano. Isto vai acelerar o seu dispositivo e reduzir o consumo de bateria</string>
+    <string name="app_running_tip_dialog_text">A aplicação está a ser executada em segundo plano. Pode sair da aplicação para acelerar o seu dispositivo e reduzir o consumo de bateria</string>
     <string name="app_running_tip_dialog_title">Sair da aplicação</string>
     <string name="app_running_tip_uninstall">Desinstalar esta aplicação</string>
     <string name="app_settings_link">Definições adicionais na aplicação</string>

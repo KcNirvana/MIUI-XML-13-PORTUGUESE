@@ -659,7 +659,7 @@ Envie este código ao supervisor"</string>
     <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordei com &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições dos serviços eSurfing de verificação de contas&lt;/a>"</Data></string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Iniciar sessão com WeChat</string>
-    <string name="about_mi_account">Acerca de Conta Mi</string>
+    <string name="about_mi_account">Acerca da Conta Mi</string>
     <string name="find_new_apk_version">Actualização disponível</string>
     <string name="has_no_new_version">Actualizado</string>
     <string name="new_version">Nova versão</string>

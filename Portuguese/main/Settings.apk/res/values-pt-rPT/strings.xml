@@ -2670,6 +2670,8 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
     <string name="device_description_screen">Ecrã</string>
     <string name="device_details_title">Detalhes do dispositivo</string>
     <string name="device_display_layout_title">Funcionalidades especiais</string>
+    <string name="device_ime_keyboard_fold">Opções de teclado para dispositivos dobráveis</string>
+    <string name="device_ime_keyboard_pad">Opções de teclado para tablets</string>
     <string name="device_edit_title">Mudar o nome do dispositivo</string>
     <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
     <string name="device_id">ID de dispositivo para recomendações personalizadas</string>
@@ -3492,9 +3494,11 @@ To learn more, contact your creditor provider."</string>
     <string name="floating_window_switch_label_disable">Desactivar janelas flutuantes</string>
     <string name="fluency_mode">Animações de sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
+    <string name="fold_game_adaptation">Jogos</string>
     <string name="fold_rule_default">Recomendadas</string>
     <string name="fold_rule_important">Importantes</string>
     <string name="fold_rule_unimportant">Não importantes</string>
+    <string name="fold_screen_settings_title">Funcionalidades para ecrãs grandes</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_setting_weight_toast">O tipo de letra actual não suporta ajuste de espessura</string>
     <string name="font_settings_jump">Acessibilidade > Visão</string>

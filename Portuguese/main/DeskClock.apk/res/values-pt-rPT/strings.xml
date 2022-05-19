@@ -35,6 +35,7 @@
     <string name="alarmclock_empty_text">Sem alarmes</string>
     <string name="alarmclock_silent_hint">O alarme está no modo Silêncio</string>
     <string name="alert">Toque</string>
+    <string name="alert_page_desc">Premir e segurar e depois deslizar para cima para desligar o alarme</string>
     <string name="alert_ringtone">Toque do alarme</string>
     <string name="alert_vibrate_enable_summary">Vibrar quando o alarme desligar</string>
     <string name="alert_volume">Volume do toque</string>

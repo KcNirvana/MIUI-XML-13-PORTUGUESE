@@ -12,12 +12,20 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Sem interesse</item>
+        <item>Repetitivo</item>
+        <item>Qualidade baixa</item>
+        <item>Foto inapropriada</item>
+        <item>Informações fraudulentas</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Conteúdo explícito</item>
         <item>Falsidade</item>
         <item>Notícia antiga</item>
         <item>Visões extremistas</item>
         <item>Publicidade subliminar</item>
+        <item>Não gostei</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Anterior/Seguinte</item>
@@ -53,6 +61,23 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restringir</item>
+        <item>Perguntar</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restringir</item>
+        <item>Perguntar</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restringir</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Pesquisar</item>
+        <item>Notícias</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Eliminar</item>

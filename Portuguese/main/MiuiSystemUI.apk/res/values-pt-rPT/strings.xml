@@ -452,7 +452,7 @@ Tente novamente dentro de %d segundos"</string>
     <string name="bluetooth_active_no_battery_level">Activo</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
     <string name="bluetooth_battery_level_untethered">E: Bateria %1$s | D: Bateria %2$s</string>
-    <string name="bluetooth_connected">Ligado</string>
+    <string name="bluetooth_connected">Ligado%1$s</string>
     <string name="bluetooth_connected_battery_level">Ligado | Bateria %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Ligado (sem multimédia) | Bateria %1$s%2$s</string>

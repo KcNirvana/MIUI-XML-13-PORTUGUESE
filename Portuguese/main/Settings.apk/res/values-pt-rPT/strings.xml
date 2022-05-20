@@ -1262,7 +1262,7 @@ Não se ligou a %2$s antes"</string>
     <string name="bluetooth_connect_failed">Não foi possível ligar. Tente novamente</string>
     <string name="bluetooth_connect_settings">Definições da ligação Bluetooth</string>
     <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
-    <string name="bluetooth_connected">%1$s ligado</string>
+    <string name="bluetooth_connected">Ligado%1$s</string>
     <string name="bluetooth_connected_battery_level">Ligado | Bateria %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Ligado a vários dispositivos</string>
     <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia) %1$s</string>

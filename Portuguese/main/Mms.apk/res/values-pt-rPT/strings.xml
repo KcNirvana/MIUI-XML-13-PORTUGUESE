@@ -280,9 +280,9 @@ adicionados à lista de bloqueio"</string>
     <string name="favorite_at_time">Adicionado aos favs. em: %1s</string>
     <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para activar este serviço. Leia e concorde com os nossos &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Termos de Utilização&lt;/a&gt;&lt;/font&gt; e &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar esta funcionalidade</string>
+    <string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para activar este serviço. Leia e concorde com os nossos <font color="#B3000000"><a href="http://url1">Termos de Utilização</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de utilizar esta funcionalidade</string>
     <string name="feature_smart_sms">Mensagens Inteligentes</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes&lt;/b&gt;". As Mensagens Inteligentes são fornecidas em parte por Yulore. Leia e concorde com a "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar esta funcionalidade</string>
+    <string name="feature_smart_sms_summary">&lt;b&gt;As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes&lt;/b&gt;". As Mensagens Inteligentes são fornecidas em parte por Yulore. Leia e concorde com a "<font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> antes de utilizar esta funcionalidade</string>
     <string name="festival_sms_loading">A carregar…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
@@ -305,7 +305,7 @@ adicionados à lista de bloqueio"</string>
     <string name="ft_cfs_dialog_title">Transferência alternativa de ficheiros</string>
     <string name="go_close">Definições</string>
     <string name="go_to">"Abrir "</string>
-    <string name="google_message_promo_content">Xiaomi recomenda a actualização para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Saber mais&lt;/a&gt;&lt;/font&gt;</string>
+    <string name="google_message_promo_content">A Xiaomi recomenda a actualização para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Saber mais</a></font></string>
     <string name="google_message_promo_title">Actualizar a sua aplicação de mensagens</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
     <string name="group_member_is_composing">A escrever…</string>

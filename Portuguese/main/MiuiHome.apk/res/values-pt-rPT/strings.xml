@@ -660,7 +660,7 @@
     <string name="branch_deepview_button">Obter a aplicação</string>
     <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
     <string name="branch_feature_description">Além de aplicações, o Localizador rápido pode encontrar conteúdo dentro das aplicações e itens online</string>
-    <string name="branch_guide_attention">Para utilizar a pesquisa melhorada é necessário partilhar as suas pesquisas, ID Google Ads ID e endereço IP com a Branch Metrics Inc. Leia e concorde com <a href="http://url1"><font color="#B3000000">Termos e Condições de Branch Discoverys</font></a> e <a href="http://url2"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
+    <string name="branch_guide_attention">Para utilizar a pesquisa melhorada é necessário partilhar as suas pesquisas, ID Google Ads ID e endereço IP com a Branch Metrics Inc. Leia e concorde com <font color="#B3000000"><a href="http://url1">Termos e Condições de Branch Discoverys</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
     <string name="branch_guide_description_one">Vamos pôr todas as suas aplicações na Gaveta de aplicações. O seu ecrã inicial vai parecer mais bonito e organizado</string>
     <string name="branch_guide_description_three">Com a pesquisa, vai poder encontrar tudo o que precisar num piscar de olhos!</string>
     <string name="branch_guide_description_two">A Gaveta de aplicações categoriza as aplicações automaticamente</string>
@@ -675,6 +675,7 @@
     <string name="branch_key">Branch Key</string>
     <string name="branch_new_feature">Nova funcionalidade</string>
     <string name="branch_privacy_policy">Política de Privacidade</string>
+    <string name="branch_search_guide_privacy">"This service is powered by Branch Metrics Inc. Your location info, search queries, and Google Ads ID will be shared with Branch. Read and agree to Branch's "<font color="#B3000000"><a href="http://url1">Terms and Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this service.</string>
     <string name="branch_terms_condition">Termos e Condições</string>
     <string name="branch_tip_title">Com o Localizador rápido, pode encontrar tudo o que precisa num piscar de olhos</string>
     <string name="branch_ui_version">Versão de Branch</string>
@@ -716,12 +717,12 @@
     <string name="recnets_worldcirculate_display_default_info">Tocar para voltar aqui</string>
     <string name="request_permission_msg">POCO Launcher necessita de permissões para ter acesso a todas as funcionalidades</string>
     <string name="request_permission_title">Permissões necessárias</string>
-    <string name="service_double_attention">A pesquisa melhorada é fornecida por Branch Metrics Inc. Para funcionar, é necessário partilhar as suas pesquisas e endereço IP com a Branch Metrics Inc. Leia e concorde com <a href="http://url1"><font color="#B3000000">Termos e Condições de Branch Discoverys</font></a> e <a href="http://url2"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
+    <string name="service_double_attention">A pesquisa melhorada é fornecida por Branch Metrics Inc. Para funcionar, é necessário partilhar as suas pesquisas e endereço IP com a Branch Metrics Inc. Leia e concorde com <font color="#B3000000"><a href="http://url1">Termos e Condições de Branch Discoverys</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
     <string name="small_window">Janelas flutuantes</string>
     <string name="suggestions">Sugestões</string>
     <string name="switch_on_button">Ligar</string>
     <string name="term_of_service">Termos e Condições</string>
-    <string name="terms_of_services_one">Bem-vindo à Gaveta de aplicações e Localizador rápido. O Localizador rápido permite que encontre aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Leia e concorede com "<a href="http://url1"><font color="#B3000000">Política de Privacidade</font></a> da Xiaomi antes de utilizar estas funcionalidades</string>
+    <string name="terms_of_services_one">Bem-vindo à Gaveta de aplicações e Localizador rápido. O Localizador rápido permite que encontre aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Leia e concorede com "<font color="#B3000000"><a href="http://url1">Política de Privacidade</a></font> da Xiaomi antes de utilizar estas funcionalidades</string>
     <string name="terms_of_services_three">You can turn this feature off in the Settings.</string>
-    <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <a href="http://url1"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a>. Leia e concorde com <a href="http://url2"><font color="#B3000000">Termos e Condições de Branch Discovery</font></a> e <a href="http://url3"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
+    <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <font color="#B3000000"><a href="http://url1">Política de Privacidade de Branch Discovery</a></font>. Leia e concorde com <font color="#B3000000"><a href="http://url2">Termos e Condições de Branch Discovery</a></font> e <font color="#B3000000"><a href="http://url3">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
 </resources>

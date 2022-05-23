@@ -118,7 +118,7 @@
     <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
     <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
     <string name="find_device_error_server">Erro de servidor</string>
-    <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
+    <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
     <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
     <string name="find_device_permissions_footer">Tocar em \"Conceder\" para conceder as permissões seleccionadas</string>
     <string name="find_device_permissions_header">Bem-vindo a Localizar Dispositivo! Pode utilizar esta aplicação para localizar, rastrear e bloquear o seu dispositivo quando estiver perdido. Localizar Dispositivo necessita das seguintes permissões:</string>
@@ -682,12 +682,12 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="share_sdk_normal_invite_success_title">Invitation sent</string>
     <string name="share_sdk_operation_success">Done</string>
     <string name="share_sdk_permission_checked_error">Select at least 1 item</string>
-    <string name="share_sdk_pref_category_family_detail">Details</string>
-    <string name="share_sdk_pref_category_member_title">Select members</string>
-    <string name="share_sdk_pref_category_search_local_title">Contacts</string>
-    <string name="share_sdk_pref_category_title_scan_qr_code">Scan QR code</string>
-    <string name="share_sdk_pref_family_detail_title">View family group details</string>
-    <string name="share_sdk_privacy_link_description">Read and agree to <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Mi Account Privacy Policy</u></a> before using this service.</string>
+    <string name="share_sdk_pref_category_family_detail">Detalhes</string>
+    <string name="share_sdk_pref_category_member_title">Seleccionar membros</string>
+    <string name="share_sdk_pref_category_search_local_title">Contactos</string>
+    <string name="share_sdk_pref_category_title_scan_qr_code">Digitalizar código QR</string>
+    <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo de família</string>
+    <string name="share_sdk_privacy_link_description">Ler e concordar com <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidade da Conta Mi</a></u> antes de utilizar este serviço</string>
     <string name="share_sdk_qr_code_description">"%1$s's invitation"</string>
     <string name="share_sdk_qr_code_expire_time">QR code validity period: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Too many outgoing invitations. Try again in 24 hours.</string>

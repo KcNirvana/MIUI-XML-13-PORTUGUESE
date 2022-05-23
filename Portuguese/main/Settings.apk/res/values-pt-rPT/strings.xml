@@ -83,7 +83,7 @@ Nem todas as aplicações suportam esta definição"</string>
     <string name="accessibility_dialog_button_deny">Negar</string>
     <string name="accessibility_dialog_button_stop">Parar</string>
     <string name="accessibility_disable_animations">Remover animações</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ajustar o modo como as cores são mostradas no dispositivo. Isto pode ser útil quando quiser:<ol><li><br/><br/> Ver cores mais precisas</li><li> Remover cores para o ajudar a focar</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">A inversão de cores escurece os ecrãs claros.&lt;br/>&lt;br/> Nota: &lt;ol> &lt;li> A inversão de cores também torna os ecrãs escuros claros.&lt;/li> &lt;li> As cores são alteradas no conteúdo multimédia e nas imagens.&lt;/li> &lt;li> Pode utilizar o tema escuro para apresentar um fundo escuro. O tema escuro funciona com aplicações suportadas. A inversão de cores funciona em todas as aplicações&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
@@ -370,7 +370,7 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
     <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
     <string name="add_fingerprint_done_title">Feito!</string>
     <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para que o sensor grave os limites da sua impressão digital</string>
-    <string name="add_fingerprint_edge_instruction_title">Mover o dedo ligeiramente</string>
+    <string name="add_fingerprint_edge_instruction_title">Ajustar o seu dedo para capturar as laterais da impressão digital</string>
     <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital. Tente novamente</string>
     <string name="add_fingerprint_finished_button_text">Concluído</string>
     <string name="add_fingerprint_instruction_msg">Utilize a sua impressão digital para desbloquear o seu dispositivo e concluir pagamentos</string>
@@ -3674,6 +3674,11 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="gmscore_settings_title">Serviços Google básicos</string>
     <string name="go_to_sleep">Desligar ecrã</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Cancelar</string>
+    <string name="google_assistant_guide_message">Pode premir e segurar o botão Ligar/Desligar por %s segundos para começar a falar com o assistente Google. Definir este atalho agora?</string>
+    <string name="google_assistant_guide_ok">Definir</string>
+    <string name="google_assistant_guide_tip">*Premir e segurar o botão Ligar/Desligar por %s segundos para abrir o menu de desligar</string>
+    <string name="google_assistant_guide_title">Assistente Google</string>
     <string name="google_assistant_label">Assistente Google</string>
     <string name="google_backup_enable">Ligar cópias</string>
     <string name="google_backup_section_title">Cópias Google</string>
@@ -4799,8 +4804,8 @@ para o Segundo espaço"</string>
     <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>
     <string name="lte_ram_dump_on">Activar o esvaziamento da memória RAM LTE</string>
     <string name="macaddr_label">Endereço MAC:</string>
-    <string name="magic_list_empty_text">Sem aplicações compatíveis com esta funcionalidade</string>
-    <string name="magic_window_name">Optimizar aplicações para o modo paisagem</string>
+    <string name="magic_list_empty_text_pad">Sem aplicações compatíveis com esta funcionalidade</string>
+    <string name="magic_window_name_pad">Optimização para o modo paisagem</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 
@@ -5208,6 +5213,8 @@ Não pode reverter esta acção!"</string>
     <string name="miui_allow_light">LED de notificações</string>
     <string name="miui_allow_music">Multimédia</string>
     <string name="miui_allow_vibrate">Vibrações</string>
+    <string name="miui_bubbles_notification">Notificações de bolhas</string>
+    <string name="miui_bubbles_notification_status_opened">Ligado</string>
     <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
     <string name="miui_experience_optimization">Ligar optimização MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
@@ -10561,7 +10568,7 @@ Para trocar entre funcionalidades, deslize para cima com 3 dedos e segure"</stri
     <string name="adapt_embedded">Janelas paralelas disponíveis</string>
     <string name="animation_off">Animações desligadas</string>
     <string name="application_mode_empty_text">Sem aplicações</string>
-    <string name="application_mode_name">Modo de visualização da aplicação</string>
+    <string name="application_mode_name">Layouts da aplicação</string>
     <string name="at_most_one_process">No máximo %d processos</string>
     <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Utilizar protocolos P2P de alta velocidade para transferências Bluetooth</string>

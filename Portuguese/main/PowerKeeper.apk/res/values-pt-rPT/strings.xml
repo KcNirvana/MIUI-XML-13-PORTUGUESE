@@ -119,9 +119,9 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
     <string name="screen_on_current">Screen on DC</string>
     <string name="search_result_text">Não foram encontradas aplicações</string>
     <string name="show_system_app">Mostrar aplicações de sistema</string>
-    <string name="sleep_config_enhance_description">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
-    <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
-    <string name="sleep_config_enhance_description_pad">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
+    <string name="sleep_config_enhance_description">Para poupar bateria, a MIUI vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações enquanto estiver a dormir à noite</string>
+    <string name="sleep_config_enhance_description_non_nfc">Para poupar bateria, a MIUI vai fechar aplicações em segundo plano, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações enquanto estiver a dormir à noite</string>
+    <string name="sleep_config_enhance_description_pad">Para poupar bateria, a MIUI vai fechar aplicações em segundo plano, Bluetooth e utilização de Wi-Fi e não vai ligar o ecrã para notificações enquanto estiver a dormir à noite</string>
     <string name="sleep_config_enhance_title">Modo de suspensão</string>
     <string name="sleepmode_disclaimer_agree">Concordar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>

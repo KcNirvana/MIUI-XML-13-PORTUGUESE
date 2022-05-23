@@ -5,8 +5,8 @@
         <item quantity="one">Eliminar %d transferências?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%s transferências eliminadas</item>
-        <item quantity="one">%s transferência eliminada</item>
+        <item quantity="other">%1$d transferências eliminadas</item>
+        <item quantity="one">%1$d transferência eliminada</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dias</item>

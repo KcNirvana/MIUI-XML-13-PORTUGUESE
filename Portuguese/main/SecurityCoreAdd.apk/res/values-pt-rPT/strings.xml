@@ -15,6 +15,7 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
     <string name="air_space_exit">Sair do espaço</string>
     <string name="air_space_setting">Definições do espaço</string>
     <string name="airspace_users_full">Não foi possível criar mais um Espaço de trabalho</string>
+    <string name="alwaysUsePrompt">Memorizar preferência</string>
     <string name="appData">Aplicações instaladas</string>
     <string name="app_name">Segurança</string>
     <string name="back">Voltar</string>
@@ -462,6 +463,7 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
     <string name="xspace_guide_description">"Todas as contas
 merecem a sua própria aplicação"</string>
     <string name="xspace_guide_title">Experimentar aplicações clonadas</string>
+    <string name="xspace_head">Aplicação clonada</string>
     <string name="xspace_header">Aplicações clonadas</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Aplicação clonada criada com sucesso. &lt;/font>&lt;font color=#0D84FF>Abrir agora&lt;/font></string>
@@ -477,6 +479,7 @@ merecem a sua própria aplicação"</string>
     <string name="xspace_notification_error">Inicie sessão na aplicação clonada WeChat e tente novamente</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Eliminar aplicações clonadas</string>
+    <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
     <string name="xspace_setting_label">Definições das aplic. clonadas</string>
     <string name="xspace_settins">Definir</string>
     <string name="xspace_start">Criar</string>

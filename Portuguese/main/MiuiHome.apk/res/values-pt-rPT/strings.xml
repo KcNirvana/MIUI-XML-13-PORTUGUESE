@@ -22,6 +22,7 @@
     <string name="activity_not_unlocked">Aguarde até o dispositivo estar totalmente reiniciado antes de abrir aplicações</string>
     <string name="add_custom_category">Personalizado</string>
     <string name="add_screen">Adicionar ecrã</string>
+    <string name="add_to_workspace">Adicionar ao ecrã inicial</string>
     <string name="added_all_category">Adicionadas todas as aplicações com sucesso</string>
     <string name="alexa_notification_add">Adicionar</string>
     <string name="alexa_notification_cancel">Agora não</string>
@@ -241,7 +242,9 @@
     <string name="failed_to_delete_temporary">Não é possível remover</string>
     <string name="failed_to_drop">Não é possível mover</string>
     <string name="failed_to_drop_widget_invalid">Widget inválido</string>
-    <string name="failed_to_load_image">"Não é possível carregar imagem"</string>
+    <string name="failed_to_load_image">Não é possível carregar imagem</string>
+    <string name="fold_pair_install_shortcut_long_click">Premir e segurar para adicionar ao ecrã inicial</string>
+    <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
     <string name="frame_load_failed">Não é possível carregar o fotograma</string>
     <string name="free_style_apps_title">Escolher aplicação</string>
@@ -433,6 +436,7 @@
     <string name="network_error">Não foi possível ligar à rede. Tente novamente</string>
     <string name="no_detail_page">Sem página de detalhes</string>
     <string name="no_space_toast">Sem espaço</string>
+    <string name="no_space_toast_fold">Sem espaço</string>
     <string name="no_space_toast_when_click_widget">Sem espaço nesta página. Tente uma página diferente</string>
     <string name="normal_wallpaper">Papel de parede</string>
     <string name="notification_installed">Instalado com sucesso</string>
@@ -622,6 +626,7 @@
     <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
+    <string name="upgrade_remove_small_window_in_recents">Pode utilizar a barra lateral para abrir aplicações em janelas flutuantes</string>
     <string name="unstable_dialog_message">Este dispositivo está no programa Android 12 Developer Preview. Isto permite que os programadores de Android experimentem versões pre-release do Android 12. Esta versão pode conter erros e defeitos</string>
     <string name="unstable_dialog_title">Programa Android Developer Preview</string>
     <string name="wallpaper">Papel de parede</string>
@@ -712,6 +717,7 @@
     <string name="quick_finder_feature_description">O Localizador rápido permite encontrar aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Pode desligar esta funcionalidade nas Definições</string>
     <string name="quick_finder_tip_title">Encontre tudo o que precisa rapidamente</string>
     <string name="recents_worldcirculate_text">Solte para seleccionar</string>
+    <string name="recnets_relay_device_info">De %s</string>
     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Esta aplicação está a funcionar em %s</string>
     <string name="recnets_worldcirculate_display_default_info">Tocar para voltar aqui</string>

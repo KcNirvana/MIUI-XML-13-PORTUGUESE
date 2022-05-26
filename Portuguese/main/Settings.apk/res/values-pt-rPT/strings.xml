@@ -3171,7 +3171,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
     <string name="enterprise_privacy_enterprise_set_default_apps">Aplicações predefinidas</string>
     <string name="enterprise_privacy_exposure_category">Tipos de informação que a sua organização pode ver</string>
     <string name="enterprise_privacy_exposure_changes_category">Alterações efectuadas pelo administrador da sua organização</string>
-    <string name="enterprise_privacy_failed_password_wipe_device">Tentativas de palavra-passe falhadas antes da eliminação de de todos os dados do dispositivoo</string>
+    <string name="enterprise_privacy_failed_password_wipe_device">Tentativas de palavra-passe falhadas antes da eliminação de de todos os dados do dispositivo</string>
     <string name="enterprise_privacy_failed_password_wipe_work">Tentativas de palavra-passe falhadas antes da eliminação de todos os dados do perfil de trabalho</string>
     <string name="enterprise_privacy_global_http_proxy">Proxy HTTP global definido</string>
     <string name="enterprise_privacy_header">"Para fornecer acesso aos seus dados de trabalho, a sua organização pode alterar definições e instalar software no seu dispositivo.
@@ -3494,11 +3494,14 @@ To learn more, contact your creditor provider."</string>
     <string name="floating_window_switch_label_disable">Desactivar janelas flutuantes</string>
     <string name="fluency_mode">Animações de sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
-    <string name="fold_game_adaptation">Jogos</string>
+    <string name="fold_application_mode_name">Layouts das aplicações</string>
+    <string name="fold_game_adaptation">Layouts dos jogos</string>
     <string name="fold_rule_default">Recomendadas</string>
     <string name="fold_rule_important">Importantes</string>
     <string name="fold_rule_unimportant">Não importantes</string>
-    <string name="fold_screen_settings_title">Funcionalidades para ecrãs grandes</string>
+    <string name="fold_screen_application_adaptation_title">Layouts personalizados para dispositivos dobráveis</string>
+    <string name="fold_screen_settings_title">Funcionalidades para dispositivos dobráveis</string>
+    <string name="fold_screen_special_function_title">Funcionalidades para dispositivos dobráveis</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_setting_weight_toast">O tipo de letra actual não suporta ajuste de espessura</string>
     <string name="font_settings_jump">Acessibilidade > Visão</string>
@@ -5927,6 +5930,7 @@ As notificações melhoradas podem aceder a todo o conteúdo das notificações,
     <string name="notifications_silenced">Silenciadas</string>
     <string name="notifications_title">Notificações</string>
     <string name="now">Reiniciar agora</string>
+    <string name="nrca_need_reset">Reiniciar para aplicar alterações</string>
     <string name="nsd_quick_toggle_summary">Permitir que aplicações noutros dispositivos descubram aplicações neste dispositivo</string>
     <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
     <string name="number_of_device_admins_none">Sem aplicações activas</string>
@@ -8530,6 +8534,9 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
     <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
     <string name="system_update_settings_list_item_title">Actualizar sistema</string>
     <string name="tab_text">Tab</string>
+    <string name="tablet_screen_application_adaptation_title">Layouts personalizados para tablets</string>
+    <string name="tablet_screen_settings_title">Funcionalidades para tablets</string>
+    <string name="tablet_screen_special_function_title">Funcionalidades para tablets dobráveis</string>
     <string name="take_call_on_title">Atender chamada em</string>
     <string name="talkback_watermark_enable">"Marca d'água TalkBack"</string>
     <string name="tap_a_network_to_connect">Tap a network to connect</string>
@@ -10738,6 +10745,5 @@ Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string
     <string name="sim_wallet_desc">Carteira SIM</string>
     <string name="symbol_fast_input">Caracteres especiais</string>
     <string name="symbol_fast_input_summary">Tocar no botão designado para manter-se no teclado com caracteres especiais e introduzir vários símbolos ao mesmo tempo</string>
-    <string name="tablet_screen_settings_title">Funcionalidades para tablets</string>
-    <string name="wallpaper_setting_title">Papel de parede</string>
+    <string name="wallpaper_setting_title">Papéis de parede para dispositivos dobráveis</string>
 </resources>

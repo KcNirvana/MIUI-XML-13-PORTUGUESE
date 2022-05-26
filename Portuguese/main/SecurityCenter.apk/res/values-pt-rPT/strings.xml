@@ -5317,12 +5317,15 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_game_mode_change">Trocar os modos de visualização</string>
     <string name="gb_game_mode_change_btn_right">Reiniciar</string>
     <string name="gb_game_mode_change_message">Reiniciar o jogo para aplicar alterações agora?</string>
+    <string name="gb_game_mode_change_new">Trocar layouts</string>
     <string name="gb_game_mode_change_title">Reiniciar o jogo</string>
     <string name="gb_game_mode_choose_game_area">Área activa</string>
     <string name="gb_game_mode_choose_title">Seleccionar o modo de visualização</string>
+    <string name="gb_game_mode_choose_title_new">Seleccionar layout</string>
     <string name="gb_game_mode_empty">Sem jogos</string>
     <string name="gb_game_mode_fill">Preencher ecrã</string>
     <string name="gb_game_mode_fill_type">Preencher ecrã</string>
+    <string name="gb_game_mode_new">Layouts de jogos</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
     <string name="gb_game_mode_recommend">" (recomendado)"</string>
@@ -5334,4 +5337,14 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_game_ratio_left">Esquerda</string>
     <string name="gb_game_ratio_right">Direita</string>
     <string name="gb_game_ratio_top">Topo</string>
+    <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
+    <string name="gb_predownload_dialog_checked">Não mostrar novamente</string>
+    <string name="gb_predownload_dialog_confirm">Ligar</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Conteúdo actualizado para este jogo pode ser transferido automaticamente após ligar ao Wi-Fi e desligar o ecrã. Vai poder utilizar a nova versão assim que for disponibilizada.&lt;br>&lt;br>Leia e concorde com &lt;a href=\"%1$s\">Declaração de Actualização em segundo plano&lt;/a> antes de utilizar esta funcionalidade"</Data></string>
+    <string name="gb_predownload_dialog_title">Actualizações em segundo plano disponíveis agora</string>
+    <string name="gb_predownload_message">Actualizar King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto não estiver a utilizar o dispositivo</string>
+    <string name="gb_predownload_noti_message">%2$1.2f GB de conteúdo actualizado foi transferido. Vai poder utilizar assim que a nova versão for disponibilizada</string>
+    <string name="gb_predownload_noti_title">%s actualizado em segundo plano</string>
+    <string name="gb_predownload_title">Actualizações em segundo plano</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s restantes</string>
 </resources>

@@ -62,6 +62,7 @@
     <string name="app_name">Conta Mi</string>
     <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
     <string name="authorize_title">Autorização</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"O preenchimento automático não é suportado em versões com marca d'água"</string>
     <string name="bind_facebook">Associar a sua conta Facebook</string>
     <string name="bind_google">Associar a sua conta Google</string>
     <string name="bind_safe_phone_msg">Adicionar o seu número de telefone para poder iniciar a sessão com a sua Conta Mi na próxima vez</string>

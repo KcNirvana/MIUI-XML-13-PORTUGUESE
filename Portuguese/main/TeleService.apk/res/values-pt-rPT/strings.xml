@@ -1021,6 +1021,7 @@ Contacte a sua operadora"</string>
     <string name="nr_usaged_network_usaged">Dados de hoje</string>
     <string name="nr_usaged_operator">Operadora</string>
     <string name="nr_usaged_used_time">Duração da utilização</string>
+    <string name="nrca_need_reset">Reiniciar para aplicar alterações</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números de emergência</string>
     <string name="nw_subset_unlock_failed">O pedido de desbloqueio do subconjunto do cartão SIM falhou</string>

@@ -15,8 +15,10 @@
     <string name="adjustment_area">Ajustar</string>
     <string name="agree_app_use">Digitalizar códigos QR e outras imagens (pode ser necessário acesso à localização)</string>
     <string name="agree_btn">Concordar</string>
-    <string name="agree_camera_permission">Para tirar fotos e gravar vídeos</string>
-    <string name="agree_storage_permission">Para aceder a fotos e ficheiros armazenados no seu dispositivo</string>
+    <string name="agree_camera_permission">Para utilizar a câmara para digitalizar itens</string>
+    <string name="agree_camera_permission_message">Para utilizar a câmara para digitalizar itens</string>
+    <string name="agree_storage_permission">Para aceder e importar imagens da Galeria e guardar ficheiros</string>
+    <string name="agree_storage_permission_message">Para aceder e importar imagens da Galeria e guardar ficheiros</string>
     <string name="always">Sempre</string>
     <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
     <string name="app_description_content">O Digitalizador fornece digitalização de códigos QR, digitalização para traduções e reconhecimento de cartões comerciais. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
@@ -79,6 +81,7 @@
     <string name="code_always">Memorizar preferência</string>
     <string name="code_determine">OK</string>
     <string name="code_result">Resultados</string>
+    <string name="come_back_picture">Voltar</string>
     <string name="common_retake_picture">Tirar novamente</string>
     <string name="common_retry">Tentar novamente</string>
     <string name="common_save">Guardar</string>
@@ -482,7 +485,9 @@
     <string name="title_desktop_uninstall">Desinstalar Digitalizador?</string>
     <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>
     <string name="to_pay">Concluir pagamento</string>
-    <string name="toinstall">Download</string>
+    <string name="toast_net_2g">Rede fraca. Altere a rede e tente novamente</string>
+    <string name="toast_net_timeout">Pedido expirado. Tente novamente mais tarde</string>
+    <string name="toinstall">Transferir</string>
     <string name="translate_auto_lock">Bloquear tradução</string>
     <string name="translate_auto_unlock">Desbloquear tradução</string>
     <string name="translate_copy_success">Copiado com sucesso</string>

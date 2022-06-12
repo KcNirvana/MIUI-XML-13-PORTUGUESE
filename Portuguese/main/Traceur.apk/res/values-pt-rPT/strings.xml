@@ -113,7 +113,7 @@
     <string name="bluetooth_pairing">Pairing…</string>
     <string name="bluetooth_pairing_accept">Pair</string>
     <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
-    <string name="bluetooth_pairing_decline">Cancel</string>
+    <string name="bluetooth_pairing_decline">Cancelar</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
     <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -179,7 +179,7 @@ Selection"</string>
     <string name="cached_apps_freezer_disabled">Disabled</string>
     <string name="cached_apps_freezer_enabled">Enabled</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Your device must be rebooted for this change to apply. Reboot now or cancel.</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancelar</string>
     <string name="categories">Categories</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Work</string>

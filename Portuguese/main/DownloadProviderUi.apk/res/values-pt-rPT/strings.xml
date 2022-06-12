@@ -503,7 +503,7 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
     <string name="speed_result_finish">Done</string>
     <string name="speed_result_restart">Test again</string>
     <string name="speed_start">Test</string>
-    <string name="speed_stop">Cancel</string>
+    <string name="speed_stop">Cancelar</string>
     <string name="speed_tip_netwrok_fail">A network error occurred, try again</string>
     <string name="speed_tip_netwrok_timeout">Connection timed out, try again</string>
     <string name="speed_tip_no_netwrok">"Couldn't connect to the network. Connect and try again."</string>

@@ -653,7 +653,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="share_sdk_contact_invite_result_category_send_fail_summary">"The following invitations weren't delivered due to incorrect phone numbers"</string>
     <string name="share_sdk_contact_invite_result_category_send_fail_title">Not delivered</string>
     <string name="share_sdk_contact_invite_result_category_title_send_success">Delivered or accepted</string>
-    <string name="share_sdk_dialog_cancel">Cancel</string>
+    <string name="share_sdk_dialog_cancel">Cancelar</string>
     <string name="share_sdk_dialog_confirm">OK</string>
     <string name="share_sdk_error_code_error_and_msg">Error %1$d (%2$s)</string>
     <string name="share_sdk_error_current_invitation_invalid">Invitation expired</string>

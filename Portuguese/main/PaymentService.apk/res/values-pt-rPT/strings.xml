@@ -531,7 +531,7 @@ Send this code to the supervisor."</string>
     <string name="just_a_second">Just a sec…</string>
     <string name="loading">Just a sec…</string>
     <string name="logout_account">Sign out</string>
-    <string name="mibi_account_disable_dialog_btn_negative">Cancel</string>
+    <string name="mibi_account_disable_dialog_btn_negative">Cancelar</string>
     <string name="mibi_account_disable_dialog_btn_positive">Turn on</string>
     <string name="mibi_account_disable_dialog_msg">To use MiCoin, you need to log in your Xiaomi account. Please enable the Xiaomi account service in Settings-Application Management.</string>
     <string name="mibi_account_disable_dialog_title">Notice</string>
@@ -582,7 +582,7 @@ Send this code to the supervisor."</string>
     <string name="mibi_giftcard_used">Redeemed</string>
     <string name="mibi_giftcard_vaild_util">vaild util %1$s</string>
     <string name="mibi_giftcard_valid_time_last">Expires in %1$s days</string>
-    <string name="mibi_incognito_mode_dialog_cancel">Cancel</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Cancelar</string>
     <string name="mibi_incognito_mode_dialog_summary_camera">"Can't use camera now. Turn off Incognito mode in the Settings to be able to use camera."</string>
     <string name="mibi_incognito_mode_dialog_title">"You're incognito"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Settings</string>

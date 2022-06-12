@@ -174,7 +174,7 @@
     <string name="account_management_disclaimer_header">Your account is managed</string>
     <string name="account_management_disclaimer_subheader">Your IT admin uses mobile device management to enforce security policies</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel</string>
+    <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancelar</string>
     <string name="cancel_setup_and_factory_reset_dialog_msg">Ending this setup will factory reset your device and take you back to the first screen.</string>
     <string name="cancel_setup_and_factory_reset_dialog_ok">Reset device</string>
     <string name="cancel_setup_and_factory_reset_dialog_title">End setup and factory reset?</string>

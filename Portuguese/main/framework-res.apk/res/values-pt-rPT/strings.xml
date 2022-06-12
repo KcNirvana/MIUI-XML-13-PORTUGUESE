@@ -297,7 +297,7 @@ A poupança de bateria desliga-se automaticamente quando o dispositivo está a c
     <string name="biometric_error_generic">Error authenticating</string>
     <string name="biometric_error_hw_unavailable">Biometric hardware unavailable</string>
     <string name="biometric_error_user_canceled">Authentication canceled</string>
-    <string name="biometric_not_recognized">Not recognized</string>
+    <string name="biometric_not_recognized">Não reconhecida</string>
     <string name="biometric_or_screen_lock_app_setting_name">Use biometrics or screen lock</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Use your biometric or screen lock to continue</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
@@ -642,7 +642,7 @@ utilizando %s"</string>
     <string name="fp_enrollment_powerbutton_intent_message">"While setting up your fingerprint, you pressed the Power button.
 
 This usually turns off your screen."</string>
-    <string name="fp_enrollment_powerbutton_intent_negative_button">Cancel</string>
+    <string name="fp_enrollment_powerbutton_intent_negative_button">Cancelar</string>
     <string name="fp_enrollment_powerbutton_intent_positive_button">Turn off</string>
     <string name="fp_enrollment_powerbutton_intent_title">Turn off screen?</string>
     <string name="gadget_host_error_inflating">Não foi possível adicionar widget</string>

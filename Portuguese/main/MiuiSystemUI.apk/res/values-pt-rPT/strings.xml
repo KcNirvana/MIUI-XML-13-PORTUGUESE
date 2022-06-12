@@ -1200,7 +1200,7 @@ Tente novamente dentro de %3$d segundos"</string>
     <string name="kg_failed_attempts_now_erasing_profile">Tentou desbloquear incorrectamente o telefone %d vezes. O perfil de trabalho vai ser removido e vai eliminar todos os dados do mesmo</string>
     <string name="kg_failed_attempts_now_erasing_user">Tentou desbloquear incorrectamente o telefone %d vezes. Este utilizador vai ser removido e vai eliminar todos os dados do mesmo</string>
     <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone %d vezes. Este telefone vai ser reposto e vai eliminar todos os dados do mesmo</string>
-    <string name="kg_fingerprint_not_recognized">Not recognized</string>
+    <string name="kg_fingerprint_not_recognized">Não reconhecida</string>
     <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
     <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
     <string name="kg_invalid_puk">Introduza o código PUK correcto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>

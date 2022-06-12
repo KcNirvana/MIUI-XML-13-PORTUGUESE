@@ -110,7 +110,7 @@
     <string name="album_name_locations">Locais</string>
     <string name="album_name_people">Pessoas</string>
     <string name="album_name_recent_discovery">Recentes</string>
-    <string name="album_name_tags">Etiquetas</string>
+    <string name="album_name_tags">Objectos</string>
     <string name="album_notes">Notas</string>
     <string name="album_other_page_title">Outros álbuns</string>
     <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
@@ -133,7 +133,7 @@
     <string name="album_rubbish_tip_title">Álbuns redundantes</string>
     <string name="album_scanner">Digitalizador</string>
     <string name="album_screen_recorder">Gravador de ecrã</string>
-    <string name="album_screenshot_and_screen_recorder_name">Capturas de ecrã e gravações de ecrã</string>
+    <string name="album_screenshot_and_screen_recorder_name">Capturas e gravações de ecrã</string>
     <string name="album_screenshot_name">Capturas de ecrã</string>
     <string name="album_share_cant_move_to_rubbish_tip">Não é possível mover álbuns partilhados para o lixo"</string>
     <string name="album_share_exit_confirm">Sair deste álbum?</string>

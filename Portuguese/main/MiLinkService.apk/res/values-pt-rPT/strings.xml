@@ -257,7 +257,7 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="permission_allowed">Granted</string>
     <string name="permission_uballowed">Not granted</string>
     <string name="pre_privacy_setting_title">Privacy</string>
-    <string name="privacy_revoke_confirm_cancel">Cancel</string>
+    <string name="privacy_revoke_confirm_cancel">Cancelar</string>
     <string name="privacy_revoke_confirm_message">"You won't be able to keep using casting features unless you allow us to provide our services based on the collection of the necessary personal information. Withdraw consent to HappyCast Privacy Policy anyway?"</string>
     <string name="privacy_revoke_confirm_sure">OK</string>
     <string name="privacy_revoke_confirm_title">"Can't use services"</string>
@@ -275,7 +275,7 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="privacy_setting_show_lelink_policy">View HappyCast Privacy Policy</string>
     <string name="privacy_setting_show_policy">View Privacy Policy</string>
     <string name="privacy_setting_show_user_agreement">View User Agreement</string>
-    <string name="privacy_update_dialog_negative_btn">Cancel</string>
+    <string name="privacy_update_dialog_negative_btn">Cancelar</string>
     <string name="privacy_update_dialog_positive_btn">Agree</string>
     <string name="privacy_update_dialog_quit">Exit</string>
     <string name="project_id">milink-73be7</string>

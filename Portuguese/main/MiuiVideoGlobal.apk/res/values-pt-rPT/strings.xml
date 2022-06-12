@@ -204,7 +204,7 @@
     <string name="galleryplus_subtitle_edit_reminder">The text you entered is too long</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">"Couldn't recognize speech while you were recording"</string>
     <string name="galleryplus_v_agree">Agree</string>
-    <string name="galleryplus_v_cancel">Cancel</string>
+    <string name="galleryplus_v_cancel">Cancelar</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Discard all changes and stop editing subtitles now?</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">"You won't be able to save this video if you quit now. Quit anyway?"</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Quitting editor</string>
@@ -900,7 +900,7 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="add_to_trust_device">This is a trusted device</string>
     <string name="add_website">Adicionar um site</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
-    <string name="ai_music_save_cancel">Cancel</string>
+    <string name="ai_music_save_cancel">Cancelar</string>
     <string name="ai_music_save_dialog_title">Save</string>
     <string name="ai_music_save_fail">"Couldn't save"</string>
     <string name="ai_music_save_info">Added AI soundtrack successfully. Save video?</string>
@@ -961,7 +961,7 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="com_facebook_like_button_liked">Liked</string>
     <string name="com_facebook_like_button_not_liked">Like</string>
     <string name="com_facebook_loading">Loading…</string>
-    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
     <string name="com_facebook_loginview_log_in_button">Log in</string>
     <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
     <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
@@ -1514,7 +1514,7 @@ Update Mi Video to the latest version first."</string>
     <string name="subscribe_author_recommend_btn">Subscribe</string>
     <string name="subscribe_author_recommend_title">Subscribe to see the newest videos from these creators</string>
     <string name="subscribe_dialog_import_agree">Import</string>
-    <string name="subscribe_dialog_import_cancel">Cancel</string>
+    <string name="subscribe_dialog_import_cancel">Cancelar</string>
     <string name="subscribe_dialog_import_content">"Import your Mi Video subscriptions to your Google account to have all your subscriptions in one place. You'll be able to watch them all on Mi Video. Import now?"</string>
     <string name="subscribe_dialog_import_title">Import to Google account</string>
     <string name="subscribe_error_toast">"Couldn't subscribe"</string>

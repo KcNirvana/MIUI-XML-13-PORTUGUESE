@@ -867,7 +867,7 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="is_latest_version">Music is up to date.</string>
     <string name="item_view_role_description">Tab</string>
     <string name="joox_account_bind_mi_account">Add Mi Account</string>
-    <string name="joox_account_cancel_login">Cancel</string>
+    <string name="joox_account_cancel_login">Cancelar</string>
     <string name="joox_account_continue_login">Sign in</string>
     <string name="joox_account_fans_center">Fan Center</string>
     <string name="joox_account_login_conflict_message">"Looks like you're signed in on another device. Sign in here?"</string>

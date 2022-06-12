@@ -485,7 +485,7 @@ Envie este código ao supervisor"</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">Email/Telefone/ID Conta Mi</string>
     <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
-    <string name="catch_full_log_action_cancel">Cancel</string>
+    <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Finish and upload</string>
     <string name="catch_full_log_action_start">Start</string>
     <string name="catch_full_log_add_original_photo">Add original image or short video</string>
@@ -538,7 +538,7 @@ Envie este código ao supervisor"</string>
     <string name="header_help">Help</string>
     <string name="i_get_it">Got it</string>
     <string name="input_length_exceeds_limit">The text you entered is too long</string>
-    <string name="jump_full_log_dialog_cancel">Cancel</string>
+    <string name="jump_full_log_dialog_cancel">Cancelar</string>
     <string name="jump_full_log_dialog_confirm">Generate</string>
     <string name="jump_full_log_dialog_content">"Logs will help us locate and fix the issue you're about to report much faster. Generate logs and attach them to your feedback."</string>
     <string name="jump_full_log_dialog_title">Generate logs</string>
@@ -579,7 +579,7 @@ Envie este código ao supervisor"</string>
 Read and agree to the new version of %3$s before you continue."</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="progressbar_title">Checking for security issues…</string>
-    <string name="protocal_dialog_cancel">Cancel</string>
+    <string name="protocal_dialog_cancel">Cancelar</string>
     <string name="protocal_dialog_confirm">Agree</string>
     <string name="protocal_dialog_title">Attention</string>
     <string name="psw_hint">Password</string>
@@ -589,7 +589,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="reply_option_log_hint">Optional</string>
     <string name="reply_select_log_hint">Select log</string>
     <string name="request_agree">Allow</string>
-    <string name="request_cancel">Cancel</string>
+    <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Couldn't verify"</string>
     <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
     <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
@@ -602,7 +602,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="title_catch_full_log">Logs</string>
     <string name="toast_file_format_not_support">"This file format isn't supported. Try selecting a different file."</string>
     <string name="unknown_error_info">Unknown error</string>
-    <string name="update_dialog_cancel">Cancel</string>
+    <string name="update_dialog_cancel">Cancelar</string>
     <string name="update_dialog_confirm">Update</string>
     <string name="update_dialog_content_log">"What's new:
 %1$s

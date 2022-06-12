@@ -319,7 +319,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="pay_error_null">"Couldn't complete payment. Check your account."</string>
     <string name="pay_error_unknown">Unknown error</string>
     <string name="permission_desc">Permissions details</string>
-    <string name="permission_dialog_cancel">Cancel</string>
+    <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Settings</string>
     <string name="permission_read_phone_state">Access device info</string>
     <string name="permission_read_phone_state_description">For accessing call status in order to automatically stop recording when receiving calls</string>

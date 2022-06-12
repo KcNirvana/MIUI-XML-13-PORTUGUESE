@@ -932,7 +932,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_button_finish">Done</string>
     <string name="bh_buy_now">Purchase</string>
     <string name="bh_call_used">Used minutes</string>
-    <string name="bh_cancel">Cancel</string>
+    <string name="bh_cancel">Cancelar</string>
     <string name="bh_cancellation_of_carrier_services">Cancel services</string>
     <string name="bh_cancellation_of_carrier_services_des">Cancel Mi Carrier Services</string>
     <string name="bh_cancellation_of_carrier_services_result">"If you continue, you'll cancel Mi Carrier Services. After that, we'll stop collecting and using your personal information and delete your order history permanently. Make sure all your transactions are completed before you cancel services."</string>

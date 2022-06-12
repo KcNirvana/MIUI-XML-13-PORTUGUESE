@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="agree">Agree</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancelar</string>
     <string name="check_protocol_msg">To use the maintenance mode please click here agree the </string>
     <string name="check_protocol_msg_detail">Before starting the repair mode, please ensure that the data has been backed up, and the after-sales service is not responsible for possible data loss caused by the repaired product.</string>
     <string name="check_protocol_msg_sub">User Data Disclaimer</string>

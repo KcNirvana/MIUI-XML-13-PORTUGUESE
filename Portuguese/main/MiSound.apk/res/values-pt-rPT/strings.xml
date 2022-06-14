@@ -42,7 +42,7 @@
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Equalizador</string>
     <string name="first_note">Teste a sua percepção auditiva para ajustar o volume em conformidade</string>
-    <string name="four_note">O teste demorará cerca de 3 minutos para ser concluído</string>
+    <string name="four_note">O teste demorará cerca de %d minutos para ser concluído</string>
     <string name="headset_use_long_time">Está a utilizar os auriculares mais tempo que o recomendado. Tire-os e faça uma pausa</string>
     <string name="headset_use_loud_volume">O volume está muito alto há demasiado tempo. Para proteger a sua audição, foi baixado para os níveis recomendados</string>
     <string name="headset_use_not_support_noise_reduction">O ambiente actual é muito barulhento. Utilizar os auriculares pode afectar a sua audição</string>
@@ -93,7 +93,7 @@
     <string name="music_audio_effect_settings">Definições dos efeitos</string>
     <string name="music_audio_visual_wake_lock">Manter o ecrã ligado</string>
     <string name="music_audio_visual_wake_lock_summary">Não desligar o ecrã quando os efeitos visuais estiverem ligados</string>
-    <string name="music_below_thirty_years">Até 30 anos</string>
+    <string name="music_below_thirty_years">Até %d anos</string>
     <string name="music_customized_sound_summary">Personalizar o volume de acordo com a sua percepção auditiva</string>
     <string name="music_customized_sound_title">Ajuste do volume</string>
     <string name="music_delete">Eliminar</string>
@@ -188,10 +188,10 @@
     <string name="music_sound_num">Equalizador personalizado %s</string>
     <string name="music_sound_sample">Equalizador de sistema</string>
     <string name="music_sure_to_delete_sound_msg">Eliminar os equalizadores seleccionados?</string>
-    <string name="music_thirty_to_sixty_years">30 a 60 anos</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d a %d anos</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Auriculares USB não são suportados</string>
-    <string name="music_upper_sixty_years">Com mais de 60 anos</string>
+    <string name="music_upper_sixty_years">Com mais de %d anos</string>
     <string name="name">Nome</string>
     <string name="not_support_sound_transmission_content">Esta funcionalidade não é suportada pelo dispositivo ligado. Tente outro dispositivo Bluetooth</string>
     <string name="not_support_sound_transmission_prompt">Atenção</string>

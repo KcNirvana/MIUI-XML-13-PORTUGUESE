@@ -994,4 +994,9 @@ Toque no botão correspondente de acordo com o número que ouvir"</string>
     <string name="verified_boot_unlock">Unlock</string>
     <string name="verify">Verify</string>
     <string name="vibrator_change">Seleccionar modo de vibração</string>
+    <string name="cit_tool_current_size">Tamanho actual</string>
+    <string name="cit_tool_wlan_circular_capture">Circularly Capture</string>
+    <string name="cit_tool_wlan_clear">Limpar</string>
+    <string name="cit_tool_wlan_export">Exportar</string>
+    <string name="cit_tool_wlan_update_ap_list">Actualizar lista PA Móvel</string>
 </resources>

@@ -460,6 +460,9 @@ Motivo: \"%s\""</string>
     <string name="lunar_leap">Intercalado</string>
     <string name="lunar_yue">Mês</string>
     <string name="make_primary">Memorizar preferência</string>
+    <string name="manage_external_storage_dialog_message">Permitir que esta aplicação aceda a todos os ficheiros para gerir as gravações de chamadas</string>
+    <string name="manage_external_storage_dialog_positive">Definições</string>
+    <string name="manage_external_storage_dialog_title">Permissões necessárias</string>
     <string name="map_custom">Ver endereço %s</string>
     <string name="map_home">Ver endereço de casa</string>
     <string name="map_other">Ver endereço</string>
@@ -1111,6 +1114,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="call_record_text_auto_delete_never">Never</string>
     <string name="call_record_text_auto_delete_one_month">After %d month</string>
     <string name="calllog_record_none_toast">No call recordings to show</string>
+    <string name="calllog_record_searching_toast">Searching call recordings…</string>
     <string name="china_mobile_palm_hall">CMCC Online Service Hall</string>
     <string name="confirming_pay_result">Confirming payment…</string>
     <string name="copy">Copy</string>

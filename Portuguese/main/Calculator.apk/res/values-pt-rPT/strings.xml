@@ -468,6 +468,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
     <string name="tax_total_insurance_provident_fund">Seguros</string>
     <string name="tax_unemployment">Desemprego</string>
     <string name="tax_update_time_format">Dados fornecidos por HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s e %2$s</string>
     <string name="thursday">Quinta-feira</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Q</string>

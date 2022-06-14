@@ -42,6 +42,7 @@ Toque para ver"</string>
     <string name="hint_volume_down">Volume menos</string>
     <string name="hint_volume_up">Volume mais</string>
     <string name="home_title_none">Seleccionar itens</string>
+    <string name="invisible_mode_error_tip">Está no modo anónimo. Não é possível gravar áudio</string>
     <string name="is_checked">Seleccionado</string>
     <string name="is_go_home">Voltar ao Gravador de Ecrã</string>
     <string name="is_go_home_summary">Abrir a página inicial do Gravador de Ecrã após parar a gravação</string>

@@ -73,7 +73,9 @@ Protocolo de ligação mais rápido"</string>
     <string name="hdcp_checking_dialog_title">Definir verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="headset_battery_fw_failed">Bateria fraca</string>
+    <string name="headset_battery_low">Bateria fraca. Carregue o dispositivo</string>
     <string name="headset_connect_device">Ligar dispositivo</string>
+    <string name="headset_connect_timeout">Ligação expirada. Tente novamente</string>
     <string name="headset_device_check_failed">Erro</string>
     <string name="headset_device_donot_move">Não mover o dispositivo</string>
     <string name="headset_device_enter_upgrade_failed">Erro</string>
@@ -97,6 +99,7 @@ Protocolo de ligação mais rápido"</string>
     <string name="headset_fw_file_readfailed">Erro</string>
     <string name="headset_loss_notify_summary">Um do seus auriculares não está na caixa de carregamento. Verifique!</string>
     <string name="headset_loss_notify_title">Aviso de auriculares em falta</string>
+    <string name="headset_not_in_case">Auriculares fora da caixa. Tente novamente</string>
     <string name="headset_read_fw_state">Erro</string>
     <string name="headset_update_failed">Erro</string>
     <string name="headset_update_ok">OK</string>

@@ -135,6 +135,9 @@
     <string name="description_message_list_title">Lista de respostas rápidas</string>
     <string name="description_target_answer">Atender</string>
     <string name="do_not_support_video_calls_by_remote">As videochamadas não são suportadas pelo outro dispositivo</string>
+    <string name="dsda_answer_call_prompt">Aceitar esta chamada vai terminar a chamada em curso</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">Não é possível utilizar o SIM %1$d para chamadas agora. O ambiente de rede actual não suporta a funcionalidade Dual SIM</string>
+    <string name="dsda_swap_call_prompt">Vai ser alterado para chamada de voz se continuar</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="enter_ai_assistant">Utilizar</string>
     <string name="enter_ai_assistant_tip">O assistente de chamadas IA pode atender esta chamada e transcrever o discurso da outra pessoa. Permitir que a IA atenda agora?</string>
@@ -166,6 +169,7 @@
     <string name="manager_conference_done">Concluído</string>
     <string name="msim_select_default_last">Utilizado recentemente</string>
     <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="multi_call_manager_other_calls">Outras chamadas (%1$d)</string>
     <string name="notification_action_accept">Aceitar</string>
     <string name="notification_action_answer_video">Vídeo</string>
     <string name="notification_action_answer_voice">Voz</string>
@@ -227,6 +231,7 @@ Tocar em \"%1$s\" e depois seleccionar \"%2$s\""</string>
     <string name="select_audio_dialog_title">Seleccionar modo de atendimento</string>
     <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Apenas pode utilizar SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Utilizar SIM %1$d</string>
     <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização</string>
     <string name="select_sim_hint_for_heduohao">Não é possível utilizar o outro enquanto SIM %1$d Sub %2$d estiver em utilização</string>
     <string name="select_voice_call_sim">Escolher cartão SIM</string>

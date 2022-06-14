@@ -92,6 +92,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
     <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado à Conta Mi %2$s. Não vai ser necessário associar novamente à Conta Mi %3$s se continuar. Continuar?</string>
     <string name="continue_action">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="delete_action">Eliminar</string>
     <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
@@ -205,6 +206,8 @@ Envie este código ao supervisor"</string>
     <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
     <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Xiaomi Cloud</string>
     <string name="my_device_title">Dispositivo actual</string>
+    <string name="network_error">Ocorreu um erro de rede</string>
+    <string name="network_error_hint">Verificar o URL e tentar novamente ou copiar o URL e abri-lo no navegador</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique as suas definições de rede e tente novamente</string>
     <string name="network_timeout_info">Não foi possível ligar à rede. Tente novamente</string>
     <string name="no_network_btn">Actualizar</string>
@@ -231,6 +234,7 @@ Envie este código ao supervisor"</string>
     <string name="operator_unicom">China Unicom</string>
     <string name="operator_unicom_agreement">Verifications services provided by China Unicom</string>
     <string name="optional_permissions">Permissões opcionais</string>
+    <string name="page_load_failed">Não é possível abrir página</string>
     <string name="passport_Resend">Reenviar</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_hint_text">Email/Número de telefone/ID da Conta Mi</string>
@@ -472,6 +476,7 @@ Envie este código ao supervisor"</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Armazenamento</string>
     <string name="phone_num_use_for">Número de telefone utilizado para:</string>
+    <string name="phone_register">Utilizar número de telefone</string>
     <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
     <string name="provision_back">Voltar</string>

@@ -49,6 +49,7 @@
     <string name="apply_not_support_aod">O ecrã ambiente não é suportado neste dispositivo</string>
     <string name="apply_not_support_in_second_space">Não é possível aplicar este item no Segundo espaço</string>
     <string name="apply_not_support_maml_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Este papel de parede vai ser aplicado no ecrã de bloqueio e ecrã inicial</string>
     <string name="apply_success_not_enable_aod">Ligar primeiro o ecrã ambiente nas Definições</string>
     <string name="apply_success_not_support_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo. O resto dos componentes foram aplicados com sucesso</string>
     <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
@@ -624,6 +625,7 @@ Toque aqui para iniciar agora"</string>
     <string name="resource_search_color_hint_purple">Roxo</string>
     <string name="resource_search_color_hint_red">Vermelho</string>
     <string name="resource_search_color_hint_yellow">Amarelo</string>
+    <string name="resource_search_history">Pesquisar histórico</string>
     <string name="resource_search_list_empty">Nada encontrou nada</string>
     <string name="resource_see_more">Ver mais</string>
     <string name="resource_select">Seleccionar</string>
@@ -700,6 +702,7 @@ Toque aqui para iniciar agora"</string>
     <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
     <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
     <string name="set_as_colorring">Definir como toque personalizado</string>
+    <string name="set_calling">Definir</string>
     <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
     <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
     <string name="set_wallpaper_group_success">\"%1$s\" aplicado com sucesso</string>
@@ -771,6 +774,7 @@ Toque aqui para iniciar agora"</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Aceder ao IMEI e fornecer serviços de transferências</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Aceder ao ID de dispositivo para identificar o seu dispositivo</string>
     <string name="system_cta_runtime_perm_desc_storage">Armazenar temas e outros itens</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Para alterar preferências de personalização</string>
     <string name="system_precust">Pré-instalados</string>
     <string name="tag_ad">Anúncios</string>
     <string name="task_already_exist">Esta tarefa já existe</string>
@@ -883,6 +887,16 @@ Toque aqui para iniciar agora"</string>
     <string name="title_system_audio_resource">Toques do sistema</string>
     <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
     <string name="to_activate_the_account">Activar a sua Conta Mi agora</string>
+    <string name="toast_both_all_apply_failured">Não foi possível aplicar ao ecrã inicial e de bloqueio</string>
+    <string name="toast_both_all_apply_success">Aplicado ao ecrã inicial e de bloqueio com sucesso</string>
+    <string name="toast_home_apply_failured">Não foi possível aplicar ao ecrã inicial</string>
+    <string name="toast_home_apply_success">Aplicado ao ecrã inicial com sucesso</string>
+    <string name="toast_lockscreen_apply_failured">Não foi possível aplicar ao ecrã de bloqueio</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Aplicado ao ecrã inicial com sucesso. Não foi possível aplicar ao ecrã de bloqueio</string>
+    <string name="toast_lockscreen_apply_success">Aplicado ao ecrã de bloqueio com sucesso</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Aplicado ao ecrã de bloqueio com sucesso. Não foi possível aplicar ao ecrã inicial</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">Não foi possível aplicar</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
     <string name="transparency_pref_summary">Escolher a transparência do papel de parede</string>
     <string name="transparency_pref_title">Opacidade</string>
     <string name="transparent_wallpaper">Papel de parede transparente</string>
@@ -1027,6 +1041,8 @@ Toque aqui para iniciar agora"</string>
     <string name="browse_mode_desc">"Themes will connect to the Internet and use both local and online content. Your personal information won't be collected."</string>
     <string name="can_not_apply_pc_video">"PC mode doesn't support live wallpapers"</string>
     <string name="close_custom_permission_warning_text">"Without storage permissions, this app won't be able to download items and personalize your device. Turn off anyway?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Without storage permissions, this app won't be able to personalize your device. Turn off anyway?"</string>
+    <string name="custom_widget">Widgets recomendados</string>
     <string name="community_community_message_trigger_summary">Receive notifications about replies, likes, and Mi Community status updates using your Mi Account ID</string>
     <string name="community_community_message_trigger_title">Notify about activity</string>
     <string name="community_cta_dialog_cancel">No thanks</string>
@@ -1161,7 +1177,8 @@ All the personalization items currently used on this device. Default personaliza
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Statement on the Cancelation of Themes Services</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"You're about to cancel Themes services."</string>
-    <string name="privacy_phone_read_and_write_storage">Access storage</string>
+    <string name="privacy_phone_read_and_write_storage">Aceder ao armazenamento</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Aceder ao armazenamento</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Themes Services&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Themes&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>

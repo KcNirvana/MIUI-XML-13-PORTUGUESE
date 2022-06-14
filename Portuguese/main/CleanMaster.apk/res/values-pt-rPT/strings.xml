@@ -509,6 +509,13 @@
     <string name="notification_wechat_clean_low_level_text">Limpar lixo do WeChat</string>
     <string name="notification_whatsapp_clean_button_text">Limpar</string>
     <string name="notification_whatsapp_clean_size">A cache do WhatsApp atingiu %s</string>
+    <string name="offline_notification_text">Tocar para abrir anúncio</string>
+    <string name="offline_notification_title">Ver o anúncio que guardou quando estiver offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vai receber uma notificação com o link quando estiver online</string>
+    <string name="offline_opt_in_decline">Não, obrigado</string>
+    <string name="offline_opt_in_message">Vamos enviar uma notificação com um link para o site do anunciante</string>
+    <string name="offline_opt_in_title">Abrir anúncio quando estiver online novamente</string>
     <string name="ok">OK</string>
     <string name="onekeyclean_boost_available">%s disponíveis</string>
     <string name="onekeyclean_boost_cleaned">%s limpos</string>
@@ -598,6 +605,13 @@
     <string name="rs_clean_size_free_space">Libertar %s</string>
     <string name="rs_clean_size_storage_size">Ocupado %1$s/%2$s</string>
     <string name="rs_clean_size_storage_title">Armazenamento</string>
+    <string name="s1">Guardar imagem</string>
+    <string name="s2">Permitir ao anúncio guardar imagens na galeria?</string>
+    <string name="s3">Aceitar</string>
+    <string name="s4">Aceitar</string>
+    <string name="s5">Criar evento de calendário</string>
+    <string name="s6">Permitir ao anúncio criar um evento de calendário?</string>
+    <string name="s7">Anúncio de teste</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
     <string name="scanning">A verificar…</string>

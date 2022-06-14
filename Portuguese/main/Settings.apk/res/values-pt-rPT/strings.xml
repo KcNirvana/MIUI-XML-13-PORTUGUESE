@@ -1357,6 +1357,8 @@ Não se ligou a %2$s antes"</string>
     <string name="bluetooth_grp_source_selection_options_detail">"A origem de transmissão 
        %1$s foi adicionada aos membros do grupo ligados
        (Deixar PIN de transmissão em branco se for uma transmissão sem encriptação)"</string>
+    <string name="bluetooth_hd_music_play_summary">Reproduzir áudio a %dkHz em dispositivos Bluetooth sem reduzir a taxa de amostragem. Os efeitos Dolby não vão estar disponíveis quando esta funcionalidade estiver ligada</string>
+    <string name="bluetooth_hd_music_play_title">Reproduzir áudio a %dkHz</string>
     <string name="bluetooth_headset_profile_summary_connected">Ligado ao áudio do telefone</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizado para áudio do telefone</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Ligado a aparelhos auditivos</string>
@@ -4548,6 +4550,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="lock_profile_wipe_warning_content_pattern">Se introduzir um padrão incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
     <string name="lock_profile_wipe_warning_content_pin">Se introduzir um PIN incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
     <string name="lock_screen_action">Ecrã de bloqueio</string>
+    <string name="lock_screen_after_fold_screen_summary">Este dispositivo vai ser bloqueado após dobrar, excepto nos casos em que estiver a utilizar a câmara frontal ou altifalantes</string>
+    <string name="lock_screen_after_fold_screen_title">Dobrar para bloquear</string>
     <string name="lock_screen_display_category_name">Ecrã de bloqueio</string>
     <string name="lock_screen_intro_skip_dialog_text">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda ou roubo</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda, roubo ou reposição</string>

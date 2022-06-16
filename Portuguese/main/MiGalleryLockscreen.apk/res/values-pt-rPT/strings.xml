@@ -252,7 +252,7 @@ Envie este código ao supervisor"</string>
     <string name="lks_left_top_notice_refresh">Toque para ver novos items</string>
     <string name="lks_logo_desc2">Papéis de parede novos diariamente</string>
     <string name="lks_logo_desc_search">Papéis de parede novos diariamente</string>
-    <string name="lks_loop_icon_ask_cancle">Cancel</string>
+    <string name="lks_loop_icon_ask_cancle">Cancelar</string>
     <string name="lks_loop_icon_ask_dlg">Turn on Lock screen slideshow to get fresh images and stories delivered to your Lock screen daily.</string>
     <string name="lks_loop_icon_ask_ok">Turn on</string>
     <string name="lks_loop_icon_ask_title">Lock screen slideshow</string>
@@ -835,25 +835,4 @@ d 'de' MMMM"</string>
     <string name="lks_data_warning_toast_1">"You're using mobile data to browse wallpapers.
 This may generate additional fees."</string>
     <string name="lks_dislike">"I don't like it"</string>
-    <string name="lks_data_warning_toast_1">"You're using mobile data to browse wallpapers.
-This may generate additional fees."</string>
-    <string name="lks_dislike">"I don't like it"</string>
-    <string name="lks_loop_icon_ask_cancle">Cancelar</string>
-    <string name="lks_loop_icon_ask_dlg">Turn on Lock screen slideshow to get fresh images and stories delivered to your Lock screen daily.</string>
-    <string name="lks_loop_icon_ask_ok">Turn on</string>
-    <string name="lks_loop_icon_ask_title">Lock screen slideshow</string>
-    <string name="lks_loop_icon_close_cancle">Cancelar</string>
-    <string name="lks_loop_icon_close_dlg">Lock screen slideshow will be turned off if you set this image as your Lock screen. Set as Lock screen now?</string>
-    <string name="lks_loop_icon_close_ok">OK</string>
-    <string name="lks_loop_icon_close_title">Attention</string>
-    <string name="lks_loop_icon_dlg_title">Lock screen slideshow</string>
-    <string name="lks_loop_icon_open_dlg">Lock screen slideshow is turned on and delivering fresh images and stories to your Lock screen daily.</string>
-    <string name="lks_loop_icon_open_ok">Got it</string>
-    <string name="lks_more_pics_coming_toast">New images are on their way</string>
-    <string name="lks_new_user_help_anime">Swipe up to see more from Wallpaper Carousel</string>
-    <string name="lks_no_network">"Couldn't connect to the network"</string>
-    <string name="lks_please_reload">Reload</string>
-    <string name="lks_retry">Try again</string>
-    <string name="lks_to_history">History</string>
-    <string name="lks_to_setting">Definições dos papéis de parede aleatórios</string>
 </resources>

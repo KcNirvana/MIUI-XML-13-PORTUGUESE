@@ -1403,7 +1403,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
     <string name="email_filter_edit_rule">Editar regra</string>
     <string name="email_filter_no_delete_rule_choosed">Sem regras seleccionadas</string>
     <string name="email_filter_no_rule">Sem regras</string>
-    <string name="email_filter_rule">A filtrar regras</string>
+    <string name="email_filter_rule">Regras de filtragem</string>
     <string name="email_filter_rule_01">Destinatários incluindo</string>
     <string name="email_filter_rule_02">Destinatários excluindo</string>
     <string name="email_filter_rule_03">Remetentes incluindo</string>
@@ -1412,6 +1412,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
     <string name="email_filter_rule_06">CC excluindo</string>
     <string name="email_filter_rule_07">Assuntos incluindo</string>
     <string name="email_filter_rule_08">Assuntos excluindo</string>
+    <string name="email_filter_rule_tips">Emails que cumpram as regras vão ser movidos automaticamente para as pastas seleccionadas</string>
     <string name="emial_filter_create_hint">A regra não vai ser aplicada aos emails existentes</string>
     <string name="general_preference_email_slide_switch_title">Deslizar para a esquerda/direita para ver o email anterior/seguinte</string>
     <string name="invalid_recipient_dialog_message">Introduzir um email de remetente válido</string>

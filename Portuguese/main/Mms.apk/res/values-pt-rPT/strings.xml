@@ -63,7 +63,7 @@ adicionados à lista de bloqueio"</string>
     <string name="audio_message_mx_offline">Não foi possível transferir o áudio. O Mi Message está offline ou indisponível</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Sem ligação de rede ou cartão SIM errado. Insira o cartão SIM de onde a mensagem foi enviada e ligue-se à rede</string>
-    <string name="auto_identify_btn_text_only_smart_messaging">Ligar Mensagens Inteligentes</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Ligar mensagens inteligentes</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identificar o remetente automaticamente</string>
     <string name="auto_identify_btn_title">Esta mensagem foi enviado dum número desconhecido</string>
     <string name="auto_identify_confirmation">Pode levar algum tempo a activar esta funcionalidade</string>
@@ -281,8 +281,8 @@ adicionados à lista de bloqueio"</string>
     <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
     <string name="feature_mx">Mi Message</string>
     <string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para activar este serviço. Leia e concorde com os nossos <font color="#B3000000"><a href="http://url1">Termos de Utilização</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de utilizar esta funcionalidade</string>
-    <string name="feature_smart_sms">Mensagens Inteligentes</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes&lt;/b&gt;". As Mensagens Inteligentes são fornecidas em parte por Yulore. Leia e concorde com a "<font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="feature_smart_sms">Mensagens inteligentes</string>
+    <string name="feature_smart_sms_summary">&lt;b&gt;As mensagens inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes&lt;/b&gt;". As mensagens inteligentes são fornecidas em parte por Yulore. Leia e concorde com a "<font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> antes de utilizar esta funcionalidade</string>
     <string name="festival_sms_loading">A carregar…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
@@ -459,8 +459,8 @@ Verifique o seu cartão SIM"</string>
     <string name="mms_block_hint">"Este remetente não está nos seus contactos.
 Esta mensagem pode não ser solicitada"</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
-    <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as Mensagens Inteligentes</string>
-    <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Message! É necessário enviar uma mensagem SMS para activar Mi Message. A sua operadora vai cobrar esta mensagem</string>
+    <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as mensagens inteligentes</string>
+    <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Message! É necessário enviar uma mensagem SMS para activar Mi Message. A sua operadora vai cobrar esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que tire o máximo de Mi Message</string>
     <string name="mms_mx_privacy_policy">Política de Privacidade de Mi Message</string>
     <string name="mms_smart_msg_main_purpose">As mensagens inteligentes podem reconhecer IDs de remetentes, fornecer menus inteligentes e identificar mensagens suspeitas</string>
@@ -619,7 +619,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
     <string name="pref_forward_title">Reencaminhar</string>
     <string name="pref_group_ad_mms_recognition">Agrupar mensagens de promoções</string>
-    <string name="pref_hide_verification_code_summary">Ocultar automaticamente OTP nas notificações de mensagens no bloqueio de ecrã com segurança</string>
+    <string name="pref_hide_verification_code_summary">Ocultar OTP automaticamente nas notificações no ecrã de bloqueio seguro</string>
     <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
     <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
     <string name="pref_msg_trash_bin_title">Mensagens eliminadas</string>
@@ -632,8 +632,8 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="pref_show_photo_word_summary">Atribuir fotos aos contactos automaticamente</string>
     <string name="pref_show_sms_template_entry_summary">Detectar OTPs e mostrar menu</string>
     <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
-    <string name="pref_show_sms_template_summary">Copiar códigos, verificar o saldo, etc.</string>
-    <string name="pref_smart_messages_settings">Mensagens Inteligentes</string>
+    <string name="pref_show_sms_template_summary">Copiar OTP, verificar saldo, etc.</string>
+    <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
     <string name="pref_sms_storage_title">Armazenamento</string>
     <string name="pref_sms_theme_title">Visualização</string>
     <string name="pref_summary_ad_mms_recognition">Colocar mensagens de promoções num novo separador</string>
@@ -643,7 +643,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
     <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
     <string name="pref_summary_enable_ad_notification">Ligar as notificações de grupo acerca das promoções na área de notificações</string>
-    <string name="pref_summary_enable_classify">Mover promoções e mensagens de finanças para separadores diferentes</string>
+    <string name="pref_summary_enable_classify">Mover mensagens de promoções e finanças para separadores diferentes</string>
     <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
     <string name="pref_summary_mms_read_reports">Mostrar notificação na lista de conversas quando o receptor transferir o conteúdo da MMS</string>
@@ -911,13 +911,13 @@ Veja as recomendadas!"</string>
     <string name="recommend_bar_message_smart_message">Copie OTPs, procure pacotes, utilize serviços inteligentes e mais</string>
     <string name="recommend_bar_ok">Ligar</string>
     <string name="recommend_bar_title_mx_rcs">Mi Message</string>
-    <string name="recommend_bar_title_smart_message">Mensagens Inteligentes</string>
+    <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
     <string name="recommend_both_dialog_title">Bem-vindo a Mensagens!</string>
-    <string name="recommend_dialog_message">Pode ligar o Mi Message e as Mensagens Inteligentes para aceder a funcionalidades adicionais</string>
+    <string name="recommend_dialog_message">Pode ligar o Mi Message e as mensagens inteligentes para aceder a funcionalidades adicionais</string>
     <string name="recommend_mx_dialog_title">Bem-vindo ao Mi Message!</string>
     <string name="recommend_mx_setting_summary">O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet</string>
-    <string name="recommend_smart_sms_dialog_title">Bem-vindo às Mensagens Inteligentes!</string>
-    <string name="recommend_smart_sms_setting_summary">As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes</string>
+    <string name="recommend_smart_sms_dialog_title">Bem-vindo às mensagens inteligentes!</string>
+    <string name="recommend_smart_sms_setting_summary">As mensagens inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes</string>
     <string name="recording_failed">Não foi possível gravar</string>
     <string name="refill_now">Recarregar agora</string>
     <string name="refreshing">Actualizar…</string>
@@ -1052,14 +1052,14 @@ Veja as recomendadas!"</string>
     <string name="slide_up_to_cancel">Deslizar para cima para cancelar</string>
     <string name="slideshow_activity">Apresentação</string>
     <string name="small_window_log_text">A câmara não pode ser utilizada no modo ecrã dividido</string>
-    <string name="smart_message_title">Mensagens Inteligentes</string>
-    <string name="smart_message_upgrade_title">Actualização da Política de Privacidade das Mensagens Inteligentes</string>
+    <string name="smart_message_title">Mensagens inteligentes</string>
+    <string name="smart_message_upgrade_title">Actualização da Política de Privacidade das mensagens inteligentes</string>
     <string name="smart_messages_network_allow_message">Mi Message necessita de ligar à Internet para funcionar normalmente. Permitir agora?</string>
     <string name="smart_messages_network_allow_title">Necessário ligação à Internet</string>
-    <string name="smart_msg_main_purpose">As Mensagens Inteligentes fornecem identificação do remetente e serviços inteligentes</string>
-    <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
+    <string name="smart_msg_main_purpose">As mensagens inteligentes fornecem identificação do remetente e serviços inteligentes</string>
+    <string name="smart_msg_privacy_policy">Política de Privacidade das mensagens inteligentes</string>
     <string name="smart_msg_privacy_policy_revoke">Remover consentimento da Política de Privacidade das mensagens inteligentes</string>
-    <string name="smart_msg_upgrade_main_purpose">A Mensagens Inteligentes funcionam com MMS agora. Vai poder utilizar mais serviços fornecidos pelos remetentes, assim como receber mensagens em novos formatos</string>
+    <string name="smart_msg_upgrade_main_purpose">A mensagens inteligentes funcionam com MMS agora. Vai poder utilizar mais serviços fornecidos pelos remetentes, assim como receber mensagens em novos formatos</string>
     <string name="sms_card_partner_label">"Parceiro de cartão SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Conteúdo:</string>
@@ -1177,12 +1177,12 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
     <string name="title_activity_rcs_maps">Localização</string>
     <string name="title_allow_network_access">Actualizar informações automaticamente</string>
     <string name="title_collapse_sp_messages">Agrupar notificações</string>
-    <string name="title_hide_verification_code">Ocultar auto. OTP no ecrã de bloqueio</string>
+    <string name="title_hide_verification_code">Ocultar OTP no ecrã de bloqueio</string>
     <string name="title_not_show_read_mms_perm_req">Permissões necessárias</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
     <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
-    <string name="title_show_sms_template">Mensagens Inteligentes</string>
+    <string name="title_show_sms_template">Mensagens inteligentes</string>
     <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
     <string name="title_timed_message_dialog">Definir hora de envio</string>
     <string name="title_use_gsm_alphabet">Utilizar alfabeto GSM</string>

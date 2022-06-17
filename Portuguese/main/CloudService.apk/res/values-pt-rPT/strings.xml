@@ -299,7 +299,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas, e mais com a Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas, e mais com a Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_noti_content">Proteja os seus dados quando o seu dispositivo estiver perdido</string>
+    <string name="micloud_find_device_guide_noti_content">Proteger os seus dados quando o seu dispositivo estiver perdido</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Os seus dados QQ vão estar seguros mesmo se perder o seu dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Os seus dados WeChat vão estar seguros mesmo se perder o seu dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Os seus dados Alipay vão estar seguros mesmo se perder o seu dispositivo</string>

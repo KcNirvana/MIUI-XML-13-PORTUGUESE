@@ -5074,12 +5074,21 @@ Não pode reverter esta acção!"</string>
     <string name="menu_stats_total">Totais de utilização</string>
     <string name="menu_stats_unplugged">%1$s desde que foi desligado</string>
     <string name="menu_use_uss">Utilizar Uss</string>
+    <string name="mi_headset_healthy">Hearing health</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Mi Pay Account</string>
     <string name="mi_pay_summary">Transport card/Mi Pay/Key card</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
+    <string name="mi_service">Mi Service</string>
     <string name="mi_service_app_detail">Detalhes da utilização de dados</string>
-    <string name="mic_toggle_title">Microphone access</string>
+    <string name="mi_shopping_mall">Mi Store</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
+    <string name="mi_transfer">Mi Mover</string>
+    <string name="mi_upi_settings">Mi Pay Account</string>
+    <string name="mi_wallet">Mi Wallet</string>
+    <string name="mi_wallet_desc">Mi Wallet</string>
+    <string name="mic_toggle_title">Acesso ao microfone</string>
     <string name="micloud_service_summary">Sincronizar a lista de aplicações, copiar definições de sistema e layout do ecrã inicial</string>
     <string name="micloud_service_summary_temp">Sincronizar fotos, vídeos, contactos e mais</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -5499,6 +5508,8 @@ Seleccione o seu sistema operativo:"</string>
     <string name="multifunction_keyboard">Multifunctional</string>
     <string name="multiple_users_main_switch_title">Use multiple users</string>
     <string name="music_equalizer">Equalizador</string>
+    <string name="music_playback_control_cross_device_flow">Transferir a reprodução de áudio entre dispositivos</string>
+    <string name="music_video_flow_across_device">Controlar e transferir a reprodução de áudio entre dispositivos</string>
     <string name="musicfx_title">Efeitos de música</string>
     <string name="mute">Modo Silêncio</string>
     <string name="mute_media_sound_summary">Jogos, música, vídeos e outras aplicações</string>
@@ -7951,7 +7962,7 @@ Duplo toque para abrir Recentes"</string>
     <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>
     <string name="smartcover_sensitive_title">Modo capa inteligente</string>
     <string name="smooth_adjust_ligth">Transições suaves</string>
-    <string name="smooth_adjust_ligth_summary">Tornar as transições mais suaves ao ajustar o brilho manualmente. Quando esta funcionalidade estiver ligar, podem aparecer pequenas inconsistências de cor</string>
+    <string name="smooth_adjust_ligth_summary">Tornar as transições mais suaves ao ajustar o brilho manualmente. Quando esta funcionalidade estiver ligada, podem aparecer pequenas inconsistências de cor</string>
     <string name="sms_application_title">Mensagens</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
     <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>

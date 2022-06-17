@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Descontraído</item>
+        <item>Equilibrado</item>
+        <item>Rápido</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Papel parede</item>
         <item>Widgets</item>

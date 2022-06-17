@@ -17,7 +17,7 @@
     <string name="calibrate_failed_timeout">Não foi possível ligar ao servidor</string>
     <string name="calibrate_rotate_again">Tente novamente</string>
     <string name="calibrate_success">Calibrada</string>
-    <string name="calibrate_tip">Incline o dispositivo para rolar a bola em redor do círculo</string>
+    <string name="calibrate_tip">Inclinar o dispositivo para rolar a bola ao longo do círculo</string>
     <string name="calibrate_title">Calibrar bússola</string>
     <string name="calibrating">A calibrar bússola</string>
     <string name="cancel">Cancelar</string>

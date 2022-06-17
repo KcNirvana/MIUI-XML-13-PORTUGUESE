@@ -1580,7 +1580,7 @@ volunteer"</string>
     <string name="gb_add_game_loading_tips">Aguarde…</string>
     <string name="gb_adv_touch_adv_title">Modo Clássico (predefinição)</string>
     <string name="gb_adv_touch_custom1">Resposta de deslize</string>
-    <string name="gb_adv_touch_custom2">Sensibilidade a toques contínuos</string>
+    <string name="gb_adv_touch_custom2">Sensibilidade a toques</string>
     <string name="gb_adv_touch_custom3">Precisão de mira</string>
     <string name="gb_adv_touch_custom4">Estabilidade do toque</string>
     <string name="gb_adv_touch_custom_tip1">Uma resposta de deslize mais alta aumenta a velocidade de reacção deste gesto, enquanto que uma resposta de deslize mais baixa torna este gesto mais estável</string>
@@ -2879,9 +2879,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_save_mode">Poupança de bateria</string>
     <string name="power_save_mode_auto_exit_summary_new">Desligar quando a bateria estiver a %s ou totalmente carregada​</string>
     <string name="power_save_mode_auto_exit_title">Desligar quando carregada</string>
-    <string name="power_save_mode_close_aod_display_summary">Desligar ecrã ambiente quanda a poupança de bateria estiver ligada</string>
+    <string name="power_save_mode_close_aod_display_summary">Desligar ecrã ambiente quando a poupança de bateria estiver ligada</string>
     <string name="power_save_mode_close_aod_display_title">Desligar ecrã ambiente</string>
-    <string name="power_save_mode_close_notification_screenon_summary">Ligado quando a poupança de bateria estiver ligada</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Não ligar o ecrã quando a poupança de bateria estiver ligada</string>
     <string name="power_save_mode_close_notification_screenon_title">Não ligar o ecrã para notificações</string>
     <string name="power_save_mode_close_warn_text">A poupança de bateria restringe as actividades e sincronização em segundo plano. Se ligar quando o dispositivo estiver carregado, algumas funcionalidades podem não funcionar correctamente. Manter a poupança de bateria ligada enquanto o dispositivo estiver carregado?</string>
     <string name="power_save_mode_close_warn_title">Poupança de bateria</string>

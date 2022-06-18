@@ -10699,7 +10699,6 @@ A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada à direita"
     <string name="miui_sos_hospital_card">Cartão médico</string>
     <string name="miui_sos_hospital_card_important_info">As suas informações médicas critícas para os primeiros-socorros</string>
     <string name="miui_sos_unknow_contract">Contacto desconhecido</string>
-    <string name="music_video_flow_across_device">Controlar e transferir áudios entre dispositivos</string>
     <string name="new_fingerprint_to_new_face_dialog_msg">Para poder utilizar o desbloqueio facial, adicione um rosto primeiro. Adicionar agora?</string>
     <string name="new_fingerprint_to_new_face_dialog_tittle">Adicionar rosto</string>
     <string name="no_background_processes">Sem processos em segundo plano</string>

@@ -622,7 +622,7 @@ quer digitalizar com Mi IA"</string>
     <string name="scan_form_top_tip">Digitalizar, guardar e editar tabelas</string>
     <string name="scan_general_top_tip">Reconhecer plantas, pessoas e produtos</string>
     <string name="scan_support_type_new">Digitalizar código QR ou código de barras</string>
-    <string name="scan_text">Digitalizar texto</string>
+    <string name="scan_text">Textos digitalizados</string>
     <string name="scan_text_top_tip">Reconhecer e copiar texto</string>
     <string name="scan_translate_top_tip">Traduzir todo o texto numa foto</string>
     <string name="screenshot_copy_text">Copiar texto</string>

@@ -10085,7 +10085,6 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel %1$s %2$s</string>
     <string name="wifi_tether_enabled_subtext">%1$s está activo</string>
-    <string name="wifi_tether_enabled_summary">%1$s está activo</string>
     <string name="wifi_tether_failed_subtext">Erro no Ponto de Acesso Móvel</string>
     <string name="wifi_tether_setting_title">Definições</string>
     <string name="wifi_tether_settings_title">Ponto de Acesso Móvel</string>

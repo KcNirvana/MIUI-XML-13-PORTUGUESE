@@ -4481,6 +4481,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="location_category_location_services">Serviços de localização</string>
     <string name="location_category_recent_location_access">Acessos recentes</string>
     <string name="location_category_recent_location_requests">Pedidos de localização recentes</string>
+    <string name="location_description_no_gps">Este dispositivo não suporta a navegação por satélite. As informações de localização geradas com base nos dados da rede podem ser insuficientes para algumas funcionalidade</string>
     <string name="location_gps">Satélites GPS</string>
     <string name="location_high_battery_use">Utilização elevada de bateria</string>
     <string name="location_indicator_settings_description">Show for all locations, including network and connectivity</string>
@@ -5249,7 +5250,7 @@ Não pode reverter esta acção!"</string>
     <string name="miui_allow_light">LED de notificações</string>
     <string name="miui_allow_music">Multimédia</string>
     <string name="miui_allow_vibrate">Vibrações</string>
-    <string name="miui_bubbles_notification">Notificações de bolhas</string>
+    <string name="miui_bubbles_notification">Bolhas de conversas</string>
     <string name="miui_bubbles_notification_status_opened">Ligado</string>
     <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
     <string name="miui_experience_optimization">Ligar optimização MIUI</string>

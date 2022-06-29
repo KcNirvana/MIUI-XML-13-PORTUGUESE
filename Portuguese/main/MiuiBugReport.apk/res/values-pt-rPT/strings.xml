@@ -427,7 +427,7 @@ Envie este código ao supervisor"</string>
     <string name="submit_feedback_info_failed">Não foi possível enviar relatório</string>
     <string name="suggest_upload_log_dialog_cancel">Não, obrigado</string>
     <string name="suggest_upload_log_dialog_confirm">Enviar</string>
-    <string name="suggest_upload_log_dialog_content">"Para ajudar os programadores a resolver os problemas o mais rapidamente possivel, recomendamos que envie os registos relacionados. Os registos são utilizados apenas para analisar problemas e não serão utilizados para outros fins</string>
+    <string name="suggest_upload_log_dialog_content">"Para ajudar os programadores a resolver os problemas o mais rapidamente possível, recomendamos que envie os registos relacionados. Os registos são utilizados apenas para analisar problemas e não serão utilizados para outros fins</string>
     <string name="suggest_upload_log_dialog_title">Enviar registos relacionados</string>
     <string name="suggestion_description">Adicionar descrição aqui</string>
     <string name="system_app_select">Aplicações integradas</string>

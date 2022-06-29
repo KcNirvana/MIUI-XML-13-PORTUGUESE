@@ -659,11 +659,14 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="hide_attachment">Ocultar anexo</string>
     <string name="hide_elided">▼ Ocultar texto citado</string>
     <string name="hide_password">Ocultar palavra-passe</string>
+    <string name="how_to_login_icloud">Como iniciar sessão no email iCloud</string>
     <string name="http_auth_dialog_cancel">Cancelar</string>
     <string name="http_auth_dialog_login">Iniciar sessão</string>
     <string name="http_auth_dialog_password">Palavra-passe</string>
     <string name="http_auth_dialog_title">Introduzir as credenciais</string>
     <string name="http_auth_dialog_username">Utilizador</string>
+    <string name="icloud_login_tips">Pode criar uma palavra-passe para utilizar com o seu email iCloud aqui: iCloud.com</string>
+    <string name="icoud_login_pw_hint">Introduzir palavra-passe</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
@@ -709,6 +712,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="login_des_exchange">Iniciar sessão em Exchange</string>
     <string name="login_des_gmail">Iniciar sessão em Gmail</string>
     <string name="login_des_hotmail">Iniciar sessão em Hotmail</string>
+    <string name="login_des_icloud">Iniciar sessão em iCloud</string>
     <string name="login_des_mail_ru">Iniciar sessão em Mail.ru</string>
     <string name="login_des_office365">Iniciar sessão em Office 365</string>
     <string name="login_des_others">Iniciar sessão em outro serviço de emails</string>

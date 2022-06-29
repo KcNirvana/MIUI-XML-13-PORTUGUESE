@@ -263,6 +263,12 @@
     <string name="notice_audition">Sons da natureza</string>
     <string name="notification_channel_hotspot">Notificações de PA Móvel</string>
     <string name="notificationxylophone">Notificação (Xylophone)</string>
+    <string name="nps_ContentText">Tocar para ver detalhes</string>
+    <string name="nps_ContentTitle">A pesquisar GPS</string>
+    <string name="nps_app_name">GpsNps</string>
+    <string name="nps_description">Notificação de estado GPS</string>
+    <string name="nps_mock_description">A utilizar localização virtual. Necessário reiniciar para repor</string>
+    <string name="nps_monitor_name">Localização GPS</string>
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">Percebi</string>
     <string name="open_close_tip_content">Para fechar a janela, prima e segure a barra de acção e deslize para cima</string>

@@ -1514,7 +1514,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="mr_dialog_transferable_header">Reproduzir num grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">Não é possivel definir durante chamadas</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante chamadas</string>
     <string name="multi_face_delete_message">Atenção</string>
     <string name="multi_face_delete_show_message">Eliminar dados de rosto agora?</string>
     <string name="multi_face_input">Adicionar dados de rosto</string>
@@ -1897,6 +1897,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="quick_settings_inversion_label">Inversão de cores</string>
     <string name="quick_settings_location_label">Localização</string>
     <string name="quick_settings_location_off_label">Localização desligada</string>
+    <string name="quick_settings_low_battery_toast_text">Não é possível utilizar a lanterna. Bateria demasiado fraca</string>
     <string name="quick_settings_media_device_label">Dispositivo multimédia</string>
     <string name="quick_settings_mic_label">Acesso ao microfone</string>
     <string name="quick_settings_more_settings">Mais definições</string>

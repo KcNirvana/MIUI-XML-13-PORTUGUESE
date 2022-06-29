@@ -558,6 +558,8 @@ Envie este código ao supervisor"</string>
     <string name="update_phone_notice">Alterar definições de segurança</string>
     <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
     <string name="used_cloud_storage_info">Utilizado %s</string>
+    <string name="user_agreement_network_permission_msg">É necessário ligar à Internet para podermos fornecer os serviços necessários</string>
+    <string name="user_agreement_use_account_msg">A Conta Mi permite aceder a todos os serviços fornecidos pela Xiaomi</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="vip_account_settings">Definições VIP</string>

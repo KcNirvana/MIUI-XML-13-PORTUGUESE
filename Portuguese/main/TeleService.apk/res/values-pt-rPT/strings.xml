@@ -474,6 +474,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
     <string name="cursorError">Erro no cursor</string>
     <string name="data_enable_summary">Permitir a utilização de dados</string>
     <string name="data_enabled">Dados móveis</string>
+    <string name="data_interruption_remind">O seu ambiente de rede não é fiável. Para melhorar a ligação, dê permissão ao seu dispositivo para utilizar dados móveis durante as chamadas VoLTE no SIM secundário</string>
     <string name="data_plan">Plano de dados</string>
     <string name="data_usage_disable_mobile">Desligar os dados móveis?</string>
     <string name="data_usage_ota">Actualizações de sistema</string>

@@ -1,8 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s stars selected</item>
+        <item quantity="one">%s star selected</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Going back to the home page in %1$d seconds…</item>
         <item quantity="one">Going back to the home page in %1$d second…</item>
+    </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"You've earned %d points!"</item>
+        <item quantity="one">"You've earned %d point!"</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d points</item>
+        <item quantity="one">%d point</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Sign in to claim and earn %d extra points</item>
+        <item quantity="one">Sign in to claim and earn %d extra point</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Watch %d minutes total to earn points! Complete task now?</item>
+        <item quantity="one">Watch %d minute total to earn points! Complete task now?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"You have %d points to claim
+Available today only"</item>
+        <item quantity="one">"You have %d point to claim
+Available today only"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"You've watched %d minutes today"</item>
+        <item quantity="one">"You've watched %d minute today"</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Earn %d points!</item>
+        <item quantity="one">Earn %d point!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Today's tasks complete! You earned %d points."</item>
+        <item quantity="one">"Today's tasks complete! You earned %d point."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">You watched %1$1ds and earned %2$2d points!</item>
+        <item quantity="one">You watched %1$1ds and earned %2$2d point!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Watch a random video to earn %d points</item>
+        <item quantity="one">Watch a random video to earn %d point</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Watch %1$1d seconds of a video to earn %2$2d points</item>
+        <item quantity="one">Watch %1$1d seconds of a video to earn %2$2d point</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Earned %d points. Keep sharing to earn more.</item>
+        <item quantity="one">Earned %d point. Keep sharing to earn more.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Earned %d points. Keep subscribing to earn more.</item>
+        <item quantity="one">Earned %d point. Keep subscribing to earn more.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d pastas</item>

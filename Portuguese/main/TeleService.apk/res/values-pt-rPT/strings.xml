@@ -735,6 +735,11 @@ Mudar para um novo fornecedor mesmo assim?"</string>
     <string name="ivr_parameter_settings">Definições dos parâmetros IVR</string>
     <string name="ivr_type_settings">Definições de plano de dados</string>
     <string name="ivr_type_settings_hint">Introduzir o seu código de plano de dados</string>
+    <string name="jp_sb_label_ndp">"O USIM da outra operadora foi inserido.
+A aguardar por código de desbloqueio"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">O código de desbloqueio é menor que 8 dígitos ou mais que 16 dígitos</string>
+    <string name="jp_sb_unlock_failed">Código de desbloqueio com erro</string>
+    <string name="jp_sb_unlock_success">Código de desbloqueio verificado com sucesso</string>
     <string name="jump_to_mobile_network_setting">Definições de rede móvel</string>
     <string name="kddi_sim_lock_status_allowed">Permitido</string>
     <string name="kddi_sim_lock_status_code">Código</string>

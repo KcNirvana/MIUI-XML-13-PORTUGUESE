@@ -170,6 +170,7 @@ Introduza o número de telefone associado ao o seu novo cartão SIM para reactiv
     <string name="privacy_revoke_failed_msg_tip">Permitir que este serviço aceda ao seu número de telefone primeiro</string>
     <string name="privacy_revoke_tips">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
     <string name="sim_activate_failed">Não foi possível activar serviço</string>
+    <string name="sim_activate_notificat_channel">Notificações de activação</string>
     <string name="sim_activate_prepare">Activar serviço</string>
     <string name="sim_activated_failed_msg">Não foi possível activar o serviço. Toque para tentar novamente</string>
     <string name="sim_unactivated_feature_title">\"%s\" não foi activado</string>

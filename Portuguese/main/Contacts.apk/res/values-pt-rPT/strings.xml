@@ -432,6 +432,11 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_finished_title">Importação de vCard %s concluída</string>
     <string name="insertContactDescription">Criar contacto</string>
     <string name="invalidContactMessage">O contacto não existe</string>
+    <string name="invisible_mode_dialog_cancel">Cancelar</string>
+    <string name="invisible_mode_dialog_to_close">Desligar</string>
+    <string name="invisible_mode_title">Está anónimo</string>
+    <string name="invisible_mode_unable_connect_camera">Desligar o modo anónimo para poder utilizar a câmara. Desligar agora?</string>
+    <string name="invisible_mode_unable_get_location">Desligar o modo anónimo para poder utilizar a localização e importar contactos de outros dispositivos via Bluetooth. Desligar agora?</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Utilize o armazenamento interno do dispositivo</string>
     <string name="label_custom_type">Personalizar</string>

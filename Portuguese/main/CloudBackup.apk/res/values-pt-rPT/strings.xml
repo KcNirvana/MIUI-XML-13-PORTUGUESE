@@ -64,7 +64,7 @@ Tente novamente"</string>
     <string name="click_try_to_restore_again">Toque para tentar novamente</string>
     <string name="cloud_app_backup_success">Cópia das aplicações com sucesso</string>
     <string name="cloud_app_check_data">Em ligação com a Xiaomi Cloud…</string>
-    <string name="cloud_app_current_device">Dispositivo actual</string>
+    <string name="cloud_app_current_device">dispositivo actual</string>
     <string name="cloud_app_dont_restore">Configurar como um novo dispositivo</string>
     <string name="cloud_app_no_data">Sem cópias</string>
     <string name="cloud_app_no_network">Não é possível ligar à rede</string>

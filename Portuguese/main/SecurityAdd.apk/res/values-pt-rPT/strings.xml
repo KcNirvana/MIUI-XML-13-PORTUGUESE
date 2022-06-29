@@ -60,7 +60,7 @@
     <string name="gamebox_no_network_btn">Actualizar</string>
     <string name="gb_adv_touch_adv_title">Modo Clássico (predefinição)</string>
     <string name="gb_adv_touch_custom1">Resposta de deslize</string>
-    <string name="gb_adv_touch_custom2">Sensibilidade a toques contínuos</string>
+    <string name="gb_adv_touch_custom2">Sensibilidade a toques</string>
     <string name="gb_adv_touch_custom3">Precisão de mira</string>
     <string name="gb_adv_touch_custom4">Estabilidade do toque</string>
     <string name="gb_adv_touch_custom_tip1">Uma resposta de deslize mais alta aumenta a velocidade de reacção deste gesto, enquanto que uma resposta de deslize mais baixa torna este gesto mais estável</string>
@@ -76,7 +76,7 @@
     <string name="gb_advance_settings_edge_gear4">Grande</string>
     <string name="gb_advance_settings_edge_suppression">Área resistente ao toque</string>
     <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximo das laterais para evitar a activação dos controlos de toque. Segure o seu dispositivo nas áreas destacadas para manter os altifalantes destapados</string>
-    <string name="gb_advance_settings_finger_up">Sensibilidade a toques contínuos</string>
+    <string name="gb_advance_settings_finger_up">Sensibilidade a toques</string>
     <string name="gb_advance_settings_follow_up">Resposta do toque</string>
     <string name="gb_advance_settings_reset">Restaurar definições predefinidas</string>
     <string name="gb_advance_settings_reset_button">Restaurar</string>

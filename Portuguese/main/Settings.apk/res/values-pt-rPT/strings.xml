@@ -2964,6 +2964,10 @@ Se isto continuar a acontecer, pode ser necessário desinstalar a aplicação pa
     <string name="dpp_sharing_wifi_summary">A partilhar Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi partilhado</string>
     <string name="draw_overlay">Sobreposição de aplicações</string>
+    <string name="dsda_close_toast">Modo dual activo desligado. Reiniciar para aplicar alterações</string>
+    <string name="dsda_open_toast">Modo dual activo ligado. Reiniciar para aplicar alterações</string>
+    <string name="dsda_switch_summary">Permitir que ambos os SIMs utilizem os dados móveis e efectuem chamadas ao mesmo tempo</string>
+    <string name="dsda_switch_title">Modo dual activo</string>
     <string name="dsds_activation_failure_body_msg1">Remover SIM e inserir novamente. Se o problema continuar, reiniciar o dispositivo</string>
     <string name="dsds_activation_failure_body_msg2">Experimentar ligar o SIM novamente. Se o problema continuar, reiniciar o dispositivo</string>
     <string name="dsds_activation_failure_title">Não é possível activar o SIM</string>
@@ -3965,6 +3969,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="imei_information_summary">Informações relativas ao IMEI</string>
     <string name="imei_information_title">Informações do IMEI</string>
     <string name="imei_multi_sim">IMEI (ranhura %1$d)</string>
+    <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="immediately_destroy_activities">Não manter actividades</string>
     <string name="immediately_destroy_activities_summary">Terminar todas as actividades assim que forem abandonadas</string>
     <string name="importance_default">Alta</string>
@@ -7885,6 +7890,7 @@ Possivelmente o código PIN está incorrecto"</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_status_title">Estado do SIM</string>
     <string name="sim_status_title_sim_slot">Estado do SIM (ranhura %1$d)</string>
+    <string name="sim_status_title_sim_softbank">Estado do SIM %1$d</string>
     <string name="sim_switch_button">Switch</string>
     <string name="sim_switch_channel_id">Carrier switching</string>
     <string name="simulate_color_space">Simular espaço de cor</string>
@@ -8126,6 +8132,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="status_network_type">Tipo de rede móvel</string>
     <string name="status_number">O meu número de telefone</string>
     <string name="status_number_sim_slot">Número de telefone (ranhura %1$d)</string>
+    <string name="status_number_sim_softbank">Número de telefone %1$d</string>
     <string name="status_number_sim_status">Número de telefone no SIM</string>
     <string name="status_operator">Rede</string>
     <string name="status_prl_version">Versão PRL</string>
@@ -8480,6 +8487,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="suggestions_title_v2">Sugerido para si</string>
     <string name="sum_carrier_select">Escolher uma operadora de rede</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
+    <string name="sunlight_low_power_notification">Não é possível ligar o Modo Luz Solar. A bateria está demasiado fraca</string>
     <string name="sunlight_mode">Modo Luz Solar</string>
     <string name="sunlight_mode_summary">Ajustar brilho à luz solar intensa quando o brilho automático estiver desligado</string>
     <string name="super_resolution_access_title">Aplicações acessíveis</string>
@@ -10616,6 +10624,10 @@ Para trocar entre funcionalidades, deslize para cima com 3 dedos e segure"</stri
     <string name="application_mode_name">Layouts da aplicação</string>
     <string name="at_most_one_process">No máximo %d processos</string>
     <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Necessário reiniciar o Bluetooth para aplicar as alterações. As ligações pode ser interrompidas por esta acção. Reiniciar o Bluetooth mesmo assim?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Cancelar</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reiniciar</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Reiniciar Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Utilizar protocolos P2P de alta velocidade para transferências Bluetooth</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptável vai fornecer reprodução de alta qualidade e baixar a latência de áudio de jogos e vídeos enquanto aumento o consumo de bateria. A reprodução pode ser interrompida devido a limitações de hardware Bluetooth</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Trocar para aptX Adaptável?</string>

@@ -211,6 +211,7 @@
     <string name="empty_page_no_artist">Sem artistas</string>
     <string name="enabled">Ligado</string>
     <string name="enter_garbage_clean">Limpar armazenamento interno</string>
+    <string name="entertainment">Entretenimento</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classical</string>
@@ -317,7 +318,8 @@
     <string name="local_page_playlist">Listas de reprodução</string>
     <string name="long_press_to_select_lyric">Prima e segure para escolher a letra</string>
     <string name="lrc_search_failed">A letra não foi encontrada</string>
-    <string name="lrc_searching">A pesquisar a letra da música…</string>
+    <string name="lrc_searching">A pesquisar…</string>
+    <string name="ludo_tab_guide">Ver as nossas novas salas de Música</string>
     <string name="lyric_is_empty">A letra não está disponível</string>
     <string name="lyric_label">Letras</string>
     <string name="lyric_open_other_connect">Transferir a letra utilizando dados móveis</string>
@@ -696,6 +698,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
     <string name="vip_required_with_song">Para reproduzir “%s” necessita de obter um Pacote Músicas Premium</string>
     <string name="vip_tomorrow_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente amanhã à noite. Certifique-se que tem Mi Credits suficientes na sua conta para concluir o pagamento</string>
     <string name="vip_tomorrow_renew_message">Não vai poder fazer stream em alta qualidade mas algumas músicas vão estar disponíveis na qualidade normal</string>
+    <string name="welcome_to_entertainment">Ver as novas funcionalidades de entretenimento</string>
     <string name="wifi_required_body" formatted="false">"Ligue-se ao Wi-Fi para concluir esta %s transferência.
 
 Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi"</string>

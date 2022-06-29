@@ -1092,6 +1092,7 @@ Veja as recomendadas!"</string>
     <string name="status_unread">Não lido</string>
     <string name="stick">Fixar</string>
     <string name="stick_conversation">Fixar a conversa actual</string>
+    <string name="sticked">Fixado com sucesso</string>
     <string name="sticked_conversation">Já fixou a conversa actual</string>
     <string name="storage_dialog_attachments">Anexos MMS:</string>
     <string name="storage_dialog_available_space">Espaço disponível:</string>
@@ -1230,6 +1231,7 @@ Tentativas efectuadas: %s"</string>
     <string name="unknown_sender">Desconhecido</string>
     <string name="unstick">Soltar</string>
     <string name="unstick_conversation">Soltar a conversa actual</string>
+    <string name="unsticked">Soltado com sucesso</string>
     <string name="unsticked_conversation">Já soltou a conversa actual</string>
     <string name="unsubscribe">Cancelar subscrição</string>
     <string name="unsupported_media_format">Formato %1$s não suportado</string>

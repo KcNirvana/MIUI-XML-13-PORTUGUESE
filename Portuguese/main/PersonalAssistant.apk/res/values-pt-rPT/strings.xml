@@ -748,7 +748,6 @@
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Selected %1$s, row %2$d, number %3$d. Double tap to view details.</string>
     <string name="pa_picker_empty">"Widgets aren't available in this version of the app. 
 Stay tuned!"</string>
-    <string name="pa_picker_home_app_group_title">Supported widgets</string>
     <string name="pa_picker_list_recommend">Recommended</string>
     <string name="pay_card_pack">Mi Pay</string>
     <string name="paycode_parent">Alipay</string>

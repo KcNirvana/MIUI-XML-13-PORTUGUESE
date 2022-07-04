@@ -107,7 +107,6 @@
     <string name="app_description_content">Música é uma aplicação de sistema que contém um leitor de áudio e permite a gestão de ficheiros áudio. Ainda vai poder reproduzir ficheiros áudio após remover do ecrã inicial</string>
     <string name="app_description_title">Remover \"Música\" do ecrã inicial?</string>
     <string name="app_label">Transferências</string>
-    <string name="app_name">liveeventbus</string>
     <string name="app_permission_confirm">Percebi</string>
     <string name="app_permission_optional">Permissões opcionais</string>
     <string name="app_permission_require">Permissões obrigatórias</string>

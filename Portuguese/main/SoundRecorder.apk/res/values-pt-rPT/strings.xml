@@ -41,9 +41,9 @@
     <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente no seu dispositivo</string>
     <string name="dialog_privacy_revoke_tips">Após revogar a autorização, a aplicação vai parar de reunir dados e todos os dados relacionados vão ser eliminados. Revogar autorização mesmo assim?</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
-    <string name="duration_format_hour">%sh</string>
-    <string name="duration_format_minute">%sm</string>
-    <string name="duration_format_second">%ss</string>
+    <string name="download">Transferir</string>
+    <string name="download_pause">Transferência pausada. Toque para retomar</string>
+    <string name="downloading">A transferir. Toque para pausar</string>
     <string name="empty_recognition_tip">Vazio</string>
     <string name="empty_tips">Toque no notão para iniciar a gravação</string>
     <string name="error_app_internal">Verifique se existe outra aplicação a utilizar a funcionalidade de gravação</string>

@@ -3331,7 +3331,8 @@ O desbloqueio facial é menos seguro que PIN, palavra-passe ou padrão. O seu di
     <string name="face_unlock_offset_right">Ande para a esquerda</string>
     <string name="face_unlock_offset_top">Levante o seu telefone</string>
     <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
-    <string name="face_unlock_prompt">Pedido de desbloqueio facial</string>
+    <string name="face_unlock_prompt">"Gravar dados do rosto
+de frente para o ecrã externo"</string>
     <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
     <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
     <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
@@ -3631,6 +3632,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
     <string name="freeform_guide_settings">Janelas flutuantes</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Premir e segurar a parte inferior da janela e mover para o canto superior direito
+Esta funcionalidade apenas está disponível quando a navegação está definida para gestos"</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Premir e segurar a parte inferior da janela e arrastar para o topo do ecrã.
 Esta funcionalidade apenas está disponível quando a navegação está definida para gestos"</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
@@ -5125,6 +5128,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver a utilizar auriculares</string>
     <string name="miheadset_auto_ack_mode_summary">Atender chamadas automaticamente</string>
     <string name="miheadset_auto_answer_call">Atender chamadas automaticamente</string>
+    <string name="miheadset_auto_upgrade_reminder">Desligar actualizações automáticas e verificar novamente</string>
     <string name="miheadset_bluetooth_audio_title">Taxa de amostragem de áudio LC3plus Bluetooth</string>
     <string name="miheadset_bright">Brilhante</string>
     <string name="miheadset_call_assist">Mi IA</string>

@@ -259,6 +259,9 @@
     <string name="moment">Momentos</string>
     <string name="monet">Lagoa do lírio</string>
     <string name="mountainspring">Nascente</string>
+    <string name="mw_guide_dialog_button_confirm">Percebi</string>
+    <string name="mw_guide_dialog_message">Esta aplicação não suporta janelas paralelas. Alterado para outro layout compatível</string>
+    <string name="mw_guide_dialog_title">Janelas paralelas não suportadas"</string>
     <string name="nearby_share">Nearby Share</string>
     <string name="notice_audition">Sons da natureza</string>
     <string name="notification_channel_hotspot">Notificações de PA Móvel</string>

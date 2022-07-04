@@ -105,6 +105,7 @@
     <string name="create_again">Actualizar</string>
     <string name="crop_cancel_description">Cancelar</string>
     <string name="crop_done_description">Concluído</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">A área de selecção tem de ter quatro lados</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">O quadrilátero de corte não pode ser um quadrilátero côncavo e o ângulo máximo não pode exceder 140 graus</string>
     <string name="crop_title_study">Recortar a foto</string>
     <string name="crop_title_translation">Seleccionar texto para traduzir</string>
@@ -247,6 +248,8 @@
     <string name="link_to_network">Ligar</string>
     <string name="local_ocr_recognition">Reconhecimento OCR</string>
     <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
+    <string name="location_permission_message">Para ligar ao Wi-Fi</string>
+    <string name="location_permissions_text">Permitir o acesso à localização nas Definições para poder utilizar esta funcionalidade</string>
     <string name="logistics">Entrega rápida</string>
     <string name="logout_service">Remover consentimento</string>
     <string name="low_version_tip">A versão da MIUI é muito antiga. Actualize a versão para utilizar o Digitalizador</string>
@@ -292,6 +295,9 @@
     <string name="no_storage">Sem armazenamento interno</string>
     <string name="no_support_to_translate_type">Este idioma não é suportado</string>
     <string name="not_insert_contact">Não é possível adicionar contacto</string>
+    <string name="not_network">Não foi possível ligar à rede. Aguarde um momento e tente novamente</string>
+    <string name="not_permissions_hint">Permitir o acesso à câmara para poder utilizar esta funcionalidade</string>
+    <string name="not_permissions_title">Permissões necessárias</string>
     <string name="not_recommend_access_web_url">Ir mesmo assim</string>
     <string name="not_set">Não definido</string>
     <string name="note">Observação:</string>
@@ -485,8 +491,8 @@
     <string name="title_desktop_uninstall">Desinstalar Digitalizador?</string>
     <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>
     <string name="to_pay">Concluir pagamento</string>
-    <string name="toast_net_2g">Rede fraca. Altere a rede e tente novamente</string>
-    <string name="toast_net_timeout">Pedido expirado. Tente novamente mais tarde</string>
+    <string name="toast_net_2g">Não foi possível ligar à rede. Troque de rede e tente novamente</string>
+    <string name="toast_net_timeout">Pedido expirado. Aguarde um momento e tente novamente</string>
     <string name="toinstall">Transferir</string>
     <string name="translate_auto_lock">Bloquear tradução</string>
     <string name="translate_auto_unlock">Desbloquear tradução</string>
@@ -582,6 +588,7 @@ quer digitalizar com Mi IA"</string>
     <string name="examples_text_guide">Como digitalizar texto</string>
     <string name="form_demo_dialog_negative">Tocar para digitalizar tabela e exportar para um ficheiro Excel</string>
     <string name="form_excel_save_sucess">Ficheiro Excel guardado com sucesso</string>
+    <string name="form_preview_title">Pré-visualização da tabela Excel</string>
     <string name="form_recognition_crop_hint">Certifique-se que os cantos da tabela estão dentro da área seleccionada</string>
     <string name="history_list_is_empty2">Os documentos vão aparecer aqui</string>
     <string name="how_to_scan_form">Como digitalizar tabelas</string>

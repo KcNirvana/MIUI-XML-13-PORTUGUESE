@@ -16,4 +16,8 @@
         <item quantity="other">Importado com sucesso (%1$d itens duplicados filtrados)</item>
         <item quantity="one">Importado com sucesso (%1$d item duplicado filtrado)</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caracteres acima do limite</item>
+        <item quantity="one">%d caracter acima do limite</item>
+    </plurals>
 </resources>

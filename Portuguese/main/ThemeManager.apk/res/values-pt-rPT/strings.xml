@@ -293,6 +293,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
     <string name="item_view_role_description">Separador</string>
     <string name="lab">Funcionalidades Beta</string>
     <string name="like_list">Itens que gostei</string>
+    <string name="label">Etiquetas</string>
     <string name="live_wallpaper">Papéis de parede animados</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_picture">A carregar imagem…</string>

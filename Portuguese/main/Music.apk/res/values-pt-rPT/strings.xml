@@ -107,6 +107,7 @@
     <string name="app_description_content">Música é uma aplicação de sistema que contém um leitor de áudio e permite a gestão de ficheiros áudio. Ainda vai poder reproduzir ficheiros áudio após remover do ecrã inicial</string>
     <string name="app_description_title">Remover \"Música\" do ecrã inicial?</string>
     <string name="app_label">Transferências</string>
+    <string name="app_name">liveeventbus</string>
     <string name="app_permission_confirm">Percebi</string>
     <string name="app_permission_optional">Permissões opcionais</string>
     <string name="app_permission_require">Permissões obrigatórias</string>
@@ -261,7 +262,6 @@
     <string name="click_to_shuffle">Toque para misturar tudo</string>
     <string name="close">Close</string>
     <string name="close_country_code_content_description">Delete country code</string>
-    <string name="close_music_time">"Time remaining: "</string>
     <string name="coin_coins">coins</string>
     <string name="coin_hint_balance">Balance</string>
     <string name="coin_hint_nocoins">Not enough coins, top up now.</string>
@@ -281,15 +281,11 @@
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
     <string name="common_communication_failed">Data acquisition failed</string>
-    <string name="confirm">OK</string>
     <string name="confirm_activate_email">Verified</string>
     <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
-    <string name="confirm_exit">Save changes?</string>
     <string name="confirm_hide_income_content">Confirm to turn off the heartbeat value, after closing, the heartbeat value on the current microphone will be cleared</string>
     <string name="confirm_new_pwd">Confirm new password</string>
     <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
-    <string name="connect_now">Connect</string>
-    <string name="connecting_apk">Connecting…</string>
     <string name="connection_error">"There may be something wrong with the network~
 Please check your network"</string>
     <string name="contact_service">Email: %1$s</string>
@@ -385,7 +381,6 @@ Please check your network"</string>
     <string name="cr_whether_finish_order">Whether to end the current dispatch</string>
     <string name="cr_yes">Yes</string>
     <string name="create_account">Create an account</string>
-    <string name="create_order_fail">Failed to create payment, please try again</string>
     <string name="create_order_fail">Não foi possível criar encomenda. Tente novamente</string>
     <string name="create_playlist">Criar nova lista de reprodução</string>
     <string name="create_playlist_failure">Não foi possível criar lista de reprodução</string>
@@ -1267,23 +1262,12 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="October">October</string>
     <string name="September">September</string>
     <string name="Updated_at">"Updated: "</string>
-    <string name="account_logout">Sign out</string>
     <string name="action_item_play_video">Play music video</string>
     <string name="add_to_playlist">Add to queue</string>
     <string name="album_cover">Album cover</string>
     <string name="album_is_empty">Album name can not be empty.</string>
     <string name="always_use_metered">Always use mobile data</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_permission_confirm">Got it</string>
-    <string name="app_permission_optional">Optional permissions</string>
-    <string name="app_permission_require">Mandatory permissions</string>
-    <string name="app_permission_use_desc">Permissions</string>
-    <string name="app_permission_use_group_account">Accounts</string>
-    <string name="app_permission_use_group_account_desc">For getting Mi Account info</string>
-    <string name="app_permission_use_group_phone">Phone</string>
-    <string name="app_permission_use_group_phone_desc">For Google Push services</string>
-    <string name="app_permission_use_group_storage">Storage</string>
-    <string name="app_permission_use_group_storage_desc">For finding and playing songs saved on device</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="auto_recommend">Auto (recommended)</string>
@@ -1293,8 +1277,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="back">Back</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="buy_vip_skip_ad">Remove ads</string>
-    <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
-    <string name="change_download_quality">Change download quality</string>
     <string name="checking_new_version">Checking for updates…</string>
     <string name="choose_music_lang_pref">Preferred languages for songs</string>
     <string name="click_and_watch_video_tip">Tap to play music video</string>
@@ -1337,7 +1319,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="dialog_score_toast_rate">Rate our app first</string>
     <string name="dialog_score_toast_scroll_down_score_midrop">Scroll down to rate our app</string>
     <string name="dialog_subtitle_make_playlist_public">Public playlists are available to other people. Private playlists are only visible to you on all synced devices.</string>
-    <string name="discover_more_music">Discover more songs</string>
     <string name="do_not_remind_this_version">"Don't remind me about this version"</string>
     <string name="do_not_support_google_voice_search">"Google Voice Search isn't supported on your device."</string>
     <string name="download_added_to_list">Added to download list</string>
@@ -1362,14 +1343,12 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="downloading_apk">Downloading… View progress in the Notification shade.</string>
     <string name="downloading_pause_apk">Paused. Resume download in the Notification shade.</string>
     <string name="due_date">Due date: %s</string>
-    <string name="edit_playlist_info">Edit playlist info</string>
     <string name="enjoy_hungama_pro">Enjoy Hungama PRO</string>
     <string name="error_icon_content_description">Error</string>
     <string name="error_message_no_internet_connection">Could not connect to internet. Please check your internet connection and try again.</string>
     <string name="error_message_something_went_wrong">Something went wrong please try again.</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="facebook_not_installed">Install Facebook first.</string>
-    <string name="fans">Followers</string>
     <string name="fav_login_msg">Sign in to your Mi Account to download songs</string>
     <string name="favorite_to_playlist">Add to playlist</string>
     <string name="get_more_favorite_content_after_login">Sign in to discover more songs and videos.</string>

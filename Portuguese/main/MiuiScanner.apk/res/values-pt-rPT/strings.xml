@@ -598,7 +598,6 @@ quer digitalizar com Mi IA"</string>
     <string name="module_title_form">Tabela</string>
     <string name="module_title_new_document">Digitalizar documento</string>
     <string name="not_identification_form">Não foi possível reconhecer a tabela. Seleccione novamente e comece de novo</string>
-    <string name="not_network">Não foi possível ligar à rede. Aguarde um momento e tente novamente</string>
     <string name="ocr_plant_loading">Aguarde…</string>
     <string name="open_file_error">Não é possível abrir ficheiro</string>
     <string name="recognition_form_fail_10010">Erro 010: Não foi possível reconhecer. Aguarde um momento e tente novamente</string>

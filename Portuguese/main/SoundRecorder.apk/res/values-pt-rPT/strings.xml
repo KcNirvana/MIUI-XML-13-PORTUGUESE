@@ -243,7 +243,6 @@
     <string name="wifi_recommended_body" formatted="false">Se utilizar a sua ligação de dados móveis para transferir este ficheiro (%s) vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais. Para aguardar por uma ligação Wi-Fi para transferir este ficheiro toque em %s</string>
     <string name="wifi_recommended_title">Aviso de utilização de dados</string>
     <string name="allowed">Concedida</string>
-    <string name="download">Transferir</string>
     <string name="err_msg_abandon">Order was abandoned</string>
     <string name="err_msg_complete">Order was completed</string>
     <string name="err_msg_convert_fail">"Couldn't convert"</string>

@@ -5140,6 +5140,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_cancel_device">Cancelar</string>
     <string name="miheadset_checkUpdate">Verificar actualizações</string>
     <string name="miheadset_closeAnc">Desligado</string>
+    <string name="miheadset_close_leaudio_first">Desligar o áudio LE nas definições adicionais para poder utilizar esta funcionalidade</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Ligar os auriculares para ver a versão de firmware</string>
     <string name="miheadset_connect_play_music">Inicar a reprodução automática quando ligar os auriculares</string>
@@ -5228,6 +5229,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_notification_title">Mostrar na área de notificações</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Redução de ruído</string>
+    <string name="miheadset_openAnc2">Redução de ruído</string>
     <string name="miheadset_play_pause">Reproduzir/Pausar</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Preferências</string>
@@ -9323,8 +9325,9 @@ Toque no botão (+) para adicionar palavras"</string>
     <string name="virtual_sim_global_description">Ligar a redes de dados sem cartão SIM</string>
     <string name="virtual_sim_global_title">Serviço de dados móveis</string>
     <string name="virtual_sim_title">Rede de dados roaming</string>
-    <string name="virtual_surround_sound_switch_summary">"Enrich sound depth for audio and video playback in headphones (This feature won't work when %.1f audio is played)"</string>
-    <string name="virtual_surround_sound_switch_title">Virtual immersive sound</string>
+    <string name="virtual_surround_sound_switch_summary">Melhorar a profundidade do som para reprodução de áudio e vídeo em auriculares</string>
+    <string name="virtual_surround_sound_switch_summary_global">Melhorar a profundidade do som para reprodução de áudio e vídeo em auriculares. Esta funcionalidade não vai funcionar quando o LDAC estiver ligado</string>
+    <string name="virtual_surround_sound_switch_title">Efeitos sonoros imersivoss</string>
     <string name="virus_scan">Verificar vírus</string>
     <string name="virus_scan_app_continue">Retomar verificação</string>
     <string name="virus_scan_app_find_risk">%d riscos encontrados</string>

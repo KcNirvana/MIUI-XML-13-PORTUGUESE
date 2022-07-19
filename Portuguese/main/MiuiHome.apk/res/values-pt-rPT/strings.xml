@@ -627,7 +627,7 @@
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
     <string name="upgrade_remove_small_window_in_recents">Pode utilizar a barra lateral para abrir aplicações em janelas flutuantes</string>
-    <string name="unstable_dialog_message">Este dispositivo está no programa Android 12 Developer Preview. Isto permite que os programadores de Android experimentem versões pre-release do Android 12. Esta versão pode conter erros e defeitos</string>
+    <string name="unstable_dialog_message">Este dispositivo está no programa Android 13 Developer Preview. Isto permite que os programadores de Android experimentem versões pre-release do Android 13. Esta versão pode conter erros e defeitos</string>
     <string name="unstable_dialog_title">Programa Android Developer Preview</string>
     <string name="wallpaper">Papel de parede</string>
     <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
@@ -696,6 +696,7 @@
     <string name="copy">Copiar</string>
     <string name="drag_icon_to_homescreen_guide">Premir e segurar o ícone da aplicação e depois arraste-a para adicionar um atalho no ecrã inicial</string>
     <string name="exit_overview_because_task_stack_changed">Recentes fechado devido a alterações em segundo plano</string>
+    <string name="external_not_support_split_screen_j18">O ecrã dividido não é suportado em ecrãs externos</string>
     <string name="garbage_count">Existem %1$s instâncias antigas</string>
     <string name="got_it_botton">Percebi</string>
     <string name="guide_permission_title">Permissões necessárias</string>

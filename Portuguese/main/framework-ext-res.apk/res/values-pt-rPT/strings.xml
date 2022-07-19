@@ -156,6 +156,7 @@
     <string name="flip_screen_camera_tip">Vire o dispositivo para utilizar a câmara</string>
     <string name="flute">Flauta</string>
     <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
+    <string name="fold_small_not_split">O ecrã dividido não é suportado em ecrãs externos</string>
     <string name="force_exit_message">Encerramento forçado de %1$s</string>
     <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema</string>
     <string name="fourhours">2 horas</string>

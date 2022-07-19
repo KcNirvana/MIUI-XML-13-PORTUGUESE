@@ -816,6 +816,7 @@
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_start_check">Verificar</string>
     <string name="btn_text_stop">Parar</string>
+    <string name="bubble_app_empty_page">Não foi possível localizar aplicações que suportem as bolhas de conversa</string>
     <string name="bubble_app_manage">Gerir bolhas de conversas</string>
     <string name="bubble_notification">Bolhas de conversas</string>
     <string name="bubble_notification_switch">Mostrar bolhas de conversas</string>
@@ -5314,9 +5315,9 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="signed_rule_two_new">%d. You can get only 1 Xunyou boost per month.</string>
     <string name="storage_app_public_desc">Ocupa %s, incluindo ficheiros gerados no armazenamento partilhado</string>
     <string name="storage_app_public_title">Ficheiros partilhados</string>
-    <string name="storage_fbo_clear">Desfragmentação</string>
-    <string name="storage_fbo_des">O armazenamento interno está fragmentado, o que pode diminuir significativamente o seu dispositivo. A desfragmentação é efectuada automaticamente enquanto não estiver a utilizar o dispositivo. Organiza fisicamente os seus ficheiros num menor número de fragmentos, reduzindo o lag</string>
-    <string name="storage_fbo_number_tip">Unido em %1$s</string>
+    <string name="storage_fbo_clear">Actualização de armazenamento FBO</string>
+    <string name="storage_fbo_des">O armazenamento interno está fragmentado, o que pode diminuir significativamente o seu dispositivo. A actualização de armazenamento FBO é efectuada automaticamente enquanto não estiver a utilizar o dispositivo. Organiza fisicamente os seus ficheiros num menor número de fragmentos, reduzindo o lag</string>
+    <string name="storage_fbo_number_tip">Processado em %1$s</string>
     <string name="storage_fbo_tools">Optimização de armazenamento</string>
     <string name="storage_file_delete_tip">Eliminar os itens seleccionados permanentemente? Alguns deles podem ser carregados novamente quando necessário</string>
     <string name="storage_file_dialog_delete_title">Eliminar itens</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar mais</string>
     <string name="action_folder_description">Ver pastas</string>
@@ -319,6 +320,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="network_error_info">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
+    <string name="network_timeout_info">Não foi possível ligar à rede. Tente novamente</string>
     <string name="new_app_name">Notas</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
     <string name="new_audio_create_done_talkback_des">Criado</string>
@@ -437,6 +440,7 @@
     <string name="privacy_note_content_empty">Sem itens</string>
     <string name="private_entry_available">Solte para abrir pastas privadas</string>
     <string name="private_entry_default">Puxe para abrir pastas privadas</string>
+    <string name="progressbar_title">A verificar problemas de segurança…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">As notas rápidas permitem criar notas e excertos</string>
     <string name="recover_notes_hint">Ocorreu um erro. Vá a i.mi.com para restaurar as notas</string>
@@ -530,6 +534,7 @@
     <string name="sync_note_folder">%1$s e %2$s</string>
     <string name="sync_note_todo">%1$s e %2$s</string>
     <string name="sync_tips">Toque para sincronizar notas com a Xiaomi Cloud</string>
+    <string name="system_error_info">Sistema ocupado. Aguarde um momento e tente novamente</string>
     <string name="theme_blue_description">Azul</string>
     <string name="theme_green_description">Verde</string>
     <string name="theme_red_description">Vermelho</string>
@@ -655,6 +660,7 @@ Dê permissão a Notas para gravar áudio"</string>
     <string name="trash_folder_reminder_new">As notas são mantidas no lixo por %d dias antes de serem eliminadas permanentemente</string>
     <string name="unclassfied_folder_name">Sem categoria</string>
     <string name="undo">Anular</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unknown_source">Fonte desconhecida</string>
     <string name="view_all_notes">Ver todas</string>
     <string name="warn_cannot_add_new_bullet">Não é possível adicionar uma nova lista de verificação porque a nota é demasiado longa</string>

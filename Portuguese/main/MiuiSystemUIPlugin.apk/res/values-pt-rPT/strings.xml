@@ -29,6 +29,7 @@
     <string name="controls_favorite_removed">Todos as definições removidas</string>
     <string name="controls_favorite_subtitle">Escolha as definições para aceder ao menu de energia</string>
     <string name="controls_favorite_toast_no_changes">As alterações não foram guardadas</string>
+    <string name="controls_media_title">Multimédia</string>
     <string name="controls_menu_add">Adicionar definições</string>
     <string name="controls_menu_edit">Editar definições</string>
     <string name="controls_mijia_setup_subtitle">Seleccionar aplicações para adicionar e gerir dispositivos</string>

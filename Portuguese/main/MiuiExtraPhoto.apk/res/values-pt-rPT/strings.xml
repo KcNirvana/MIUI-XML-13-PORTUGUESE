@@ -20,7 +20,7 @@
     <string name="doc_photo_enhance_dehandwrite">Eliminar notas</string>
     <string name="doc_photo_enhance_dehandwrite_desc">Eliminar notas escritas à mão com um toque</string>
     <string name="doc_photo_enhance_effect">Efeitos</string>
-    <string name="doc_photo_enhance_handmode_remove">Eliminar manualment</string>
+    <string name="doc_photo_enhance_handmode_remove">Eliminar manualmente</string>
     <string name="doc_photo_enhance_moer">Remover moiré</string>
     <string name="doc_photo_enhance_moer_desc">Remover padrões de ecrã moiré</string>
     <string name="doc_photo_enhance_moer_toast">Remover padrões de ecrã moiré</string>
@@ -28,6 +28,7 @@
     <string name="doc_photo_enhance_undistortion">Anti-Distorção</string>
     <string name="doc_photo_enhance_undistortion_desc">Corrigir a distorção da imagem</string>
     <string name="doc_photo_enhance_undistortion_version4">Endireitar</string>
+    <string name="doc_photo_enter_hand_remove">Tocar para eliminar manualmente</string>
     <string name="doc_photo_handwrite_recover">Restaurar</string>
     <string name="doc_photo_handwrite_remove">Eliminar</string>
     <string name="doc_photo_idcard_alert_msg">Rejeitar todas as alterações e sair do editor?</string>
@@ -37,6 +38,7 @@
     <string name="doc_photo_no_remind">Não mostrar novamente</string>
     <string name="doc_photo_not_save">Não guardar</string>
     <string name="doc_photo_not_support">Não é possível editar esta imagem como documento</string>
+    <string name="doc_photo_remind">Atenção</string>
     <string name="doc_photo_save_effect_toast">Guardar alterações agora?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-Distorção desligada</string>
     <string name="doc_photo_toast_undistortion_open">Anti-Distorção ligada</string>

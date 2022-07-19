@@ -1145,6 +1145,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_exchange_successful">Redeemed successfully</string>
     <string name="incentive_exchange_tip">These points are only available today</string>
     <string name="incentive_login_for_claim">Sign in to your Google account to claim points</string>
+    <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
     <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
     <string name="incentive_my_points">My points</string>
     <string name="incentive_popup_window_share">Share to earn points</string>
@@ -1177,7 +1178,8 @@ This operation won't affect your gallery pictures."</string>
     <string name="item_download_path">Localização das transferências</string>
     <string name="item_download_only_wify">Transferir apenas por Wi-Fi</string>
     <string name="item_setting_go_back">Remoção de consentimento</string>
-    <string name="just_a_second">Just a sec…</string>
+    <string name="item_title_for_search_page_hot">Tendências</string>
+    <string name="just_a_second">Aguarde…</string>
     <string name="language_later_setting_tips">You can change your language preferences in Profile > Language.</string>
     <string name="language_select_tips">"Select your preferred language
 for videos"</string>
@@ -1237,7 +1239,8 @@ para uma melhor experiência"</string>
     <string name="next_step">Next</string>
     <string name="nick_name">Nickname</string>
     <string name="no_account">Not signed in</string>
-    <string name="no_longer_prompt">"Don't show again"</string>
+    <string name="no_app_found_error">Não foi possível localizar a aplicação</string>
+    <string name="no_longer_prompt">Não mostrar novamente</string>
     <string name="no_more_content">"That's all for now"</string>
     <string name="no_network_tips">"Can't use this feature now. Network access is restricted."</string>
     <string name="no_phone">No phone number</string>
@@ -1529,6 +1532,12 @@ Update Mi Video to the latest version first."</string>
     <string name="welcome_tip_into_mivideo">Começar</string>
     <string name="welcome_tip_skip">Ignorar</string>
     <string name="welcome_tip_title">Bem-vindo a Vídeos</string>
+    <string name="widget_local_video">Dispositivo</string>
+    <string name="widget_local_video_click">Tap to watch videos stored on your device</string>
+    <string name="widget_more_channel">Mais canais</string>
+    <string name="widget_more_channel_click">Tap to see TV channels</string>
+    <string name="widget_trending_click">Tocar para ver as tendências de hoje</string>
+    <string name="widget_trending_today">Tendências de hoje</string>
     <string name="year">year</string>
     <string name="tip_login_for_your_online_playlist">Iniciar sessão para ver as suas listas</string>
     <string name="local_hide_folder_dialog_content">Os vídeos ocultos não vão ser mostrados nas suas listas</string>
@@ -1560,6 +1569,10 @@ Update Mi Video to the latest version first."</string>
     <string name="music_new_user_dialog_tip">Bem-vindo a Vídeos! Esta aplicação fornece um leitor de vídeo local e música e vídeos online</string>
     <string name="not_set">Não definido</string>
     <string name="online_play_hint">Por exemplo: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Aguarde…</string>
+    <string name="online_play_start_ready_loading_tip_b">A carregar %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">A carregar %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">A carregar %.2f MB/s</string>
     <string name="play_list_delete_title">Eliminar esta lista agora?</string>
     <string name="play_list_detial_add">Adicionar vídeos</string>
     <string name="play_list_detial_delete">Eliminar</string>
@@ -1575,7 +1588,7 @@ Update Mi Video to the latest version first."</string>
     <string name="small_video_load_more_hint">Deslizar para cima para reproduzir mais vídeos</string>
     <string name="small_video_snack_download_description">Download SnackVideo to see the latest videos from your favorite creators.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Descobrir vídeos curtos que vai amar</string>
+    <string name="small_video_tab_expose_hint">Tocar para mais vídeos curtos</string>
     <string name="subscribe_author_recommend_btn">Subscribe</string>
     <string name="subscribe_author_recommend_title">Subscribe to see the newest videos from these creators</string>
     <string name="subscribe_dialog_import_agree">Import</string>

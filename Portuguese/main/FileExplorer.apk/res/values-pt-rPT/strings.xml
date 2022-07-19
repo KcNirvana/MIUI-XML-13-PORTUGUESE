@@ -239,6 +239,8 @@
     <string name="internal_storage">Armazenamento interno</string>
     <string name="item_view_role_description">Separador</string>
     <string name="just_now">Agora mesmo</string>
+    <string name="lack_perm_msg">Ficheiros necessita das seguintes permissões para funcionar normalmente: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Permissões necessárias</string>
     <string name="launcher_icon_add_description">Adicionar um atalho ao ecrã inicial</string>
     <string name="launcher_icon_remove_description_content">Ficheiros é uma aplicação de sistema. Não vai poder gerir ficheiros após remover</string>
     <string name="launcher_icon_remove_description_title">Remover \"Ficheiros\" do ecrã inicial?</string>
@@ -249,6 +251,9 @@
     <string name="local_image">Imagens</string>
     <string name="local_music">Ficheiros de áudio</string>
     <string name="local_video">Ficheiros de vídeo</string>
+    <string name="main_button_continue">Definições</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Cancelar</string>
     <string name="make_private">Tornar privado</string>
     <string name="make_private_msg_1">Tornar este ficheiro privado?</string>
     <string name="make_private_msg_2">Tornar estes ficheiros privados?</string>
@@ -267,6 +272,7 @@
     <string name="menu_item_sort_type">Tipo</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Definir como papel de parede</string>
+    <string name="message_request_manage_external_storage_perm">Ficheiros necessita de permissões para aceder a ficheiros no seu dispositivo para gerir ficheiros. Pode conceder esta permissão em Definições</string>
     <string name="message_comment_prefix">"Comentar: "</string>
     <string name="message_my_received_praise">Os meus gostos</string>
     <string name="message_praise_comment">" gostou deste comentário</string>
@@ -400,6 +406,7 @@
     <string name="partial_delete_failure">Não foi possível eliminar alguns ficheiros. Tente novamente</string>
     <string name="partial_encrypt_success">Não foi possível tornar privado alguns ficheiros. Tente novamente</string>
     <string name="path_name_email">Email</string>
+    <string name="perm_manage_external_storage">Aceder a todos os ficheiros</string>
     <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
     <string name="permission_description">Detalhe das permissões</string>
     <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
@@ -548,6 +555,7 @@
     <string name="title_app_tags">Aplicações</string>
     <string name="title_expire_video">Mesmo a expirar</string>
     <string name="title_recent">Recentes</string>
+    <string name="title_request_manage_external_storage_perm">Permissões necessárias</string>
     <string name="title_select_volume">Escolher pasta</string>
     <string name="to_open">Definições</string>
     <string name="to_setting">Definições</string>

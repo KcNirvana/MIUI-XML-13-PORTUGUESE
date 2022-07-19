@@ -209,7 +209,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="associate_face_album">Escolher um álbum</string>
     <string name="authorize_to_device_failed">Não foi possível autorizar</string>
     <string name="authorize_watch_on_tv_failed">Não foi possível autorizar para ver na TV</string>
-    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
+    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (necessário Conta Mi)</string>
     <string name="auto_download_media_title">Transferir fotos da Xiaomi Cloud automaticamente</string>
     <string name="auto_update_face">Adicionar fotos automaticamente</string>
     <string name="auto_update_face_summary">Adicionar e corresponder fotos a um álbum de bebé automaticamente</string>
@@ -220,6 +220,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="auto_upload_disable_tip">A sincronização com a Xiaomi Cloud está desligada</string>
     <string name="auto_upload_disable_toast_long_press_menu">A sincronização com a Xiaomi Cloud está desligada</string>
     <string name="auto_upload_enable_toast_long_press_menu">A sincronização com a Xiaomi Cloud está ligada</string>
+    <string name="autocrop_enter">ProCut Xiaomi</string>
     <string name="baby_album">Álbum do bebé</string>
     <string name="baby_album_change_background">Alterar foto em segundo plano</string>
     <string name="baby_album_needs_auto_backup_tip">Não é possível desligar a sincronização dos álbuns de bebé</string>
@@ -589,11 +590,13 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="document_provider_guide_step_3">%d. Toque no botão menu lateral</string>
     <string name="document_provider_guide_step_4">%d. Seleccione \"Cartão SD\"</string>
     <string name="document_provider_guide_step_5">%d. Toque \"Seleccionar\"</string>
+    <string name="dolby_vision_icon">Ícone Dolby Vision</string>
     <string name="doodle_paint_select_heavy_talkback">Grosso</string>
     <string name="doodle_paint_select_light_talkback">Fino</string>
     <string name="doodle_paint_select_medium_talkback">Normal</string>
     <string name="doodle_paint_select_talkback">Largura do traço</string>
-    <string name="double_tap_for_hr_preview_108m">Faça duplo toque novamente para trocar para pré-visualização de 108MB</string>
+    <string name="double_tap_for_hr_preview_108m">Duplo toque novamente para trocar para pré-visualização de 108MP</string>
+    <string name="double_tap_for_hr_preview_200m">Duplo toque novamente para trocar para pré-visualização de 200MP</string>
     <string name="double_tap_to_higher_definition">Duplo toque para abrir a pré-visualização em HD</string>
     <string name="download_canceled">Transferência cancelada</string>
     <string name="download_error_format">Não foi possível transferir %s</string>
@@ -1024,6 +1027,7 @@ efeitos de fotos"</string>
     <string name="homepage_allphotos_tip_dialog_title">Que imagens quer ver em \"Fotos\"?</string>
     <string name="how_to_set_relation">Prima e segure um álbum para criar um grupo</string>
     <string name="hr_preview_108m">Trocado para pré-visualização 108MP</string>
+    <string name="hr_preview_200m">Trocado para pré-visualização 200MP</string>
     <string name="hybrid_check_network">Definições de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
@@ -1070,6 +1074,8 @@ efeitos de fotos"</string>
     <string name="input_or_select_a_name">Introduzir ou seleccionar nome</string>
     <string name="input_relation_name">Introduzir nome do grupo</string>
     <string name="install_fail">Não foi possível carregar o plugin devido a um erro</string>
+    <string name="install_media_editor_download_description">A transferir…</string>
+    <string name="install_media_editor_download_title">A transferir plug-in do editor…</string>
     <string name="install_media_editor_message">Para poder editar itens, transfira o plugin primeiro. Transferir agora?</string>
     <string name="install_media_editor_title">Transferir plugin</string>
     <string name="internal_storage_device">Armazenamento interno</string>
@@ -1740,6 +1746,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="places_album_empty_title">As fotos podem ser ordenadas por localização</string>
     <string name="play_gif_desc">Reproduzir GIF</string>
     <string name="play_video_desc">Reproduzir vídeo</string>
+    <string name="pref_today_of_year_summary">Ser lembrado dos momentos que capturou neste dia ao longo dos anos</string>
     <string name="prepare_to_drop">A guardar em %s</string>
     <string name="preparing_data">Aguarde…</string>
     <string name="print_log">Imprimir registo</string>
@@ -2016,6 +2023,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="select_image_operation">A adicionar fotos</string>
     <string name="select_item_face">"Isto é '%s'?"</string>
     <string name="select_origin_tip">Ficheiro original (%s)</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Os vídeos Dolby Vision maiores que 4 minutos apenas podem ser partilhados no formato original que pode não ser suportado no dispositivo de destino. Continuar mesmo assim?</string>
+    <string name="send_dolby_vision_video_continue">Continuar</string>
     <string name="send_file_beautify_failed">Não foi possível partilhar</string>
     <string name="send_files_by">Partilhar ficheiros via</string>
     <string name="send_files_to">Enviar itens para</string>
@@ -2380,6 +2389,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="today">Hoje</string>
     <string name="today_of_year">Neste dia</string>
     <string name="today_of_year_empty_tip">Sem memórias</string>
+    <string name="today_of_year_function_closed_btn_tip">Ligar</string>
+    <string name="today_of_year_function_closed_tip">Ainda não ligou \"Neste dia\"</string>
     <string name="today_of_year_location_num">Localizações</string>
     <string name="today_of_year_photo_num">Fotos</string>
     <string name="tomorrow">Amanhã</string>

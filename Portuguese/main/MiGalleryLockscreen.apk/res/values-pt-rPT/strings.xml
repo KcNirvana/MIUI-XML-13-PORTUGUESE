@@ -80,6 +80,7 @@
     <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
     <string name="auth_fail_warning">Sessão expirada. Inicie sessão novamente</string>
     <string name="auto_interval">Sempre que desbloquear</string>
+    <string name="back">Voltar</string>
     <string name="back_icon_content_description">Voltar</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="cancel">Cancelar</string>
@@ -104,6 +105,7 @@
     <string name="choose_to_signup">Não. Vou criar um</string>
     <string name="clear_history">Limpar histórico de pesquisa</string>
     <string name="clear_search_edittext">Limpar</string>
+    <string name="close_country_code_content_description">Eliminar código de país</string>
     <string name="close_gallery">Desligar</string>
     <string name="collect_diagnosis_log">Obter registos</string>
     <string name="comment_pop_cancel">Agora não</string>
@@ -212,6 +214,7 @@ Envie este código ao supervisor"</string>
     <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="explorer_activity_title">Papéis de parede aleatórios</string>
+    <string name="facebook_login_btn_content_description">Iniciar sessão com Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="favor_list_no_data">Sem itens</string>
     <string name="favor_list_title">Favoritos</string>
@@ -225,6 +228,7 @@ Envie este código ao supervisor"</string>
     <string name="get_ph_ticket">Obter código</string>
     <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
     <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
+    <string name="google_login_btn_content_description">Iniciar sessão com Google</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="history_list_no_data">Sem itens</string>
     <string name="hour_1">A cada hora</string>
@@ -383,6 +387,7 @@ Envie este código ao supervisor"</string>
     <string name="pull_to_refresh_pull_up_label">Puxe para actualizar</string>
     <string name="pull_to_refresh_refreshing_label">A actualizar…</string>
     <string name="pull_to_refresh_release_label">Solte para actualizar</string>
+    <string name="qq_login_btn_content_description">Iniciar sessão com QQ</string>
     <string name="recommend_switch_desc">Receive content recommendations based on your preferences</string>
     <string name="recommend_switch_dlg_close">Desligar</string>
     <string name="recommend_switch_dlg_desc">Não vai poder receber recomendações baseadas nas suas preferências se desligar esta funcionalidade</string>
@@ -564,6 +569,8 @@ Envie este código ao supervisor"</string>
     <string name="wallpaper">Papéis de parede</string>
     <string name="wallpaper_feed_title">Pode também gostar de</string>
     <string name="wallpaper_relations_title">Recomendado</string>
+    <string name="weibo_login_btn_content_description">Iniciar sessão com Weibo</string>
+    <string name="weixin_login_btn_content_description">Iniciar sessão com WeChat</string>
     <string name="wlan_download">Actualizar apenas através de Wi-Fi</string>
     <string name="wlan_download_cn">Actualizar apenas através de Wi-Fi</string>
     <string name="wm_storage_left">"Restante: "</string>

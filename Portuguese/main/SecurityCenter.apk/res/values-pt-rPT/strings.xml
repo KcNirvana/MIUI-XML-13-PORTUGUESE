@@ -1691,6 +1691,7 @@ Grave sequências e utilize-as em qualquer altura!"</string>
     <string name="gb_new_feature">Nova funcionalidade</string>
     <string name="gb_not_support_on_device">Esta aplicação não pode ser utilizada no outro ecrã</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>Não é possível trocar para o Modo Equilibrado quando o Modo Desempenho da bateria estiver ligado. Pode alterar estas definições em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
     <string name="gb_shoulder_key">Botões de ombro</string>
     <string name="gb_shoulder_key_add_show_btn">Mostrar botões virtuais durante os jogos</string>

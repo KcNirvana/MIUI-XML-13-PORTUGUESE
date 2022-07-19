@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="add_remark_hint">Introduzir observações aqui</string>
     <string name="add_remark_tip">Toque para adicionar observações</string>
     <string name="agree_description">Permita que esta aplicação se ligue à Internet para utilizar todas as suas funcionalidades</string>
@@ -81,6 +82,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="network_error_info">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
+    <string name="network_timeout_info">Não foi possível ligar à rede. Tente novamente</string>
     <string name="network_tip_dialog_cancel">Não concordar</string>
     <string name="network_tip_dialog_content">Esta aplicação necessita de ligar à Internet para funcionar normalmente. Concorda?</string>
     <string name="network_tip_dialog_ok">Permitir</string>
@@ -209,6 +212,7 @@
     <string name="status_bar_recording">A gravar…</string>
     <string name="status_bar_recording_pause">Gravação em pausa</string>
     <string name="sync_desc_state_complete">Sincronizado: %1$s</string>
+    <string name="system_error_info">Sistema ocupado. Aguarde um momento e tente novamente</string>
     <string name="tab_all">Tudo</string>
     <string name="tab_apps">Aplicações</string>
     <string name="tab_call">Chamadas</string>
@@ -238,6 +242,7 @@
     <string name="trash_box_delete_all">Eliminar todos os itens do lixo permanentemente?</string>
     <string name="uninstall_warning_content">O Gravador é uma aplicação de sistema. Não vai poder gravar e transcrever áudio e chamadas de voz depois de desinstalar</string>
     <string name="uninstall_warning_title">Desinstalar Gravador?</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="usage_description">A transcrever itens de áudio e sincronizar com a Xiaomi Cloud</string>
     <string name="user_feedback">Comentários</string>
     <string name="wifi_recommended_body" formatted="false">Se utilizar a sua ligação de dados móveis para transferir este ficheiro (%s) vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais. Para aguardar por uma ligação Wi-Fi para transferir este ficheiro toque em %s</string>
@@ -330,6 +335,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="permission_storage_description_for_manage_files">For managing recordings</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="progress">Playback progress bar</string>
+    <string name="progressbar_title">A verificar problemas de segurança…</string>
     <string name="recognition_button_add_to_queue">Add to queue</string>
     <string name="recognition_button_cancel">Not now</string>
     <string name="recognition_button_start">Transcribe</string>

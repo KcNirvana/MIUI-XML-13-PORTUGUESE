@@ -748,6 +748,9 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
     <string name="device_locked_without_biometric_face">Não é possível desbloquear este dispositivo com dados de rosto com ecrãs de bloqueio de terceiros</string>
     <string name="device_locked_without_biometric_finger">Não é possível desbloquear este dispositivo com impressão digital com ecrãs de bloqueio de terceiros</string>
     <string name="device_services">Serviços do dispositivo</string>
+    <string name="dialog_forget_password_cancel">Cancelar</string>
+    <string name="dialog_forget_password_message">Se esqueceu o seu PUK, pode desactivar este eSIM para não perder o acesso ao dispositivo. Após, deve contactar a sua operadora para o ajudar</string>
+    <string name="dialog_forget_password_ok">Desactivar</string>
     <string name="direct_boot_unaware_dialog_message">Nota: após reiniciar, só é possível iniciar esta aplicação quando o dispositivo for desbloqueado</string>
     <string name="disable_carrier_button_text">Desactivar eSIM</string>
     <string name="disable_overlays">Desactivar sobreposições HW</string>
@@ -931,6 +934,7 @@ Introduza o seu PIN"</string>
     <string name="force_rtl_layout_all_locales_summary">Forçar direcção RTL do layout do ecrã para todos os locais</string>
     <string name="forced_resizable_secondary_display">A aplicação pode não funcionar num ecrã secundário</string>
     <string name="forget_password_string">Esqueceu a palavra-passe</string>
+    <string name="forget_password_string_for_esim"><u>Esqueceu o PUK</u></string>
     <string name="fs_gesture_back_home_summary">Deslize de baixo rapidamente</string>
     <string name="fs_gesture_back_ready_title">Voltar</string>
     <string name="fs_gesture_final_over">Concluído</string>

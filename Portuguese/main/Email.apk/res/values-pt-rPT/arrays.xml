@@ -52,6 +52,8 @@
         <item>Invalid login or password</item>
         <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
         <item>java.net.UnknownHostException: Unable to resolve host</item>
+        <item>client disabled, please switch status on site https://mail.sohu.com</item>
+        <item>no initial password, please login https://mail.sohu.com to generate client password</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Minúsculo</item>

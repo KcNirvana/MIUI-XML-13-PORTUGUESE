@@ -132,7 +132,7 @@
     <string name="permission_china_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Esta aplicação necessita também de ligar à Internet para funcionar normalmente</string>
     <string name="permission_complete">Concluído</string>
     <string name="permission_contacts_info">Aceder a informações de conta</string>
-    <string name="permission_contacts_introduce">Para iniciar sessão utilizando a Conta Mi</string>
+    <string name="permission_contacts_introduce">Para iniciar sessão utilizando a Conta Xiaomi</string>
     <string name="permission_device_info">Access device info</string>
     <string name="permission_device_introduce">Para determinar o limite do período de garantia</string>
     <string name="permission_exit">Sair</string>

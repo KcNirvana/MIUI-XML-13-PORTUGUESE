@@ -259,7 +259,7 @@ em todos os seus dispositivos com Xunlei"</string>
     <string name="preferences_title">Definições</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_tip_cancel">Cancelar</string>
-    <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
+    <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Xiaomi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Utilizar Acelerador Xunlei?</string>
     <string name="quit_btn">Sair</string>
@@ -427,7 +427,7 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
     <string name="vip_speedup">Optimização de velocidade:</string>
     <string name="web_dialog_cancel">Cancelar</string>
     <string name="web_dialog_confirm">OK</string>
-    <string name="xiaomi_account_not_exist_message">Esta Conta Mi não existe</string>
+    <string name="xiaomi_account_not_exist_message">Esta Conta Xiaomi não existe</string>
     <string name="xl_annual_vip_open">Inscrição anual (%1$s Mi Credits ou %2$s mensalmente)</string>
     <string name="xl_annual_vip_renew">Renovar por 1 ano (%1$s Mi Credits ou %2$s mensalmente)</string>
     <string name="xl_bind_account">Adicionar conta Xunlei existente </string>
@@ -447,7 +447,7 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
     <string name="xl_privilege_support">Vários dispositivos</string>
     <string name="xl_privilege_title">Membro Xunlei</string>
     <string name="xl_validate_title">"Válido até:  "</string>
-    <string name="xlunbind_sub_title">Remova a sua conta Xunlei e adicione uma Conta Mi</string>
+    <string name="xlunbind_sub_title">Remova a sua conta Xunlei e adicione uma Conta Xiaomi</string>
     <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
     <string name="xunlei_brand">Fornecido por Xunlei</string>
     <string name="xunlei_close_tips_button">Ligar</string>

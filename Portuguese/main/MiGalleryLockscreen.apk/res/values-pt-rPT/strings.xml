@@ -9,7 +9,7 @@
     <string name="account_bind_secure_email_title">Adicionar email</string>
     <string name="account_bind_secure_phone_title">Adicionar telefone</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
-    <string name="account_empty_user_name">Introduza a sua Conta Mi</string>
+    <string name="account_empty_user_name">Introduza a sua Conta Xiaomi</string>
     <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
     <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, &gt;, /"</string>
     <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
@@ -31,7 +31,7 @@
     <string name="account_user_details">Informações pessoais</string>
     <string name="account_user_email">Email de recuperação</string>
     <string name="account_user_gender">Género</string>
-    <string name="account_user_id">ID Conta Mi</string>
+    <string name="account_user_id">ID Conta Xiaomi</string>
     <string name="account_user_name">Nome</string>
     <string name="account_user_name_dialog_title">Introduzir utilizador</string>
     <string name="account_user_other_info">Outras informações</string>
@@ -82,7 +82,7 @@
     <string name="auto_interval">Sempre que desbloquear</string>
     <string name="back">Voltar</string>
     <string name="back_icon_content_description">Voltar</string>
-    <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+    <string name="bind_sign_in_title">Adicionar Conta Xiaomi</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_international">Cancelar</string>
     <string name="cancel_lockscreen">Cancelar</string>
@@ -116,7 +116,7 @@
     <string name="confirm_activate_email">Verificado</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
     <string name="confirm_new_pwd">Confirmar nova palavra-passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Não vai mais estar associado à Conta Mi %3$s se continuar. Continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Xiaomi %2$s em %1$s. Não vai mais estar associado à Conta Xiaomi %3$s se continuar. Continuar?</string>
     <string name="create_shortcut">Criar atalho no ecrã inicial</string>
     <string name="create_shortcut_btn">Criar</string>
     <string name="create_shortcut_title">Criar um atalho no ecrã inicial</string>
@@ -210,12 +210,12 @@ Envie este código ao supervisor"</string>
     <string name="enable_toast_cw">Alterado para apresentação</string>
     <string name="enable_toast_cwo">Papéis de parede aleatórios foram ligados e iniciada a apresentação</string>
     <string name="enable_toast_subscribe">Papéis de parede aleatórios foram ligados e activadas as subscrições</string>
-    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
+    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Xiaomi</string>
     <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
-    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
+    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="explorer_activity_title">Papéis de parede aleatórios</string>
     <string name="facebook_login_btn_content_description">Iniciar sessão com Facebook</string>
-    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
+    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="favor_list_no_data">Sem itens</string>
     <string name="favor_list_title">Favoritos</string>
     <string name="favor_success">Adicionado aos favoritos com sucesso</string>
@@ -244,7 +244,7 @@ Envie este código ao supervisor"</string>
     <string name="inconsistent_pwd">As palavra-passe não correspondem</string>
     <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
     <string name="input_new_pwd">Introduza uma nova palavra-passe</string>
-    <string name="isornot_your_mi_account">É esta a sua Conta Mi?</string>
+    <string name="isornot_your_mi_account">É esta a sua Conta Xiaomi?</string>
     <string name="just_a_second">Aguarde…</string>
     <string name="later">Não desligue</string>
     <string name="launch_bg_permission_exception">Dê permissão para que os papéis de parede aleatórios possam mostrar janelas pop-up enquanto em execução em Segurança</string>
@@ -368,7 +368,7 @@ Envie este código ao supervisor"</string>
     <string name="opened">Ligado</string>
     <string name="pager_load_hd">Ver imagem original</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_label">Conta Mi</string>
+    <string name="passport_account_label">Conta Xiaomi</string>
     <string name="passport_account_name">Conta: %1$s</string>
     <string name="passport_activate_token_expired">A verificação expirou. Tente novamente</string>
     <string name="passport_area_code_title">Código do país</string>
@@ -439,7 +439,7 @@ Envie este código ao supervisor"</string>
     <string name="shortcut_exist">O atalho já existe</string>
     <string name="shortcut_failed">Não foi possível criar o atalho</string>
     <string name="show_wallpaper_loop_entry_title">Definições de apresentação</string>
-    <string name="sign_in_title">Iniciar sessão com Conta Mi</string>
+    <string name="sign_in_title">Iniciar sessão com Conta Xiaomi</string>
     <string name="sliding_on_unlock">Deslize para cima para desbloquear</string>
     <string name="sns_sign_in">Outros métodos de iniciar sessão</string>
     <string name="sst_auto_recommand_desc">Subscrever as suas categorias favoritas para receber imagens novas no seu ecrã de bloqueio diariamente</string>
@@ -563,7 +563,7 @@ Envie este código ao supervisor"</string>
     <string name="uninstall_warning_text_title">A eliminar papéis de parede aleatórios</string>
     <string name="user_ac_click_to_login">Toque para iniciar sessão</string>
     <string name="user_ac_not_login">Not signed in</string>
-    <string name="user_id_hint">Email/Telefone/ID Conta Mi</string>
+    <string name="user_id_hint">Email/Telefone/ID Conta Xiaomi</string>
     <string name="v_code_title">Introduza o código de verificação em 2 passos</string>
     <string name="view_privacy_policy">Política de Privacidade</string>
     <string name="wallpaper">Papéis de parede</string>

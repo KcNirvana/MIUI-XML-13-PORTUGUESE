@@ -522,8 +522,8 @@ aguarde um momento depois da acção"</string>
     <string name="max_enter">Não é possível exceder %d caracteres</string>
     <string name="maybe_is">Certifique-se:</string>
     <string name="menu">Menu</string>
-    <string name="mi_account">Conta Mi</string>
-    <string name="mi_account_name">Conta Mi</string>
+    <string name="mi_account">Conta Xiaomi</string>
+    <string name="mi_account_name">Conta Xiaomi</string>
     <string name="mi_brand">Mi</string>
     <string name="mi_rc">C.Remoto</string>
     <string name="mibox">Mi Box</string>
@@ -616,9 +616,9 @@ Verifique as permissões ou reinicie o dispositivo"</string>
     <string name="pair_server_data_only">Utilizar dados online para novos controlos</string>
     <string name="partner">Suporte</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_hint_text">Email/Número de telefone/ID de Conta Mi</string>
+    <string name="passport_account_hint_text">Email/Número de telefone/ID de Conta Xiaomi</string>
     <string name="passport_account_identity_title">Verificar a sua identidade</string>
-    <string name="passport_account_label">Conta Mi</string>
+    <string name="passport_account_label">Conta Xiaomi</string>
     <string name="passport_account_name">Conta: %1$s</string>
     <string name="passport_account_not_activated">Conta ainda não foi activada</string>
     <string name="passport_account_not_actived">A sua conta ainda não foi activada</string>
@@ -645,14 +645,14 @@ Para activar a sua conta, siga o
     <string name="passport_completed">Terminar</string>
     <string name="passport_confirm_login">Continuar</string>
     <string name="passport_confirm_recycle_account">Sim</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Parece que&lt;/font&gt; o número %s foi reciclado pela sua operadora e existe uma Conta Mi associada ao mesmo. Esta conta é sua?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Parece que&lt;/font&gt; o número %s foi reciclado pela sua operadora e existe uma Conta Xiaomi associada ao mesmo. Esta conta é sua?"</string>
     <string name="passport_continue">Continuar</string>
     <string name="passport_copy_message_text_success">Copiado com sucesso</string>
     <string name="passport_copy_message_vcode">Copiar código</string>
     <string name="passport_delete_account">Terminar sessão</string>
     <string name="passport_downlink_reg">Número de telefone</string>
     <string name="passport_email">Endereço de email</string>
-    <string name="passport_email_or_id_hint_text">Email/ID Conta Mi</string>
+    <string name="passport_email_or_id_hint_text">Email/ID Conta Xiaomi</string>
     <string name="passport_email_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
     <string name="passport_error_auth_fail">Sessão expirada. Inicie sessão mais tarde</string>
     <string name="passport_error_device_id">Não é possível obter ID do dispositivo</string>
@@ -678,7 +678,7 @@ Para activar a sua conta, siga o
     <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
     <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e está ligado à rede</string>
     <string name="passport_error_verify_activator_phone_title">Não foi possível verificar número de telefone</string>
-    <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
+    <string name="passport_extra_gdpr_license">Criar a sua Conta Xiaomi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
     <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
     <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -693,7 +693,7 @@ Para activar a sua conta, siga o
     <string name="passport_getting_verify_code">A obter…</string>
     <string name="passport_i_know">Percebi</string>
     <string name="passport_identification_expired">Código de verificação expirado</string>
-    <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão. Para ajudar a manter a sua Conta Mi segura</string>
+    <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Xiaomi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão. Para ajudar a manter a sua Conta Xiaomi segura</string>
     <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
     <string name="passport_input_captcha_hint">Introduzir código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
@@ -708,16 +708,16 @@ Para activar a sua conta, siga o
     <string name="passport_login_instead_reg">Utilizar este número</string>
     <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
     <string name="passport_login_other_account">Outra conta</string>
-    <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
+    <string name="passport_login_prompt">Uma Conta Xiaomi. Todos os serviços Mi</string>
     <string name="passport_login_recycle_account_no">Não</string>
     <string name="passport_login_recycle_account_yes">Sim</string>
-    <string name="passport_login_title">Iniciar sessão na sua Conta Mi</string>
+    <string name="passport_login_title">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="passport_login_using_other_ways">Outros métodos de iniciar sessão</string>
     <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
     <string name="passport_next">Seguinte</string>
     <string name="passport_no">Não</string>
     <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
-    <string name="passport_password_phone_login">Iniciar sessão com Conta Mi</string>
+    <string name="passport_password_phone_login">Iniciar sessão com Conta Xiaomi</string>
     <string name="passport_password_req_notice">A palavra-passe deve ter entre 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>
     <string name="passport_phone_num_hint_text">Número de telefone</string>
     <string name="passport_phone_ticket_login">Iniciar com SMS</string>
@@ -732,15 +732,15 @@ Para activar a sua conta, siga o
     <string name="passport_quick_login_step2_title">Verificação em 2 passos</string>
     <string name="passport_quick_login_title">Introduza a sua palavra-passe</string>
     <string name="passport_quick_register">Registar</string>
-    <string name="passport_quick_register_notice">&lt;u&gt;"Não tem uma Conta Mi? Crie uma"&lt;/u&gt;</string>
+    <string name="passport_quick_register_notice">&lt;u&gt;"Não tem uma Conta Xiaomi? Crie uma"&lt;/u&gt;</string>
     <string name="passport_re_get_verify_code">Obter código novamente</string>
     <string name="passport_re_register">Registar-se novamente</string>
-    <string name="passport_recycle_account_prompt">É esta a sua Conta Mi?</string>
+    <string name="passport_recycle_account_prompt">É esta a sua Conta Xiaomi?</string>
     <string name="passport_recycle_login_other_account">Não são minhas. Vou utilizar uma diferente</string>
     <string name="passport_reg_btn_using_other_phone">Utilizar número de telefone alternativo</string>
     <string name="passport_reg_failed">Não é possível configurar conta</string>
     <string name="passport_reg_new_account">Criar conta</string>
-    <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
+    <string name="passport_reg_prompt">Não tem uma Conta Xiaomi? Crie uma gratuitamente</string>
     <string name="passport_reg_recycle_account_no">Não</string>
     <string name="passport_reg_recycle_account_yes">Sim</string>
     <string name="passport_reg_success">Conta criada</string>
@@ -771,7 +771,7 @@ Para activar a sua conta, siga o
     <string name="passport_reset_password_title">Repor palavra-passe</string>
     <string name="passport_restart">Começar de novo</string>
     <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta</string>
-    <string name="passport_restart_register_title">Criar uma Conta Mi</string>
+    <string name="passport_restart_register_title">Criar uma Conta Xiaomi</string>
     <string name="passport_retry">Tentar novamente</string>
     <string name="passport_select_reg_ways_title">Outros métodos de iniciar sessão</string>
     <string name="passport_select_the_login_account">Seleccione a conta para iniciar sessão</string>
@@ -785,12 +785,12 @@ Para activar a sua conta, siga o
     <string name="passport_setting">A configurar…</string>
     <string name="passport_skip_login">Ignorar</string>
     <string name="passport_skip_register">Ignorar registo</string>
-    <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
+    <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Xiaomi mais tarde nas Definições</string>
     <string name="passport_skip_setup_account_title">Ignorar configuração</string>
     <string name="passport_sms_send_success">Enviado</string>
     <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
     <string name="passport_sync_account_data">A sincronizar conta…</string>
-    <string name="passport_sync_account_data_failed_warning">A sua conta está a ser sincronizada. Pode iniciar sessão utilizar o seu ID Conta Mi. Se quiser iniciar sessão utilizando o seu número de telefone ou email, aguarde até a sincronização concluir</string>
+    <string name="passport_sync_account_data_failed_warning">A sua conta está a ser sincronizada. Pode iniciar sessão utilizar o seu ID Conta Xiaomi. Se quiser iniciar sessão utilizando o seu número de telefone ou email, aguarde até a sincronização concluir</string>
     <string name="passport_title_reg">Criar uma conta</string>
     <string name="passport_trust_device">Adicionar este dispositivo ao dispositivos verificados</string>
     <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>
@@ -855,7 +855,7 @@ Se não concordar em dar esta autorização, não vai poder utilizar esta funcio
 para adquirir o IMEI do telefone para diferenciar dispositivos;
 
 •Para adquirir informações de conta:
-para permitir o início de sessão rápido da Conta Mi;
+para permitir o início de sessão rápido da Conta Xiaomi;
 
 •Para ler e escrever no armazenamento do telefone:
 para armazenar cache e informação de dispositivos duplicados.

@@ -5,10 +5,10 @@
     <string name="account_address">Endereços</string>
     <string name="account_order">Histórico de encomendas</string>
     <string name="account_title">Perfil</string>
-    <string name="account_type_name">Conta Mi</string>
+    <string name="account_type_name">Conta Xiaomi</string>
     <string name="account_updating_device">A actualizar…</string>
     <string name="account_updating_device_failed">Não foi possível iniciar sessão</string>
-    <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança a sua Conta Mi necessita de ser verificada neste dispositivo</string>
+    <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança a sua Conta Xiaomi necessita de ser verificada neste dispositivo</string>
     <string name="account_yellowpage_favorite">Favoritos</string>
     <string name="account_yellowpage_followed">Contas verificadas</string>
     <string name="account_yellowpage_recent">Ver histórico</string>

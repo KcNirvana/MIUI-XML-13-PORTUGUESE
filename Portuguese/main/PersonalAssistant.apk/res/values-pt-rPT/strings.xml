@@ -650,7 +650,7 @@
     <string name="miot_device_introduction">Puxar para ver mais controlos</string>
     <string name="miot_device_loading">A carregar…</string>
     <string name="miot_device_login">Iniciar sessão</string>
-    <string name="miot_device_mijia_logout_message">É necessário iniciar sessão com a sua Conta Mi antes de adicionar dispositivos. Iniciar sessão agora?</string>
+    <string name="miot_device_mijia_logout_message">É necessário iniciar sessão com a sua Conta Xiaomi antes de adicionar dispositivos. Iniciar sessão agora?</string>
     <string name="miot_device_mijia_logout_title">Sessão não iniciada</string>
     <string name="miot_device_mijia_uninstall_message">A aplicação Mi Home não está instalada. Quer transferir da Play Store?</string>
     <string name="miot_device_mijia_uninstall_title">Não instalado</string>
@@ -907,7 +907,7 @@ Stay tuned!"</string>
     <string name="steps_misport_download">Transferir</string>
     <string name="steps_misport_go">Permitir</string>
     <string name="steps_misport_ok">Percebi</string>
-    <string name="steps_misport_tip">Inicie sessão no Mi Fit utilizando a sua Conta Mi e conceda permissões de início automático em Segurança - Permissões</string>
+    <string name="steps_misport_tip">Inicie sessão no Mi Fit utilizando a sua Conta Xiaomi e conceda permissões de início automático em Segurança - Permissões</string>
     <string name="steps_sport">Mi Fit</string>
     <string name="steps_sport_des">Obter dados precisos da aplicação Mi Fit</string>
     <string name="steps_vip">Passos</string>

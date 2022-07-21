@@ -42,7 +42,7 @@
     <string name="ew_warning_detail">Detalhes do aviso</string>
     <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>
     <string name="fastboot_locked_answer_2">Em caso de perda do dispositivo, o fastboot garante a segurança dos dados guardados nele. Se desbloquear o fastboot, não vai conseguir bloquear o dispositivo remotamente ou eliminar os seus dados utilizando o Localizar Dispositivo. Por isso, não recomendamos o desbloqueio do fastboot no seu dispositivo</string>
-    <string name="fastboot_locked_answer_3">Deve utilizar a ferramenta de desbloqueio do site MIUI. Para desbloquear o dispositivo, necessitamos que o dispositivo seja seu. Por isso, deve iniciar sessão com a sua Conta Mi e ligar o Localizar Dispositivo</string>
+    <string name="fastboot_locked_answer_3">Deve utilizar a ferramenta de desbloqueio do site MIUI. Para desbloquear o dispositivo, necessitamos que o dispositivo seja seu. Por isso, deve iniciar sessão com a sua Conta Xiaomi e ligar o Localizar Dispositivo</string>
     <string name="fastboot_locked_question_1">Porque deve estar o fastboot bloqueado?</string>
     <string name="fastboot_locked_question_2">Existe algum risco ligado ao desbloqueio do fastboot?</string>
     <string name="fastboot_locked_question_3">Eu conheço os riscos mas necessito de desbloquear o meu dispositivo. O que devo fazer?</string>

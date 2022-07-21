@@ -139,7 +139,7 @@ Se mudar de ideia, antes de utilizar os nossos serviços, precisará concordar c
     <string name="account_bind_secure_email_title">Adicionar email de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
-    <string name="account_empty_user_name">Introduza o utilizador da sua Conta Mi</string>
+    <string name="account_empty_user_name">Introduza o utilizador da sua Conta Xiaomi</string>
     <string name="account_error_all_space_user_name">O utilizador não pode conter apenas espaços</string>
     <string name="account_error_invalid_user_name">O nome não pode conter &lt;, > ou /</string>
     <string name="account_error_longer_user_name">O nome não pode ser maior que 20 caracteres</string>
@@ -161,7 +161,7 @@ Se mudar de ideia, antes de utilizar os nossos serviços, precisará concordar c
     <string name="account_user_details">Informações pessoais</string>
     <string name="account_user_email">Email de recuperação</string>
     <string name="account_user_gender">Género</string>
-    <string name="account_user_id">ID da Conta Mi</string>
+    <string name="account_user_id">ID da Conta Xiaomi</string>
     <string name="account_user_name">Alcunha</string>
     <string name="account_user_name_dialog_title">Introduzir utilizador</string>
     <string name="account_user_other_info">Detalhes</string>
@@ -206,7 +206,7 @@ Se mudar de ideia, antes de utilizar os nossos serviços, precisará concordar c
     <string name="avs_language_selector">Idioma</string>
     <string name="avs_login_sign_out">Terminar sessão</string>
     <string name="avs_not_connected">Desligado</string>
-    <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+    <string name="bind_sign_in_title">Adicionar Conta Xiaomi</string>
     <string name="ble_ota_fw_upgrade_success_message">Não utilize o dispositivo enquanto ele estiver a atualizar.</string>
     <string name="ble_ota_fw_upgrade_success_title">Sincronizado com sucesso</string>
     <string name="ble_ota_push_error">Não foi possível atualizar</string>
@@ -299,7 +299,7 @@ Se mudar de ideia, antes de utilizar os nossos serviços, precisará concordar c
     <string name="confirm_activate_email">Verificado</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
     <string name="confirm_new_pwd">Confirme a nova palavra-passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se continuar. Continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Xiaomi %2$s em %1$s. Ele não será mais associado à Conta Xiaomi %3$s se continuar. Continuar?</string>
     <string name="copy">Copiar</string>
     <string name="country_or_region_AE">Emirados Árabes Unidos</string>
     <string name="country_or_region_AR">Argentina</string>
@@ -1189,11 +1189,11 @@ Envie este código para o supervisor."</string>
     <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi.</string>
+    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Xiaomi.</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="error_invalid_bind_address">O endereço de email introduzido é inválido.</string>
     <string name="evening">Tarde</string>
-    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi.</string>
     <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
     <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
     <string name="exo_controls_fastforward_description">Avançar</string>
@@ -1309,7 +1309,7 @@ Envie este código para o supervisor."</string>
     <string name="face_style">Estilo</string>
     <string name="face_used_not_edit">A edição não é suportada</string>
     <string name="face_wearos_install">Um momento…</string>
-    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
+    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="feedback_app_log">Registos da aplicação</string>
     <string name="feedback_app_problem">Aplicação</string>
     <string name="feedback_comment_cancel">Agora não</string>
@@ -2249,7 +2249,7 @@ Severo: 81–100."</string>
     <string name="health_sync_dialog_title3">Sincronizar dados</string>
     <string name="health_sync_needlogin_desc">Ligue a Sincronização com a nuvem para fazer a cópia de segurança dos seus dados de treino e condicionamento físico do seu telemóvel, e sincronizar os dados de outros dispositivos. Quando a funcionalidade está ligada, também pode fazer o seguinte.</string>
     <string name="health_sync_needlogin_title">Ligar sincronização?</string>
-    <string name="health_sync_switch_desc">Parece que existem dados de saúde associados à sua Conta Mi (%1$s). Para restaurar os dados de saúde, ligue a Sincronização com a nuvem. Quando ela está ligada, também pode:</string>
+    <string name="health_sync_switch_desc">Parece que existem dados de saúde associados à sua Conta Xiaomi (%1$s). Para restaurar os dados de saúde, ligue a Sincronização com a nuvem. Quando ela está ligada, também pode:</string>
     <string name="health_sync_switch_title">Restaurar dados de condicionamento físico e treinos?</string>
     <string name="health_tab_title_heart_rate_extremely_high">Alta</string>
     <string name="health_tab_title_heart_rate_extremely_low">Baixa</string>
@@ -2423,7 +2423,7 @@ Comece novamente."</string>
     <string name="input_email_address_notice">Utilizaremos este email para verificar a sua conta</string>
     <string name="input_length_exceeds_limit">O texto introduzido é demasiado longo</string>
     <string name="input_new_pwd">Introduza a nova palavra-passe</string>
-    <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
+    <string name="isornot_your_mi_account">Esta é a sua Conta Xiaomi?</string>
     <string name="item_view_role_description">Separador</string>
     <string name="just_a_second">Um momento…</string>
     <string name="keep_alive_notification_channel">Ligação de dispositivo</string>
@@ -2433,7 +2433,7 @@ Comece novamente."</string>
     <string name="lock_support_description2">Não consegue encontrar o Cartão de saúde no seu Ecrã de bloqueio?</string>
     <string name="log_off_account_failure">Não foi possível eliminar a conta</string>
     <string name="log_off_account_success">Conta eliminada com sucesso</string>
-    <string name="login_account_desc">Esta funcionalidade requer iniciar a sessão na Conta Mi. Iniciar a sessão agora?</string>
+    <string name="login_account_desc">Esta funcionalidade requer iniciar a sessão na Conta Xiaomi. Iniciar a sessão agora?</string>
     <string name="login_by_local_phone_long_text">Iniciar sessão agora</string>
     <string name="login_by_local_phone_short_text">Iniciar sessão</string>
     <string name="login_camera_title">Tirar fotos e gravar vídeos</string>
@@ -2462,7 +2462,7 @@ Comece novamente."</string>
     <string name="login_next_step">Seguinte</string>
     <string name="login_open_sport_health_cloud_sync">Ligar sincronização?</string>
     <string name="login_open_sport_health_cloud_sync_des">Sincronize seus dados de treino e condicionamento físico em todos os seus dispositivos.</string>
-    <string name="login_other">Outra Conta Mi</string>
+    <string name="login_other">Outra Conta Xiaomi</string>
     <string name="login_personalize_mode">Clássico</string>
     <string name="login_privacy_add_experience_tips">&lt;Data>Participe do &lt;a href=\"%1$s\">Programa de Experiência do Utilizador&lt;/a> para nos ajudar a melhorar os nossos produtos e serviços ao partilhar suas estatísticas connosco.&lt;/Data></string>
     <string name="login_privacy_add_experience_tips_korea">&lt;Data>Participe do &lt;a href=\"%1$s\">Programa de Experiência do Utilizador&lt;/a> para nos ajudar a melhorar os nossos produtos e serviços ao partilhar suas estatísticas connosco (opcional).&lt;/Data></string>
@@ -2578,7 +2578,7 @@ Obtenha esta medalha"</string>
     <string name="mine_habit">Hábitos</string>
     <string name="mine_health_plan">Planos de treino</string>
     <string name="mine_medal">As minhas medalhas</string>
-    <string name="mine_medal_user_id">Conta Mi:</string>
+    <string name="mine_medal_user_id">Conta Xiaomi:</string>
     <string name="mine_misport_data_importing">A transferir…</string>
     <string name="mine_misport_import_faile">Não foi possível transferir. Tente novamente.</string>
     <string name="mine_misport_last_import_time">Transferido: %1$s</string>
@@ -2956,7 +2956,7 @@ Esta etapa é necessária para pagar com o seu dispositivo."</string>
     <string name="ok">OK</string>
     <string name="open_settings">Definições</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_label">Conta Mi</string>
+    <string name="passport_account_label">Conta Xiaomi</string>
     <string name="passport_account_name">"Conta: %1$s "</string>
     <string name="passport_activate_token_expired">Código de verificação expirado. Tente novamente.</string>
     <string name="passport_area_code_title">Código de área</string>
@@ -3174,7 +3174,7 @@ Esta etapa é necessária para pagar com o seu dispositivo."</string>
     <string name="share_wx_timeline">Moments</string>
     <string name="sign_in">A iniciar sessão</string>
     <string name="sign_in_progress">A iniciar sessão…</string>
-    <string name="sign_in_title">Iniciar sessão na Conta Mi</string>
+    <string name="sign_in_title">Iniciar sessão na Conta Xiaomi</string>
     <string name="skip_query_account">Saltar</string>
     <string name="sleep_detection_stop">Esta sessão será encerrada quando levantar</string>
     <string name="sleep_detector_content">A Fitness está a acompanhar o seu sono em segundo plano</string>
@@ -3894,7 +3894,7 @@ Esta etapa é necessária para pagar com o seu dispositivo."</string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Utilizador&lt;/a>, a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>.&lt;/Data></string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Um momento…</string>
-    <string name="user_id_hint">Email/Telefone/ID da Conta Mi</string>
+    <string name="user_id_hint">Email/Telefone/ID da Conta Xiaomi</string>
     <string name="user_name_phone_number">Número de telefone</string>
     <string name="userinfo_account_desc">Para tornar os dados de treinos mais precisos, complete as informações do perfil.</string>
     <string name="userinfo_active_stage_stand">Em pé</string>
@@ -4051,7 +4051,7 @@ Se não deseja partilhar sd suas informações, pode desligar esta funcionalidad
     <string name="userinfo_user_birthday">Data de nascimento</string>
     <string name="userinfo_user_name">--</string>
     <string name="userinfo_user_sex">Género</string>
-    <string name="userinfo_xiaomi_account">Conta Mi:</string>
+    <string name="userinfo_xiaomi_account">Conta Xiaomi:</string>
     <string name="userinfo_year">Ano</string>
     <string name="userinfo_yes">Sim</string>
     <string name="v7_preference_off">DESATIVADO</string>

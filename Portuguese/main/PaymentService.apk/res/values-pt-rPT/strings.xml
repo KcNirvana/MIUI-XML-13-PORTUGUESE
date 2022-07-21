@@ -77,7 +77,7 @@ Inicie sessão novamente"</string>
     <string name="mibi_error_account_changed_title">A conta foi alterada</string>
     <string name="mibi_error_account_throtting">"A sua conta não está segura.
 Contacte o nosso serviço de clientes"</string>
-    <string name="mibi_error_auth_summary">Inicie sessão na sua Conta Mi novamente</string>
+    <string name="mibi_error_auth_summary">Inicie sessão na sua Conta Xiaomi novamente</string>
     <string name="mibi_error_cert_date_summary">"Erro na data do certificado. 
 Verifique a data do sistema e tente novamente"</string>
     <string name="mibi_error_common_summary">Erro de sistema. Tente novamente mais tarde</string>
@@ -188,7 +188,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
     <string name="mibi_payment_recharge_group_title">Escolher método de carregamento</string>
     <string name="mibi_payment_success_label">Pagou %1$s Mi Credits</string>
     <string name="mibi_payment_success_title">Pagamento recebido</string>
-    <string name="mibi_payment_with_login_title">Verificar Conta Mi</string>
+    <string name="mibi_payment_with_login_title">Verificar Conta Xiaomi</string>
     <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_error_install">Erro ao instalar o plugin de segurança %1$s</string>
     <string name="mibi_paytool_error_msp">Erro no %1$s</string>
@@ -303,9 +303,9 @@ Centro do serviço de clientes：400-100-5678"</string>
     <string name="no_network">Não é possível ligar à rede</string>
     <string name="open_settings">Ir para Definições</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>
+    <string name="passport_account_hint_text">Endereço de email ou ID da Conta Xiaomi</string>
     <string name="passport_account_identity_title">Verificar a sua identidade</string>
-    <string name="passport_account_label">Conta Mi</string>
+    <string name="passport_account_label">Conta Xiaomi</string>
     <string name="passport_account_name">Conta: %1$s</string>
     <string name="passport_account_not_activated">A conta não foi activada</string>
     <string name="passport_account_not_actived">A sua conta não foi activada</string>
@@ -332,7 +332,7 @@ link que enviámos para o seu email"</string>
     <string name="passport_delete_account">Terminar sessão</string>
     <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
     <string name="passport_email">Endereço de email</string>
-    <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
+    <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Xiaomi</string>
     <string name="passport_email_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
     <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
     <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
@@ -341,7 +341,7 @@ link que enviámos para o seu email"</string>
     <string name="passport_error_empty_email">Introduzir o seu endereço de email</string>
     <string name="passport_error_empty_phone_num">Introduzir número de telefone</string>
     <string name="passport_error_empty_pwd">Introduzir a sua palavra-passe</string>
-    <string name="passport_error_empty_username">Introduzir o ID da sua Conta Mi</string>
+    <string name="passport_error_empty_username">Introduzir o ID da sua Conta Xiaomi</string>
     <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
     <string name="passport_error_illegal_pwd">Palavra-passe inválida</string>
     <string name="passport_error_invalid_dev_id">O seu ID de dispositivo é inválido</string>
@@ -363,7 +363,7 @@ link que enviámos para o seu email"</string>
     <string name="passport_getting_verify_code">A obter</string>
     <string name="passport_i_know">Percebi</string>
     <string name="passport_identitfication_expired">Código de verificação expirado</string>
-    <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
+    <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Xiaomi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Xiaomi segura</string>
     <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
     <string name="passport_input_captcha_hint">Introduzir código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
@@ -376,8 +376,8 @@ link que enviámos para o seu email"</string>
     <string name="passport_login_failed">Não é possível iniciar sessão</string>
     <string name="passport_login_instead_reg">Utilizar este número</string>
     <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
-    <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
-    <string name="passport_login_title">Iniciar sessão na sua Conta Mi</string>
+    <string name="passport_login_prompt">Uma Conta Xiaomi. Todos os serviços Mi</string>
+    <string name="passport_login_title">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
     <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
     <string name="passport_next">Seguinte</string>
@@ -394,10 +394,10 @@ link que enviámos para o seu email"</string>
     <string name="passport_quick_login_title">Introduza a sua palavra-passe</string>
     <string name="passport_re_get_verify_code">Obter código novamente</string>
     <string name="passport_re_register">Registar-se novamente</string>
-    <string name="passport_recycle_account_prompt">É esta a sua Conta Mi?</string>
+    <string name="passport_recycle_account_prompt">É esta a sua Conta Xiaomi?</string>
     <string name="passport_reg_btn_using_other_phone">Utilizar número de telefone alternativo</string>
     <string name="passport_reg_failed">Não é possível configurar conta</string>
-    <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
+    <string name="passport_reg_prompt">Não tem uma Conta Xiaomi? Crie uma gratuitamente</string>
     <string name="passport_reg_success">Conta criada</string>
     <string name="passport_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
     <string name="passport_reg_type_email">Utilizar endereço de email</string>
@@ -425,14 +425,14 @@ link que enviámos para o seu email"</string>
     <string name="passport_reset_password_title">Repor palavra-passe</string>
     <string name="passport_restart">Começar de novo</string>
     <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta</string>
-    <string name="passport_restart_register_title">Criar uma Conta Mi</string>
+    <string name="passport_restart_register_title">Criar uma Conta Xiaomi</string>
     <string name="passport_retry">Tentar novamente</string>
     <string name="passport_select_reg_ways_title">Outros métodos de registo</string>
     <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
     <string name="passport_setting">A configurar…</string>
     <string name="passport_skip_login">Ignorar</string>
     <string name="passport_skip_register">Ignorar registo</string>
-    <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
+    <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Xiaomi mais tarde nas Definições</string>
     <string name="passport_skip_setup_account_title">Ignorar configuração</string>
     <string name="passport_title_reg">Criar uma conta</string>
     <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>

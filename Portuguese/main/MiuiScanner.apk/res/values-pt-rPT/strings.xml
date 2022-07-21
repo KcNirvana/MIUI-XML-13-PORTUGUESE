@@ -166,9 +166,9 @@
     <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Definições e verifique as permissões para continuar</string>
     <string name="error_server_error">Ocorreu um erro no servidor</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="experience_new_feature_tips">Iniciar sessão na sua Conta Mi para utilizar a versão beta. Vai poder utilizar a versão beta após revermos a sua aplicação. A versão beta pode conter erros</string>
+    <string name="experience_new_feature_tips">Iniciar sessão na sua Conta Xiaomi para utilizar a versão beta. Vai poder utilizar a versão beta após revermos a sua aplicação. A versão beta pode conter erros</string>
     <string name="experience_new_features">Versão beta</string>
-    <string name="experiential_version_of_the_prompt_content">Iniciar sessão na sua Conta Mi para aceder ao Digitalizador. Iniciar sessão agora?</string>
+    <string name="experiential_version_of_the_prompt_content">Iniciar sessão na sua Conta Xiaomi para aceder ao Digitalizador. Iniciar sessão agora?</string>
     <string name="failed_to_get_xiaomi_account">Não foi possível iniciar sessão</string>
     <string name="fax">Fax</string>
     <string name="feed_search_fail">Sem resultados</string>

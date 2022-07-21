@@ -653,7 +653,7 @@
     <string name="tips_low_storage_dialog_title">Armazenamento quase cheio</string>
     <string name="tips_of_app_manage">Desinstalar aplicações raramente utilizadas</string>
     <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
-    <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
+    <string name="tips_of_cloud_service">Inicie sessão na sua Conta Xiaomi para utilizar mais serviços Mi</string>
     <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
     <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação na nuvem</string>
     <string name="tips_of_garbage_data_set">Actualizar base de dados da Limpeza para encontrar mais lixo no seu dispositivo</string>

@@ -94,7 +94,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
     <string name="cloud_back_up_opening">Aguarde…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Actualizar</string>
     <string name="cloud_back_up_subscribe_vip_discription">Obter mais espaço de armazenamento, cópias diárias e muito mais</string>
-    <string name="cloud_back_up_subscribe_vip_title">Actualizar Conta Mi</string>
+    <string name="cloud_back_up_subscribe_vip_title">Actualizar Conta Xiaomi</string>
     <string name="cloud_back_up_task">A fazer cópia…</string>
     <string name="cloud_backup">Cópias da Xiaomi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
@@ -200,7 +200,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
     <string name="msg_restore_with_metered_network_hint">Se restaurar estes itens, vão ser utilizados dados móveis</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de ficheiros vão ser transferidos"</string>
     <string name="network_error">Ligue-se à rede</string>
-    <string name="no_account">Sem sessão iniciada na Conta Mi</string>
+    <string name="no_account">Sem sessão iniciada na Conta Xiaomi</string>
     <string name="no_backup">Sem cópias na Xiaomi Cloud</string>
     <string name="not_set">Não definido</string>
     <string name="notification_channel_remind">Lembretes</string>

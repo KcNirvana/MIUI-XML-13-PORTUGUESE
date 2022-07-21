@@ -26,7 +26,7 @@
     <string name="access_control_no_back_footer">Toque [icon] para sair</string>
     <string name="access_control_password_title">Bloqueio de aplicações</string>
     <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
-    <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para repor palavra-passe</string>
+    <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Xiaomi para repor palavra-passe</string>
     <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="access_point_names">Pontos de acesso (APN)</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de áudio</string>
@@ -1175,8 +1175,8 @@ em ^2"</string>
     <string name="billing_cycle_less_than_one_day_left">Menos de 1 dia restante</string>
     <string name="billing_cycle_none_left">Sem tempo restante</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
-    <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer o seu padrão, pode utilizar esta conta para fazer a reposição do mesmo. A conta vai ser removida automaticamente se terminar sessão</string>
-    <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
+    <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Xiaomi %s. Se esquecer o seu padrão, pode utilizar esta conta para fazer a reposição do mesmo. A conta vai ser removida automaticamente se terminar sessão</string>
+    <string name="bind_xiaomi_account_success">Conta Xiaomi adicionada com sucesso</string>
     <string name="biometric_settings_category_ways_to_unlock">Formas de desbloquear</string>
     <string name="biometric_settings_category_ways_to_use">Utilizar o rosto e a impressão digital para</string>
     <string name="biometric_settings_intro">Se configurar o desbloqueio facial e o desbloqueio por impressão digital, vai ser solicitada a sua impressão digital quando utilizar uma máscara ou se estiver numa área escura</string>
@@ -1624,11 +1624,11 @@ Enquanto estiver ligado, %2$s vai receber todas as chamadas efectuadas para %3$s
     <string name="bootloader_apply_step_4">Pode levar à perda de dados ou danos irreparáveis no hardware</string>
     <string name="bootloader_apply_step_5">Certifique-se que sabe utilizar o modo Fastboot antes de o ligar</string>
     <string name="bootloader_apply_title">Aviso importante</string>
-    <string name="bootloader_device_bind_already">Adicionado com sucesso. A Conta Mi está agora associada ao seu dispositivo</string>
+    <string name="bootloader_device_bind_already">Adicionado com sucesso. A Conta Xiaomi está agora associada ao seu dispositivo</string>
     <string name="bootloader_device_bind_exceed_sim_limit">Não é possível adicionar mais contas a este cartão SIM</string>
     <string name="bootloader_device_bind_fail">Não foi possível verificar. Aguarde alguns minutos e tente novamente</string>
     <string name="bootloader_device_bind_msg">A preparar para adicionar conta e dispositivo…</string>
-    <string name="bootloader_device_bind_no_account">Inicie sessão na sua Conta Mi primeiro</string>
+    <string name="bootloader_device_bind_no_account">Inicie sessão na sua Conta Xiaomi primeiro</string>
     <string name="bootloader_device_bind_no_data_network">Desligue o Wi-Fi e adicione a sua conta e dispositivo através de dados móveis</string>
     <string name="bootloader_device_bind_no_network">Ligue-se à rede e tente novamente</string>
     <string name="bootloader_device_bind_no_sim">Insira cartão SIM e tente novamente</string>
@@ -1640,9 +1640,9 @@ Enquanto estiver ligado, %2$s vai receber todas as chamadas efectuadas para %3$s
     <string name="bootloader_locked_answer_1_warning">Lembre-se: Não vai poder utilizar \"Localizar Dispositivo\" depois do dispositivo estar desbloqueado</string>
     <string name="bootloader_locked_answer_2">"1. Certifique-se que já inseriu um cartão SIM no seu dispositivo
 2. Desligue o Wi-Fi e ligue os dados móveis. Certifique-se que o seu dispositivo consegue ligar à Internet
-3. Toque em \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
+3. Toque em \"Adicionar conta\" para associar a sua Conta Xiaomi a este dispositivo
 4. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
-    <string name="bootloader_locked_answer_2_no_sim">"1. Toque em \"Adicionar conta\" para associar a sua Conta Mi com este dispositivo.
+    <string name="bootloader_locked_answer_2_no_sim">"1. Toque em \"Adicionar conta\" para associar a sua Conta Xiaomi com este dispositivo.
 2. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
     <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
     <string name="bootloader_locked_question_1">Porque é que os dispositivos devem estar bloqueados?</string>
@@ -1651,7 +1651,7 @@ Enquanto estiver ligado, %2$s vai receber todas as chamadas efectuadas para %3$s
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU e IMSI para funcionar. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necessita de aceder à sua Conta Xiaomi, ID do CPU e IMSI para funcionar. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permissões necessárias</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -1662,9 +1662,9 @@ Enquanto estiver ligado, %2$s vai receber todas as chamadas efectuadas para %3$s
     <string name="bootloader_summary">Restaurar ou actualizar o dispositivo via USB</string>
     <string name="bootloader_tips">"%s
 
-Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
+Se já fez alguma das coisas acima, adicione a sua Conta Xiaomi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
     <string name="bootloader_tips_ok">Percebi</string>
-    <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
+    <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Xiaomi, faça uma reposição de fábrica ou formate os dados de sistema</string>
     <string name="bottom_function_settings">Funções dos botões adicionais</string>
     <string name="bottom_to_top_slide">Deslizar para cima</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até metade</string>
@@ -2740,7 +2740,7 @@ Para corrigir este problema, pode parar a aplicação %1$s e impedir que esta ex
 . Se quiser utilizar dados móveis, toque \"Tentar novamente\" ou remova e insira o seu cartão SIM"</string>
     <string name="dialog_check_title">Não é possível ligar à Internet</string>
     <string name="dialog_chose_item">Seleccione um item para mostrar</string>
-    <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
+    <string name="dialog_content_login">Iniciar sessão na sua Conta Xiaomi para actualizar?</string>
     <string name="dialog_location_message">"O telefone não consegue gerir a bateria normalmente, pois a aplicação %1$s está constantemente a solicitar a sua localização quando não está a utilizar a aplicação.
 
 Para corrigir este problema, pode desligar a localização para esta aplicação"</string>
@@ -2773,7 +2773,7 @@ Se isto continuar a acontecer, pode ser necessário desinstalar a aplicação pa
     <string name="dialog_stop_title">Parar aplicação?</string>
     <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
     <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
-    <string name="dialog_title_login">Iniciar sessão na sua Conta Mi</string>
+    <string name="dialog_title_login">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="dialog_wifi_button_negative">Não</string>
     <string name="dialog_wifi_button_positive">Sim</string>
     <string name="dialog_wifi_context">É necessário ligar à Internet para configurar o seu dispositivo. Utilizar dados móveis pode gerar custos adicionais. Utilizar dados móveis mesmo assim?</string>
@@ -3406,7 +3406,7 @@ To learn more, contact your creditor provider."</string>
     <string name="find_my_device">Localizar Dispositivo</string>
     <string name="find_my_device_disable">Desligado</string>
     <string name="find_my_device_enable">Ligado</string>
-    <string name="find_my_device_summary">Tem de ter sessão iniciada na Conta Mi</string>
+    <string name="find_my_device_summary">Tem de ter sessão iniciada na Conta Xiaomi</string>
     <string name="finger_add_user_info_dialog_cancel">Cancelar</string>
     <string name="finger_add_user_info_dialog_message">Para poder utilizar o desbloqueio e pagamentos por impressão, necessitamos de obter a sua impresão digital. A impressão digital vai ser armazenada no dispositivo. Para a eliminar, pesquise por \"Impressão digital\" nas Definições e seleccione Desbloqueio por impressão digital > Impressão digital. Não vai poder utilizar esta funcionalidade se não concordar</string>
     <string name="finger_add_user_info_dialog_next">Concordar</string>
@@ -3593,8 +3593,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="forget_password_dialog_content_two">Siga estes passos para eliminar os dados:</string>
     <string name="forget_password_dialog_title">Reposição de palavra-passe</string>
     <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
-    <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
-    <string name="forget_privacy_password_summary">Utilizar a Conta Mi para repor o seu padrão</string>
+    <string name="forget_privacy_password_setting">Adicionar Conta Xiaomi</string>
+    <string name="forget_privacy_password_summary">Utilizar a Conta Xiaomi para repor o seu padrão</string>
     <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
     <string name="forgot_password_text">Eles podem ajudar a repor o seu PIN, padrão ou palavra-passe</string>
     <string name="forgot_password_title">Contacte o seu administrador</string>
@@ -3879,7 +3879,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="headset_notification_switch_summary">Mostrado estado na área de notificações quando os auriculares estiverem ligados</string>
     <string name="headset_notification_switch_title">Área de notificações</string>
     <string name="headset_remove_message">Desemparelhar dispositivo?</string>
-    <string name="headset_remove_message_indicate">%1$s vai ser desemparelhado de todos os dispositivos associados com esta Conta Mi</string>
+    <string name="headset_remove_message_indicate">%1$s vai ser desemparelhado de todos os dispositivos associados com esta Conta Xiaomi</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Efeitos sonoros</string>
     <string name="headset_silent_upgrade_switch_summary">Actualizar o firmware dos auriculares automaticamente quando tiverem reunidas todas as condições</string>
@@ -3939,7 +3939,7 @@ Este método permite guardar definições de sistema, contas, dados das aplicaç
 "</string>
     <string name="how_backup_title">1. Como é que faço cópias dos itens?</string>
     <string name="how_encrypt_content">Apenas pode encriptar as cópias locais. Existem 2 métodos para fazer isto:
-a) Abrir a página com as suas cópias locais, ligar a encriptação e iniciar sessão na sua Conta Mi. As cópias vão ser encriptadas automaticamente. Lembre-se que tem de iniciar sessão na sua Conta Mi para restaurar cópias encriptadas
+a) Abrir a página com as suas cópias locais, ligar a encriptação e iniciar sessão na sua Conta Xiaomi. As cópias vão ser encriptadas automaticamente. Lembre-se que tem de iniciar sessão na sua Conta Xiaomi para restaurar cópias encriptadas
 b) Se utilizar o Mi PC Suite para copiar itens, pode utilizar as opções de encriptação da ferramenta
 
 Nota:
@@ -3952,7 +3952,7 @@ Cópias locais:
 Copie o ficheiro da cópia do seu computador para o seu dispositivo (MIUI-backup-AllBackup). Vá a Definições &gt; Cópias e restauro &gt; Neste dispositivo e seleccione o ficheiro da cópia
 
 Cópias na Xiaomi Cloud:
-Inicie sessão na sua Conta Mi, Vá a Definições &gt; Cópias e restauro &gt; Na Xiaomi Cloud e seleccione o ficheiro da cópia
+Inicie sessão na sua Conta Xiaomi, Vá a Definições &gt; Cópias e restauro &gt; Na Xiaomi Cloud e seleccione o ficheiro da cópia
 
 Cópias USB:
 Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a Definições &gt; Cópias e restauro &gt; Neste dispositivo e seleccione o ficheiro da cópia
@@ -4813,8 +4813,8 @@ Ligue pelo menos 4 pontos"</string>
     <string name="lockscreen_settings_what_to_show_category">O que mostrar</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">Personalizar as aplicações do painel lateral do ecrã de bloqueio</string>
     <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
-    <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Xiaomi Cloud</string>
-    <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
+    <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Xiaomi e ligue a sincronização com a Xiaomi Cloud</string>
+    <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Xiaomi</string>
     <string name="login_account_summary">Gerir contas, serviços cloud, pagamentos e mais</string>
     <string name="login_account_summary_temp">Gerir contas, serviços cloud e mais</string>
     <string name="login_action">Iniciar sessão</string>
@@ -5249,7 +5249,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_triple_click_key_mode">Triplo toque</string>
     <string name="miheadset_triple_press_left">Premir três vezes no auricular esquerdo</string>
     <string name="miheadset_triple_press_right">Premir três vezes no auricular direito</string>
-    <string name="miheadset_unpair_device_text">%1$s vai ser desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
+    <string name="miheadset_unpair_device_text">%1$s vai ser desemparelhado de todos os dispositivos associados a esta Conta Xiaomi</string>
     <string name="miheadset_virtual_surround">Som virtual imersivo</string>
     <string name="miheadset_virtual_surround_summary">Enriquecer a profundidade do som para reprodução de áudio e vídeo em auriculares. Esta funcionalidade não vai funcionar não funcionará quando o áudio do canal %s for reproduzido</string>
     <string name="miheadset_voiceIncrease">Melhorar voz</string>
@@ -6563,9 +6563,9 @@ Press Power and Volume up at the same time."</string>
     <string name="privacy_notes">Notas</string>
     <string name="privacy_password">Protecção de Privacidade</string>
     <string name="privacy_password_add_account">Adicionar</string>
-    <string name="privacy_password_add_account_info">Adicionar Conta Mi para poder repor a palavra-passe no caso de a esquecer</string>
+    <string name="privacy_password_add_account_info">Adicionar Conta Xiaomi para poder repor a palavra-passe no caso de a esquecer</string>
     <string name="privacy_password_add_account_setting">Contas e privacidade</string>
-    <string name="privacy_password_bind_account">Adicionar Conta Mi</string>
+    <string name="privacy_password_bind_account">Adicionar Conta Xiaomi</string>
     <string name="privacy_password_bind_account_immediate">Adicionar</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmar o padrão do Segundo espaço</string>
     <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
@@ -6580,8 +6580,8 @@ Press Power and Volume up at the same time."</string>
     <string name="privacy_password_never_remind">Não perguntar novamente</string>
     <string name="privacy_password_not_add_account">Agora não</string>
     <string name="privacy_password_not_login_account">Não tem sessão iniciada</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Adicione a sua Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
-    <string name="privacy_password_remind_bindaccount_title">Adicionar Conta Mi</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Adicione a sua Conta Xiaomi para poder repor a sua palavra-passe no caso de a esquecer</string>
+    <string name="privacy_password_remind_bindaccount_title">Adicionar Conta Xiaomi</string>
     <string name="privacy_password_settings">Utilizar a Protecção de Privacidade</string>
     <string name="privacy_password_settings_next">Seguinte</string>
     <string name="privacy_password_settings_summary">A Protecção de Privacidade é utilizada para aplicações que podem conter informações sensíveis</string>
@@ -6615,10 +6615,10 @@ Press Power and Volume up at the same time."</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduzir anfitrião ou fornecedor de DNS</string>
     <string name="private_gallery_need_to_unlock">Introduzir palavra-passe</string>
     <string name="private_gallery_recording_intro_header">Desenhar um padrão de desbloqueio</string>
-    <string name="private_gallery_reset_by_account">Para repor a palavra-passe, inicie sessão na sua Conta Mi</string>
+    <string name="private_gallery_reset_by_account">Para repor a palavra-passe, inicie sessão na sua Conta Xiaomi</string>
     <string name="private_sms_need_to_unlock">Introduzir palavra-passe</string>
     <string name="private_sms_recording_intro_header">Desenhar um padrão de desbloqueio</string>
-    <string name="private_sms_reset_by_account">Para repor a palavra-passe, inicie a sessão na sua Conta Mi</string>
+    <string name="private_sms_reset_by_account">Para repor a palavra-passe, inicie a sessão na sua Conta Xiaomi</string>
     <string name="privileged_action_disable_fail_text">Something went wrong and your carrier could not be disabled.</string>
     <string name="privileged_action_disable_fail_title">Can’t disable carrier</string>
     <string name="privileged_action_disable_sub_dialog_progress">Turning off SIM…</string>
@@ -6830,7 +6830,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
     <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>
-    <string name="reset_second_space_passwd_detail">Introduza a palavra-passe da Conta Mi utilizada no Primeiro espaço</string>
+    <string name="reset_second_space_passwd_detail">Introduza a palavra-passe da Conta Xiaomi utilizada no Primeiro espaço</string>
     <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do gestor de atalhos</string>
     <string name="reset_shortcut_manager_throttling_complete">O limite de taxa do gestor de atalhos foi reposto</string>
     <string name="reset_title">Reposição</string>
@@ -7362,7 +7362,7 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="search_trusted_credentials">Credenciais fidedignas;Assinatura da aplicação;Assinaturas da aplicação;Credenciais;Assinatura</string>
     <string name="search_tts_settings_title">Saída de texto para voz;TTS</string>
     <string name="search_turn_on_security_lock">Escolher bloqueio de ecrã;Bloqueio de ecrã;Adicionar bloqueio de ecrã;Bloqueio de ecrã</string>
-    <string name="search_unlogin_account_title">Conta Mi;ID Conta Mi;Conta;ID Conta</string>
+    <string name="search_unlogin_account_title">Conta Xiaomi;ID Conta Xiaomi;Conta;ID Conta</string>
     <string name="search_usb_tethering_button_text">Partilha de ligação USB;Partilha de ligação;USB</string>
     <string name="search_user_agreement">Termos de Serviço;Termos de Utilização</string>
     <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
@@ -7392,7 +7392,7 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="search_wifi_wapi_cert_install">Instalar certificados WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificados WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Ligar WPS;Botão Push WPS;WPS</string>
-    <string name="search_xiaomi_account">Conta Mi;ID da Conta Mi;Conta;ID da Conta</string>
+    <string name="search_xiaomi_account">Conta Xiaomi;ID da Conta Xiaomi;Conta;ID da Conta</string>
     <string name="search_xspace">Aplicações clonadas;Aplicações clonadas;Aplicações duplas;Aplicações duplas;Clonar aplicações;Clonar aplicações;Aplicações clonadas;Cópia de aplicações;Duas contas;2 contas</string>
     <string name="second_space">Segundo espaço</string>
     <string name="secondspace_category">Segundo espaço</string>
@@ -8710,7 +8710,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
     <string name="toast_apply_font_fail">Não é possível definir o tipo de letra</string>
     <string name="toast_disconnect_earphone">Disconnect earphones and try again</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
-    <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
+    <string name="toast_need_login">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Não é possível transmitir quando o PA Móvel está ligado</string>
     <string name="toggle_auto_speaker_preference_summary">O dispositivo vai trocar para altifalante quando tirar o telefone do ouvido durante as chamadas. Apenas funciona quando o TalkBack estiver ligado</string>
     <string name="toggle_auto_speaker_preference_title">Trocar para altifalante automaticamente</string>
@@ -8953,8 +8953,8 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
     <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
     <string name="unlock_sound_effect_enable_title">Reproduzir sons ao desbloquear dispositivo</string>
     <string name="unlock_type_category_title">Método de reconhecimento</string>
-    <string name="unlogin_account_summary">Todos os serviços Mi. Uma Conta Mi</string>
-    <string name="unlogin_account_title">Início de sessão Conta Mi</string>
+    <string name="unlogin_account_summary">Todos os serviços Mi. Uma Conta Xiaomi</string>
+    <string name="unlogin_account_title">Início de sessão Conta Xiaomi</string>
     <string name="unmount_inform_text">O armazenamento USB vai ser desmontado</string>
     <string name="unmute_sound_title">Som de restauro do som</string>
     <string name="unrestrict_max_aspect_ratio_title">Estas aplicações estão optimizadas para o modo ecrã inteiro</string>
@@ -10043,7 +10043,7 @@ Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente</string>
     <string name="wifi_share">Partilhar Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Parar a partilha de redes</string>
     <string name="wifi_share_action_turn_on">Partilhar Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua Conta Mi para partilhar</string>
+    <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua Conta Xiaomi para partilhar</string>
     <string name="wifi_share_add">Partilhar as minhas redes públicas</string>
     <string name="wifi_share_add_summary">"Quando partilha as suas redes públicas,
 pode utilizar também as redes de outros utilizadores"</string>
@@ -10296,7 +10296,7 @@ Looks like credential storage isn't enabled."</string>
     <string name="xiaoai_key_shortcut">Botões</string>
     <string name="xiaoai_other_shortcut">Outros métodos</string>
     <string name="xiaoai_shortcut_settings_title">Activar Mi IA utilizando botões e gestos</string>
-    <string name="xiaomi_account">Conta Mi</string>
+    <string name="xiaomi_account">Conta Xiaomi</string>
     <string name="xiaomi_cloud_find_device">Localizar Dispositivo</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">A Xiaomi Cloud sincroniza os seus contactos e fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone</string>

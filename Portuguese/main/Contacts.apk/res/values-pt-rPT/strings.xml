@@ -20,8 +20,8 @@
     <string name="add_field">Adicionar outro campo</string>
     <string name="add_field_toast">Sem mais campos para adicionar</string>
     <string name="add_new_account">Adicionar nova conta</string>
-    <string name="add_xiaomi_account_dialog_btn">Utilizar Conta Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contactos para a sua Conta Mi para aceder aos mesmos em qualquer lugar!</string>
+    <string name="add_xiaomi_account_dialog_btn">Utilizar Conta Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contactos para a sua Conta Xiaomi para aceder aos mesmos em qualquer lugar!</string>
     <string name="add_xiaomi_account_dialog_title">Escolher conta</string>
     <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações que inseriu até agora vão ser copiadas</string>
     <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
@@ -423,7 +423,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importar</string>
     <string name="import_to_xiaomi_account_progress_finish">Contactos importados</string>
     <string name="import_to_xiaomi_account_progress_message">A importar…</string>
-    <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
+    <string name="import_to_xiaomi_account_title">Importar para a Conta Xiaomi</string>
     <string name="import_vcard_dialog_message">Importar vCard?</string>
     <string name="importing_sim_contacts_miui">A importar contactos do cartão SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">A preparar contactos…</string>
@@ -543,7 +543,7 @@ Motivo: \"%s\""</string>
     <string name="nickname_picker_nickname_column">Título</string>
     <string name="noAccounts">Para criar grupos necessita de uma conta</string>
     <string name="noContactHelpTextAccountsInfo"/>
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos da Conta Mi</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos da Conta Xiaomi</string>
     <string name="noContacts">Sem contactos</string>
     <string name="no_contact_selected">Seleccionar um contacto para ver detalhes</string>
     <string name="no_contacts_dialog_message">"Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e depois tente novamente "</string>
@@ -624,9 +624,9 @@ Motivo: \"%s\""</string>
     <string name="pref_key_sim_manage">Cartões SIM</string>
     <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
-    <string name="pref_summary_import_from_account">Transferir contactos de contas Google e Exchange para a minha Conta Mi</string>
+    <string name="pref_summary_import_from_account">Transferir contactos de contas Google e Exchange para a minha Conta Xiaomi</string>
     <string name="pref_title_account_import">Importar contactos</string>
-    <string name="pref_title_import_from_account">Importar para a Conta Mi</string>
+    <string name="pref_title_import_from_account">Importar para a Conta Xiaomi</string>
     <string name="preference_contacts">Contactos</string>
     <string name="preference_contacts_filter">Configurar lista de contactos</string>
     <string name="preference_contacts_more">Organizar os seus contactos</string>

@@ -365,7 +365,7 @@
     <string name="security_permission_open_wifi_settings">Abrir definições de Wi-Fi</string>
     <string name="security_permission_validate_warning">Obrigado por ajudar a fazer uma MIUI melhor!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ligados</string>
-    <string name="security_permission_xiaomi_account_missed_text">Introduza o ID da sua Conta Mi</string>
+    <string name="security_permission_xiaomi_account_missed_text">Introduza o ID da sua Conta Xiaomi</string>
     <string name="security_share_text">Protecção de Privacidade</string>
     <string name="select">Seleccionar</string>
     <string name="select_all">Seleccionar tudo</string>
@@ -404,7 +404,7 @@
     <string name="standard_description">Silenciar os toques de chamadas e notificações</string>
     <string name="standard_title">Modo Silêncio</string>
     <string name="start_dump_log">Criar um registo de erros</string>
-    <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Mi</string>
+    <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Xiaomi</string>
     <string name="status_bar_toggle_auto_brightness">Brilho auto.</string>
     <string name="status_bar_toggle_battery_saver">Poup. bateria</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>

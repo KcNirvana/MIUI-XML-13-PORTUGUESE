@@ -2,9 +2,9 @@
 <resources>
     <string name="abort_backup_confirm">A cópia ainda não terminou. Deseja parar?</string>
     <string name="abort_restore_confirm">O restauro ainda não terminou. Deseja parar?</string>
-    <string name="account_contact_backup_info">Conta Google, Conta Mi e dados de contactos</string>
+    <string name="account_contact_backup_info">Conta Google, Conta Xiaomi e dados de contactos</string>
     <string name="account_login">Iniciar sessão</string>
-    <string name="account_summary">Cópia da conta Gmail, Conta Mi e outros dados do utilizador</string>
+    <string name="account_summary">Cópia da conta Gmail, Conta Xiaomi e outros dados do utilizador</string>
     <string name="agree_button">Concordar</string>
     <string name="agree_revoke_permission_title">Remover permissões</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
@@ -95,7 +95,7 @@ https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
     <string name="close_twice_auth_tutor">Desligar autenticação em 2 passos do ID Apple</string>
     <string name="cloud_app_name">Cópias da Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Para aceder às suas cópias, inicie sessão</string>
-    <string name="cloud_backup_login">Iniciar sessão na sua Conta Mi</string>
+    <string name="cloud_backup_login">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="cloud_backup_window_title">Cópias da Xiaomi Cloud</string>
     <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="cloud_item_info_summary">" (Locais : %1$s  | Xiaomi Cloud : %2$s)"</string>
@@ -149,8 +149,8 @@ https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
     <string name="enable_encrypt_description">Encriptar</string>
     <string name="enable_encrypt_fail">Erro na encriptação</string>
     <string name="enable_encrypt_indicator">Toque para encriptar</string>
-    <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para aceder a cópias encriptadas</string>
-    <string name="enable_encrypt_summery2">As suas cópias de segurança vão ser encriptadas automaticamente. Para as aceder tem que iniciar sessão na sua Conta Mi</string>
+    <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Xiaomi para aceder a cópias encriptadas</string>
+    <string name="enable_encrypt_summery2">As suas cópias de segurança vão ser encriptadas automaticamente. Para as aceder tem que iniciar sessão na sua Conta Xiaomi</string>
     <string name="enable_encrypt_title">Encriptar cópias</string>
     <string name="enable_local_backup">Ligar cópias locais</string>
     <string name="enable_local_backup_and_restore">Ligar cópias locais</string>
@@ -177,7 +177,7 @@ https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
     <string name="exchange_account">Trocar contas</string>
     <string name="fail">Erro</string>
     <string name="failed_description">Erro</string>
-    <string name="feature_title_account">Conta Mi</string>
+    <string name="feature_title_account">Conta Xiaomi</string>
     <string name="feature_title_antispam">Lista de bloqueio</string>
     <string name="feature_title_call_log">Registos de chamadas</string>
     <string name="feature_title_contacts">Contactos</string>
@@ -238,7 +238,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação MiTalk e inicie sessão.
 \u0009http://www.miliao.com
 
-2.\u0009Ir para as definições MiTalk e seleccione ”Fazer cópia dos seus contactos para a Conta Mi”"</string>
+2.\u0009Ir para as definições MiTalk e seleccione ”Fazer cópia dos seus contactos para a Conta Xiaomi”"</string>
     <string name="import_from_xiaomi_account_hint2">Se já tem uma cópia toque Seguinte</string>
     <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para copiar os seus contactos entre dispositivos</string>
     <string name="import_tip_summary">Devido à compatibilidade, são apenas suportados contactos e fotos. É necessário carregar dados dos dispositivos para a iCloud primeiro</string>
@@ -270,7 +270,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="local_main_backup_settings">Definições das cópias locais</string>
     <string name="local_main_backup_time">Última cópia: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
-    <string name="local_main_encrypt_backup_summary">Encriptar os itens utilizando a sua Conta Mi</string>
+    <string name="local_main_encrypt_backup_summary">Encriptar os itens utilizando a sua Conta Xiaomi</string>
     <string name="local_main_encrypt_backup_title">Encriptação de cópias</string>
     <string name="local_main_latest_backup_time_loading">Aguarde…</string>
     <string name="local_no_backup">Sem cópias locais</string>
@@ -289,7 +289,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="login">Iniciar sessão</string>
     <string name="login_failed">Erro ao iniciar sessão. Tente novamente</string>
     <string name="logining">A iniciar sessão…</string>
-    <string name="miliao_account_guide">Utilize a sua Conta Mi para iniciar sessão na Xiaomi Cloud, Loja de Temas MIUI e outros serviços Mi em qualquer lugar</string>
+    <string name="miliao_account_guide">Utilize a sua Conta Xiaomi para iniciar sessão na Xiaomi Cloud, Loja de Temas MIUI e outros serviços Mi em qualquer lugar</string>
     <string name="miliao_account_login">Iniciar sessão com MiTalk</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
@@ -312,7 +312,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="new_britem_other">Outros</string>
     <string name="new_britem_pic">Imagens</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">A MIUI associa cópias encriptadas com a sua Conta Mi. Vai ter que iniciar sessão na sua Conta Mi para restaurar os itens dessas cópias</string>
+    <string name="new_confirm_enable_encrypt_content">A MIUI associa cópias encriptadas com a sua Conta Xiaomi. Vai ter que iniciar sessão na sua Conta Xiaomi para restaurar os itens dessas cópias</string>
     <string name="new_confirm_enable_encrypt_title">Encrypt</string>
     <string name="new_local_button_backup">Fazer cópia</string>
     <string name="new_local_button_restore">Restaurar</string>
@@ -498,7 +498,7 @@ Liberte pelo menos %s"</string>
     <string name="sc_internal_server_error">Erro interno do servidor</string>
     <string name="sc_network_unavailable">Verifique a sua ligação à rede e tente novamente</string>
     <string name="sc_others">Ocorreu um erro</string>
-    <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Mi</string>
+    <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Xiaomi</string>
     <string name="sc_request_timeout">O tempo pedido terminou</string>
     <string name="sc_service_unavailable">Xiaomi Cloud indisponível</string>
     <string name="sc_unaccess_password_file">Não é possível encontrar a palavra-passe da rede</string>
@@ -535,9 +535,9 @@ Liberte pelo menos %s"</string>
     <string name="storage_usb">Disco USB</string>
     <string name="succ_description">Com sucesso</string>
     <string name="succeed">Concluído</string>
-    <string name="summary_err_backup_encrypting">Iniciar sessão na sua Conta Mi</string>
+    <string name="summary_err_backup_encrypting">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="summary_err_backup_no_network">Não é possível ligar à rede</string>
-    <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta cópia foi feita utilizando a sua Conta Mi</string>
+    <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta cópia foi feita utilizando a sua Conta Xiaomi</string>
     <string name="summary_err_restore_no_network">Não é possível ligar à rede</string>
     <string name="system_backup">Cópias de segurança</string>
     <string name="system_backup_info">Definições do sistema e layout do ecrã inicial</string>
@@ -642,7 +642,7 @@ para transferir e instalar o Mi Mover"</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envie-nos um email</string>
     <string name="trans_intro_desc_9_method_3_dec">Grupo QQ do Mi Mover: 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. Reporte problemas no QQ</string>
-    <string name="trans_intro_desc_account">Tem de iniciar sessão novamente nas suas contas (p.e., Conta Mi, Exchange, Google, etc.) num novo dispositivo devido a motivos de segurança</string>
+    <string name="trans_intro_desc_account">Tem de iniciar sessão novamente nas suas contas (p.e., Conta Xiaomi, Exchange, Google, etc.) num novo dispositivo devido a motivos de segurança</string>
     <string name="trans_intro_desc_gms">Devido à alta probabilidade de transferências sem sucesso causadas por problemas de compatibilidade, Mi Mover não suporta transferências de dados de aplicações Google</string>
     <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados das aplicações clonadas para evitar conflitos entre ficheiros</string>
     <string name="trans_intro_desc_multiuser">O Mi Mover não consegue aceder aos itens do Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover lá</string>

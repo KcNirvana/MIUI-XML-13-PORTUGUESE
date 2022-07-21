@@ -112,7 +112,7 @@
     <string name="app_permission_require">Permissões obrigatórias</string>
     <string name="app_permission_use_desc">Permissões</string>
     <string name="app_permission_use_group_account">Contas</string>
-    <string name="app_permission_use_group_account_desc">Para obter informações da Conta Mi</string>
+    <string name="app_permission_use_group_account_desc">Para obter informações da Conta Xiaomi</string>
     <string name="app_permission_use_group_phone">Telefone</string>
     <string name="app_permission_use_group_phone_desc">Para os serviços push da Google</string>
     <string name="app_permission_use_group_storage">Armazenamento</string>
@@ -181,7 +181,7 @@
     <string name="bgmlist_select_playmode_repeat">Switched to single loop playback</string>
     <string name="bgmlist_title">Background music</string>
     <string name="bind_recharge_dialog_desc">Go to the recharge binding, you can also get the exclusive gift worth 99 gold coins ~</string>
-    <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+    <string name="bind_sign_in_title">Adicionar Conta Xiaomi</string>
     <string name="binddate_dialog_agree">agree</string>
     <string name="binddate_dialog_refuse">Refuse</string>
     <string name="binddate_requestdialog_dis_request">cancel application</string>
@@ -918,7 +918,7 @@ Send this code to the supervisor."</string>
     <string name="music_settings">Música</string>
     <string name="music_traffic">Plano de dados de música</string>
     <string name="music_traffic_summary">Ouvir e transferir músicas sem utilizar dados</string>
-    <string name="my_account">Conta Mi</string>
+    <string name="my_account">Conta Xiaomi</string>
     <string name="my_music_empty">Lista de reprodução vazia</string>
     <string name="my_music_empty_goto_online">Não foram encontradas músicas</string>
     <string name="my_playlist_add_song">Adicionar músicas</string>
@@ -1204,7 +1204,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
     <string name="title_search_hot">Populares</string>
     <string name="to_mi_pay">Mi Credits</string>
     <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
-    <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
+    <string name="toast_download_error_by_not_login">Inicie sessão na Conta Xiaomi e tente novamente</string>
     <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
     <string name="toast_download_in_process">A transferir…</string>
     <string name="toast_hungama_vip_song">This song is only available to PRO members. Get a subscription to download this song。</string>

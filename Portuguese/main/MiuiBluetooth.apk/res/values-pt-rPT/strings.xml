@@ -58,7 +58,7 @@ Verifique as Definições para saber mais"</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Segure o botão por %1$s segundos enquanto desliga</string>
     <string name="fast_connect_reset_common">Repor este dispositivo para poder emparelhar</string>
-    <string name="fast_connect_same_account_content">Os dispositivos Bluetooth podem ser sincronizados com a sua Conta Mi e ligados sem ter que emparelhar noutros dispositivos</string>
+    <string name="fast_connect_same_account_content">Os dispositivos Bluetooth podem ser sincronizados com a sua Conta Xiaomi e ligados sem ter que emparelhar noutros dispositivos</string>
     <string name="fast_connect_same_accout_devices_connecting">A ligar via Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">Ligou %1$s a outros dispositivos</string>
     <string name="fast_connect_same_accout_ok">Percebi</string>

@@ -102,11 +102,11 @@
     <string name="pad_settings_handoff_wps_summary">Ver, editar e guardar documentos enquanto troca de dispositivos</string>
     <string name="pad_settings_handoff_wps_title">Documentos</string>
     <string name="pad_settings_how_use">Utilizar Handoff</string>
-    <string name="pad_settings_pad_handoff_summary">Utilizar Handoff com aplicações, área de transferências, vídeos e outros itens no outro dispositivo associado com a sua Conta Mi</string>
+    <string name="pad_settings_pad_handoff_summary">Utilizar Handoff com aplicações, área de transferências, vídeos e outros itens no outro dispositivo associado com a sua Conta Xiaomi</string>
     <string name="pad_settings_pc_history_title">Histórico de ligações</string>
     <string name="pad_settings_pc_trusted_title">Ligar automaticamente</string>
     <string name="pad_settings_pc_use_tile">Acerca desta funcionalidade</string>
-    <string name="pad_settings_phone_handoff_summary">Utilizar Handoff com aplicações, área de transferências, vídeos e outros itens no outro dispositivo associado com a sua Conta Mi</string>
+    <string name="pad_settings_phone_handoff_summary">Utilizar Handoff com aplicações, área de transferências, vídeos e outros itens no outro dispositivo associado com a sua Conta Xiaomi</string>
     <string name="pad_settings_phone_handoff_title">Handoff</string>
     <string name="pad_settings_scanner_summary">Ligar a MIUI+ utilizando um código QR</string>
     <string name="pad_settings_trusted_delete_dialog_msg">Não vai poder ligar a este dispositivo automaticamente após o remover da lista</string>

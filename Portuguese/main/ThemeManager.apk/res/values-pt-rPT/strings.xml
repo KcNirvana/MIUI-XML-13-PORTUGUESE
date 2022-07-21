@@ -214,7 +214,7 @@
     <string name="gift_owned">Adquiridos</string>
     <string name="gift_present">Oferecer</string>
     <string name="gift_present_dlg_anonymous">Presente anónimo</string>
-    <string name="gift_present_dlg_input_hint">ID da Conta Mi/Telefone</string>
+    <string name="gift_present_dlg_input_hint">ID da Conta Xiaomi/Telefone</string>
     <string name="gift_present_dlg_no_fee">A sua operadora não vai cobrar pelo envio de presentes</string>
     <string name="gift_present_dlg_present_max_limit">Este tema não pode ser oferecido mais do que %1$s vezes</string>
     <string name="gift_present_dlg_share">Criar código e partilhar presente</string>
@@ -322,10 +322,10 @@ Toque aqui para iniciar agora"</string>
     <string name="mine_tab_title_like">Gostos</string>
     <string name="mine_tab_title_local">Dispositivo</string>
     <string name="mine_tab_title_purchase">Compras</string>
-    <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
+    <string name="miuishare_account_activate_confirmation">Activar Conta Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
-    <string name="miuishare_account_login_confirmation">Iniciar sessão na Conta Mi</string>
+    <string name="miuishare_account_login_confirmation">Iniciar sessão na Conta Xiaomi</string>
     <string name="miuishare_account_login_ok">Iniciar sessão</string>
     <string name="miuishare_account_need_activate">A partilha Weibo necessita que a sua conta Weibo esteja ligada com a conta Xiaomi que ainda não está activada. Activar a sua conta agora?</string>
     <string name="miuishare_account_need_login">A partilha Weibo necessita que a sua conta Weibo esteja ligada com a conta Xiaomi que ainda não iniciou sessão. Iniciar sessão agora?</string>
@@ -466,7 +466,7 @@ Toque aqui para iniciar agora"</string>
     <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente</string>
     <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
     <string name="resource_account_login">Iniciar sessão</string>
-    <string name="resource_account_login_before_action">Iniciar sessão na sua Conta Mi agora</string>
+    <string name="resource_account_login_before_action">Iniciar sessão na sua Conta Xiaomi agora</string>
     <string name="resource_account_login_title">Iniciar sessão</string>
     <string name="resource_account_switch">Trocar</string>
     <string name="resource_alarm_default">Alarme</string>
@@ -889,7 +889,7 @@ Toque aqui para iniciar agora"</string>
     <string name="title_system_audio_notification_resource">Notificações de sistema</string>
     <string name="title_system_audio_resource">Toques do sistema</string>
     <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
-    <string name="to_activate_the_account">Activar a sua Conta Mi agora</string>
+    <string name="to_activate_the_account">Activar a sua Conta Xiaomi agora</string>
     <string name="toast_both_all_apply_failured">Não foi possível aplicar ao ecrã inicial e de bloqueio</string>
     <string name="toast_both_all_apply_success">Aplicado ao ecrã inicial e de bloqueio com sucesso</string>
     <string name="toast_home_apply_failured">Não foi possível aplicar ao ecrã inicial</string>

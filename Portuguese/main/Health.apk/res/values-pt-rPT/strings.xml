@@ -34,7 +34,7 @@
     <string name="add_body_weight_record_button">Adicionar peso</string>
     <string name="add_data_source">Adicionar origens de dados</string>
     <string name="add_data_source_description">Adicionar dados gerados por outros dispositivos no Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes</string>
-    <string name="add_data_source_login_and_open_sync">Iniciar sessão na sua Conta Mi e ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
+    <string name="add_data_source_login_and_open_sync">Iniciar sessão na sua Conta Xiaomi e ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
     <string name="add_data_source_open_sync">Ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
     <string name="add_data_source_process">Como adicionar uma origem de dados</string>
     <string name="add_data_source_support_step">Este dispositivo não gera dados de contagem de passos. Pode trocar para outras origens de dados</string>
@@ -282,13 +282,13 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
     <string name="detection_wait_generate_report_detail">Volte mais tarde</string>
     <string name="device_data_manage">Gerir dispositivos</string>
     <string name="device_data_sync">Sincronizar dados</string>
-    <string name="device_description">Este dispositivo está associado à Conta Mi %s. Se não conseguir localizar o dispositivo que necessita, adicione-o no Mi Fit ou Xiaomi Wear primeiro</string>
-    <string name="device_list_origin_description">Estes dispositivos estão associados à Conta Mi %1$s. Se não conseguir localizar o dispositivo que necessita, certifique-se que já o adicionou na aplicação correspondente</string>
+    <string name="device_description">Este dispositivo está associado à Conta Xiaomi %s. Se não conseguir localizar o dispositivo que necessita, adicione-o no Mi Fit ou Xiaomi Wear primeiro</string>
+    <string name="device_list_origin_description">Estes dispositivos estão associados à Conta Xiaomi %1$s. Se não conseguir localizar o dispositivo que necessita, certifique-se que já o adicionou na aplicação correspondente</string>
     <string name="device_off_sync_description">Os dados gerados neste dispositivo não vão ser sincronizados com Saúde</string>
     <string name="device_unbound_from_account">Este dispositivo já não está associado com a sua conta</string>
     <string name="dialog_abandon">Rejeitar</string>
     <string name="dialog_abandon_sleep_edit">Rejeitar alterações?</string>
-    <string name="dialog_account_perm_desc">Para aceder à sua Conta Mi</string>
+    <string name="dialog_account_perm_desc">Para aceder à sua Conta Xiaomi</string>
     <string name="dialog_agree">Concordar</string>
     <string name="dialog_agree_and_continue">Concordar</string>
     <string name="dialog_agree_permission">Permitir</string>
@@ -498,7 +498,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
     <string name="gps_unauthorized">Permissões de GPS necessárias</string>
     <string name="gps_unopened">GPS desligado</string>
     <string name="group">Ciclos</string>
-    <string name="guide_data_cloud_sync_tip">Pode desligar a sincronização em Definições &gt; Conta Mi</string>
+    <string name="guide_data_cloud_sync_tip">Pode desligar a sincronização em Definições &gt; Conta Xiaomi</string>
     <string name="guide_local_data_sync_subtitle">Passos, sono, peso e períodos</string>
     <string name="guide_local_data_sync_title">Enviar dados deste dispositivo</string>
     <string name="guide_other_data_sync_subtitle">Telefones, pulseiras, balanças e outros dispositivos</string>
@@ -611,7 +611,7 @@ Comece de novo"</string>
     <string name="indoor_running">Passadeira</string>
     <string name="input_body_weight">Introduzir peso para obter conselhos de saúde</string>
     <string name="inquire_recover_data">Restaurar dados de saúde agora?</string>
-    <string name="inquire_recover_data_subtitle">Existem dados de saúde associados com a sua Conta Mi (%1$s). Ligar a sincronização com a Xiaomi Cloud e restaurar agora?</string>
+    <string name="inquire_recover_data_subtitle">Existem dados de saúde associados com a sua Conta Xiaomi (%1$s). Ligar a sincronização com a Xiaomi Cloud e restaurar agora?</string>
     <string name="instructions_provider">Instruções fornecidas por Miao Health |</string>
     <string name="insufficient">Insuficiente</string>
     <string name="internal_training">HIIP</string>
@@ -855,7 +855,7 @@ Se não quiser partilhar esta informação, pode desligar esta funcionalidade"</
     <string name="not_up_to_standard">Abaixo do standard</string>
     <string name="oar_time">Hora de conduzir</string>
     <string name="oauth_account_failed">Não foi possível obter a informação da conta</string>
-    <string name="oauth_account_failed_desc">Para adicionar origens de dados, Saúde necessita de utilizar a sua Conta Mi. Inicie sessão para continuar</string>
+    <string name="oauth_account_failed_desc">Para adicionar origens de dados, Saúde necessita de utilizar a sua Conta Xiaomi. Inicie sessão para continuar</string>
     <string name="oauth_invalid">Sessão expirada. Inicie sessão novamente</string>
     <string name="open">Ligar</string>
     <string name="open_data_sync_description">Ligar sincronização para sincronizar dados de outras origens</string>
@@ -1492,8 +1492,8 @@ baseados nas suas informações pessoais"</string>
     <string name="tb_stand_wm_column_click">%1$s. Pausas para ficar em pé: %2$d. %3$s</string>
     <string name="tb_step_widget" formatted="false">Hoje: %1$s | Progresso: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar tudo</string>
-    <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
-    <string name="tb_user_account_unsigned">Toque para iniciar sessão na Conta Mi</string>
+    <string name="tb_user_account_signed">Conta Xiaomi: %1$s.</string>
+    <string name="tb_user_account_unsigned">Toque para iniciar sessão na Conta Xiaomi</string>
     <string name="tb_user_sleep_card_info">Objectivo diário de sono: %1$s.</string>
     <string name="tb_user_sleep_target_btn">Alterar objectivo de sono</string>
     <string name="tb_user_step_card_info">Objectivo diário: %1$s, cerca de %2$s ou %3$s</string>
@@ -1645,7 +1645,7 @@ Please send this code to the technician."</string>
     <string name="location_permission_subtitle">Para registar treinos ao ar livre e gravar rotas</string>
     <string name="location_permission_title">Aceder à localização</string>
     <string name="ok">OK</string>
-    <string name="passport_oauth_actionbar_title">Conta Mi</string>
+    <string name="passport_oauth_actionbar_title">Conta Xiaomi</string>
     <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="send_diagnosis_log">Send diagnosis log</string>

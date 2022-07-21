@@ -143,7 +143,7 @@
     <string name="countdown_notify_title">Contagem: %1$s</string>
     <string name="countdown_secondary_tag">Contagem</string>
     <string name="countdown_today">Hoje</string>
-    <string name="create_an_account_desc">"Calendário funciona melhor com uma Conta Mi
+    <string name="create_an_account_desc">"Calendário funciona melhor com uma Conta Xiaomi
 
 • Aceda-o de qualquer navegador
 • Faça cópia dos seus eventos de forma segura"</string>
@@ -477,10 +477,10 @@
     <string name="mesens_card_title_tomorrow_begin">O período pode começar amanhã</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="missing_required_permission">Restringiu permissões necessárias</string>
-    <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
+    <string name="miuishare_account_activate_confirmation">Activar Conta Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
-    <string name="miuishare_account_login_confirmation">Iniciar sessão na Conta Mi</string>
+    <string name="miuishare_account_login_confirmation">Iniciar sessão na Conta Xiaomi</string>
     <string name="miuishare_account_login_ok">Iniciar sessão</string>
     <string name="miuishare_app_name">Partilha MIUI</string>
     <string name="miuishare_no_network">Não foi possível ligar à rede</string>
@@ -1004,7 +1004,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="wuxing">Cinco</string>
     <string name="xiaomi_calendar_delete_description">Calendário é uma aplicação de sistema que permite criar e gerir enventos</string>
     <string name="xiaomi_calendar_delete_title">Remover \"Calendário\" do ecrã inicial?</string>
-    <string name="xiaomi_calendar_display_name">Calendário Conta Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendário Conta Xiaomi</string>
     <string name="xingxiu">Alphard</string>
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>

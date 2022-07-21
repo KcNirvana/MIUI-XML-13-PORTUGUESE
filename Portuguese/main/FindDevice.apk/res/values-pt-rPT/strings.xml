@@ -10,7 +10,7 @@
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar o seu dispositivo e trocar para o modo perdido</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a um pagamento em falta.
 Contacte o seu comercial para mais detalhes"</string>
-    <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
+    <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Xiaomi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
     <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor, pode-me contactar? Obrigado!</string>
     <string name="device_locked">Este dispositivo está bloqueado</string>
     <string name="device_lost">Este dispositivo está perdido</string>
@@ -28,8 +28,8 @@ Contacte o seu comercial para mais detalhes"</string>
     <string name="find_device_capture_notification_title">Localizar Dispositivo está a tirar uma foto remotamente…</string>
     <string name="find_device_crash">Localizar Dispositivo fechou inesperadamente</string>
     <string name="find_device_error_access_denied">Acesso negado</string>
-    <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
-    <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
+    <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Xiaomi</string>
+    <string name="find_device_error_account_unknown_error">Erro na Conta Xiaomi (%s)</string>
     <string name="find_device_error_network">Erro de rede</string>
     <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente</string>
     <string name="find_device_error_server">Erro de servidor (%s)</string>
@@ -58,7 +58,7 @@ Contacte o seu comercial para mais detalhes"</string>
     <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
     <string name="passport_verify">Verificar</string>
     <string name="password">Introduzir palavra-passe</string>
-    <string name="phone_locked">Este dispositivo está associado à Conta Mi (%s). Introduza a palavra-passe para activar o dispositivo</string>
+    <string name="phone_locked">Este dispositivo está associado à Conta Xiaomi (%s). Introduza a palavra-passe para activar o dispositivo</string>
     <string name="phone_locked_account_email">, email associado: %s</string>
     <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
     <string name="return_to_call">Voltar à chamada</string>
@@ -77,7 +77,7 @@ Contacte o seu comercial para mais detalhes"</string>
     <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="unlock_error_interrupted">Interrompido</string>
     <string name="unlock_error_network">Não é possível ligar à rede</string>
-    <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está a funcionar</string>
+    <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Xiaomi não está a funcionar</string>
     <string name="unlock_error_rpc">Erro RPC</string>
     <string name="unlock_error_server">Erro de servidor</string>
     <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente</string>
@@ -97,5 +97,5 @@ Vá a i.mi.com/ss e submeta a sua aplicação para desbloquear o dispositivo"</s
     <string name="unlock_wrong_captcha">O código que introduziu não está correcto</string>
     <string name="unlocking">A activar…</string>
     <string name="verifing_account">A verificar palavra-passe…</string>
-    <string name="verify_password_failed">Não foi possível verificar a Conta Mi (%s)</string>
+    <string name="verify_password_failed">Não foi possível verificar a Conta Xiaomi (%s)</string>
 </resources>

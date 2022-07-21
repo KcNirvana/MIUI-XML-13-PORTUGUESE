@@ -297,8 +297,8 @@ Make sure you're using the current Mi Account as your MIUI system account."</str
     <string name="rename_file_select_error">Não é possível alterar vários itens</string>
     <string name="rename_success">Alterado com sucesso</string>
     <string name="request_permission_confirm">Percebi</string>
-    <string name="request_permission_content">O Mi Drive necessita de aceder a contas neste dispositivo para poder utilizar a Conta Mi para iniciar sessão. Esta permissão vai conceder ao Mi Drive as opções de pré-visualizar, carregar, transferir e sincronizar itens</string>
-    <string name="request_permission_content_with_phone_state">Para poder iniciar sessão com a sua Conta Mi, pré-visualizar, carregar, transferir e sincronizar ficheiros e verificar actualizações, o Mi Drive necessita de permissões para aceder às suas contas, fotos, ficheiros e IMEI</string>
+    <string name="request_permission_content">O Mi Drive necessita de aceder a contas neste dispositivo para poder utilizar a Conta Xiaomi para iniciar sessão. Esta permissão vai conceder ao Mi Drive as opções de pré-visualizar, carregar, transferir e sincronizar itens</string>
+    <string name="request_permission_content_with_phone_state">Para poder iniciar sessão com a sua Conta Xiaomi, pré-visualizar, carregar, transferir e sincronizar ficheiros e verificar actualizações, o Mi Drive necessita de permissões para aceder às suas contas, fotos, ficheiros e IMEI</string>
     <string name="request_permission_title">Permissões necessárias</string>
     <string name="root_page_name">A minha drive</string>
     <string name="save">Guardar</string>

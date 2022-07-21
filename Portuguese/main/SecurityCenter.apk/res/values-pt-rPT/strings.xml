@@ -102,7 +102,7 @@
     <string name="adb_install_open_error">Não foi possível permitir. Verifique a sua ligação à rede</string>
     <string name="adb_install_reject_notiy">Não permitiu a instalação de %s via USB</string>
     <string name="adb_install_reject_notiy_desc">Pode permitir a instalação via USB nas Opções de programador</string>
-    <string name="adb_login_xiaomi_account">Inicie sessão na sua Conta Mi primeiro</string>
+    <string name="adb_login_xiaomi_account">Inicie sessão na sua Conta Xiaomi primeiro</string>
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para optimizar a velocidade</string>
@@ -563,14 +563,14 @@
     <string name="applock_add_account">Adicionar</string>
     <string name="applock_add_account_ignore">Agora não</string>
     <string name="applock_add_account_ignore_with_seconds">Agora não (%ds)</string>
-    <string name="applock_add_account_info">Adicionar a Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
+    <string name="applock_add_account_info">Adicionar a Conta Xiaomi para poder repor a sua palavra-passe no caso de a esquecer</string>
     <string name="applock_add_account_setting">Contas e privacidade</string>
-    <string name="applock_add_account_tips">Com a Conta Mi, vai poder restaurar o seu Bloqueio de aplicações no caso de o esquecer</string>
-    <string name="applock_add_account_title">Adicionar Conta Mi</string>
+    <string name="applock_add_account_tips">Com a Conta Xiaomi, vai poder restaurar o seu Bloqueio de aplicações no caso de o esquecer</string>
+    <string name="applock_add_account_title">Adicionar Conta Xiaomi</string>
     <string name="applock_already_add_account">Conta actual: %s</string>
     <string name="applock_app_recommend_lock_title">Pode bloquear as seguintes aplicações</string>
-    <string name="applock_bind_account_dialog_content">A sua Conta Mi é a única maneira de restaurar o o seu Bloqueio de aplicações no caso de o esquecer. Iniciar sessão para adicionar a sua Conta Mi</string>
-    <string name="applock_bind_account_dialog_title">Adicionar a sua Conta Mi</string>
+    <string name="applock_bind_account_dialog_content">A sua Conta Xiaomi é a única maneira de restaurar o o seu Bloqueio de aplicações no caso de o esquecer. Iniciar sessão para adicionar a sua Conta Xiaomi</string>
+    <string name="applock_bind_account_dialog_title">Adicionar a sua Conta Xiaomi</string>
     <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
     <string name="applock_close_dialog_summary">Todas as aplicações ocultas vão ser mostradas, os seus atalhos vão ser restaurados e a sua palavra-passe do Bloqueio de aplicações vai ser eliminada. Desligar o Bloqueio de aplicações?</string>
     <string name="applock_close_dialog_title">Desligar Bloqueio de aplicações?</string>
@@ -591,7 +591,7 @@
     <string name="applock_guide_tip1_without_face">Estão disponíveis vários tipos de segurança. Desbloqueie aplicações com a sua impressão digital ou palavra-passe</string>
     <string name="applock_guide_tip1_without_finger">Estão disponíveis vários tipos de segurança. Desbloqueie aplicações com o seu rosto ou palavra-passe</string>
     <string name="applock_guide_tip1_without_finger_face">Estão disponíveis vários tipos de segurança</string>
-    <string name="applock_guide_tip2">Adicionar a sua Conta Mi para poder repor a sua palavra-passe</string>
+    <string name="applock_guide_tip2">Adicionar a sua Conta Xiaomi para poder repor a sua palavra-passe</string>
     <string name="applock_guide_tip3">Ocultar o conteúdo das notificações</string>
     <string name="applock_guide_tip3_global">Ocultar o conteúdo das notificações</string>
     <string name="applock_guide_title">Proteger a sua privacidade com o Bloqueio de aplicações</string>
@@ -600,7 +600,7 @@
     <string name="applock_login_and_add_account">Iníciar sessão e adicionar</string>
     <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
     <string name="applock_mixtype_showpwd_icon">Mostrar</string>
-    <string name="applock_no_account_login">Não tem sessão iniciada na sua Conta Mi</string>
+    <string name="applock_no_account_login">Não tem sessão iniciada na sua Conta Xiaomi</string>
     <string name="applock_not_add_account"><u>Agora não</u></string>
     <string name="applock_not_login_account">Não tem sessão iniciada</string>
     <string name="applock_numeric_pwd_type_line">Total de dígitos na palavra-passe: %1$d | Dígitos introduzidos: %2$d</string>
@@ -773,10 +773,10 @@
     <string name="bill_limit_notification_title">Saldo insuficiente</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
-    <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
-    <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
-    <string name="bind_xiaomi_account_summary">Utilize a sua Conta Mi para repor a sua palavra-passe</string>
-    <string name="bind_xiaomi_account_title">Adicionar Conta Mi</string>
+    <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Xiaomi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
+    <string name="bind_xiaomi_account_success">Conta Xiaomi adicionada com sucesso</string>
+    <string name="bind_xiaomi_account_summary">Utilize a sua Conta Xiaomi para repor a sua palavra-passe</string>
+    <string name="bind_xiaomi_account_title">Adicionar Conta Xiaomi</string>
     <string name="birthday">Aniversário</string>
     <string name="bl_no_blacklist">Sem números bloqueados</string>
     <string name="bl_no_block_call">Sem chamadas bloqueadas</string>
@@ -945,7 +945,7 @@
     <string name="comprehensive_protection_measures">Protecção abrangente</string>
     <string name="confirmSecondSpacePassword">Confirmar a palavra-passe do Segundo espaço</string>
     <string name="confirm_allow_all_permission">Permitir todas as aplicações de utilizarem esta funcionalidade?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Mi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Xiaomi</string>
     <string name="confirm_fingerprint_msg">Verificar a sua impressão digital</string>
     <string name="confirm_leave">Não, obrigado</string>
     <string name="confirm_open">Ligar</string>
@@ -1455,9 +1455,9 @@ volunteer"</string>
     <string name="first_aid_scanning_item4">A verificar bateria…</string>
     <string name="first_aid_scanning_item5">A verificar outros problemas…</string>
     <string name="first_aid_stop_scan">Parar verificação</string>
-    <string name="first_settings_default_camera_title">Partilhar sem metadados por defeito</string>
+    <string name="first_settings_default_camera_title">Partilhar sem metadados</string>
     <string name="first_settings_default_location_subtitle">Remover a localização das fotos partilhadas</string>
-    <string name="first_settings_default_location_title">Partilhar sem localização por defeito</string>
+    <string name="first_settings_default_location_title">Partilhar sem localização</string>
     <string name="first_settings_share_enable">Adicionar emblema \"Partilha segura\"</string>
     <string name="first_settings_share_enable_subtitle">Os itens que partilhar no WeChat vão aparecer com um emblema MIUI</string>
     <string name="first_settings_subtitle">Opções de partilha segura disponíveis:</string>
@@ -1755,7 +1755,7 @@ Grave sequências e utilize-as em qualquer altura!"</string>
     <string name="gb_voice_changer_recommend">Recomendado</string>
     <string name="gb_voice_changer_renew_dailog">Renovar a sua subscrição para poder utilizar este efeito</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_voice_changer_setting_account_title">Conta Mi</string>
+    <string name="gb_voice_changer_setting_account_title">Conta Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">Subscrever</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Ajustar efeitos e recomendações ao género seleccionado</string>
     <string name="gb_voice_changer_setting_gender_title">Género</string>
@@ -1773,7 +1773,7 @@ Trocar entre diferentes caracteres e efeitos especiais"</string>
     <string name="gb_voice_changer_user_status_expired">Subscrição expirada</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Get a %d-day free trial
 and explore our Voice changer!"</string>
-    <string name="gb_voice_changer_user_status_no_login">Iniciar sessão na Conta Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Iniciar sessão na Conta Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">Data de expiração: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">As suas subscrições expiraram. Renove a subscrição para obter benefícios!</string>
@@ -2528,9 +2528,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="password_forget_pattern_message_none">As aplicações não estão bloqueadas. Pode repor a sua palavra-passe</string>
     <string name="password_forget_pattern_reset">Repor</string>
     <string name="password_forget_pattern_title">Atenção</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">Adicione a sua Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Adicione a sua Conta Xiaomi para poder repor a sua palavra-passe no caso de a esquecer</string>
     <string name="password_promotion_postbutton_text">Adicionar</string>
-    <string name="password_promotion_title">Adicionar Conta Mi</string>
+    <string name="password_promotion_title">Adicionar Conta Xiaomi</string>
     <string name="password_type">Alterar palavra-passe</string>
     <string name="password_type_underline"><u>Alterar palavra-passe</u></string>
     <string name="password_xspace_forget_pattern_message">Para alterar a palavra-passe do Segundo espaço, deve eliminar o Segundo espaço actual e criar um novo</string>
@@ -3410,7 +3410,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="report_warning_title">Atenção</string>
     <string name="required_permissions">"Permissões obrigatórias "</string>
     <string name="required_permissions_desc">estas permissões são necessárias para a aplicação funcionar normalmente</string>
-    <string name="reset_data_dialog_message">Este dispositivo não está associado à sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
+    <string name="reset_data_dialog_message">Este dispositivo não está associado à sua Conta Xiaomi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
     <string name="reset_data_dialog_ok">Reposição de fábrica</string>
     <string name="reset_data_title">Não é possível restaurar palavra-passe</string>
     <string name="result_autoscan_header">Monitorização de pagamentos</string>
@@ -3514,7 +3514,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="set_now">Definições</string>
     <string name="set_numeric_password_name">Definir PIN</string>
     <string name="set_package_tips">Vamos enviar uma SMS gratuita para a sua operadora para verificar o seu plano de dados</string>
-    <string name="set_package_tips_detail">A informação enviada para os servidores da Xiaomi vão incluir os detalhes da sua operadora, o seu número de telefone, IMEI e Conta Mi</string>
+    <string name="set_package_tips_detail">A informação enviada para os servidores da Xiaomi vão incluir os detalhes da sua operadora, o seu número de telefone, IMEI e Conta Xiaomi</string>
     <string name="set_pattern_password_name">Definir padrão</string>
     <string name="set_traffic_tips">Definir o seu plano de dados para gerir a utilização de dados móveis</string>
     <string name="setting">Definições</string>
@@ -4262,7 +4262,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
     <string name="title_block_calls_from_strangers">Perdeu chamadas importantes?</string>
     <string name="title_chain_start">Restrição de início de corrente</string>
     <string name="title_cleaner_cloudscan">Verificação de lixo na Xiaomi Cloud</string>
-    <string name="title_cloud_account">Conta Mi</string>
+    <string name="title_cloud_account">Conta Xiaomi</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">Armazenamento da Xiaomi Cloud quase cheio. Os itens podem não sincronizar</string>
     <string name="title_cloud_space_full">Armazenamento da Xiaomi Cloud cheio</string>
@@ -4668,7 +4668,7 @@ Tente aumentar a resolução!"</string>
     <string name="app_predict_widget_experience_now">Experimentar</string>
     <string name="app_predict_widget_summary">Executar rapidamente aplicações que pode necessitar agora</string>
     <string name="app_predict_widget_title">Sugestões de aplicações</string>
-    <string name="applock_add_account_title_part">Adicionar a sua Conta Mi para poder repor a palavra-passe</string>
+    <string name="applock_add_account_title_part">Adicionar a sua Conta Xiaomi para poder repor a palavra-passe</string>
     <string name="applock_fingerprint_detect">Utilizar impressão digital</string>
     <string name="applock_fingerprint_unlock">Utilizar impressão digital</string>
     <string name="applock_gulide_third_part">A conta vai ser removida quando terminar sessão</string>

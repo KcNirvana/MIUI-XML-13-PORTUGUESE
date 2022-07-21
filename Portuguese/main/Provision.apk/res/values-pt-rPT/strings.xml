@@ -49,8 +49,8 @@
     <string name="fast_pairing_introduction">O Mi Link permite que o seu dispositivo se ligue a dispositivos Bluetooth próximos utilizando o serviço MIUI Bluetooth. Para poder localizar dispositivos, dê permissão ao serviço MIUI Bluetooth para ligar à Internet</string>
     <string name="font_hint_large">Tamanho do texto predefinido</string>
     <string name="font_hint_normal">Aumentar tamanho do texto</string>
-    <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Mi, Mi Push, Estatísticas Mi e MIUI BI</string>
-    <string name="framwork_base_service">Para o fornecer com estes serviços, a framework Serviços Mi (Conta Mi, Mi Push, Estatísticas Mi e MIUI BI) necessita de ligar à Internet, aceder ao seu número de telefone, IMEI e IMSI, e permitir que o seu dispositivo receba notificações push</string>
+    <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI</string>
+    <string name="framwork_base_service">Para o fornecer com estes serviços, a framework Serviços Mi (Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI) necessita de ligar à Internet, aceder ao seu número de telefone, IMEI e IMSI, e permitir que o seu dispositivo receba notificações push</string>
     <string name="game_introduction">O plugin de jogos permite que inicie sessão, crie encomendas, conclua pagamentos, utilizar cupões e participar em eventos de promoções</string>
     <string name="google_service_introduction">Para funcionar normalmente, o Google Play necessita de ligar à Internet, aceder à localização, poder gravar áudio, efectuar chamadas, aceder a eventos do calendário, registo de chamadas, sensores, armazenamento, informação do dispositivo e contas</string>
     <string name="home_settings_miui_home">Clássico</string>
@@ -125,7 +125,7 @@ Pode controlar esta funcionalidade das Definições > Segurança > Privacidade >
     <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon permite transferir dados do seu dispositivo para outro dispositivo quando o ecrã está danificado</string>
     <string name="permission_account">Aceder a contas no seu dispositivo:</string>
-    <string name="permission_account_introduction">Para iniciar sessão na sua Conta Mi</string>
+    <string name="permission_account_introduction">Para iniciar sessão na sua Conta Xiaomi</string>
     <string name="permission_application_package_introduction">Para aceder ao armzenamento para analisar e verificar os pacotes de instalação</string>
     <string name="permission_backup">Aceder ao armazenamento</string>
     <string name="permission_backup_introduction">Para aceder e guardar cópias no seu dispositivo</string>
@@ -247,7 +247,7 @@ Pode controlar esta funcionalidade das Definições > Segurança > Privacidade >
     <string name="terms_of_use_ble_htmlViewer">, Fornecedor de localização, Visualizador HTML</string>
     <string name="terms_of_use_label">"Leia os nossos Termos de Utilização e Política de Privacidade para perceber as informações que recolhemos, como as utilizamos e que escolhas estão disponíveis para si.
 Tem de concordar com os nossos  Termos de Utilização e Política de Privacidade antes de utilizar a MIUI.
-Os componentes de %s e Conta Mi vão ligar à Internet e adquirir a sua localização"</string>
+Os componentes de %s e Conta Xiaomi vão ligar à Internet e adquirir a sua localização"</string>
     <string name="terms_of_use_label_Mistore">, Mi Store</string>
     <string name="terms_of_use_label_mab">, MAB</string>
     <string name="terms_of_use_label_package">, Instalador de pacotes</string>
@@ -313,7 +313,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="disagreement_application_not_working_properly">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação</string>
     <string name="disagreement_fast_pairing_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação. Pode ligar/desligar este serviço em Definições > Bluetooth > Definições adicionais > Mi Link</string>
     <string name="disagreement_location_service_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar a localização. Pode ligar/desligar a localização em Definições > Protecção de Privacidade</string>
-    <string name="disagreement_mi_account_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar os serviços da Conta Mi. Pode ligar/desligar os serviços da Conta Mi em Definições > Conta Mi</string>
+    <string name="disagreement_mi_account_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar os serviços da Conta Xiaomi. Pode ligar/desligar os serviços da Conta Xiaomi em Definições > Conta Xiaomi</string>
     <string name="disagreement_service_not_working_properly">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação</string>
     <string name="disagreement_terminate_bluetooth">Se não concordar em conceder estas permissões, não vai poder utilizar o Bluetooth. Pode ligar/desligar o Bluetooth e adicionar dispositivos nas Definições</string>
     <string name="exclusive_member_merchandise">Mercadoria exclusiva</string>
@@ -323,7 +323,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="ktlocation_U">(agente de serviço KT)</string>
     <string name="ktposition_header">Partilhar localização com agências de resgate</string>
     <string name="member_exclusive_medal">Emblema de membro</string>
-    <string name="membership_rights_tip">Iniciar sessão na sua Conta Mi para obter benefícios exclusivos</string>
+    <string name="membership_rights_tip">Iniciar sessão na sua Conta Xiaomi para obter benefícios exclusivos</string>
     <string name="message_introduction">Pode utilizar esta aplicação para enviar e receber SMS</string>
     <string name="not_set">Não definido</string>
     <string name="other_settings_ad_dialog_content_for_global">Quando as recomendações de anúncios personalizadas estão desligadas, vai ver a mesma quantidade de anúncios nas aplicações MIUI como se a funcionalidade estivesse ligada. Os anúncios apenas não vão ser relevantes porque não vão ser baseados nas suas preferências pessoais</string>
@@ -396,7 +396,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="service_fast_pairing_policy"><Data>Ler e concordar com &lt;a href=%1$s>Política de Privacidade Mi Link&lt;/a > antes de continuar</Data></string>
     <string name="service_interconnection_communication">Serviços de Internet Xiaomi</string>
     <string name="service_location_share_policy"><Data>Ler e concordar com &lt;a href=%1$s>Declaração de Privacidade dos Serviços de Localização&lt;/a > antes de continuar</Data></string>
-    <string name="service_mi_account">Conta Mi</string>
+    <string name="service_mi_account">Conta Xiaomi</string>
     <string name="service_name_address_dialing">Contactos e telefone</string>
     <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_ims">Serviço IMS</string>
@@ -404,7 +404,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="service_name_systemdesktop">Plugin de ecrã inicial</string>
     <string name="service_policy_adjust_content">Xunlei Privacy Policy</string>
     <string name="service_sim_activation">Activação cartão SIM</string>
-    <string name="sim_activation_introduction">A activação do cartão SIM verifica as informações do cartão para certificar que os serviços MIUI podem funcionar normalmente. Este serviços incluem Localizar Dispositivo, Mi Message, criar Conta Mi e sincronizar mensagens e histórico de chamadas</string>
+    <string name="sim_activation_introduction">A activação do cartão SIM verifica as informações do cartão para certificar que os serviços MIUI podem funcionar normalmente. Este serviços incluem Localizar Dispositivo, Mi Message, criar Conta Xiaomi e sincronizar mensagens e histórico de chamadas</string>
     <string name="sim_card_dial_card1">SIM 1 para chamadas</string>
     <string name="sim_card_dial_card2">SIM 2 para chamadas</string>
     <string name="sim_card_do_not_select_dial_card">Seleccionar cartão SIM para chamadas</string>
@@ -428,7 +428,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">landscape view optimization functionality</string>
-    <string name="terms_of_use_label_mi_account">Componentes da Conta Mi</string>
+    <string name="terms_of_use_label_mi_account">Componentes da Conta Xiaomi</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">Definições OS IA</string>

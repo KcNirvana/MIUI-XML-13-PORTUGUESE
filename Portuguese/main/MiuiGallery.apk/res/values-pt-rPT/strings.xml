@@ -209,7 +209,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="associate_face_album">Escolher um álbum</string>
     <string name="authorize_to_device_failed">Não foi possível autorizar</string>
     <string name="authorize_watch_on_tv_failed">Não foi possível autorizar para ver na TV</string>
-    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (necessário Conta Mi)</string>
+    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (necessário Conta Xiaomi)</string>
     <string name="auto_download_media_title">Transferir fotos da Xiaomi Cloud automaticamente</string>
     <string name="auto_update_face">Adicionar fotos automaticamente</string>
     <string name="auto_update_face_summary">Adicionar e corresponder fotos a um álbum de bebé automaticamente</string>
@@ -432,7 +432,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="cloud_action_open">Ligar</string>
     <string name="cloud_action_upgrade">Actualizar</string>
     <string name="cloud_action_view">Ver</string>
-    <string name="cloud_authorize_to_share_to_device">Autorizar a visão de itens associados à sua Conta Mi nas TVs</string>
+    <string name="cloud_authorize_to_share_to_device">Autorizar a visão de itens associados à sua Conta Xiaomi nas TVs</string>
     <string name="cloud_authorizing_to_device">A autorizar…</string>
     <string name="cloud_backup_enable_title">Sincronizar</string>
     <string name="cloud_backup_open_button">Ligar</string>
@@ -554,7 +554,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="default_relation_name">Novo grupo</string>
     <string name="define_by_user">Personalizado</string>
     <string name="delete">Eliminar</string>
-    <string name="delete_account_message">A Galeria necessita de limpar a cache devido a ter terminado a sessão da Conta Mi</string>
+    <string name="delete_account_message">A Galeria necessita de limpar a cache devido a ter terminado a sessão da Conta Xiaomi</string>
     <string name="delete_album_failed">Não foi possível eliminar álbum</string>
     <string name="delete_album_msg_format">Eliminar álbum \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Eliminar %1$s %2$s da Xiaomi Cloud e dispositivos sincronizados?</string>
@@ -675,7 +675,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="error_external_sdcard_write_action">Trocar armazenamento</string>
     <string name="error_external_sdcard_write_msg">Vá a Definições &gt; Armazenamento, troque de armazenamento e tente novamente</string>
     <string name="error_external_sdcard_write_tip">Não é possível guardar no cartão SD</string>
-    <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi</string>
+    <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Xiaomi</string>
     <string name="error_install_connect_fail">Não foi possível carregar o plugin. Verifique a sua ligação à rede</string>
     <string name="error_install_sdcard_not_available">Não foi possível carregar o plugin devido a um erro no cartão SD</string>
     <string name="error_install_storage_not_enough">Liberte algum espaço para carregar o plugin</string>
@@ -686,8 +686,8 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="error_network_restrict_msg">Permitir que a Galeria se ligue à rede</string>
     <string name="error_network_restrict_tip">Não é possível ligar à rede</string>
     <string name="error_no_account_action">Iniciar sessão</string>
-    <string name="error_no_account_msg">Inicie sessão na sua Conta Mi e tente novamente</string>
-    <string name="error_no_account_tip">Iniciar sessão na Conta Mi</string>
+    <string name="error_no_account_msg">Inicie sessão na sua Conta Xiaomi e tente novamente</string>
+    <string name="error_no_account_tip">Iniciar sessão na Conta Xiaomi</string>
     <string name="error_no_cta_permission_action">Permitir</string>
     <string name="error_no_cta_permission_msg">O acesso à rede está restrito</string>
     <string name="error_no_cta_permission_tip">O acesso à rede está restrito</string>
@@ -1130,7 +1130,7 @@ efeitos de fotos"</string>
     <string name="loading_video_fail_sync_without_network">Ligue-se à rede para transferir os metadados</string>
     <string name="loading_video_fail_syncing">Aguarde até que os metadados estejam totalmente transferidos e tente novamente</string>
     <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
-    <string name="login_and_enable_service">Iniciar sessão com a Conta Mi</string>
+    <string name="login_and_enable_service">Iniciar sessão com a Conta Xiaomi</string>
     <string name="long_press_to_refocus">Prima e segure para refocar</string>
     <string name="macarons_download_dialog_confirm">OK</string>
     <string name="macarons_download_dialog_message">Transferir plugin agora?</string>
@@ -1282,7 +1282,7 @@ para personalizar a galeria"</string>
     <string name="messagelist_sender_self">Eu</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mi_mover_working_desc">Mi Mover está a transferir itens…</string>
-    <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
+    <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (é necessário uma Conta Xiaomi)</string>
     <string name="midnight">Noite</string>
     <string name="mishare_all_devices">Todos os dispositivos</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar</string>
@@ -1969,8 +1969,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="search_image_result_title">Pesquisar resultados</string>
     <string name="search_login_now">Iniciar sessão</string>
     <string name="search_login_sub_title">Inicie sessão para encontrar mais fotos</string>
-    <string name="search_login_title">Conta Mi</string>
-    <string name="search_login_title_full_screen">Inicie sessão na sua Conta Mi para encontrar mais objectos</string>
+    <string name="search_login_title">Conta Xiaomi</string>
+    <string name="search_login_title_full_screen">Inicie sessão na sua Conta Xiaomi para encontrar mais objectos</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Corrigir</string>
     <string name="search_menu_title">Pesquisa</string>
@@ -2812,7 +2812,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="widget_recommend_store_detail_desc">Fotos recentes e momentos brilhantes</string>
     <string name="widget_talkback_custom">Galeria. Imagens seleccionadas</string>
     <string name="widget_talkback_recommend">Galeria. Memórias</string>
-    <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
+    <string name="xiaomi_account_not_exists_toast">A Conta Xiaomi não existe</string>
     <string name="yes">Sim</string>
     <string name="yesterday">Ontem</string>
     <string name="you_are">É o bebé de</string>

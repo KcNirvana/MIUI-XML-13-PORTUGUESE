@@ -3,7 +3,7 @@
     <string name="account_bind_secure_email_title">Adicionar email</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
-    <string name="account_empty_user_name">Introduzir o nome de utilizador da Conta Mi</string>
+    <string name="account_empty_user_name">Introduzir o nome de utilizador da Conta Xiaomi</string>
     <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
     <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, &gt;, /"</string>
     <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
@@ -25,7 +25,7 @@
     <string name="account_user_details">Informações pessoais</string>
     <string name="account_user_email">Email de recuperação</string>
     <string name="account_user_gender">Género</string>
-    <string name="account_user_id">ID Conta Mi</string>
+    <string name="account_user_id">ID Conta Xiaomi</string>
     <string name="account_user_name">Nome</string>
     <string name="account_user_name_dialog_title">Introduzir utilizador</string>
     <string name="account_user_other_info">Outras informações</string>
@@ -44,7 +44,7 @@
     <string name="app_name">Comentários</string>
     <string name="app_search">Pequisar aplicações</string>
     <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
-    <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+    <string name="bind_sign_in_title">Adicionar Conta Xiaomi</string>
     <string name="btn_send">Enviar</string>
     <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
     <string name="bugreport_dialog_submit_content">Está a guardar registos de software no seu dispositivo. Podem conter informações pessoais e dados de localização</string>
@@ -64,7 +64,7 @@
     <string name="confirm_activate_email">Verificado</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
     <string name="confirm_new_pwd">Confirmar a nova palavra-passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado à Conta Mi %2$s. Não vai ser necessário associar novamente à Conta Mi %3$s se continuar. Continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado à Conta Xiaomi %2$s. Não vai ser necessário associar novamente à Conta Xiaomi %3$s se continuar. Continuar?</string>
     <string name="cta_cancel">Cancelar</string>
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
@@ -103,12 +103,12 @@ Envie este código ao supervisor"</string>
     <string name="err_type_translate">Idioma</string>
     <string name="err_type_xiaomi_family">Casa Mi</string>
     <string name="err_type_xiaomi_service">Apoio ao cliente</string>
-    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
+    <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Xiaomi</string>
     <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
     <string name="error_no_connection">Não foi possível ligar à rede</string>
-    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
+    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
+    <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Seleccionar problema</string>
     <string name="feedback_choose_module">Seleccionar item</string>
@@ -145,7 +145,7 @@ Envie este código ao supervisor"</string>
     <string name="feedback_empty_report_list">Sem relatórios ainda</string>
     <string name="feedback_guess">A nossa suposição</string>
     <string name="feedback_hint_optional">Seleccionar</string>
-    <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Mi para ver os detalhes e o estado dos seus relatórios</string>
+    <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Xiaomi para ver os detalhes e o estado dos seus relatórios</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Chave JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">A criar Jira…</string>
@@ -153,7 +153,7 @@ Envie este código ao supervisor"</string>
     <string name="feedback_phone_model_label">Modelo do telefone</string>
     <string name="feedback_probability_label">Probabilidade</string>
     <string name="feedback_remind_login_btn">Iniciar sessão</string>
-    <string name="feedback_report_remind_login_desc">Iniciar sessão na sua Conta Mi para os nossos serviços técnicos entrarem em contacto consigo. Pode ver o estado dos seus relatórios em \"Os meus relatórios\"</string>
+    <string name="feedback_report_remind_login_desc">Iniciar sessão na sua Conta Xiaomi para os nossos serviços técnicos entrarem em contacto consigo. Pode ver o estado dos seus relatórios em \"Os meus relatórios\"</string>
     <string name="feedback_reproductivity_everytime">Sempre</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
     <string name="feedback_reproductivity_often">Frequentemente</string>
@@ -228,7 +228,7 @@ Envie este código ao supervisor"</string>
     <string name="inconsistent_pwd">As palavra-passe não correspondem</string>
     <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
     <string name="input_new_pwd">Introduza uma nova palavra-passe</string>
-    <string name="isornot_your_mi_account">É esta a sua Conta Mi?</string>
+    <string name="isornot_your_mi_account">É esta a sua Conta Xiaomi?</string>
     <string name="issue_search">Pesquisar</string>
     <string name="just_a_second">Aguarde…</string>
     <string name="kr_authorization_function">A submeter comentários, a gerar registos, a ver FAQs</string>
@@ -289,7 +289,7 @@ Envie este código ao supervisor"</string>
     <string name="open_settings">Ir para Definições</string>
     <string name="packaging_dialog_content">A criar relatório…</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_label">Conta Mi</string>
+    <string name="passport_account_label">Conta Xiaomi</string>
     <string name="passport_account_name">Conta: %1$s</string>
     <string name="passport_activate_token_expired">A verificação expirou. Tente novamente</string>
     <string name="passport_area_code_title">Código do país</string>
@@ -410,7 +410,7 @@ Envie este código ao supervisor"</string>
     <string name="set_success">Alterado com sucesso</string>
     <string name="sign_in">A iniciar sessão</string>
     <string name="sign_in_progress">A iniciar sessão…</string>
-    <string name="sign_in_title">Iniciar sessão com a sua Conta Mi</string>
+    <string name="sign_in_title">Iniciar sessão com a sua Conta Xiaomi</string>
     <string name="sms_send_success">Enviada</string>
     <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
     <string name="sns_bind_limit">Demasiadas tentativas. Tente outro método de iniciar sessão</string>
@@ -483,7 +483,7 @@ Envie este código ao supervisor"</string>
     <string name="upload_log_failed">Não foi possível enviar registos</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
-    <string name="user_id_hint">Email/Telefone/ID Conta Mi</string>
+    <string name="user_id_hint">Email/Telefone/ID Conta Xiaomi</string>
     <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Finish and upload</string>

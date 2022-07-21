@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma app</string>
     <string name="abc_capital_off">DESATIVADO</string>
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
-    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a app %s</string>
     <string name="abc_toolbar_collapse_description">Reduzir</string>
     <string name="accept_cookies_confirm_message">Desligar este recurso pode causar alguns problemas em sítios.</string>
     <string name="accessibility_button_clear">Limpar entrada</string>
@@ -122,6 +122,8 @@
     <string name="add_ql_bm_title">Guardar</string>
     <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
     <string name="add_quicklinks">Adicionar</string>
+    <string name="add_right_now">Adicionar</string>
+    <string name="add_short_cut">Adicionar %s ao seu Ecrã inicial agora?</string>
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Adicionar aos marcadores</string>
@@ -131,12 +133,23 @@
     <string name="adjust_text_zoom_toast">Alterar o tamanho do texto pode causar erros na apresentação de alguns sítios</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceitar</string>
+    <string name="agree_open">Ligar</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este sítio pode apresentar riscos à segurança</string>
     <string name="all">Tudo</string>
     <string name="allow">Permitir</string>
     <string name="allow_current">Permitir uma vez</string>
+    <string name="already_add">%s adicionado ao seu Ecrã inicial</string>
     <string name="am">AM</string>
+    <string name="app_library_category_entertainment">Entretenimento</string>
+    <string name="app_library_category_games">Jogos</string>
+    <string name="app_library_category_information">Multimédia</string>
+    <string name="app_library_category_lifestyle">Estilo de vida</string>
+    <string name="app_library_category_others">Outro</string>
+    <string name="app_library_category_productivity">Produtividade</string>
+    <string name="app_library_category_social">Social</string>
+    <string name="app_library_category_utility">Ferramentas</string>
+    <string name="app_library_title">Aplicações</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Câmara</string>
     <string name="app_name_downloadedrom">Pacotes</string>
@@ -215,11 +228,16 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
     <string name="branch_app_suggestion">Recomendado</string>
     <string name="branch_apps">Aplicações</string>
+    <string name="branch_contacts">Contactos</string>
+    <string name="branch_give_relevant_permissions">Conceda ao Navegador Mi as permissões relevantes nas Definições</string>
+    <string name="branch_grant_permission">Permissões necessárias</string>
     <string name="branch_local_search_settings">Definições de pesquisa local</string>
     <string name="branch_search_guide_privacy">Ests funcionalidade é fornecida por Branch Metrics Inc. Nós partilharemos a sua localização, pesquisas e ID do Google Ads com ela. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> deles antes de continuar.</string>
     <string name="branch_search_in_browser">Pesquisar \"%1$s\" no Navegador</string>
     <string name="branch_setting">Definições</string>
+    <string name="branch_short_message">Mensagens</string>
     <string name="branch_shortcuts">Atalhos</string>
+    <string name="branch_show_more">Mais</string>
     <string name="branch_terms_condition">Termos e condições</string>
     <string name="browserFrameFileErrorLabel">Erro do ficheiro</string>
     <string name="browserFrameFormResubmitLabel" />
@@ -264,6 +282,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="change_news_language">Alterar o idioma das notícias?</string>
     <string name="change_password">Alterar palavra-passe</string>
     <string name="change_sub_now">Alterar plano</string>
+    <string name="channel_can_not_remove">Não é possível remover ou ocultar o canal predefinido</string>
     <string name="channel_description">Transferências do navegador</string>
     <string name="channel_manager">Gerir canais</string>
     <string name="channel_name">Transferências</string>
@@ -309,7 +328,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="com_facebook_internet_permission_error_title">Erro AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Gostaste</string>
     <string name="com_facebook_like_button_not_liked">Gosto</string>
-    <string name="com_facebook_loading">A carregar...</string>
+    <string name="com_facebook_loading">A carregar…</string>
     <string name="com_facebook_loginview_cancel_action">Cancelar</string>
     <string name="com_facebook_loginview_log_in_button">Iniciar sessão</string>
     <string name="com_facebook_loginview_log_in_button_continue">Continuar com o Facebook</string>
@@ -390,6 +409,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="continue_reading">Continuar a ler</string>
     <string name="copy">Copiar</string>
     <string name="copy_url">Copiar URL</string>
+    <string name="core_functions_of_browser">As principais funcionalidades na ponta dos seus dedos</string>
     <string name="could_not_load_data">Não foi possível carregar dados, atualize e tente novamente</string>
     <string name="crash_page_button">Tentar novamente</string>
     <string name="crash_page_description">Algo correu mal durante a exibição desta página web.</string>
@@ -551,7 +571,7 @@ Envie este código para o supervisor."</string>
     <string name="download_sdcard_busy_dlg_msg">O cartão SD está ocupado. Para permitir transferências, desligue o armazenamento USB na Área de notificações.</string>
     <string name="download_sdcard_busy_dlg_title">Cartão SD indisponível</string>
     <string name="download_sdcard_no_space">Não foi possível transferir. Não há espaço de armazenamento suficiente.</string>
-    <string name="download_secure_download_in_xiaomi_market">Transferir da App Store</string>
+    <string name="download_secure_download_in_xiaomi_market">Transferir na GetApps</string>
     <string name="download_status_failed">Não foi possível transferir</string>
     <string name="download_status_pending">A aguardar</string>
     <string name="download_title">Transferências</string>
@@ -566,6 +586,7 @@ Envie este código para o supervisor."</string>
     <string name="edit_bookmark">Editar marcador</string>
     <string name="edit_bookmark_tips">Adicionado aos favoritos com sucesso. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
     <string name="edit_quicklink">Editar</string>
+    <string name="edit_website">Editar URL</string>
     <string name="empty" />
     <string name="empty_app_name">Outra aplicação</string>
     <string name="empty_bookmark">Vazio</string>
@@ -574,6 +595,7 @@ Envie este código para o supervisor."</string>
     <string name="enable_geolocation_confirm_message">Desligar os serviços de localização vai afetar as recomendações que recebe.</string>
     <string name="encrypt_success">Ocultado com sucesso</string>
     <string name="encrypting">A encriptar…</string>
+    <string name="enter_bookmark">Favoritos</string>
     <string name="enter_developer_mode">Entrar no modo de programador</string>
     <string name="enter_incongnito_mode">Entrar no Modo anónimo</string>
     <string name="enter_news_by_pull_down">Solte para abrir o Feed de conteúdo</string>
@@ -582,7 +604,7 @@ Envie este código para o supervisor."</string>
     <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi.</string>
     <string name="error_filename_too_long">O nome do ficheiro é muito longo.</string>
     <string name="error_folder_already_exists">Este ficheiro já existe</string>
-    <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi.</string>
+    <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Xiaomi.</string>
     <string name="error_info_cant_send_folder">Não é possível enviar pastas.</string>
     <string name="error_invalid_bind_address">O endereço de email introduzido é inválido.</string>
     <string name="error_not_acceptable">Sincronização desligada.</string>
@@ -590,7 +612,7 @@ Envie este código para o supervisor."</string>
     <string name="error_not_url_tips">Introduza um URL válido</string>
     <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção</string>
     <string name="error_title">Não foi possível sincronizar</string>
-    <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início da sessão.</string>
+    <string name="error_unauthorized">A sincronização com a sua Conta Xiaomi foi desligada devido a muitas tentativas de início de sessão.</string>
     <string name="error_unsupport_url_tips">Não é possível transferir este vídeo. Atualmente suportamos transferir vídeos do Facebook, Twitter e Instagram.</string>
     <string name="evening">Tarde</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -805,8 +827,11 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="go_supermarket_button">Ir</string>
     <string name="go_supermarket_title">Mais aplicações, velocidade mais rápida e menos utilização de dados na App Store</string>
+    <string name="go_to_tab">Separadores</string>
     <string name="gold_medals">Medalhas douradas</string>
     <string name="google_bookmarks">Google</string>
+    <string name="goto_browser">Navegar</string>
+    <string name="goto_setting">Definições</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="has_already_subscribed_tips">Já assinou este plano</string>
     <string name="hash_tag">"\# %1$s "</string>
@@ -946,6 +971,8 @@ Envie este código para o supervisor."</string>
     <string name="media_error_network_unreachable">Não foi possível ligar à rede</string>
     <string name="media_error_timeout">A ligação de rede expirou</string>
     <string name="media_error_video_not_exist">O vídeo não existe</string>
+    <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
+    <string name="memory_clear_result">%1$s limpos</string>
     <string name="menu_addtodesk">Adicionar ao Ecrã inicial</string>
     <string name="menu_exit_nightmode">Sair</string>
     <string name="menu_hv_swap">Ecrã V/H</string>
@@ -960,8 +987,11 @@ Envie este código para o supervisor."</string>
     <string name="midi_permission_name">Controlar dispositivos MIDI</string>
     <string name="midnight">Noite</string>
     <string name="mint_games">Jogos do momento</string>
+    <string name="mint_news_feed">Notícias</string>
+    <string name="mint_news_feed_a">Notícias Mi</string>
+    <string name="mint_news_feed_b">Notícias locais</string>
     <string name="miui_autologin_bar_error">Não é possível iniciar sessão</string>
-    <string name="miui_autologin_bar_title">Iniciar sessão com a Conta Mi</string>
+    <string name="miui_autologin_bar_title">Iniciar sessão com a Conta Xiaomi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Adicionar grupo</string>
     <string name="miui_bookmark_action_bar_new_group_title">Novo grupo</string>
     <string name="miui_facebook_enable_pref_summary">Gerir notificações do Facebook mais convenientemente</string>
@@ -1278,6 +1308,7 @@ Sair desta página agora?"</string>
     <string name="no_app_open_document">Não foi encontrado nenhuma aplicação para efetuar esta ação</string>
     <string name="no_connection">Não foi possível ligar à rede</string>
     <string name="no_file">Vazio</string>
+    <string name="no_follow_description">Não segue ninguém ainda. Navegue nas notícias para encontrar criadores e portais de notícias que gosta.</string>
     <string name="no_items">Sem mais itens aqui.</string>
     <string name="no_more_games">Sem mais jogos</string>
     <string name="no_network">Verifique a sua ligação de rede e tente novamente.</string>
@@ -1289,7 +1320,9 @@ Sair desta página agora?"</string>
     <string name="no_space_alert_title">Transferência em pausa</string>
     <string name="no_space_clean_failed">Não foi possível libertar espaço no seu dispositivo​</string>
     <string name="noon">Meio-dia</string>
+    <string name="not_add">Agora não</string>
     <string name="not_allowed_open">Não é possível utilizar o navegador na primeira inicialização</string>
+    <string name="not_remind">Não voltar a mostrar</string>
     <string name="not_remind_again">Lembrar a minha escolha</string>
     <string name="not_set">Não definido</string>
     <string name="not_show_again">Não voltar a mostrar</string>
@@ -1308,6 +1341,9 @@ Sair desta página agora?"</string>
     <string name="notification_download_completed">Transferido com sucesso</string>
     <string name="notification_download_failed">Não foi possível transferir.</string>
     <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat.</string>
+    <string name="novel_continue_read_popup">Ler</string>
+    <string name="novel_tab_popup">Veja os seus livros recentes aqui</string>
+    <string name="novel_tab_popup_ok">OK</string>
     <string name="offline_notification_text">Toque para abrir o anúncio.</string>
     <string name="offline_notification_title">Veja o anúncio que guardou quando estava offline</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -1318,6 +1354,8 @@ Sair desta página agora?"</string>
     <string name="ok">OK</string>
     <string name="one_prefect_author">Criador</string>
     <string name="open_app_confirm_message">Permitir a esta página abrir %s?</string>
+    <string name="open_google_gaid">Para poder utilizar esta funcionalidade, certifique-se de que não desligou a opção de anúncios personalizados em Definições > Google > Anúncios.</string>
+    <string name="open_personalized_services">Ligue os serviços personalizados para poder utilizar esta funcionalidade.</string>
     <string name="open_private_folder">Solte para ver as pastas ocultas</string>
     <string name="open_voice_permission">Permitir que o microfone se ligue à internet</string>
     <string name="open_whatsapp_status">Verificar estados do WhatsApp</string>
@@ -1426,6 +1464,7 @@ Sair desta página agora?"</string>
     <string name="per_month">Por mês</string>
     <string name="permission_agree_service">Li e concordo com todos os termos e condições a seguir.</string>
     <string name="permission_alert_window">Permita que o Navegador exiba janelas flutuantes para poder utilizar esta funcionalidade.</string>
+    <string name="permission_allow">Permitir</string>
     <string name="permission_contacts">Contactos</string>
     <string name="permission_deeplink_tip_title">Permitir que esta página abra %s?</string>
     <string name="permission_dialog_msg_camera">%s deseja utilizar a sua câmara</string>
@@ -1449,9 +1488,11 @@ Sair desta página agora?"</string>
     <string name="permission_open_location">Permita que o Navegador Mi aceda à sua localização nas Definições primeiro</string>
     <string name="permission_open_mic">Permita que o Navegador Mi aceda ao microfone nas Definições primeiro</string>
     <string name="permission_open_storage">Permita que o Navegador Mi aceda ao armazenamento interno nas Definições primeiro</string>
+    <string name="permission_request_contacts">Esta funcionalidade precisa de permissão para aceder aos seus contactos para funcionar normalmente.</string>
     <string name="permission_service">Termos e condições</string>
     <string name="permission_sound_toast_message">A reproduzir áudio…</string>
     <string name="permission_storage">Armazenamento</string>
+    <string name="permission_to_open">Definições</string>
     <string name="permission_unknown">Ocorreu um erro.</string>
     <string name="permission_use">Permissões</string>
     <string name="permisssion_not_ask_again">Não perguntar novamente</string>
@@ -1660,11 +1701,12 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="privacy_authorize_summary">Ligue ou desligue o seletor para conceder ou revogar a sua autorização</string>
     <string name="privacy_authorize_title">Autorização</string>
     <string name="privacy_btn_more">Mais</string>
+    <string name="privacy_disagree">Não aceitar</string>
     <string name="privacy_improve_performance">Programa de Experiência do Utilizador</string>
     <string name="privacy_improve_performance_desc">Permita que a Xiaomi recolha e analise dados de utilizador a fim de melhorar os nossos produtos e serviços</string>
     <string name="privacy_local_app_discovery">Descubra aplicações locais</string>
     <string name="privacy_message">Antes de utilizar o Navegador, deve aceitar o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Contrato do Utilizador&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">O Navegador Mi precisa recolher as informações pessoais necessárias pra fornecer os seus serviços básicos. Pode saber mais sobre como lidamos com as informações recolhidas em nossa &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>. Pode sempre retirar o seu consentimento à Política de Privacidade do Navegador Mi em Definições > Privacidade e segurança. Leia e aceite o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Contrato do Utilizador&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font> antes de utilizar o Navegador Mi.</string>
+    <string name="privacy_message_main_tips_first">O Navegador Mi precisa recolher informações pessoais necessárias para lhe fornecer serviços básicos. Pode ler mais sobre como processamos as informaçòes que recolhemos na nossa &lt;font color=\"#0a84ff\">&lt;a href=\"%1$s\" style=\"color:#0a84ff;\">Política de Privacidade&lt;/a>&lt;/font>. Pode retirar o seu consentimento à Política de Privacidade do Navegador Mi a qualquer altura em Definições > Privacidade e Segurança. Leia e aceite o nosso &lt;font color=\"#0a84ff\">&lt;a href=\"%2$s\" style=\"color:#0a84ff;\">Contrato do Utilizador&lt;/a>&lt;/font> e a &lt;font color=\"#0a84ff\">&lt;a href=\"%1$s\" style=\"color:#0a84ff;\">Política de Privacidade&lt;/a>&lt;/font> antes de utilizar o Navegador Mi.</string>
     <string name="privacy_message_main_tips_second">Para poder pesquisar por aplicações neste dispositivo e saber quais aplicações estão instaladas, o Navegador Mi precisa aceder às informações de instalação das aplicações, que não ser-lhe-ão guardadas localmente ou enviadas de qualquer forma.</string>
     <string name="privacy_message_welcome">Boas-vindas ao Navegador Mi! A nossa aplicação fornece os seguintes serviços:</string>
     <string name="privacy_message_welcome_tip_first">- Navegação rápida e segura</string>
@@ -1727,12 +1769,15 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="readmodelist_bookmarks_to_show">Lista de leitura</string>
     <string name="recent_apk_status_install">INSTALADO</string>
     <string name="recommend">Recomendado</string>
+    <string name="recommend_button">Seguir (%s)</string>
+    <string name="recommend_description">Selecionamos alguns criadores que pode querer seguir.</string>
     <string name="record_permission_name">Gravar áudio</string>
     <string name="recovery_page_popup">Continue de onde parou</string>
     <string name="refresh">Atualizar</string>
     <string name="refresh_fail">Não foi possível carregar as informações</string>
     <string name="refresh_guide">Voltar ao topo</string>
     <string name="refreshing">A atualizar…</string>
+    <string name="refuse_open">Agora não</string>
     <string name="refuse_permissions_request">Restringir</string>
     <string name="release_to_refresh">Solte para atualizar</string>
     <string name="relevant_recommendations">Recomendado</string>
@@ -1831,10 +1876,12 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="search_file_type_music">Música</string>
     <string name="search_file_type_picture">Fotos</string>
     <string name="search_file_type_video">Vídeos</string>
+    <string name="search_for_anything">Busque por qualquer coisa</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Pesquisar</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_s139">%1$d</string>
+    <string name="search_settings">Definições de Pesquisa</string>
     <string name="search_settings_description">Marcadores e histórico</string>
     <string name="search_shipin">Vídeo</string>
     <string name="search_sm">SM</string>
@@ -1844,6 +1891,8 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="search_trending_new">Novo</string>
     <string name="search_trending_title">Em destaque</string>
     <string name="search_tupian">Imagem</string>
+    <string name="search_using_traceless_mode">Modo Anónimo</string>
+    <string name="search_with_browser">Pesquisar com o Navegador Mi</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Transferir da App Store</string>
@@ -1883,16 +1932,26 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="set_success">Alterado com sucesso</string>
     <string name="setting">Definições</string>
     <string name="setting_app_language">Idioma do Navegador</string>
+    <string name="setting_contact_information">informações de contactos</string>
     <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
+    <string name="setting_installed_apps">Aplicações instaladas</string>
+    <string name="setting_mobile_phone_settings">Definições do dispositivo</string>
     <string name="setting_privacy_password">Defina padrão de desbloqueio</string>
+    <string name="setting_searchable_content">Itens pesquisáveis</string>
+    <string name="setting_sms_content">Conteúdos de SMS</string>
     <string name="setting_swipe_up">Deslizar para cima no Ecrã inicial</string>
     <string name="share_image_text">Vê o que eu partilhei! @MIUI</string>
     <string name="share_page_text">Vê o que eu partilhei: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Vê o que partilhei: %1$s</string>
     <string name="shear_plate_permission_name">Aceder ou guardar itens na área de transferência</string>
+    <string name="shortcut_function">Atalhos</string>
+    <string name="shortcuts_boost_speed">Aumentar velocidade</string>
+    <string name="shortcuts_cleanup_cache">Limpeza</string>
+    <string name="shortcuts_cleanup_memory">Limpar cache</string>
+    <string name="shortcuts_security_scan">Verificação de segurança</string>
     <string name="sign_in">A iniciar sessão</string>
     <string name="sign_in_by_others">Outras formas de iniciar sessão</string>
-    <string name="sign_in_by_xiaommi">Inicie sessão com a Conta Mi</string>
+    <string name="sign_in_by_xiaommi">Iniciar sessão com a Conta Xiaomi</string>
     <string name="sign_in_failed">Não foi possível iniciar sessão</string>
     <string name="sign_in_progress">A iniciar sessão…</string>
     <string name="sign_in_title">Iniciar sessão na Conta Mi</string>
@@ -1975,6 +2034,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="tab_game">Jogos</string>
     <string name="tab_home">Início</string>
     <string name="tab_mine">Perfil</string>
+    <string name="tab_novel">Livros</string>
     <string name="tab_quicklinks">Página inicial</string>
     <string name="tab_reader_description">Leitor</string>
     <string name="tab_refresh_description">Recarregar página</string>

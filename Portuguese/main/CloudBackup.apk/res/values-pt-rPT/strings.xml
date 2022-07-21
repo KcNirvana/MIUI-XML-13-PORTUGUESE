@@ -295,6 +295,7 @@ Verifique as suas definições de rede e tente novamente"</string>
     <string name="backup_action_long_time_not_backup_title">Sem cópias recentes</string>
     <string name="cancel_restore">A cancelar…</string>
     <string name="cloud_backup_detail_header_msg">Agora pode copiar o layout do ecrã inicial, aplicações, definições de sistema e dados WeChat. &lt;font color=#0D84FF>&lt;a href=>Toque para saber mais&lt;/a>&lt;/font></string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Copiar o layout do ecrã inicial, aplicações e definições de sistema &lt;font color=#0D84FF>&lt;a href=>Toque para saber mais&lt;/a>&lt;/font>"</string>
     <string name="cloud_backup_detail_local_backup_size">Tamanho estimado: %s</string>
     <string name="cloud_backup_detail_no_time">Sem cópias</string>
     <string name="cloud_backup_permission_allow">Concedida</string>

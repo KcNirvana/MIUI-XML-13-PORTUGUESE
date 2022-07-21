@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MIUI+ Beta</string>
+    <string name="app_no_storage_permission">Permitir que %1$s aceda ao armazenamento em Definições > Aplicações > %2$s > Permissões primeiro</string>
+    <string name="app_opened_in_new_window">Aplicação aberta numa nova janela</string>
     <string name="cancel">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Definições</string>
@@ -134,6 +136,7 @@
     <string name="screen_num_over_limit">Não é possível abrir mais janelas</string>
     <string name="search_menu_title">Pesquisa</string>
     <string name="send">Enviar</string>
+    <string name="settings_bluetooth_enable_summary">Ligar Bluetooth para poder localizar dispositivos próximos. Ligar agora?</string>
     <string name="settings_connect">Como ligar</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
     <string name="settings_connect_pc_group">Trabalhar com o seu computador</string>
@@ -152,6 +155,7 @@
     <string name="settings_feature_dnd_summary">Silenciar notificações quando o seu dispositivo estiver ligado a um computador</string>
     <string name="settings_feature_dnd_title">Não incomodar</string>
     <string name="settings_feature_intro">Acerca desta funcionalidade</string>
+    <string name="settings_handoff_enable_bluetooth">Ligar Bluetooth para poder localizar dispositivos próximos</string>
     <string name="settings_feature_keep_screen_summary">Manter o seu dispositivo desbloqueado para prevenir desligamentos inesperados</string>
     <string name="settings_feature_keep_screen_title">Não bloquear o ecrã</string>
     <string name="settings_history">Histórico de ligações</string>

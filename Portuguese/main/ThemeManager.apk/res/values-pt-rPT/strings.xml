@@ -89,6 +89,7 @@
     <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
     <string name="check_has_new_version">Actualização disponível</string>
     <string name="classification_more_understand_you">Seleccione a sua categoria favorita</string>
+    <string name="clock">Instalar Relógio</string>
     <string name="close">Fechar</string>
     <string name="common_applying">A aplicar…</string>
     <string name="common_downloading">A transferir…</string>
@@ -284,6 +285,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
     <string name="incompatible_dialog_message">Este tema não é totalmente compatível com a versão MIUI instalada. Alguns elementos podem ser mostrados incorrectamente</string>
     <string name="incompatible_dialog_ok">Percebi</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
+    <string name="install_clock">Ainda não instalou Relógio. Transferir agora?</string>
     <string name="install_failed">Não foi possível instalar</string>
     <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>

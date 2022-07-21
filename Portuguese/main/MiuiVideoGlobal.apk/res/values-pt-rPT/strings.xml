@@ -186,6 +186,7 @@
     <string name="galleryplus_notification_linkvideo_title4">Centenas de vídeos grátis por um período limitado</string>
     <string name="galleryplus_notification_linkvideo_title5">Transmitir os seus shows favoritos</string>
     <string name="galleryplus_notification_try_now_btn">Experimentar agora</string>
+    <string name="galleryplus_notification_type_link_video">A trocar para vídeos no dispositivo</string>
     <string name="galleryplus_online_cta">Vídeos necessita de ligar à Internet para funcionar normalmente. Concordar?</string>
     <string name="galleryplus_online_cta_agree">Concordar</string>
     <string name="galleryplus_online_cta_disagree">Não concordar</string>
@@ -426,6 +427,7 @@
     <string name="notification_recall_desc">Vídeos pode notificar acerca de vídeos populares e subscrições</string>
     <string name="notification_recall_title">Ligar notificações</string>
     <string name="notification_tool">Ferramentas</string>
+    <string name="notification_type_channel_music">Reprodução de música</string>
     <string name="notify_apk_installed">Transferido com sucesso</string>
     <string name="off">[desligado]</string>
     <string name="off_tip_firework_recommend">Não vai receber recomendações da Firework</string>
@@ -1036,6 +1038,8 @@ Mi Video is ready for an update.
 Update the app now to check out our new cool features!
 Mi Video Team"</string>
     <string name="description">Description</string>
+    <string name="desktop_widget_local_media">Multimédia</string>
+    <string name="desktop_widget_new">Novo</string>
     <string name="detail_select_source">Select playback source</string>
     <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
     <string name="diagnosis_log_sent_format">"Sent logs successfully.
@@ -1136,6 +1140,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_exchange">Redeem</string>
     <string name="incentive_exchange_code">Code</string>
     <string name="incentive_exchange_code_copy">Copy</string>
+    <string name="incentive_exchange_code_copy_and_start">Use</string>
     <string name="incentive_exchange_details">Details</string>
     <string name="incentive_exchange_details_current">Order total</string>
     <string name="incentive_exchange_details_total">Balance</string>
@@ -1161,6 +1166,9 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_task_title_novice">For newcomers</string>
     <string name="incentive_task_to_get">Start</string>
     <string name="incentive_task_to_login">Sign in</string>
+    <string name="incentive_toast_share_success_new">Shared successfully</string>
+    <string name="incentive_toast_subscribe_success_new">Subscribed successfully</string>
+    <string name="incentive_ui_tab_earn_credits">Points</string>
     <string name="incentive_view_all_prizes">View all rewards</string>
     <string name="incentive_view_details">Details</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>

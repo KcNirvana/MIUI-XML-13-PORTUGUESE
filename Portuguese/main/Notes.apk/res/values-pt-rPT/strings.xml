@@ -494,6 +494,7 @@
     <string name="search_setting_description">Texto nas suas notas</string>
     <string name="search_title_notes">Notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
+    <string name="select_up_limit_toast">Seleccionar até %d itens</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Atalhos</string>

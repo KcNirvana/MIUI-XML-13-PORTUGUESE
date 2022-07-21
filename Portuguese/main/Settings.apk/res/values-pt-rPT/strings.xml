@@ -488,6 +488,7 @@ Se esta permissão estiver desligada, os alarmes existentes e os eventos com bas
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_oaid_used">Utilizar ID Virtual</string>
     <string name="allow_oaid_used_desc">A MIUI não vai fornecer um ID Virtual (OAID) para aplicações instaladas. Algumas funcionalidades de recomendação podem não funcionar correctamente</string>
+    <string name="allow_ongoing_title">Permitir notificações permanentes</string>
     <string name="allow_overlay_description">Permitir que esta aplicação se sobreponha a outras aplicações que esteja a utilizar. Esta aplicação vai poder ver onde toca ou alterar o que é apresentado no ecrã</string>
     <string name="allow_sound">Permitir reprodução de som</string>
     <string name="allow_sound_title">Som</string>
@@ -1878,6 +1879,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
     <string name="captions_category_title">Legendas</string>
     <string name="capture_system_heap_dump_title">Fazer a captura da área dinâmica para dados do sistema</string>
     <string name="capturing_system_heap_dump_message">A fazer a captura da área dinâmica para dados do sistema…</string>
+    <string name="card_holder_header_title">Carteira</string>
     <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
     <string name="cards_passes_lower">cartões e passes</string>
     <string name="cards_passes_sentence">Cartões e passes</string>

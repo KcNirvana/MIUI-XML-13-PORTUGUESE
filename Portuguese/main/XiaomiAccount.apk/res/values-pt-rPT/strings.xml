@@ -78,6 +78,7 @@ Pode iniciar sessão na sua Conta Xiaomi com %s agora"</string>
     <string name="change_email_address">Alterar endereço de email</string>
     <string name="change_password">Alterar palavra-passe</string>
     <string name="change_phone_number">Alterar número de telefone</string>
+    <string name="child_account_system_ad_disable_hint">Esta funcionalidade ainda não está disponível para contas de crianças</string>
     <string name="cloud_description_closed">Ocupado | Sinc. desligada</string>
     <string name="cloud_description_normal">Ocupado</string>
     <string name="cloud_service">Xiaomi Cloud</string>
@@ -119,6 +120,8 @@ Envie este código ao supervisor"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="facebook_login">Iniciar sessão com Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
+    <string name="family_service">Serviços família</string>
+    <string name="family_share">Partilha de família</string>
     <string name="find_device">Localizar Dispositivo</string>
     <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
     <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>

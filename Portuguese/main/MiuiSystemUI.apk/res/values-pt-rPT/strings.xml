@@ -1404,6 +1404,8 @@ d 'de' MMMM"</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_title_unfold">Marcar como importante</string>
     <string name="miui_notification_menu_unfold">Marcar como importante</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Restringir notificações permanentes para \"%1$s\" agora?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restringir notificações permanentes</string>
     <string name="miui_screen_rotation_freeze_message">Ecrã bloqueado no modo paisagem</string>
     <string name="miui_snooze_always_float">Não ocultar</string>
     <string name="miui_snooze_cancel">Cancelar</string>

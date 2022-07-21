@@ -276,6 +276,7 @@
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">Percebi</string>
     <string name="open_close_tip_content">Para fechar a janela, prima e segure a barra de acção e deslize para cima</string>
+    <string name="open_miui_optimization">Ligar optimização MIUI primeiro</string>
     <string name="orange">Laranja</string>
     <string name="other_ime">Outros teclados</string>
     <string name="package_delete_confirm_step_1">Desinstalar %s?</string>

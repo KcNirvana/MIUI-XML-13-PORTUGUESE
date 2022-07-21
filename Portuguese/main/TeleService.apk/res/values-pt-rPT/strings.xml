@@ -687,6 +687,8 @@ Mudar para um novo fornecedor mesmo assim?"</string>
     <string name="help_label">Ajuda e comentários</string>
     <string name="hintName">Nome</string>
     <string name="hintPhonenumber">Número de telefone</string>
+    <string name="hide_stk_name">Ferramentas USIM</string>
+    <string name="home">Definições</string>
     <string name="importAllSimEntries">Importar tudo</string>
     <string name="importSimEntry">Importar</string>
     <string name="importToFDNfromContacts">Importar dos contactos</string>
@@ -1007,6 +1009,8 @@ Contacte a sua operadora"</string>
     <string name="no_vm_number">Número de Voice Mail em falta</string>
     <string name="no_vm_number_msg">Não existe número de Voice Mail guardado no cartão SIM</string>
     <string name="no_voip">Chamadas pela Internet não suportadas</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">Não é possível efectuar chamadas. O serviço HD de voz não está registado para o SIM %d (China Broadnet)</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">Não é possível efectuar chamadas.O serviço HD de voz não está registado para o SIM China Broadnet SIM</string>
     <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi nas definições de rede)</string>
     <string name="not_a_valid_port">O número da porta deve ser entre %1$d e %2$d</string>
     <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede</string>

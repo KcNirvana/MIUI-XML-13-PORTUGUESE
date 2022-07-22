@@ -2110,7 +2110,6 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="guest_resetting">Resetting guest…</string>
     <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
     <string name="hdcp_checking_title">HDCP checking</string>
-    <string name="home">Settings Home</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
     <string name="immediately_destroy_activities">Don’t keep activities</string>

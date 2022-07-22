@@ -121,7 +121,6 @@ Envie este código ao supervisor"</string>
     <string name="facebook_login">Iniciar sessão com Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="family_service">Serviços família</string>
-    <string name="family_share">Partilha de família</string>
     <string name="find_device">Localizar Dispositivo</string>
     <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
     <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>

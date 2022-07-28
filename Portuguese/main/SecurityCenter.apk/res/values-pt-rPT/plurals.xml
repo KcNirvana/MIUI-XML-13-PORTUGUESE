@@ -566,6 +566,14 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">O dispositivo vai desligar em %d segundos</item>
         <item quantity="one">O dispositivo vai desligar em %d segundo</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">vezes</item>
         <item quantity="one">vez</item>
@@ -637,6 +645,14 @@ You can get a %d-day free trial now!"</item>
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s minutos restantes</item>
         <item quantity="one">%s minuto restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minutos de tempo de ecrã restantes</item>
+        <item quantity="one">%s minuto de tempo de ecrã restante</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Ligar para adicionar %s minutos</item>
+        <item quantity="one">Ligar para adicionar %s minuto</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Percebi (%ds)</item>

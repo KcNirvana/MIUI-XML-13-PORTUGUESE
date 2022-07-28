@@ -6,6 +6,12 @@
     <string name="HIPS_Perm_CallLog_Desc">Escrever e eliminar o registo de chamadas</string>
     <string name="HIPS_Perm_Call_Desc">Marcar números de telefone directamente</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar e eliminar os seus contactos</string>
+    <string name="HIPS_Perm_External_READ_FILES">Aceder a ficheiros e documentos</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Aceder a ficheiros e documentos neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Aceder a ficheiros áudio</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Aceder a músicas e outros ficheiros de áudio neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Aceder a fotos e vídeos</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Aceder a fotos e vídeos neste dispositivo</string>
     <string name="HIPS_Perm_External_Storage">Aceder e guardar itens no armazenamento</string>
     <string name="HIPS_Perm_External_Storage_Desc">Aceder e guardar ficheiros e fotos no armazenamento interno</string>
     <string name="HIPS_Perm_External_Storage_Group">Gerir permissões de armazenamento</string>
@@ -820,6 +826,8 @@
     <string name="btn_text_stop">Parar</string>
     <string name="bubble_app_empty_page">Não foi possível localizar aplicações que suportem as bolhas de conversa</string>
     <string name="bubble_app_manage">Gerir bolhas de conversas</string>
+    <string name="bubble_mode_barrage_switch_tips">Ligar para mostrar bolhas de conversa em aplicações minimizadas como comentários no ecrã</string>
+    <string name="bubble_mode_barrage_tips">As bolhas de conversa em aplicações minimizadas vão ser mostradas como comentários no ecrã</string>
     <string name="bubble_notification">Bolhas de conversas</string>
     <string name="bubble_notification_switch">Mostrar bolhas de conversas</string>
     <string name="bubble_notification_switch_desc">Quando uma aplicação de mensagens estiver numa janela flutuante oculta, mostrar as mensagens recebidas em bolhas</string>
@@ -904,6 +912,8 @@
     <string name="card_uninstall_button_text">Gerir</string>
     <string name="card_uninstall_summary">Desinstalar aplicações raramente utilizadas para libertar espaço</string>
     <string name="card_uninstall_title_1">Desinstalar aplicações raramente utilizadas</string>
+    <string name="category_no_scoped">Outras aplicações</string>
+    <string name="category_scoped">Aplicações compatíveis</string>
     <string name="cd_back">Voltar</string>
     <string name="cellular_data_auto_check">Verificar automaticamente</string>
     <string name="cellular_package_daily_input">Introduzir</string>
@@ -1054,9 +1064,16 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
     <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
     <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis</string>
     <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
+    <string name="dialog_btn_delete_icon">Remover</string>
+    <string name="dialog_btn_no_create_icon">Cancelar</string>
+    <string name="dialog_btn_yes_create_icon">Adicionar</string>
     <string name="dialog_change_package_type_summary">Alterar o tipo de plano de dados vai repor todas as definições de utilização de dados para os valores predefinidos. Alterar tipo de plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alteração de tipo de plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
+    <string name="dialog_msg_create_icon_content">Adicionar um atalho ao ecrã inicial agora?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Não mostrar novamente</string>
+    <string name="dialog_msg_delete_icon_content">A Segurança permite limpar o lixo do seu dispositivo, localizar e neutralizar vírus, poupar bateria, gerir permissões e mais</string>
+    <string name="dialog_msg_delete_icon_title">Remover este atalho?</string>
     <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="dialog_restrict_all_mobile_summary">A ligação de dados móveis %s vai ser restringida para todas as aplicações</string>
@@ -1165,6 +1182,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
     <string name="empty_title_root_apps">Sem aplicações com acesso root</string>
     <string name="enable_extreme_power_save_mode">Poupança de bateria extrema</string>
     <string name="enable_network">Ligue a rede primeiro</string>
+    <string name="enable_notification_title">Permitir que %1$s utilize notificações?</string>
     <string name="every_day">Todos os dias</string>
     <string name="ew_alert_arrive_location">Onda sísmica chegou em %s</string>
     <string name="ew_alert_dial_text">"Ligar a contacto
@@ -1626,6 +1644,11 @@ volunteer"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante mortes no jogo</string>
     <string name="gb_audition_instruction">Premir e segurar para gravar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilizar auriculares para um melhor efeito</string>
+    <string name="gb_beauty_cold_light">Frio</string>
+    <string name="gb_beauty_face">Embelezar</string>
+    <string name="gb_beauty_light">Preencher com luz</string>
+    <string name="gb_beauty_nature_light">Natural</string>
+    <string name="gb_beauty_warm_light">Quente</string>
     <string name="gb_collimator_color">Cor</string>
     <string name="gb_collimator_size">Tamanho</string>
     <string name="gb_collimator_style">Tipo</string>
@@ -2098,6 +2121,7 @@ da operadora"</string>
     <string name="managed_user_title">Todas as aplicações de trabalho</string>
     <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
     <string name="manual_input_traffic">Definir utilização de dados</string>
+    <string name="manual_item_create_icon_title">Atalho de ecrã inicial</string>
     <string name="manual_item_white_list_summary">Impedir que os itens seleccionados sejam optimizados</string>
     <string name="manual_item_white_list_title">Excepções</string>
     <string name="mark_agent">Bloquear agências reportadas</string>
@@ -2248,7 +2272,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
     <string name="mtp_ptp_mode_summary">MTP ou PTP está activo</string>
     <string name="na_main_card_ad_subtitle">Muitos dados, chamadas gratuitas, preços baixos</string>
     <string name="na_main_card_ad_text">Encontre um plano que combine consigo</string>
-    <string name="na_main_card_ad_title">Promoção de cartões Mi Fan</string>
+    <string name="na_main_card_ad_title">Promoção de cartões Xiaomi Fan</string>
     <string name="na_main_card_title_sim">"Cartão "</string>
     <string name="na_open_at_once">Ligar</string>
     <string name="na_query_and_correction">Verificar e calibrar saldo</string>
@@ -2522,6 +2546,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="other_exception_summary">Não tem uma ligação à Internet</string>
     <string name="other_exception_title">A verificar por outros problemas</string>
     <string name="other_milink_connect">Não é possível transmitir. Outra funcionalidade está a ser transmitida</string>
+    <string name="over_package_reminder_type">Quando o plano de dados é utilizado</string>
     <string name="package_change_notification_summary">Toque para saber mais</string>
     <string name="package_change_notification_title">Ajustar limite de dados automaticamente</string>
     <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
@@ -2652,6 +2677,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="permission_instruction_get_accounts">Permite que a aplicação obtenha a lista de contas reconhecidas pelo telefone. Pode incluir qualquer conta criada pelas aplicações instaladas</string>
     <string name="permission_instruction_install_shortcuts">Permite que a aplicação adicione atalhos ao ecrã principal sem a intervenção do utilizador</string>
     <string name="permission_instruction_install_unknown_source">Permite que a aplicação instale outras aplicações no seu dispositivo. As aplicações maliciosas podem utilizar esta permissão para instalar aplicações sem a sua confirmação</string>
+    <string name="permission_instruction_media_audio">Permite que a aplicação aceda a músicas e outros ficheiros áudio neste dispositivo. Estes itens podem conter informações pessoais</string>
+    <string name="permission_instruction_media_files">Permite que a aplicação aceda a ficheiros e documentos neste dispositivo. Estes itens podem conter informações pessoais</string>
     <string name="permission_instruction_modify_audio_settings">Permite que a aplicação modifique definições de áudio globais, tais como o volume, sem a sua confirmação</string>
     <string name="permission_instruction_nfc">Permite que a aplicação comunique com etiquetas, cartões e leitores Near Field Communication (NFC)</string>
     <string name="permission_instruction_notification_adjustment">Permite que a aplicação forneça notificações adaptáveis mais personalizadas e diversificadas</string>
@@ -2663,6 +2690,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="permission_instruction_read_calllog">Permite que a aplicação aceda ao registo de chamadas do telefone</string>
     <string name="permission_instruction_read_clipboard">Permite que a aplicação leia quaisquer conteúdos que copie que podem incluir informações pessoais</string>
     <string name="permission_instruction_read_contacts">Permite que a aplicação leia dados acerca de contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento</string>
+    <string name="permission_instruction_read_media_pic">Permite que a aplicação aceda a fotos e vídeos neste dispositivo. Estes itens podem conter informações pessoais</string>
     <string name="permission_instruction_read_notify_sms">Permite que a aplicação leia mensagens de notificações guardadas no telefone</string>
     <string name="permission_instruction_read_phone_state">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta permissão permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada</string>
     <string name="permission_instruction_read_sms">Permite que a aplicação leia mensagens SMS guardadas no telefone</string>
@@ -2671,6 +2699,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="permission_instruction_record_audio">Permite que a aplicação grave áudio com o microfone em qualquer altura</string>
     <string name="permission_instruction_running_background">Permite que a aplicação execute em segundo plano. Enquanto estiver a ser executada, pode obter dados e fornecer serviços. Estas actividades aumentam o consumo de bateria</string>
     <string name="permission_instruction_running_exceed_data">Permite que a aplicação ignore os limites de dados móveis</string>
+    <string name="permission_instruction_scoped">Um novo mecanismo de protecção de armazenamento permite controlar melhor como as aplicações compatíveis utilizam as permissões de armazenamento</string>
     <string name="permission_instruction_send_mms">Permite que a aplicação envie mensagens multimédia. Isto pode resultar em custos inesperados. As aplicações maliciosas podem fazer com que incorra em custos, enviando mensagens multimédia sem a sua confirmação</string>
     <string name="permission_instruction_send_payment_sms">Permite que a aplicação envie mensagens de texto pagas</string>
     <string name="permission_instruction_send_sms">Permite que a aplicação envie mensagens SMS. Isto pode resultar em custos inesperados. As aplicações maliciosas podem fazer com que incorra em custos, enviando mensagens sem a sua confirmação</string>
@@ -2740,6 +2769,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_center_battery_chargefull_time">Até totalmente carregada</string>
     <string name="power_center_battery_detail">Detalhes</string>
     <string name="power_center_battery_duration">Tempo restante</string>
+    <string name="power_center_battery_duration_screen_on">Tempo de ecrã restante</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
     <string name="power_center_battery_health_poor_tip">A saúde da bateria é baixa. Verifique a sua bateria num centro de serviço autorizado</string>
     <string name="power_center_battery_health_summary">Carregar totalmente e descarregar o seu dispositivo %1$d a %2$d vezes para melhorar a precisão das estatísticas da bateria</string>
@@ -2759,6 +2789,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_center_consume_fast">A descarregar bateria</string>
     <string name="power_center_dialog_msg_bottom">Pode aumentar a bateria até %1$dh %2$dm. Ligar a poupança de bateria?</string>
     <string name="power_center_dialog_msg_title">Ligar para obter %1$s de tempo extra. Vão ser executadas as seguintes acções para poupar bateria:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Vai ter %1$s de tempo de ecrã se ligar esta funcionalidade. As medidas que vão poupar bateria:</string>
     <string name="power_center_dialog_msg_top">Quando a poupança de bateria está ligada, a MIUI vai fazer as seguintes optimizações:</string>
     <string name="power_center_hints_scan_danger_result">Pode corrigir os problemas de bateria agora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar o brilho do ecrã automaticamente</string>
@@ -2845,6 +2876,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_idle">Telefone inactivo</string>
     <string name="power_main_battery_last_day_hour">%1$sd %2$sh restante</string>
     <string name="power_main_battery_last_hour_minute">%1$sh %2$sm restante</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de tempo de ecrã restante</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Ligar para adicionar %1$s %2$s de tempo de ecrã</string>
     <string name="power_off_warning_button_ok">Percebi</string>
     <string name="power_off_warning_message">Bateria fraca. O seu dispositivo vai ser desligado em %d segundos. Ligue o carregador</string>
     <string name="power_off_warning_notification_title">Prestes a desligar</string>
@@ -3375,6 +3408,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="quite_all_string">Cancelar</string>
     <string name="reach_daily_limit_value_body">Reduzir a sua utilização de dados móveis</string>
     <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>
+    <string name="reach_warning_reminder_type">Quando atingir o limite</string>
     <string name="read_all_sms">Ler tudo</string>
     <string name="read_and_write_clipboard">Aceder e guardar itens na área de transferências</string>
     <string name="read_clipboard_ai_action_desc">Receber notificações quando o acesso for permitido ou restringido</string>
@@ -3398,6 +3432,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="reject_usb_install">Foi negada a instalação destas aplicações via USB</string>
     <string name="release_meminfo">Libertar %dMB</string>
     <string name="release_memory">Limpar cache</string>
+    <string name="reminder_click_to_close_tips">Pode desligar os avisos de utilização de dados em Segurança > Utilização de dados > Definições</string>
     <string name="renew_ip">Repetir</string>
     <string name="renew_now">Renovar</string>
     <string name="repair">Reparar</string>
@@ -4004,6 +4039,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="storage_clear_cache_large">Libertar %s</string>
     <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
     <string name="storage_clear_video">Limpar cache de vídeo</string>
+    <string name="storage_compact_warning">Ajustar várias permissões</string>
+    <string name="storage_compact_warning_desc">Esta aplicação não suporta o ajuste de permissões para fotos, vídeos, áudio, ficheiros ou documentos individualmente</string>
     <string name="storage_deepclean_entry">Limpeza Profunda</string>
     <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
 
@@ -4535,6 +4572,8 @@ Esta funcionalidade não funciona com suavização de movimento.
 Ligar uma das funcionalidade vais desligar a outra"</string>
     <string name="vb_video_super_division_tips">"Não é claro o suficiente?
 Tente aumentar a resolução!"</string>
+    <string name="verify_allow">Permitir</string>
+    <string name="verify_denied">Restringir</string>
     <string name="verify_shut_down_password_content">Necessário confirmar o bloqueio de ecrã para desligar o dispositivo</string>
     <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
     <string name="video_repeat">Reproduzir novamente</string>
@@ -4664,6 +4703,9 @@ Tente aumentar a resolução!"</string>
     <string name="activity_title_permissions_instruction">Detalhes das permissões</string>
     <string name="add_auto_task_desktop_icon">Adicionar atalho no ecrã inicial</string>
     <string name="add_whitelist">Adicionar às excepções</string>
+    <string name="added_game_notification_summary">Começar a jogar agora</string>
+    <string name="added_game_notification_title">%s está agora no Game Turbo</string>
+    <string name="added_game_start_game">Jogar</string>
     <string name="adv_permission_text">Permissões</string>
     <string name="adv_privacy_text">Privacidade</string>
     <string name="adv_version_text">Versão: %s</string>
@@ -4774,6 +4816,8 @@ Tente aumentar a resolução!"</string>
     <string name="beauty_fc_assistant">Assistente de câmara frontal</string>
     <string name="beauty_fc_assistant_summary">Utilizar luz de preenchimento e Embelezar com a câmara frontal</string>
     <string name="beauty_fc_assistant_summary_new">Mostrar Embelezar e opções da luz de preenchimento ao utilizar a câmara frontal</string>
+    <string name="beauty_fc_assistant_summary_common">Utilizar funcionalidades adicionais com a câmara frontal</string>
+    <string name="beauty_fc_auto_brightness">Ajustar o brilho da luz de preenchimento automaticamente</string>
     <string name="beauty_fc_fill_lamp">Luz de preenchimento</string>
     <string name="beauty_fc_fill_lamp_new">Luz de preenchimento frontal</string>
     <string name="beauty_fc_light">Brilho da luz de preenchimento</string>
@@ -5235,7 +5279,7 @@ Remover consentimento agora?"</string>
     <string name="bill_remind">Phone balance warning</string>
     <string name="bill_reminder_summary">Remind to top up when balance gets lower than %1s</string>
     <string name="bill_traffic_reminder_instruction">Attention</string>
-    <string name="bill_traffic_reminder_instruction_text">The actual details of the plans provided by mobile carriers might vary and billing delays might occur. The information provided here is for your reference only.</string>
+    <string name="bill_traffic_reminder_instruction_text">Billing methods and data calculation standards of different carriers may vary. Billing delays may also occur. Usage stats provided here are for your reference only.</string>
     <string name="click_to_charge_bill">Top up</string>
     <string name="click_to_set_carrier">Tap to set</string>
     <string name="click_to_set_personalized_reminder">Set warnings</string>
@@ -5427,6 +5471,7 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Conteúdo actualizado para este jogo pode ser transferido automaticamente após ligar ao Wi-Fi e desligar o ecrã. Vai poder utilizar a nova versão assim que for disponibilizada.&lt;br>&lt;br>Leia e concorde com &lt;a href=\"%1$s\">Declaração de Actualização em segundo plano&lt;/a> antes de utilizar esta funcionalidade"</Data></string>
     <string name="gb_predownload_dialog_title">Actualizações em segundo plano disponíveis agora</string>
     <string name="gb_predownload_message">Actualizar King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto não estiver a utilizar o dispositivo</string>
+    <string name="gb_predownload_message_new">Actualizar jogos compatíveis automaticamente enquanto não estiver a utilizar o dispositivo</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB de conteúdo actualizado foi transferido. Vai poder utilizar assim que a nova versão for disponibilizada</string>
     <string name="gb_predownload_noti_title">%s actualizado em segundo plano</string>
     <string name="gb_predownload_title">Actualizações em segundo plano</string>

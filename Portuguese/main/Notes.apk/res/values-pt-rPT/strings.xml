@@ -98,6 +98,7 @@
     <string name="dlg_hide_message">A ocultar…</string>
     <string name="dlg_info_creating_message">A criar mensagem…</string>
     <string name="dlg_info_save_to_gallery_message">A guardar imagem na Galeria…</string>
+    <string name="dlg_info_save_to_local_message">A guardar…</string>
     <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituído pelo padrão de Protecção de Privacidade que funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_set_password">O padrão de Protecção de Privacidade funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_use_privacy_password">Utilize o padrão de Protecção de Privacidade. Funciona para mensagens, fotos e pastas ocultas</string>
@@ -407,6 +408,9 @@
     <string name="permission_phone_state_desc">Parar de gravar notas de voz durante chamadas</string>
     <string name="permission_read_contact_desc">A associar as notas criadas durante as chamadas com contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imagens</string>
+    <string name="permission_storage_desc_new_v12">Para adicionar imagens a notas e guardar notas como imagens</string>
+    <string name="permission_storage_desc_pad_new_v12">Para adicionar imagens a notas e guardar notas como imagens</string>
+    <string name="permission_storage_desc_pad_v12">Para adicionar imagens a notas e guardar notas como imagens</string>
     <string name="permission_storage_desc_v12">Para adicionar imagens a notas e guardar notas como imagens</string>
     <string name="permission_xiaoai_desc">A IA Mi vai obter as suas gravações de voz e ID de dispositivo para transcrever o áudio e criar notas de voz. Saiba mais em IA Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
     <string name="permlab_accessNote">Aceder a notas</string>
@@ -485,6 +489,9 @@
     <string name="save_to_gallery_failure_message">Não foi possível guardar</string>
     <string name="save_to_gallery_icon_name">Guardar na Galeria</string>
     <string name="save_to_gallery_success_message">Imagem guardada com sucesso</string>
+    <string name="save_to_local_failure_message">Não foi possível guardar</string>
+    <string name="save_to_local_icon_name">Guardar</string>
+    <string name="save_to_local_success_message">Guardado com sucesso</string>
     <string name="search">Notas</string>
     <string name="search_hint">Pesquisar notas</string>
     <string name="search_keyword_notes">Notas;Memo</string>

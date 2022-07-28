@@ -37,6 +37,7 @@
  O seu ID de conta: %s"</string>
     <string name="account_token_expired_title">Erro na autenticação</string>
     <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar_activity_not_found">Não é possível abrir a Galeria</string>
     <string name="account_user_avatar_from_album">Escolher foto</string>
     <string name="account_user_avatar_from_camera">Tirar foto</string>
     <string name="account_user_base_info">Informações pessoais</string>
@@ -81,6 +82,14 @@ Pode iniciar sessão na sua Conta Xiaomi com %s agora"</string>
     <string name="child_account_system_ad_disable_hint">Esta funcionalidade ainda não está disponível para contas de crianças</string>
     <string name="cloud_description_closed">Ocupado | Sinc. desligada</string>
     <string name="cloud_description_normal">Ocupado</string>
+    <string name="cloud_member">Subscrição</string>
+    <string name="cloud_member_status_expired">Expirada</string>
+    <string name="cloud_member_status_expired_soon">A expirar</string>
+    <string name="cloud_member_status_non_vip">Actualizar</string>
+    <string name="cloud_member_vipname_free">Grátis</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Gerar registos de diagnóstico</string>
     <string name="completed">Tudo configurado</string>

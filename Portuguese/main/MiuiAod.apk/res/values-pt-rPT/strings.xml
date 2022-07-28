@@ -5,6 +5,7 @@
     <string name="accessibility_battery_level_charging">Bateria a carregar. %d porcento</string>
     <string name="add_custom_image">Imagem personalizada</string>
     <string name="add_from_album">Adicionar da Galeria</string>
+    <string name="add_from_local">Seleccionar imagem</string>
     <string name="align_center_horizontally">Horizontal e centro</string>
     <string name="align_center_vertically">Empilhado e centro</string>
     <string name="align_left_horizontally">Horizontal e esquerda</string>

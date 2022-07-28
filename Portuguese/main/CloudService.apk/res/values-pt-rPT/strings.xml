@@ -432,6 +432,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Mensagens de texto</string>
     <string name="micloud_setting_wifi_summary">Definições Wi-Fi</string>
     <string name="micloud_setting_wifi_summary_china">Definições Wi-Fi</string>
+    <string name="micloud_share_cloud_storage_entrance_title">Partilhar armazenamento na Xiaomi Cloud com os seus grupos familiares</string>
     <string name="micloud_space_applist_detail">Gerir aplicações no ecrã inicial</string>
     <string name="micloud_space_applist_title">Gerir aplicações</string>
     <string name="micloud_space_duokan_detail">Transferir e gerir ebooks com a aplicação Duokan</string>

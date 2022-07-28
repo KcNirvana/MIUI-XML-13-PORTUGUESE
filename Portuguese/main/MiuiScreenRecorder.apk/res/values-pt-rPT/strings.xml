@@ -5,6 +5,8 @@
     <string name="app_notification_info">O Gravador de Ecrã está a ser executado em segundo plano</string>
     <string name="app_notification_record_complete">"Gravação de ecrã guardarda na Galeria.
 Toque para ver"</string>
+    <string name="app_notification_record_saved">"Gravação guardada com sucesso.
+Toque para ver"</string>
     <string name="app_notification_title">Gravador de ecrã</string>
     <string name="auto_stop_title">Vídeo guardado com sucesso</string>
     <string name="battery_not_allowed" formatted="false">Não é possível gravar o ecrã com a bateria a menos de 3%. É recomendado estar a mais de 20%</string>

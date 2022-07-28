@@ -55,6 +55,8 @@ uma captura de ecrã extendida"</string>
     <string name="cta_btn_disagree">Não concordar</string>
     <string name="cta_main_purpose">Bem-vindo ao editor de capturas de ecrã! Pode utilizar esta aplicação para cortar e editar as suas capturas de ecrã</string>
     <string name="default_device_name">Dispositivo desconhecido</string>
+    <string name="device_list_all">Todos os dispositivos</string>
+    <string name="device_list_more">Mais</string>
     <string name="device_offline">O outro dispositivo está offline. Comece de novo</string>
     <string name="device_status_failed">Não foi possível enviar</string>
     <string name="device_status_sending">A enviar…</string>
@@ -72,6 +74,9 @@ uma captura de ecrã extendida"</string>
     <string name="filter_category_movie">Filme</string>
     <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve. Mantenha-se ligado!</string>
     <string name="global_main_purpose">Bem-vindo ao editor de capturas de ecrã! Pode utilizar esta aplicação para cortar e editar as suas capturas de ecrã. Esta aplicação necessita de ligar à Internet para funcionar normalmente</string>
+    <string name="global_pad">O meu tablet</string>
+    <string name="global_pc">O meu portátil</string>
+    <string name="global_phone">O meu telefone</string>
     <string name="help">Não consegue encontrar dispositivos?</string>
     <string name="help_content">Se não consegue encontrar o dispositivo que necessita, diga à outra pessoa para ligar o Mi Share</string>
     <string name="image_decode_failed">Não é possível descodificar a imagem</string>

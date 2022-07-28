@@ -745,6 +745,7 @@
     <string name="pa_pad_privacy_text">Home screen widgets</string>
     <string name="pa_pad_setting_privacy_logout_summary">Cancel Home screen widgets services</string>
     <string name="pa_pad_setting_privacy_revoke_cta_summary">Withdraw your consent to the Privacy Policy of Home screen widgets</string>
+    <string name="pa_picker_accessibility_fab_description">Return to top of the page</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Selected %1$s, row %2$d, number %3$d. Double tap to view details.</string>
     <string name="pa_picker_empty">"Widgets aren't available in this version of the app. 
 Stay tuned!"</string>
@@ -1090,6 +1091,8 @@ Stay tuned!"</string>
     <string name="pa_picker_detail_bottom_bt_text_to_minus">Adicionar ao assistente</string>
     <string name="pa_picker_detail_bottom_bt_text_un_install">Install the app to use its widgets</string>
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Update the app to use its widgets</string>
+    <string name="pa_picker_detail_bottom_download_app_and_add_widget">Install app</string>
+    <string name="pa_picker_detail_bottom_update_app_and_add_widget">Update app</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Open App vault to add widgets from there.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Utilizar assistente</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancelar</string>
@@ -1128,11 +1131,27 @@ Stay tuned!"</string>
     <string name="pa_picker_list_loading">Aguarde…</string>
     <string name="pa_picker_loading">Aguarde…</string>
     <string name="pa_picker_maml_list_activity_title">Adicionar widgets</string>
+    <string name="pa_picker_no_relevant_content">Sem resultados</string>
     <string name="pa_picker_permission_denied">"App vault needs to access installation status
 to show widgets."</string>
     <string name="pa_picker_request">Definições</string>
     <string name="pa_picker_retry">Tentar novamente</string>
+    <string name="pa_picker_search">Pesquisar</string>
+    <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtros</string>
+    <string name="pa_picker_search_card_more_all_applications">Mais aplicações</string>
+    <string name="pa_picker_search_card_more_all_suits">Mais conjuntos de widgets</string>
+    <string name="pa_picker_search_empty">"Couldn't find results"</string>
+    <string name="pa_picker_search_error">"Couldn't connect to the network"</string>
+    <string name="pa_picker_search_layout_cancel">Cancelar</string>
+    <string name="pa_picker_search_recommendation_title">Recomendações</string>
+    <string name="pa_picker_search_result_empty">"Couldn't find results"</string>
+    <string name="pa_picker_search_result_type_application">Aplicações</string>
+    <string name="pa_picker_search_result_type_recommend">Recomendações</string>
+    <string name="pa_picker_search_result_type_suit">Conjuntos de widgets</string>
+    <string name="pa_picker_search_result_type_widget">Widgets</string>
     <string name="pa_picker_suit_list_activity_title">Personalization packages</string>
+    <string name="pa_picker_tab_title_category">Categorias</string>
+    <string name="pa_picker_tab_title_recommend">Recomendações</string>
     <string name="pa_picker_tips_count_limit_forbidden">Não é possível adicionar mais widgets ao assistente. Elimine widgets antigos para adicionar novos</string>
     <string name="pa_picker_toast_add_successfully">Adicionado com sucesso</string>
     <string name="pa_picker_toast_count_limit_forbidden">Não é possível adicionar mais widgets</string>
@@ -1206,6 +1225,12 @@ to show widgets."</string>
     <string name="pa_setting_privacy_third_parties">Declaração sobre partilha de dados com terceiros</string>
     <string name="pa_setting_privacy_view_priv">Ver Política de Privacidade</string>
     <string name="pa_setting_version">Versão: %1$s</string>
+    <string name="pa_shopping_dialog_privacy_authorize_message">Welcome to Shopping! You can use this widget to get discounts and shopping offers. Read and agree to our Statement on Third-Party Services and Privacy Policy before you continue.</string>
+    <string name="pa_shopping_dialog_privacy_authorize_title">Terms and conditions</string>
+    <string name="pa_shopping_dialog_privacy_desc">Privacy Policy</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_message">"If you continue, you'll withdraw your consent to the Privacy Policy of Shopping. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Shopping provides its services based on the collection of necessary personal information, your withdrawal of consent will be held as a refusal to accept these services."</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_title">Withdrawal of consent</string>
+    <string name="pa_shopping_dialog_statement_desc">Statement on Third-Party Services</string>
     <string name="pa_shopping_page_product_action_bar_title">All products</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Delete products</string>
     <string name="pa_shopping_page_product_delete_dialog_message">Delete %d selected items now?</string>
@@ -1214,12 +1239,15 @@ to show widgets."</string>
     <string name="pa_shopping_page_product_jump_setting_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_source_desc">Get discounts and deals on products</string>
     <string name="pa_shopping_page_setting_update_channel_failure">An error occurred. Check your network settings and try again.</string>
+    <string name="pa_shopping_page_setting_widthdraw_desc">Withdraw your consent to the Shopping Privacy Policy</string>
+    <string name="pa_shopping_page_setting_withdraw">Withdrawal of consent</string>
     <string name="pa_shopping_widget_empty_content_click_desc">Nothing here yet</string>
     <string name="pa_shopping_widget_empty_content_desc">Nothing here yet</string>
     <string name="pa_shopping_widget_full_bottom_desc">All products</string>
     <string name="pa_shopping_widget_full_title_desc">Save %s CNY on these</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Tap to give permissions to use Shopping</string>
     <string name="pa_shopping_widget_no_network_content_desc">"Couldn't connect to the network"</string>
+    <string name="pa_shopping_widget_no_privacy_content_desc">Agree to the Shopping Privacy Policy to be able to use this feature. Tap to view.</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Settings</string>
     <string name="pa_shopping_widget_title">Shopping</string>
     <string name="pa_shortcut_add_limit">Pode adicionar até %1$d atalhos</string>
@@ -1321,9 +1349,13 @@ to show widgets."</string>
     <string name="pa_vertical_right">Vertical layout. Right aligned.</string>
     <string name="pa_widget_menu_edit">Editar</string>
     <string name="pa_widget_menu_remove">Remover</string>
+    <string name="pa_widget_menu_replace">Trocar</string>
     <string name="pa_widget_need_download_dialog_cancel">Cancelar</string>
     <string name="pa_widget_need_download_dialog_confirm">OK</string>
     <string name="pa_widget_need_download_dialog_message_install">To be able to use widgets, install \"%s\" first.</string>
     <string name="pa_widget_need_download_dialog_message_load">To be able to use widgets, load \"%s\" first.</string>
     <string name="pa_widget_need_download_dialog_message_upgrade">To be able to use widgets, update \"%s\" first.</string>
+    <string name="pa_widget_need_download_permission">Permissões</string>
+    <string name="pa_widget_need_download_privacy">Privacidade</string>
+    <string name="pa_widget_need_download_version">Versão %1$s</string>
 </resources>

@@ -328,6 +328,7 @@ Selecção"</string>
     <string name="force_resizable_activities_summary">Tornar todas as actividades redimensionáveis para várias janelas, independentemente dos valores do manifesto</string>
     <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL do layout do ecrã para todos os locais</string>
+    <string name="fraud_toast_message">Pode gerir o encaminhamento de chamadas nas Definições</string>
     <string name="guest_exit_guest">Remove guest</string>
     <string name="guest_new_guest">Add guest</string>
     <string name="guest_nickname">Guest</string>

@@ -49,6 +49,7 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">ligar ou desligar dados móveis</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Ligar a dispositivos próximos</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobrir e ligar a dispositivos próximos</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobrir e ligar a dispositivos próximos via Bluetooth e Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obter informação do dispositivo</string>
     <string name="HIPS_Perm_PhoneID_Desc">aceder ao número de telefone, IMEI e IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">aceder ao número de telefone e estado do dispositivo</string>

@@ -387,6 +387,7 @@
     <string name="mi_wallpaper">Temas MIUI</string>
     <string name="minus_one_screen">Assistente</string>
     <string name="miui_screen_config_title">Definições do ecrã inicial</string>
+    <string name="miui_widget_menu_replace_text">Trocar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

@@ -52,6 +52,8 @@
     <string name="backup_hint_pad">Mantenha o seu dispositivo ligado</string>
     <string name="backup_is_running">A fazer cópia do dispositivo</string>
     <string name="backup_new">Novo:</string>
+    <string name="backup_notice_content">As suas cópias não vão ser encriptadas, o que significa que podem ser acedidas por aplicações de terceiros. Certifique-se que os itens copiados estão num ambiente devidamente protegido</string>
+    <string name="backup_notice_title">Atenção</string>
     <string name="backup_notification_title">A executar \"Cópia de segurança\"…</string>
     <string name="backup_progress">A copiar…</string>
     <string name="backup_report">Ver detalhes</string>
@@ -80,6 +82,8 @@
     <string name="cancel_moving_dialog_message">Parar a importação?</string>
     <string name="cancel_moving_dialog_title">Parar importação</string>
     <string name="cancel_restore">Parar</string>
+    <string name="category_contacts">Contactos</string>
+    <string name="category_message_contacts">Mensagens e contactos</string>
     <string name="check_privacy_policy">Ver Política de Privacidade</string>
     <string name="click_soft_ap_to_link">Seleccione um PA Móvel para ligar</string>
     <string name="click_to_view">Toque para ver</string>
@@ -271,7 +275,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="local_main_backup_time">Última cópia: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Encriptar os itens utilizando a sua Conta Xiaomi</string>
-    <string name="local_main_encrypt_backup_title">Encriptação de cópias</string>
+    <string name="local_main_encrypt_backup_title">Verificar conta para restaurar itens</string>
     <string name="local_main_latest_backup_time_loading">Aguarde…</string>
     <string name="local_no_backup">Sem cópias locais</string>
     <string name="local_no_backup_data">Sem cópias</string>
@@ -437,6 +441,8 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="permission_read_storage_global">Aceder ao armazenamento</string>
     <string name="permission_read_write_storage">Para poder copiar itens, dê permissão para aceder ao armazenamento primeiro</string>
     <string name="permission_read_write_sys_app">Para poder copiar e restaurar mensagens, contactos e registo de chamadas, dê permissão para aceder a estes itens primeiro</string>
+    <string name="permission_read_write_sys_app1">Permitir que esta funcionalidade aceda às suas mensagens e contactos para poder copiar e restaurar estes itens</string>
+    <string name="permission_read_write_sys_app2">Permitir que esta funcionalidade aceda aos seus contactos para poder copiar e restaurar estes itens</string>
     <string name="permission_related">Permissões</string>
     <string name="permission_restore_calendar">Para restaurar os eventos do calendário</string>
     <string name="permission_restore_calendar_desc">Para poder restaurar os eventos do calendário, dê permissão para editar os eventos do calendário primeiro</string>

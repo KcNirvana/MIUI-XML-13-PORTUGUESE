@@ -434,6 +434,8 @@
     <string name="scanHistory_close">Desligado</string>
     <string name="scanHistory_isOpen">Guardar o registo de itens digitalizados</string>
     <string name="scanHistory_open">Ligado</string>
+    <string name="scan_document_top_tip">Digitalizar um documento e criar um PDF</string>
+    <string name="scan_document_top_tip_second">Digitalizar vários documentos e criar um PDF</string>
     <string name="scan_result">Resultados</string>
     <string name="scan_support_type">WeChat, Alipay, códigos QR, códigos de barras</string>
     <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>

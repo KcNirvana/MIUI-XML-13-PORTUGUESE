@@ -144,7 +144,6 @@
     <string name="indices_title_feel">Sensação térmica</string>
     <string name="indices_title_humidity">Humidade</string>
     <string name="indices_title_pressure">Pressão</string>
-    <string name="indices_title_uv">UV</string>
     <string name="indices_title_restriction">Espaço da estrada</string>
     <string name="indices_wind_direction_east">E</string>
     <string name="indices_wind_direction_north">N</string>

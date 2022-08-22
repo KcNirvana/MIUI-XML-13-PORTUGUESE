@@ -444,7 +444,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
     <string name="micloud_storage_expires_manually_renewal_sum">É necessário renovar a subscrição</string>
     <string name="micloud_storage_expires_soon_title">O armazenamento da Xiaomi Cloud expira em breve</string>
     <string name="micloud_storage_expires_very_soon_title">O armazenamento da Xiaomi Cloud expira em breve</string>
-    <string name="micloud_storage_family_quota">Partilha em família</string>
+    <string name="micloud_storage_family_quota">Espaço partilhado</string>
     <string name="micloud_storage_full">A Xiaomi Cloud está cheia</string>
     <string name="micloud_storage_full_tip">Armazenamento cheio</string>
     <string name="micloud_storage_normal_tip">%s restantes</string>

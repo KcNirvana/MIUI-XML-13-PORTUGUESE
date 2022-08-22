@@ -42,6 +42,8 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="account_setting_message_body_load_head_only">Apenas cabeçalho</string>
     <string name="account_setting_message_body_load_text">Apenas corpo</string>
     <string name="account_settings_action">Definições de conta</string>
+    <string name="account_settings_background_attachments_security_summary">Verificar riscos de segurança em anexos que contém pacotes de instalação</string>
+    <string name="account_settings_background_attachments_security_title">Verificar riscos em anexos</string>
     <string name="account_settings_background_attachments_summary">Transferir anexos via Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Transferir anexos via Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Transferir anexos automaticamente</string>
@@ -247,6 +249,10 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="attachment_unknown">Ficheiro %s</string>
     <string name="attachment_video">Vídeo</string>
     <string name="attachments_header">Anexos</string>
+    <string name="attachments_security_alert_install_message">Este anexo é um pacote de instalação. Certifique-se que confia na origem antes de abrir. Instalar agora?</string>
+    <string name="attachments_security_alert_install_title">Atenção</string>
+    <string name="attachments_security_alert_message">Esta mensagem contem um pacote de instalação. Certifique-se que confia na origem antes de abrir</string>
+    <string name="attachments_security_install">Instalar</string>
     <string name="attendee_needed">Adicione pelo menos um convidado</string>
     <string name="auto_advance_help_title">Avançar para…</string>
     <string name="auto_advance_label">Avanço automático</string>
@@ -324,6 +330,9 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
     <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
     <string name="click_to_reload">Toque no ecrã para actualizar</string>
+    <string name="close">Fechar</string>
+    <string name="close_custom_folder">Ocultar sub-pastas</string>
+    <string name="close_tips">Fechar alerta</string>
     <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
     <string name="compose">Escrever</string>
     <string name="compose_add_attachment_permission_denied">Não é possível reencaminhar email. É necessário permissões para aceder ao armazenamento</string>
@@ -573,6 +582,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="folder_junk_name_en2">Correio electrónico não solicitado</string>
     <string name="folder_junk_name_en3">Spam</string>
     <string name="folder_junk_name_en4">Lixo</string>
+    <string name="folder_junk_name_en5">Spam</string>
     <string name="folder_list_current_account">Conta actual</string>
     <string name="folder_list_display_all">Mostrar todas as pastas</string>
     <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
@@ -849,6 +859,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
     <string name="message_decode_error">Não é possível descodificar a mensagem</string>
     <string name="message_discarded">Rascunho rejeitado</string>
     <string name="message_invite_accept">Sim</string>
+    <string name="message_invite_calendar_download_prompt">Transferir Calendário para poder utilizar esta funcionalidade</string>
     <string name="message_invite_calendar_view">Ver no calendário</string>
     <string name="message_invite_decline">Não</string>
     <string name="message_invite_end_time">Fim</string>

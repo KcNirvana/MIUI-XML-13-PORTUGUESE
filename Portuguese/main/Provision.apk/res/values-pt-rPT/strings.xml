@@ -72,7 +72,8 @@
     <string name="locale_picker_other_locale_title">Mais regiões</string>
     <string name="locale_picker_title">Escolher a sua região</string>
     <string name="location_content">De acordo com a lei, as operadoras móveis podem obter informações de localização dos dispositivos móveis para que as entidades de emergência (bombeiros e polícia) possam garantir e prestar serviços de emergência e auxilio</string>
-    <string name="location_introduction">Serviços baseados em localização localizam produtos e serviços perto de si</string>
+    <string name="location_introduction">Os serviços de localização utilizam o posicionamento para fornecer serviços de localização específicos</string>
+    <string name="location_introduction_qcom">Os serviços de localização utilizam o posicionamento para fornecer serviços de localização específicos. Quando a localização for utilizada pelo seu dispositivo, o módulo QCC vai ligar à rede para melhorar o posicionamento</string>
     <string name="location_location">Os serviços de emergência podem obter a sua localização actual mediante pedido</string>
     <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
     <string name="mint_keyboard_oobe_checkbox">Eu li e concordei com a Política de Privacidade do teclado Mint</string>

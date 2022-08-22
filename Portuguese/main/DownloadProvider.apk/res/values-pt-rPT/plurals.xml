@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Eliminar %d transferências?</item>
+        <item quantity="one">Eliminar %d transferência?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s transferências eliminadas</item>
+        <item quantity="one">%s transferências eliminada</item>
+    </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">%d ficheiros transferidos</item>
         <item quantity="one">1 ficheiro transferido</item>

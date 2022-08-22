@@ -472,6 +472,7 @@ Envie este código ao supervisor"</string>
     <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
     <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
+    <string name="passport_vcode_what_app_send_prompt">O seu código de verificação vai ser enviado para o seu telefone de recuperação &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Não foi possível verificar conta</string>
     <string name="passport_verify">Verificar</string>
     <string name="passport_verifying_activator_phone">A verificar a segurança do telefone…</string>

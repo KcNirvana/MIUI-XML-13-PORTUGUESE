@@ -160,6 +160,8 @@
     <string name="ok_button">OK</string>
     <string name="open_browser">Abrir no navegador</string>
     <string name="pc_activity_title">Optimizar bateria</string>
+    <string name="power_center_battery_duration_screen_on">Tempo de ecrã restante</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de tempo de ecrã restante</string>
     <string name="pm_lable_name">Acerca do acesso root</string>
     <string name="privacy_declare_dialog_title">Termos de Serviço</string>
     <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>

@@ -197,6 +197,9 @@
     <string name="hawaii">Hawaii</string>
     <string name="help">Ver ajuda</string>
     <string name="help_content">Se não consegue encontrar o dispositivo que necessita, peça à outra pessoa para ligar o Mi Share</string>
+    <string name="hs_guide_dialog_button_confirm">Percebi</string>
+    <string name="hs_guide_dialog_message">Esta aplicação não foi optimizada para o novo modo paisagem. Foi alterado para um layout compatível</string>
+    <string name="hs_guide_dialog_title">Atenção</string>
     <string name="icelatte">Ice latte</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
     <string name="incomingmessage">Mensagem recebida</string>

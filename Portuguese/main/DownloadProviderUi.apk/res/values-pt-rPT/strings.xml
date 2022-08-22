@@ -376,6 +376,7 @@ em todos os seus dispositivos com Xunlei"</string>
     <string name="start_xunlei_speedup_info">Iniciar sessão para optimizar as suas transferências</string>
     <string name="starting_analysis">A obter informação…</string>
     <string name="storage_internal">Armazenamento interno</string>
+    <string name="storage_permission_deny">Permissões de armazenamento necessárias</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="subbt_downloading">A transferir…</string>

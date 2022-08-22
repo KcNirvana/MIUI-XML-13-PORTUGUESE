@@ -5232,6 +5232,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Redução de ruído</string>
     <string name="miheadset_openAnc2">Redução de ruído</string>
+    <string name="miheadset_open_closeAnc">Ligar/desligar redução de ruído</string>
     <string name="miheadset_play_pause">Reproduzir/Pausar</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Preferências</string>
@@ -10707,8 +10708,8 @@ A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada à direita"
     <string name="guide_title_center">Deslizar para cima no meio</string>
     <string name="guide_title_left">Deslizar para cima na esquerda</string>
     <string name="guide_title_right">Deslizar para cima na direita</string>
-    <string name="gxzw_vibrate_summary">Vibrar enquanto a animação de impressão digital é reproduzida</string>
-    <string name="gxzw_vibrate_title">Vibração enquanto desbloqueia</string>
+    <string name="gxzw_vibrate_summary">Não vai ocorrer vibração se a animação de impressão digital estiver desligada</string>
+    <string name="gxzw_vibrate_title">Vibração ao desbloquear</string>
     <string name="handy_mode_hint">O Modo Uma Mão está apenas disponível no ecrã externo</string>
     <string name="le_audio_title">Áudio LE</string>
     <string name="max_number_of_processes">No máximo %d processos</string>

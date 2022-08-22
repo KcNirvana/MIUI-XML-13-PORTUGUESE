@@ -206,6 +206,9 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="assistant_page_discovery">Navegar</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique as suas definições de rede</string>
+    <string name="assistant_today_of_year_function_closed_tip">Ligar</string>
+    <string name="assistant_today_of_year_function_no_address_tip">De volta no tempo</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Iniciar</string>
     <string name="associate_face_album">Escolher um álbum</string>
     <string name="authorize_to_device_failed">Não foi possível autorizar</string>
     <string name="authorize_watch_on_tv_failed">Não foi possível autorizar para ver na TV</string>
@@ -540,6 +543,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="crop_label">Fotos recortadas</string>
     <string name="cta_agreement_declare"><Data>Para compreender os seus direitos como utilizador e o modo como utilizamos os seus dados, leia e concorde com os nossos &lt;a href=\"%1$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de utilizar esta aplicação</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com a Xiaomi Cloud, é necessário ligar à Internet</string>
+    <string name="cta_screenthrow_declare">Para transmitir o ecrã deste dispositivo para ecrãs externos, esta aplicação necessita de ligar à Internet</string>
     <string name="custom_select_title_deselect_all">Desmarcar tudo</string>
     <string name="custom_select_title_quickly_share">Partilhar</string>
     <string name="custom_select_title_select_all">Seleccionar tudo</string>
@@ -763,6 +767,7 @@ Tire mais fotos dos seus amigos!"</string>
     <string name="face_name_input">Introduzir nome</string>
     <string name="face_recommend">Recomendações</string>
     <string name="fail_hint">Não foi possível concluir tarefa</string>
+    <string name="fail_reason_migrate">A processar items… Aguarde um momento e tente novamente</string>
     <string name="fail_to_pick_email">Endereço de email inválido</string>
     <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
     <string name="family_member_invitation_text">Outro membro da família</string>
@@ -1007,6 +1012,7 @@ efeitos de fotos"</string>
     <string name="home_menu_camera">Mostrar apenas os itens da câmara</string>
     <string name="home_menu_cleaner">Libertar espaço</string>
     <string name="home_menu_collage">Colagens</string>
+    <string name="home_menu_community">Comunidade</string>
     <string name="home_menu_id_photo">ID</string>
     <string name="home_menu_macarons">Vinheta mágica</string>
     <string name="home_menu_magic_matting">Magia</string>
@@ -1019,6 +1025,8 @@ efeitos de fotos"</string>
     <string name="home_page_empty_action">Tirar uma foto</string>
     <string name="home_page_empty_action_new">Importar do dispositivo antigo</string>
     <string name="home_page_label">Fotos</string>
+    <string name="home_sdcard_op_tip_msg">Não foi possível concluir esta acção para as imagens seleccionadas. Monte e desmonte o seu cartão SD novamente</string>
+    <string name="home_sdcard_tip_msg">O seu cartão SD é apenas de leitura. Desmonte e monte novamente em Definições > Acerca do telefone > Armazenamento</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Ignorar</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Todas</string>
@@ -1434,6 +1442,8 @@ para personalizar a galeria"</string>
     <string name="ocr_save_to_note">Guardar</string>
     <string name="ocr_save_to_note_new">Guardar em Notas</string>
     <string name="ocr_send">Partilhar</string>
+    <string name="ocr_switch_hint">Reconhecer texto mostrado em imagens para poder seleccioná-lo</string>
+    <string name="ocr_switch_title">Reconhecer texto em imagens</string>
     <string name="ocr_text_copied">Copiado</string>
     <string name="ocr_text_copied_selected">Copiado com sucesso</string>
     <string name="ocr_text_link">URL</string>
@@ -1797,7 +1807,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Memorizar este ecrã</string>
     <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>
-    <string name="projection_local_mobile">Este telefone</string>
+    <string name="projection_local_mobile">Este dispositivo</string>
     <string name="projection_multi_title">Dispositivos</string>
     <string name="projection_screen_project_in_screening">Está a utilizar o dispositivo para transmitir</string>
     <string name="projection_single_title">Transmitir para %s</string>

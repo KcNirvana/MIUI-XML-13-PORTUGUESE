@@ -144,7 +144,12 @@
     <string name="indices_title_feel">Sensação térmica</string>
     <string name="indices_title_humidity">Humidade</string>
     <string name="indices_title_pressure">Pressão</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_restriction">Espaço da estrada</string>
+    <string name="indices_wind_direction_east">E</string>
+    <string name="indices_wind_direction_north">N</string>
+    <string name="indices_wind_direction_south">S</string>
+    <string name="indices_wind_direction_west">O</string>
     <string name="indices_title_sport">Desportos</string>
     <string name="indices_title_uv">Indíce UV</string>
     <string name="indices_title_visibility">Visibilidade</string>
@@ -241,6 +246,8 @@
     <string name="save_to_gallery_icon_name">Guardar na Galeria</string>
     <string name="save_to_gallery_success_message">Guardado na Galeria com sucesso</string>
     <string name="select_show_city">Seleccionar localização</string>
+    <string name="setting_notification_manager">Notificações</string>
+    <string name="setting_used_to_push_reminder">Receber notificações e avisos de tempo</string>
     <string name="settings">Definições</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera padrão (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>

@@ -1038,6 +1038,7 @@ Toque aqui para iniciar agora"</string>
     <string name="xiaoai_speech_not_installed_title">O assistente de voz Mi AI não está instalado</string>
     <string name="allow">Concedida</string>
     <string name="application_notify_title">Atenção</string>
+    <string name="apply_4k_video_wallpaper_warning">Vídeos 4K e 8K não podem ser utilizados como vídeos de papel de parede</string>
     <string name="apply_failed">Não foi possível aplicar</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>

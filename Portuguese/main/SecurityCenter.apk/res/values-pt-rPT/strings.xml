@@ -1817,6 +1817,9 @@ das suas sessões de jogo"</string>
     <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_sys_info">A obter informações…</string>
+    <string name="global_satisfaction_notification_button">Avaliar</string>
+    <string name="global_satisfaction_notification_subhead">Diga-nos a sua experiência</string>
+    <string name="global_satisfaction_notification_title">Avaliar este dispositivo</string>
     <string name="global_wa_setting_alert_dialog_content">Pode libertar %s</string>
     <string name="global_wa_setting_alert_dialog_title">Limpeza WhatsApp</string>
     <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
@@ -3566,7 +3569,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="setting">Definições</string>
     <string name="setting_online_service">Serviços online</string>
     <string name="setting_privacy_password">Adicionar padrão</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Parar o carregamento sem fios reverso quando a bateria deste dispositivo atingir %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Parar o carregamento sem fios reverso quando a bateria deste dispositivo for menor que %s</string>
     <string name="setting_wireless_reverse_charging_summary">Colocar o dispositivo que suporta o carregamento sem fios no centro deste dispositivo</string>
     <string name="settings">Definições de utilização de dados</string>
     <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>

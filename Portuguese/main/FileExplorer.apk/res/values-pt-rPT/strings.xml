@@ -585,6 +585,16 @@
     <string name="wechat_msg">"Due to Android 11 restrictions, File Manager can't access and display the documents previewed in WeChat. Open and save documents in WeChat to make them appear here."</string>
     <string name="wechat_title">"Can't access WeChat documents"</string>
     <string name="wechat_video">Vídeo em %s</string>
+    <string name="widget_add_files">Adicionar ficheiro</string>
+    <string name="widget_added_fail_content">%1$s já está no ecrã inicial</string>
+    <string name="widget_added_fail_tips">Não foi possível adicionar</string>
+    <string name="widget_added_success_content">%1$s adicionado ao ecrã inicial</string>
+    <string name="widget_added_success_tips">Adicionado com sucesso</string>
+    <string name="widget_choose_document_please">Seleccionar documento</string>
+    <string name="widget_choose_file">Tocar para adicionar ficheiros</string>
+    <string name="widget_choose_fragment_title">Seleccionar tipo de ficheiro</string>
+    <string name="widget_finish">Concluído</string>
+    <string name="widget_name">Vistos recentemente</string>
     <string name="wifi_state">Estado do Wi-Fi</string>
     <string name="withdraw">Remover</string>
     <string name="withdraw_consent">Remover consentimento</string>

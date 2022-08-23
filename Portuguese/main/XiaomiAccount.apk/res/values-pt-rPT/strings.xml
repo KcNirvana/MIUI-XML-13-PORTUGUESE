@@ -237,6 +237,7 @@ Envie este código ao supervisor"</string>
     <string name="oauth_scopes_intro">%2$s vai obter as seguintes permissões: %3$s</string>
     <string name="oauth_title">Iniciar sessão com a Conta Xiaomi</string>
     <string name="ok">OK</string>
+    <string name="operator_broadnet">China Broadnet</string>
     <string name="operator_mobile">China Mobile</string>
     <string name="operator_mobile_agreement">Verifications services provided by China Mobile</string>
     <string name="operator_other">Phone number</string>

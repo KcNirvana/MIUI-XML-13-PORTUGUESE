@@ -111,6 +111,7 @@
     <string name="adblock_rules_updated_toast">Atualização concluída</string>
     <string name="adblock_websites_settings_empyt_hint">Não bloqueou nenhum sítio.</string>
     <string name="adblock_websites_settings_title">Sites bloqueados</string>
+    <string name="add">Adicionar</string>
     <string name="add_bookmark_group">Adicionar grupo</string>
     <string name="add_bookmarks">Marcadores</string>
     <string name="add_bookshelf_popup_text">Adicionado à biblioteca</string>
@@ -127,6 +128,7 @@
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Adicionar aos marcadores</string>
+    <string name="add_to_desktop">Adicionar ao Ecrã inicial</string>
     <string name="add_to_quicklink">Página inicial</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="added_to_bookmarks">Adicionado aos marcadores</string>
@@ -292,10 +294,12 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="choose_to_signin">Sim</string>
     <string name="choose_to_signup">Não, quero criar uma</string>
     <string name="choosertitle_sharevia">Partilhar por</string>
+    <string name="clear">Limpar</string>
     <string name="clear_history">Limpar histórico</string>
     <string name="clear_most_visited">Histórico recente</string>
     <string name="clear_search_history">Limpar histórico</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="cleared_garbage">%d MB de lixo limpo</string>
     <string name="click_always">Toque em \"Sempre\"</string>
     <string name="click_to_refresh">Parou aqui da última vez, toque para atualizar</string>
     <string name="clip_dialog_title">Abrir o endereço copiado?</string>
@@ -463,6 +467,8 @@ Envie este código para o supervisor."</string>
     <string name="dialog_game_banner">Confira os nossos jogos populares!</string>
     <string name="dialog_game_close">Cancelar</string>
     <string name="dialog_game_play">Jogar</string>
+    <string name="doc_viewer_label">Leitor (Navegador Mi)</string>
+    <string name="doc_viewer_open_out_file_prompt">Para abrir e visualizar um ficheiro recebido de fontes externas, esta aplicação precisa criar uma cópia do ficheiro primeiro. Continuar?</string>
     <string name="document_download_background_btn">Transferir em segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
     <string name="document_download_failed">Não foi possível transferir</string>
@@ -708,6 +714,7 @@ Envie este código para o supervisor."</string>
     <string name="file_picker">Selecionar caminho</string>
     <string name="filename_empty_alert_message">Introduzir nome do ficheiro</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do ficheiro</string>
+    <string name="find_garbage">Encontrados %d MB de lixo</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="find_on_page_cancel">Cancelar</string>
     <string name="find_on_page_hint">Localizar na página</string>
@@ -786,26 +793,6 @@ Envie este código para o supervisor."</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_center_recommend_play">Jogar</string>
     <string name="game_center_recommend_title">Recomendado para si</string>
-    <string name="game_exit_when_press_back_again">Toque novamente para sair</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_fail">Não foi possível transferir o plugin</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_installing">A transferir plugin…</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_start">A solicitar plugin…</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_fail">Não foi possível transferir o pacote do jogo</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_finish">Pacote do jogo transferido</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_start">A transferir pacote do jogo…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_fail">Não foi possível instalar o pacote do jogo</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_finish">Pacote do jogo instalado</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_downloading">A instalar pacote do jogo…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_start">A preparar pacote do jogo…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_fail">Não foi possível instalar o plugin</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_finish">Plugin instalado</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_installing">A instalar o plugin…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_start">A preparar o plugin…</string>
-    <string name="game_loading_stage_loadPackage_launch_game">A iniciar…</string>
-    <string name="game_loading_stage_load_core_feature_continue">Continuar</string>
-    <string name="game_loading_stage_load_core_feature_exit">Anterior</string>
-    <string name="game_loading_stage_load_core_feature_title">"Este jogo requer '%1$s'. Core %2$s não suporta '%3$s'. Continuar na mesma?"</string>
-    <string name="game_loading_view_download_update_progress">%1$s (%2$s)</string>
     <string name="game_play">Jogar</string>
     <string name="game_played">Recente</string>
     <string name="gcm_fallback_notification_channel_label">Diversas</string>
@@ -984,6 +971,7 @@ Envie este código para o supervisor."</string>
     <string name="menu_title_pause_all">Pausar tudo</string>
     <string name="menu_title_resume_all">Iniciar tudo</string>
     <string name="mi_browser">Navegador Mi</string>
+    <string name="mi_browser_clean_up_garbage">O Navegador Mi está a limpar o lixo…</string>
     <string name="midi_permission_name">Controlar dispositivos MIDI</string>
     <string name="midnight">Noite</string>
     <string name="mint_games">Jogos do momento</string>
@@ -1073,6 +1061,7 @@ Envie este código para o supervisor."</string>
     <string name="more_description">Menu</string>
     <string name="more_info">Saiba mais</string>
     <string name="more_option">Mais opções</string>
+    <string name="more_privacy">Mais opções de privacidade</string>
     <string name="more_recommend">Mais recomendações</string>
     <string name="morning">Manhã</string>
     <string name="most_visited_sites">Os mais visitados</string>
@@ -1517,6 +1506,7 @@ Sair desta página agora?"</string>
     <string name="phone_hint">Número de telefone</string>
     <string name="phone_num_use_for">O número de telefone é utilizado para:</string>
     <string name="phone_number">Número de telefone</string>
+    <string name="phone_very_clean">Sem lixo</string>
     <string name="photoPickerNotFoundText">Sem fotos disponíveis.</string>
     <string name="pick_file">Escolher ficheiros</string>
     <string name="ping_test_title">Atraso de rede</string>
@@ -1944,6 +1934,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="share_page_text">Vê o que eu partilhei: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Vê o que partilhei: %1$s</string>
     <string name="shear_plate_permission_name">Aceder ou guardar itens na área de transferência</string>
+    <string name="short_cut_name_novel">Livros grátis</string>
     <string name="shortcut_function">Atalhos</string>
     <string name="shortcuts_boost_speed">Aumentar velocidade</string>
     <string name="shortcuts_cleanup_cache">Limpeza</string>
@@ -2002,6 +1993,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="subscribe_success">Assinado com sucesso</string>
     <string name="subscription_status_error">Não foi possível assinar</string>
     <string name="subscriptions_title">Gerir a sua assinatura</string>
+    <string name="successfully_added">Adicionado com sucesso</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Instalar</string>
     <string name="suggest_access_btn_open">Abrir</string>
@@ -2045,6 +2037,8 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="tab_videos">Vídeos</string>
     <string name="tab_yellowpage">Links</string>
     <string name="tabs_description">Separadores</string>
+    <string name="tag_undo">Desfazer</string>
+    <string name="tag_undo_title">%s fechado</string>
     <string name="talk_back_voice_search">Pesquisa por voz</string>
     <string name="temporary_not_available">Esta funcionalidade ainda não está disponível</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da lei Marcial</string>

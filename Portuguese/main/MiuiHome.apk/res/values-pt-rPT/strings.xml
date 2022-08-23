@@ -445,6 +445,7 @@
     <string name="notification_reset_title">Ícones organizados com sucesso</string>
     <string name="one_key_call_title">Toque para marcar</string>
     <string name="online_wallpaper">Online</string>
+    <string name="open_pad_personal_assistant_settings">Widgets de ecrã inicial</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desligar</string>
     <string name="open_personal_assistant_dialog_desc">Não vai poder utilizar o Assistente e receber as actualizações. Desligar agora?</string>

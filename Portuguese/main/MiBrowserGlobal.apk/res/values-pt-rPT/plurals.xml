@@ -192,6 +192,10 @@
         <item quantity="other">%d músicas populares</item>
         <item quantity="one">%d música popular</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d separadores</item>
+        <item quantity="one">%d separador</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d itens selecionados</item>
         <item quantity="one">%1$d item selecionado</item>

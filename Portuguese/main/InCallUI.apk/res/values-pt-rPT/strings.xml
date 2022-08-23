@@ -45,6 +45,8 @@
     <string name="call_button_tools_text">Funcões</string>
     <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos porque a permissão de leitura de contactos foi negada</string>
     <string name="call_description_recording">A gravar…</string>
+    <string name="call_log_short_in">Este número ligou-lhe agora mesmo</string>
+    <string name="call_log_short_out">Ligou a este número agora mesmo</string>
     <string name="call_extension_conference_mode">Modo de Conferência</string>
     <string name="call_not_support_high_frequency_click">Não toque neste botão tanta vez</string>
     <string name="call_progress_info_call_forwarding">Chamada reencaminhada</string>

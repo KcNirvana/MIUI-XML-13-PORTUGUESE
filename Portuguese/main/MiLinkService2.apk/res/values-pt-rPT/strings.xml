@@ -4,6 +4,7 @@
     <string name="app_name">Transmissão</string>
     <string name="app_pkg_name">Serviço MiLink</string>
     <string name="audio_record_des">Para transmitir áudio do dispositivo para ecrãs externos</string>
+    <string name="cast_image_des">Tutorial de transmissão</string>
     <string name="casting_tips">A transmitir…</string>
     <string name="close_hotspot_hint">Desligar PA Móvel antes de transmitir</string>
     <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>

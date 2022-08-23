@@ -658,6 +658,10 @@ Motivo: \"%s\""</string>
     <string name="preference_smart_group_location_title">Locais</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
     <string name="preference_tone_title">Tons</string>
+    <string name="preference_yellowpage_function_setting">Yellow pages settings</string>
+    <string name="presentation_payphone">Telefone público</string>
+    <string name="presentation_private">Número privado</string>
+    <string name="presentation_unknown">Número desconhecido</string>
     <string name="previous">Anterior</string>
     <string name="privacy_password_title2">Utilizar a palavra-passe da Protecção de Privacidade</string>
     <string name="privacy_password_title3">Actualizar a sua palavra-passe</string>
@@ -906,6 +910,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="video_chat">Conversa de vídeo</string>
     <string name="viewContactDesription">Ver contacto</string>
     <string name="viewContactTitle">Detalhes do contacto</string>
+    <string name="view_more_call_logs">Ver mais</string>
     <string name="view_updates_from_group">Ver actualizações</string>
     <string name="voicemail">Voice Mail</string>
     <string name="websiteLabelsGroup">Website</string>
@@ -917,7 +922,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="yellowpage_search_the_yellowpage">Pesquisar nas páginas amarelas</string>
     <string name="yesterday">Ontem</string>
     <string name="zero_items_selected">Seleccionar itens</string>
-        <string name="auto_record_yellowpage">Yellow pages</string>
+    <string name="auto_record_yellowpage">Yellow pages</string>
     <string name="bh_about_business_hall">About us</string>
     <string name="bh_access_ms">Open Mi SIM</string>
     <string name="bh_access_vs">Open Mi Roaming</string>

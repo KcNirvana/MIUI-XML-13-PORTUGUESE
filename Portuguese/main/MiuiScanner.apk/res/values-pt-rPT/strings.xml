@@ -427,6 +427,7 @@
     <string name="saveDone">Guardado com sucesso</string>
     <string name="save_as_PDF">Guardar como PDF</string>
     <string name="save_as_picture">Guardar como imagem</string>
+    <string name="save_documents_ui">Guardado em Ficheiros</string>
     <string name="save_fail">Não foi possível guardar</string>
     <string name="save_pictures_repeatedly">Guardar imagens repetidamente</string>
     <string name="save_sucess">Guardado com sucesso</string>
@@ -622,8 +623,8 @@ quer digitalizar com Mi IA"</string>
     <string name="save_excel_result_title">Guardar</string>
     <string name="save_excel_title">Guardar ficheiro Excel</string>
     <string name="save_word">Guardar</string>
-    <string name="scan_document_top_tip">Digitalizar um documentos e criar um PDF</string>
-    <string name="scan_document_top_tip_second">Digitalizar vários documentos e criar um PDF</string>
+    <string name="scan_document_top_tip">Digitalizar um documento para criar um PDF</string>
+    <string name="scan_document_top_tip_second">Digitalizar vários itens para criar um PDF</string>
     <string name="scan_form">Digitalizar tabela</string>
     <string name="scan_form_top_tip">Digitalizar, guardar e editar tabelas</string>
     <string name="scan_general_top_tip">Reconhecer plantas, pessoas e produtos</string>

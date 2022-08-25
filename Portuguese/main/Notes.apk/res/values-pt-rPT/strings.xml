@@ -352,8 +352,10 @@
     <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
     <string name="note_mindnote_entrance_icon_text">Criar uma mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Criar uma mapa mental</string>
+    <string name="note_mindnote_not_support_in_phone_model">Não é possível editar mapas mentais neste dispositivo</string>
     <string name="note_not_text_stub">Sem texto</string>
     <string name="note_sort_way">Ordenar por</string>
+    <string name="note_write_hint">Começar a escrever</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Rejeitar</string>
     <string name="notes_description_content">Notas é uma aplicação de sistema. Não vai poder utilizá-la depois de desinstalar</string>

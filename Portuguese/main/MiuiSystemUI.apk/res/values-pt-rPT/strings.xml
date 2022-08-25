@@ -1936,6 +1936,11 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="quick_settings_screen_record_label">Gravador de Ecrã</string>
     <string name="quick_settings_screen_record_start">Iniciar</string>
     <string name="quick_settings_screen_record_stop">Parar</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Rotação desligada no ecrã interior</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Rotação ligada no ecrã interior</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Ecrã exterior bloqueado no modo paisagem</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Ecrã exterior bloqueado no modo retrato</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Rotação ligada no ecrã exterior</string>
     <string name="quick_settings_screenbutton_label">Botões</string>
     <string name="quick_settings_screenlock_label">Bloquear</string>
     <string name="quick_settings_screenshot_label">Cap. de ecrã</string>

@@ -288,6 +288,10 @@
     <string name="passionflower">Paixão</string>
     <string name="paste">Colar</string>
     <string name="pc_device_model_name">Computador</string>
+    <string name="periodiccacheclear_notification_indefinite">A armazenamento foi limpo automaticamente</string>
+    <string name="periodiccacheclear_notification_post"> de armazenamento foi limpo automaticamente</string>
+    <string name="periodiccacheclear_notification_pre" />
+    <string name="periodiccacheclear_notification_title">Limpeza Inteligente</string>
     <string name="perm_send_push_dspt">Permitir mensagens Mi push</string>
     <string name="perm_send_push_lab">Enviar mensagens push</string>
     <string name="permdesc_manageFingerprint">Permitir que a aplicação invoque métodos para adicionar e eliminar templates de impressões digitais</string>

@@ -137,6 +137,8 @@
     <string name="already_close_gamebooster">O Game Turbo está desligado</string>
     <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
     <string name="anti_disturb_msg_title">Não incomodar</string>
+    <string name="antispam_guangdian_card_hint">O seu SIM não suporta a troca de mensagens de ausência. Contacte a sua operadora para mais detalhes</string>
+    <string name="antispam_guangdian_card_title">Troca não suportada</string>
     <string name="antispam_mms_text">Definir Mensagens como a sua aplicação de mensagens predefinida para poder ver as suas mensagens bloqueadas</string>
     <string name="antispam_mms_text_setting">Definir Mensagens como a sua aplicação de mensagens predefinida</string>
     <string name="antispam_mode_details">Detalhes da lista de bloqueio</string>

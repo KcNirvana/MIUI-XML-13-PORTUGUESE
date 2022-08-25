@@ -275,6 +275,7 @@
     <string name="lp_videoView_error_title">Não é possível reproduzir</string>
     <string name="lv_advance_sound">Melhoramento de áudio</string>
     <string name="lv_airkan_control_device_des">Para controlar a reprodução, toque na barra inferior</string>
+    <string name="lv_airkan_device_my_device">O meu dispositivo</string>
     <string name="lv_airkan_device_xiaomi_phone">O meu telefone Mi</string>
     <string name="lv_airkan_playing">A transmitir em %s</string>
     <string name="lv_airkan_tips">Toque para transmitir</string>
@@ -390,10 +391,10 @@
     <string name="monday">Segunda-feira</string>
     <string name="month">Mês</string>
     <string name="more">Mais</string>
-    <string name="mr_button_content_description">Botão transmitir</string>
-    <string name="mr_cast_button_connected">Botão transmitir. Ligado</string>
-    <string name="mr_cast_button_connecting">Botão transmitir. A ligar</string>
-    <string name="mr_cast_button_disconnected">Botão transmitir. Desligado</string>
+    <string name="mr_button_content_description">Transmissão</string>
+    <string name="mr_cast_button_connected">Transmissão. Ligado</string>
+    <string name="mr_cast_button_connecting">Transmissão. A ligar</string>
+    <string name="mr_cast_button_disconnected">Transmissão. Desligado</string>
     <string name="mr_chooser_searching">A procurar dispositivos</string>
     <string name="mr_chooser_title">Transmitir para</string>
     <string name="mr_controller_album_art">Capa do álbum</string>
@@ -952,6 +953,8 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="choose">Select</string>
     <string name="choose_to_signin">Yes</string>
     <string name="choose_to_signup">"No, I'll create one"</string>
+    <string name="chromecast_connecting">A ligar ao Chromecast…</string>
+    <string name="chromecast_playing">Está a ver o vídeo com o Chromecast</string>
     <string name="click_to_play_video_push_context">Tap to play video</string>
     <string name="close_notify_panel_tips">The mini player will be displayed in the Notification shade when background playback is on</string>
     <string name="cloud_online_player">Leitor</string>
@@ -1173,6 +1176,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_view_details">Details</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>
     <string name="init_channels">Restore defaults</string>
+    <string name="inline_mute_click_tip">Tocar para restaurar o som</string>
     <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="input_size_tips">You can enter up to 1000 characters</string>
@@ -1239,6 +1243,9 @@ para uma melhor experiência"</string>
     <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
     <string name="mr_dialog_device_header">Cast to a device</string>
     <string name="mr_dialog_route_header">Play on a group</string>
+    <string name="mr_dialog_default_group_name">Group</string>
+    <string name="mr_dialog_groupable_header">Add a device</string>
+    <string name="mr_dialog_transferable_header">Play on a group</string>
     <string name="my_favorite_channels">My favorite channels</string>
     <string name="neverthink_player_loading">Loading Neverthink video …</string>
     <string name="new_channel_tip">Take a look at new channels!</string>
@@ -1552,6 +1559,7 @@ Update Mi Video to the latest version first."</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Definições</string>
     <string name="local_hide_folder_setting_tip">Pode gerir os seus vídeos ocultos em Perfil > Definições > Gerir vídeos ocultos</string>
+    <string name="local_play_end_drag_up_guide">Tocar ou deslizar para reproduzir</string>
     <string name="settings_manager_hidden_folder">Gerir vídeos ocultos</string>
     <string name="dialog_item_add_video">Adicionar vídeos</string>
     <string name="fcm_2_args">First: %1$s and second %2$s</string>

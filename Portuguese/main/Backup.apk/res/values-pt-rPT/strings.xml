@@ -334,7 +334,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
     <string name="new_local_tab_restore_pad">Restaurar</string>
     <string name="new_low_storage_title">Sem espaço suficiente</string>
     <string name="new_more_settings_label">Definições adicionais</string>
-    <string name="new_pc_backup_content1">%1$d. Abrir \"%2$s\"</string>
+    <string name="new_pc_backup_content1">%1$d. Abrir %2$s</string>
     <string name="new_pc_backup_content2">%d. Aguardar até todos os itens estarem copiados</string>
     <string name="new_pc_backup_content3">%d. Localizar a cópia em MIUI-Backup-AllBackup</string>
     <string name="new_pc_backup_content4">%d. Copiar o ficheiro para o seu computador</string>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vice_slot_volte_data_switch_prompt">O seu dispositivo vai ligar a dados móveis utilizando o SIM secundário durante as chamadas VoLTE</string>
+    <string name="vice_slot_volte_data_switch_summary">Durante as chamadas VoLTE, o dispositivo vai ligar a dados móveis utilizando o SIM secundário</string>
+    <string name="vice_slot_volte_data_switch_title">Utilizar dados móveis durante chamadas VoLTE no SIM secundário</string>
+    <string name="volte_switch_summary">Utilizar VoLTE para melhorar a qualidade das chamadas de voz</string>
+    <string name="volte_switch_title">Utilizar VoLTE</string>
+</resources>

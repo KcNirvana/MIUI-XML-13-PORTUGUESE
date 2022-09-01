@@ -509,6 +509,8 @@
     <string name="app_mobile">Dados móveis</string>
     <string name="app_name">Bloqueio de aplicações</string>
     <string name="app_name_na">Utilização de dados</string>
+    <string name="app_name_pad">Segurança</string>
+    <string name="app_name_phone">Segurança</string>
     <string name="app_name_securitycenter">Segurança</string>
     <string name="app_not_installed_toast">A aplicação não está instalada no seu dispositivo</string>
     <string name="app_perm_manager_service">Permissões</string>
@@ -1074,8 +1076,10 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
     <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
     <string name="dialog_msg_create_icon_content">Adicionar um atalho ao ecrã inicial agora?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Não mostrar novamente</string>
-    <string name="dialog_msg_delete_icon_content">A Segurança permite limpar o lixo do seu dispositivo, localizar e neutralizar vírus, poupar bateria, gerir permissões e mais</string>
-    <string name="dialog_msg_delete_icon_title">Remover este atalho?</string>
+    <string name="dialog_msg_delete_icon_content_pad">A Segurança permite limpar o lixo do seu dispositivo, localizar e neutralizar vírus, poupar bateria, gerir permissões e mais</string>
+    <string name="dialog_msg_delete_icon_content_phone">A Segurança permite limpar o lixo do seu dispositivo, localizar e neutralizar vírus, poupar bateria, gerir permissões e mais</string>
+    <string name="dialog_msg_delete_icon_title_pad">Remover este atalho do ecrã inicial?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Remover este atalho do ecrã inicial?</string>
     <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="dialog_restrict_all_mobile_summary">A ligação de dados móveis %s vai ser restringida para todas as aplicações</string>
@@ -2624,6 +2628,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
     <string name="pc_statistics_battery_use_title">Utilização de bateria</string>
     <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
+    <string name="pc_xiaoai_create_auto_task">Nova tarefa de Mi IA</string>
     <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
     <string name="perfermance_optimization_summary">Evite o sobreaquecimento e problemas de hardware</string>
     <string name="perfermance_optimization_title">Optimização de desempenho</string>
@@ -3505,7 +3510,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="safe_result_item_info_system_scan">Monitorização dos pagamentos está ligada</string>
     <string name="safe_result_item_info_system_version">A versão MIUI está actualizada</string>
     <string name="safepay_alert_dialog_button_continue">Continuar</string>
-    <string name="safepay_alert_dialog_button_fix">Corrigir</string>
+    <string name="safepay_alert_dialog_button_fix">Saber mais</string>
     <string name="save_mode_btn_ok">Percebi</string>
     <string name="sc_allow_network_dialog_message">Restringiu o acesso à rede e localização de Segurança. Conceda a Segurança as permissões necessárias para utilizar esta funcionalidade</string>
     <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
@@ -3720,11 +3725,11 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="sp_antispam_scan_summary">Proteger-se de fraudes</string>
     <string name="sp_antispam_scan_title">Lista de bloqueio</string>
     <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
-    <string name="sp_background_risk_dialog_summary_new">O ambiente de pagamento actual pode representar riscos à segurança. Reserve um momento para resolver os problemas existentes</string>
+    <string name="sp_background_risk_dialog_summary_new">O ambiente de pagamento actual pode representar riscos à segurança. Reserve um momento para saber mais</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Está ligado a uma rede pública Wi-Fi que pode ser insegura. Certifique-se que o seu pagamento está protegido antes de o concluir</string>
-    <string name="sp_background_risk_dialog_title">Atenção</string>
+    <string name="sp_background_risk_dialog_title">Risco detectado pela MIUI</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi</string>
-    <string name="sp_background_risk_type_messaging">A aplicação de mensagens do sistema foi substituída</string>
+    <string name="sp_background_risk_type_messaging">A aplicação de mensagens do sistema foi alterada</string>
     <string name="sp_background_risk_type_root">O sistema está com root</string>
     <string name="sp_background_risk_type_sign">Uma aplicação não oficial está em execução</string>
     <string name="sp_background_risk_type_virus">Uma aplicação com vírus está em execução</string>
@@ -4841,6 +4846,8 @@ Tente aumentar a resolução!"</string>
     <string name="beauty_fun_screen_light">Luz de preenchimento do ecrã</string>
     <string name="beauty_fun_settings_light">Brilho da luz de preenchimento</string>
     <string name="beauty_fun_video_effect">Embelezar para vídeo</string>
+    <string name="beauty_portrait_center">Manter os rostos centralizados</string>
+    <string name="beauty_portrait_center_desc">Identificar e centralizar rostos automaticamente em vídeochamadas e reuniões. Esta funcionalidade não é suportada por algumas aplicações</string>
     <string name="beauty_settings">Definições</string>
     <string name="behavior_widget_get_installed_apps">Acedeu a aplicações</string>
     <string name="behavior_widget_get_location">Acedeu à localização</string>
@@ -4920,6 +4927,10 @@ Tente aumentar a resolução!"</string>
     <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Display call types for unknown numbers based on user feedback</string>
     <string name="eletric_key_protect_electric_announcement">Anti-fraud protection</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Grant the required permissions to be able to identify unknown numbers.</string>
+    <string name="eletric_no_grant_dialog_negative_button">Cancel</string>
+    <string name="eletric_no_grant_dialog_positive_button">Settings</string>
+    <string name="eletric_no_grant_dialog_title">Permissions required</string>
     <string name="eletric_risk_call_identification">Protect calls</string>
     <string name="eletric_risk_call_identification_announcement">Get notified about possible risks when receiving calls from unknown numbers</string>
     <string name="eletric_status_protecting">On</string>

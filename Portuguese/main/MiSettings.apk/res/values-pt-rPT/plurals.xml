@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d minutos restantes para \"%1$s\" hoje</item>
+        <item quantity="one">%2$d minuto restantes para \"%1$s\" hoje</item>
+    </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
@@ -8,9 +12,21 @@
         <item quantity="other">Já utilizou o seu dispositivo por %d minutos sem interrupções</item>
         <item quantity="one">Já utilizou o seu dispositivo por %d minuto sem interrupções</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Descansar %d minutos</item>
+        <item quantity="one">Descansar %d minuto</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Está a utilizar o seu dispositivo à %d minutos</item>
+        <item quantity="one">Está a utilizar o seu dispositivo à %d minuto</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Pode adicionar até %d pausas</item>
+        <item quantity="one">Pode adicionar até %d pausa</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">O tempo de ecrã hoje é igual à sua média de %d dias</item>

@@ -233,6 +233,8 @@ adicionados à lista de bloqueio"</string>
     <string name="done">Concluído</string>
     <string name="download">Transferir</string>
     <string name="download_later">Não é possível transferir neste momento. Tente mais tarde</string>
+    <string name="download_miui_calendar_detail">Transferir Calendário para poder adicionar eventos e lembretes no calendário. Abrir GetApps agora?</string>
+    <string name="download_miui_calendar_title">Transferir Calendário</string>
     <string name="downloading">A transferir…</string>
     <string name="downloading_file_can_not_play">Aguarde até a transferência da gravação ficar concluída</string>
     <string name="draft">Rascunho</string>
@@ -567,6 +569,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="not_prepare_for_send">Sem mensagens para enviar</string>
     <string name="not_set">Não definido</string>
     <string name="not_support_audio_forward">Não é possível reencaminhar mensagens de voz</string>
+    <string name="notes_not_found">Instalar Notas primeiro</string>
     <string name="notification_ad_content">Recebeu uma mensagem de promoções de %s</string>
     <string name="notification_add_todo">Lembrar-me</string>
     <string name="notification_add_todo_content">Código de levantamento: %s</string>
@@ -1075,6 +1078,7 @@ Veja as recomendadas!"</string>
     <string name="snippet_audio">[Áudio]</string>
     <string name="snippet_picture">[Imagem]</string>
     <string name="snippet_timed">[Programada]</string>
+    <string name="soundrecorder_not_found">Instalar Gravador primeiro</string>
     <string name="sp_category_all">Todas as mensagens de serviço</string>
     <string name="sp_category_bank">Mensagens de notificações de bancos</string>
     <string name="sp_category_title_prefix">%s</string>

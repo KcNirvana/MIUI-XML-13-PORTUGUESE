@@ -2292,6 +2292,7 @@ O telefone pode sobreaquecer se:
     <string name="tip_close_flares">Não vai receber notificações acerca do comportamento da aplicação durante esta sessão</string>
     <string name="title_convert_fbe">A converter para a encriptação baseada em ficheiros…</string>
     <string name="title_usb_accessory">Acessório USB</string>
+    <string name="toast_for_first_use_three_gesture">Deslizar horizontalmente com quatro dedos para trocar entre aplicações</string>
     <string name="torch_high_temperature_warning">O seu dispositivo está demasiado quente. Não pode utilizar a lanterna agora</string>
     <string name="touch_filtered_warning">Uma vez que uma aplicação está a ocultar um pedido de permissões, as Definições não conseguem validar a sua resposta</string>
     <string name="track_frame_time">Perfil de renderização HWUI</string>

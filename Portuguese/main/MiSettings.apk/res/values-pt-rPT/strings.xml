@@ -36,6 +36,7 @@
     <string name="australian_magpie">Pega-rabilonga da Austrália</string>
     <string name="authorization_btn_text">Iniciar</string>
     <string name="authorization_tips">Permissões necessárias</string>
+    <string name="avalible_per_day">Duração da sessão</string>
     <string name="baboon_info">O babuíno anúbis vive em grupos com classificação social desenvolvida dependendo da dominância de cada indivíduo</string>
     <string name="back">Voltar</string>
     <string name="bear_info">Os ursos são os maiores carnívoros terrestres. Eles vivem em regiões frias e são conhecidos pelo seu olfato apurado</string>
@@ -85,6 +86,9 @@
     <string name="canada_goose">Ganso do Canadá</string>
     <string name="capybara">Capivara</string>
     <string name="capybara_info">As capivaras são roedores herbívoros semi-aquáticos que podem prender a respiração debaixo de água até cinco minutos</string>
+    <string name="category_limit_notify_title">Alerta de tempo de ecrã</string>
+    <string name="category_list_expand">Mais</string>
+    <string name="category_list_packup">Ocultar</string>
     <string name="category_other">Outros</string>
     <string name="chacma_baboon">Babuíno do cabo</string>
     <string name="cheetah">Chita</string>
@@ -97,8 +101,10 @@
     <string name="color_gamut">Gama de cores</string>
     <string name="common_brushtail">Cusu comum</string>
     <string name="common_ostrich">Avestruz</string>
+    <string name="compulsor_tip">Ecrã inicial</string>
     <string name="contact_description">Toque nos atalhos do seu ecrã inicial para efectuar chamadas</string>
     <string name="contact_title">Atalhos de contactos</string>
+    <string name="continue_time">Duração da sessão</string>
     <string name="contrast_ratio">Contraste</string>
     <string name="control_center_title">Tempo de ecrã hoje</string>
     <string name="control_center_title_new">Utilizado hoje</string>
@@ -127,6 +133,8 @@
     <string name="desktop_widget_not_support">"As estatísticas de utilização de ecrã
 não são geradas no Segundo espaço"</string>
     <string name="desktop_widget_screen_use_time">Tempo de ecrã</string>
+    <string name="device_limit_enable">Ligado</string>
+    <string name="device_limit_un_enable">Desligado</string>
     <string name="display_description">Itens maiores, textos maiores, menos confusão visual</string>
     <string name="display_title">Itens maiores</string>
     <string name="dynamic_ringtone_desc">Nós explorámos diferentes ecossistemas e recriámos os seus sons distintos. Comece a explorar os sons da natureza connosco!</string>
@@ -165,6 +173,9 @@ não são geradas no Segundo espaço"</string>
     <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
     <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
     <string name="follow_sim1">Aplicar definições do SIM 1</string>
+    <string name="force_rest">Utilizar pausas de sessão</string>
+    <string name="force_rest_summary">Tirar pausas obrigatórias quando a sessão atingir o limite definido</string>
+    <string name="force_rest_time">Duração da pausa</string>
     <string name="fps_high">Alto</string>
     <string name="fps_nature_summary">A taxa máxima de actualização mantém tudo nítido e claro</string>
     <string name="fps_nature_title">Máxima</string>
@@ -194,6 +205,16 @@ não são geradas no Segundo espaço"</string>
     <string name="green_peafowl">Pavão verde</string>
     <string name="green_warbler_finch">Certhidea olivacea</string>
     <string name="grey_headed_flying_fox">Raposa-voadora de cabeça cinzenta</string>
+    <string name="guard_item_app_summary">Desinstalar aplicações remotamente</string>
+    <string name="guard_item_app_title">Gerir aplicações</string>
+    <string name="guard_item_browser_summary">Controlar o acesso a aplicações e conteúdo</string>
+    <string name="guard_item_browser_title">Restrições</string>
+    <string name="guard_item_call_summary">Permitir que contactos específicos efectuem chamadas</string>
+    <string name="guard_item_call_title">Comunicação</string>
+    <string name="guard_item_eye_protect_summary">Monitorizar postura</string>
+    <string name="guard_item_eye_protect_title">Conforto dos olhos</string>
+    <string name="guard_range_from">De</string>
+    <string name="guard_range_to">Para</string>
     <string name="harp_seal">Foca harpa</string>
     <string name="harpy_eagle">Gavião real</string>
     <string name="has_applied">Aplicado</string>
@@ -202,10 +223,12 @@ não são geradas no Segundo espaço"</string>
     <string name="high_fps_description">Taxa de actualização do ecrã alta. Maior consumo de bateria</string>
     <string name="high_fps_tip_footer">Utilizar taxas de actualização altas torna a experiência de visualização mais suave mas consome mais bateria</string>
     <string name="hippopotamus">Hipopótamo</string>
+    <string name="holiday_limit">Dias de folga</string>
     <string name="hsv_space_color">Espaço de cores HSV</string>
     <string name="hsv_space_color_hue">Matiz</string>
     <string name="hsv_space_color_saturation">Saturação</string>
     <string name="hsv_space_color_value">Valor</string>
+    <string name="in_forbidden_period">Utilização restringida agora</string>
     <string name="intelligent_radio_btn_summary">Ajustar a taxa de actualização do ecrã dinâmicamente baseada em cenários para alcançar o equilíbrio entre desempenho e duração da bateria</string>
     <string name="intelligent_radio_btn_title">Predefinido (recomendado)</string>
     <string name="intelligent_recognition_item_summary">Utilizar um toque para chamadas de entregas e serviços de táxi. Esta funcionalidade vai funcionar quando %s está definido como toque predefinido</string>
@@ -245,6 +268,7 @@ não são geradas no Segundo espaço"</string>
     <string name="leopard">Leopardo</string>
     <string name="lion">Leão</string>
     <string name="lion_info">Os leões são predadores ferozes e poderosos. Eles vivem em grupos e têm um forte sentido de território</string>
+    <string name="loading_error">Não foi possível carregar itens</string>
     <string name="lock_summary">Proteger as suas informações pessoais</string>
     <string name="long_tai1ed_iaeger">Moleiro de cauda comprida</string>
     <string name="low_flicker_mode">Luz fraca</string>
@@ -287,6 +311,7 @@ não são geradas no Segundo espaço"</string>
     <string name="nature_mix_summary">Criar uma mistura personalizada</string>
     <string name="nazca_booby">Atobá de nazca</string>
     <string name="network_error">Ocorreu um erro de rede. Tente novamente</string>
+    <string name="next_day">"(próximo dia) "</string>
     <string name="nine_banded_armadillo">Tatu</string>
     <string name="no_matching">Não foi possível encontrar uma aplicação para abrir este link</string>
     <string name="no_sound_summary">Nenhum</string>
@@ -388,6 +413,8 @@ não são geradas no Segundo espaço"</string>
     <string name="steady_on_screen_notification_title">Pouse o seu telefone e faça uma pausa</string>
     <string name="steady_on_screen_notification_title_pad">Pouse o seu dispositivo e faça uma pausa</string>
     <string name="steady_on_screen_notify">Notificar utilização sem interrupções</string>
+    <string name="steady_on_screen_notify_new">Tirar uma pausa</string>
+    <string name="steady_on_screen_ntf_msg">Todas as funcionalidades vão estar disponíveis novamente em %1$s</string>
     <string name="steady_on_screen_setting">Limite de tempo para sessões sem interrupção</string>
     <string name="steady_on_screen_summary">Limite de tempo para sessões sem interrupção</string>
     <string name="stop_app_timer">Desligar tempo de ecrã</string>
@@ -401,6 +428,12 @@ não são geradas no Segundo espaço"</string>
     <string name="tasmanian_devil_info">Os diabos da Tasmânia são pequenos necrófagos carnívoros com um temperamento mal-humorado</string>
     <string name="tasmanian_native_hen">Galinha nativa da Tasmânia</string>
     <string name="thememanager_not_found">Não foi possível abrir Temas. Certifique-se que a aplicação está instalada no seu dispositivo</string>
+    <string name="time_over_back_home">Ecrã inicial</string>
+    <string name="time_over_delayed_use">Ignorar</string>
+    <string name="time_over_not_delayed_use">Percebi</string>
+    <string name="time_over_today">"Sem mais tempo restante
+por hoje"</string>
+    <string name="time_over_today_use">"Sessões de hoje: "</string>
     <string name="title_activity_easy_mode">Modo Leve</string>
     <string name="title_mix_match_sound">Mistura de Natureza</string>
     <string name="title_mix_match_tips">Toque nos animais para ouvir. Pode adicionar até 5 animais</string>
@@ -420,6 +453,7 @@ não são geradas no Segundo espaço"</string>
     <string name="trend_from_yesterday_more_simple">%1$s mais que ontem</string>
     <string name="two_toed_sloths">Preguiças de dois dedos</string>
     <string name="two_toed_sloths_info">As preguiças de dois dedos podem facilmente viajar de árvore em árvore nas copas das florestas tropicais</string>
+    <string name="unavailable_per_day">Pausas</string>
     <string name="unlock_times_per_day">"Média diária: "</string>
     <string name="unlock_times_per_hour">"Desbloqueios por hora: "</string>
     <string name="usage_agree">Concordar</string>
@@ -455,8 +489,10 @@ não são geradas no Segundo espaço"</string>
     <string name="usage_device_limit_app_prolong_time3">Adicionar 60 minutos</string>
     <string name="usage_device_limit_app_prolong_time4">Não limitar hoje</string>
     <string name="usage_device_limit_app_prolong_time5">Adicionar uma vez</string>
+    <string name="usage_device_limit_forbidden_period">Utilização restringida entre %1$s e %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">Vai chegar ao limite em %1$s</string>
     <string name="usage_device_limit_notifation_title">Tempo disponível de hoje</string>
+    <string name="usage_device_limit_start_forbidden_period">Utilização vai ser restringida entre %1$s e %2$s (%3$s restantes)</string>
     <string name="usage_device_limit_time_over">Chegou ao limite de hoje (%1$s)</string>
     <string name="usage_exit">Sair</string>
     <string name="usage_focus_focus_premission_main_summary">Esta aplicação necessita de aceder às suas informações de conta para gravar as estatísticas de utilização do Modo Foco</string>
@@ -488,6 +524,8 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
     <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Antes de utilizar esta aplicação, leia e concorde com os nossos &lt;a href='%1s'>Termos de Utilização&lt;/a> e &lt;a href='%2s'>Política de Privacidade&lt;/a>"</Data></string>
     <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
+    <string name="usage_new_category_limit_summary">Definir um limite de utilização diário para todas as aplicações nesta categoria</string>
+    <string name="usage_new_category_limit_title">Restringir utilização de categorias</string>
     <string name="usage_new_home_app_limit_summary">Definir um limite de tempo de ecrã diário para esta aplicação</string>
     <string name="usage_new_home_app_limit_title">Limitar tempo de ecrã</string>
     <string name="usage_new_home_average">"Média "</string>
@@ -706,6 +744,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
     <string name="willow_grouse_info">O lagópode escocês é herbívoro na maior parte da sua vida e ocupa habitats subalpinos e subárticos principalmente</string>
     <string name="wolf">Lobo</string>
     <string name="wombat">Vombate</string>
+    <string name="workday_limit">Dias úteis</string>
     <string name="yellow_necked_spurfowl">Francolim de pescoço amarelo</string>
     <string name="yellow_throated_marten">Marta de garganta amarela</string>
     <string name="yunnan_snub_nosed_monkey">Macaco preto de nariz arrebitado</string>

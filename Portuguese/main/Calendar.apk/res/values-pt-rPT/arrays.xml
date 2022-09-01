@@ -79,6 +79,11 @@
         <item>Pisces</item>
         <item>19/2 - 20/3</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Desligado</item>
+        <item>Todos os eventos</item>
+        <item>Eventos sensíveis ao tempo</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas em modo Silêncio</item>

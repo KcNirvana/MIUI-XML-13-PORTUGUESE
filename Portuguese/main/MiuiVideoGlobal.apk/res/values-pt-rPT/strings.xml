@@ -260,6 +260,7 @@
     <string name="local_video_size">Tamanho</string>
     <string name="local_video_space">Ocupado: %s</string>
     <string name="local_video_time">Duração</string>
+    <string name="local_zoom_adjust_button">Trocar modo de visualização</string>
     <string name="login">Iniciar sessão</string>
     <string name="login_tip">Iniciar sessão para poder receber respostas aos seus comentários</string>
     <string name="logout">Terminar sessão</string>
@@ -358,7 +359,6 @@
     <string name="lv_subtitle_onlinesub_right_declare_content">Obter legendas <br/><br/>de <a href="http://www.opensubtitles.org">opensubtitles.org</a>.<br/><br/>Todas as legendas online são fornecidas por <a href="http://www.opensubtitles.org">opensubtitles.org</a></string>
     <string name="lv_subtitle_onlinesub_save_failed">Não foi possível adicionar legendas</string>
     <string name="lv_subtitle_onlinesub_save_success">Legendas adicionadas com sucesso</string>
-    <string name="lv_subtitle_onlinesub_search_keyword">Introduzir palavras-chave para pesquisar</string>
     <string name="lv_subtitle_onlinesub_search_notfound">Não foi possível encontrar legendas</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Tamanho: %sB</string>
     <string name="lv_subtitle_onlinesub_title">Legendas online</string>
@@ -500,7 +500,6 @@
     <string name="ovp_player_cached_error_btn">Vídeos online</string>
     <string name="ovp_player_cached_error_hint_info">Não é possível reproduzir vídeos locais agora</string>
     <string name="ovp_plugin_install_failure">Não foi possível instalar o plugin</string>
-    <string name="ovp_search_key_not_null">Introduzir palavras-chave para pesquisar</string>
     <string name="ovp_select_ci">Seleccionar episódio</string>
     <string name="ovp_select_related_video">Vídeos relacionados</string>
     <string name="ovp_setting_clear_cache_success">Cache limpa com sucesso</string>
@@ -1030,12 +1029,9 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
     <string name="content">Content</string>
     <string name="content_can_not_null">"Can't submit feedback without description."</string>
-    <string name="content_country_key">content_country</string>
-    <string name="content_language_key">content_language</string>
     <string name="controller_bar_edit">Editar</string>
-    <string name="current_service_key">service</string>
+    <string name="copy_toast_msg">Link copiado para a área de transferências</string>
     <string name="day">day</string>
-    <string name="default_localization_key">system</string>
     <string name="default_upgrade_hint">"Hi there!
 Mi Video is ready for an update.
 Update the app now to check out our new cool features!
@@ -1097,6 +1093,9 @@ Send this code to the supervisor."</string>
     <string name="facebook_application_id" />
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
     <string name="failure">"Couldn't download"</string>
+    <string name="fallback_menu_item_copy_link">Copy link</string>
+    <string name="fallback_menu_item_open_in_browser">Open in browser</string>
+    <string name="fallback_menu_item_share_link">Share link</string>
     <string name="favor_movie">Movies</string>
     <string name="favor_online_video">Vídeos</string>
     <string name="favor_playlist">Listas de reprodução</string>
@@ -1146,6 +1145,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_exchange_code_copy_and_start">Use</string>
     <string name="incentive_exchange_details">Details</string>
     <string name="incentive_exchange_details_current">Order total</string>
+    <string name="incentive_exchange_details_dotask">Earn points</string>
     <string name="incentive_exchange_details_total">Balance</string>
     <string name="incentive_exchange_empty_tip">Nothing here yet. Redeem points to get started.</string>
     <string name="incentive_exchange_expire_tip">Unclaimed points will disappear at midnight</string>
@@ -1176,6 +1176,8 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_view_details">Details</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>
     <string name="init_channels">Restore defaults</string>
+    <string name="inline_auto_play_tip">"Using mobile data… "</string>
+    <string name="inline_auto_play_to_set">Settings</string>
     <string name="inline_mute_click_tip">Tocar para restaurar o som</string>
     <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
     <string name="input_new_pwd">Enter new password</string>
@@ -1202,6 +1204,8 @@ for videos"</string>
     <string name="live_title">Live TV</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">Aguarde…</string>
+    <string name="local_adjust_zoom_mode_hint">Está a ver em %s</string>
+    <string name="local_crop_zoom_mode">Imagem cortada</string>
     <string name="local_diversion_all_local_videos">Todos os vídeos no dispositivo</string>
     <string name="local_diversion_close_recommend">Fechar</string>
     <string name="local_diversion_download_more_video">Mais vídeos</string>
@@ -1215,6 +1219,7 @@ para uma melhor experiência"</string>
     <string name="local_push_setting_power_tag">Notificações acerca de vídeos no dispositivo</string>
     <string name="local_push_title">Destaques hoje</string>
     <string name="local_push_video_title">Verificar novos vídeos no dispositivo</string>
+    <string name="local_stretch_zoom_mode">Imagem esticada</string>
     <string name="local_video_edit_playlist">Editar lista</string>
     <string name="lock_screen">Ecrã de bloqueio</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
@@ -1377,8 +1382,7 @@ Update Mi Video to the latest version first."</string>
     <string name="passport_wrong_vcode">The code you entered is incorrect</string>
     <string name="passport_wrong_voice">The code you entered is incorrect</string>
     <string name="password_toggle_content_description">Show password</string>
-    <string name="peertube_selected_instance_key">peertube_selected_instance</string>
-    <string name="pgc_push_title">Subscriptions</string>
+    <string name="pgc_push_title">Subscrições</string>
     <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
     <string name="phone_hint">Phone number</string>
     <string name="phone_num_use_for">Phone number is used for:</string>
@@ -1390,6 +1394,7 @@ Update Mi Video to the latest version first."</string>
     <string name="popup_click_for_download_video">Transferir vídeo</string>
     <string name="popup_pip_activate_button">Definições</string>
     <string name="popup_pip_not_activated">Permitir que Vídeos utilize ecrã no ecrã primeiro</string>
+    <string name="popup_recommend_text">Descobrir mais vídeos que vai amar</string>
     <string name="popup_window_home_tip">Transferir vídeos online</string>
     <string name="privacy_agree_subtitle">O consentimento da Política de Privacidade permite utilizar todas as funcionalidades de Vídeos</string>
     <string name="privacy_agree_title">Consentimento</string>
@@ -1430,6 +1435,15 @@ Update Mi Video to the latest version first."</string>
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="set_success">Changed successfully</string>
+    <string name="settings_inline_auto_play">Always autoplay</string>
+    <string name="settings_inline_auto_play_close">Autoplay off</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Always off</string>
+    <string name="settings_inline_auto_play_tip_close_month">Off for one month</string>
+    <string name="settings_inline_auto_play_tip_open">On</string>
+    <string name="settings_inline_auto_play_tip_title">Mobile data usage reminders</string>
+    <string name="settings_inline_auto_play_title">Autoplay</string>
+    <string name="settings_inline_auto_play_wify">Autoplay on Wi-Fi only</string>
+    <string name="settings_inline_title">Start page autoplay</string>
     <string name="share_fail">Não foi possível partilhar. Verifique as suas definições de rede e tente novamente</string>
     <string name="share_success">Partilhado com sucesso</string>
     <string name="share_text_before_link">Ver e transferir vídeos gratuitamente em Vídeos</string>
@@ -1471,7 +1485,7 @@ Update Mi Video to the latest version first."</string>
     <string name="submit">Submit</string>
     <string name="subscribe">SUBSCRIBE</string>
     <string name="subscribed">SUBSCRIBED</string>
-    <string name="subscriptions">Subscriptions</string>
+    <string name="subscriptions">Subscrições</string>
     <string name="subtitle_add_subtitle_failed">"Couldn't add subtitles. Make sure the file isn't corrupted."</string>
     <string name="subtitle_manual_add_sub">Added subtitles successfully</string>
     <string name="subtitle_offset_normal">"Don't move subtitles"</string>
@@ -1495,7 +1509,7 @@ Update Mi Video to the latest version first."</string>
     <string name="tip_download_video_to_save_here">%d. O vídeo vai ser guardado nas suas transferênciasThe video will be saved to your downloads</string>
     <string name="tip_enter_the_website">%d. Abrir um site ou aplicação</string>
     <string name="tip_local_long_press_for_manager">Premir e segurar para gerir vídeos</string>
-    <string name="tip_local_manager_here">Manage your files here</string>
+    <string name="tip_local_manager_here">Gerir os seus ficheiros aqui</string>
     <string name="tip_play_a_video">%d. Reproduzir um vídeo</string>
     <string name="tip_pop"><Data>Content from Moments is provided by Firework. In order to improve your viewing experience and receive more relevant content recommendations, allow Firework to collect, process, and use your personal information in accordance with its Privacy Policy. Read and agree to &lt;a href=\"%1$s\">Firework Privacy Policy&lt;/a> before using its services.</Data></string>
     <string name="tip_playlist_guide_hint_a">Ver vídeos das suas listas Google</string>
@@ -1559,6 +1573,7 @@ Update Mi Video to the latest version first."</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Definições</string>
     <string name="local_hide_folder_setting_tip">Pode gerir os seus vídeos ocultos em Perfil > Definições > Gerir vídeos ocultos</string>
+    <string name="local_play_end_close_tip">Não vão ser mostradas recomendações novamente</string>
     <string name="local_play_end_drag_up_guide">Tocar ou deslizar para reproduzir</string>
     <string name="settings_manager_hidden_folder">Gerir vídeos ocultos</string>
     <string name="dialog_item_add_video">Adicionar vídeos</string>
@@ -1573,7 +1588,6 @@ Update Mi Video to the latest version first."</string>
     <string name="item_view_role_description">Separador</string>
     <string name="local_subtitle_choose_language_text">Idioma</string>
     <string name="local_subtitle_exemption_hint">Pesquisar legendas em opensubtitle.org</string>
-    <string name="local_subtitle_input_keyword_text">Pesquisar palavras-chave</string>
     <string name="local_subtitle_searching_text">A pesquisar…</string>
     <string name="lv_check_send_file_new">Apenas pode enviar %d ficheiro de cada vez</string>
     <string name="lv_subtitle_preoffset_max_new">Não é possível mover além de %ds</string>

@@ -2010,6 +2010,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
     <string name="close_fod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o ecrã desligado. A impressão digital só vai funcionar com o ecrã ligado</string>
     <string name="close_fod_aod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o ecrã desligado. O \"Sempre ligado\" também não vai estar disponível. A impressão digital só vai funcionar com o ecrã ligado</string>
     <string name="close_hotspot_hint">Desligar o PA Móvel antes de transmitir</string>
+    <string name="close_lid_display_settings_title">Após dobrar</string>
     <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
     <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
     <string name="close_optimization_option">Desligar</string>
@@ -3270,6 +3271,7 @@ Reinicie o dispositivo e tente novamente"</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu pendente</string>
     <string name="extended_power_menu">Menu de reinicialização avançado</string>
     <string name="exterior">Esquema de cores</string>
+    <string name="external_auto_rotate_title">Bloquear orientação no ecrã externo</string>
     <string name="external_code_size_label">Aplicação no armazenamento USB</string>
     <string name="external_data_size_label">Dados no armazenamento USB</string>
     <string name="external_ram_dialog_btn_cancel">Mais tarde</string>
@@ -4083,6 +4085,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
     <string name="intelligence_suppression_summary">Ajustar o tamanho da área próximo das laterais dinâmicamente onde toques acidentais vão ser ignorados</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
+    <string name="intelligent_keep_screen_on">Manter ecrã ligado quando necessário</string>
+    <string name="intelligent_keep_screen_on_summary">Manter ecrã externo ligado quando estiver virado para cima</string>
     <string name="intent_sender_account_label">Conta:</string>
     <string name="intent_sender_action_label">Acção:</string>
     <string name="intent_sender_data_label">Dados:</string>
@@ -4114,6 +4118,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="interconnection">Interconectividade</string>
     <string name="interesting_text">Sensações tácteis realistas tornam a sua interacção com o ecrã mais clara e articulada</string>
     <string name="interesting_title">Toques realísticos</string>
+    <string name="internal_auto_rotate_title">Bloquear orientação para do ecrã interno</string>
     <string name="internal_memory">Armazenamento interno</string>
     <string name="internal_storage">Armazenamento interno</string>
     <string name="internal_storage_sentence">armazenamento interno</string>
@@ -4131,7 +4136,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="kddi_nfc_secure_settings_title">Bloquear no ecrã de bloqueio</string>
     <string name="kddi_nfc_secure_toggle_summary">Allow NFC/Osaifu-keitai function while the screen is unlocked</string>
     <string name="keep_legacy_fingerprint">Manter</string>
-    <string name="keep_screen_on">Não bloquear ecrã</string>
+    <string name="keep_screen_on">Manter ecrã ligado</string>
     <string name="keep_screen_on_summary">O ecrã nunca vai entrar em suspensão durante o carregamento</string>
     <string name="kernel_version">Versão de kernel</string>
     <string name="key_combination_power_back">Ligar/Desligar + Voltar</string>
@@ -4592,6 +4597,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="lock_screen_notifs_show_all">Mostrar conversas predefinidas e silenciosas</string>
     <string name="lock_screen_notifs_show_none">Não mostrar notificações</string>
     <string name="lock_screen_notifs_title">Notificações no ecrã de bloqueio</string>
+    <string name="lock_screen_now">Ecrã de bloqueio</string>
     <string name="lock_screen_password_skip_biometrics_message">"A password is required to set up Face Unlock and Fingerprint Unlock.
 
 A password protects the phone if it’s lost or stolen."</string>
@@ -8532,6 +8538,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="swipe_direction_ltr">Deslizar para a direita para fechar, esquerda para mostrar o menu</string>
     <string name="swipe_direction_rtl">Deslizar para a esquerda para fechar, direita para mostrar o menu</string>
     <string name="swipe_direction_title">Trocar acções</string>
+    <string name="swipe_up_to_continue_using">Deslizar para cima para continuar</string>
+    <string name="swipe_up_to_continue_using_summary">Bloquear após %d segundos de inactividade</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Ligar o novo gesto para mudar entre aplicações</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Experimentar o novo botão Início</string>
     <string name="swipe_up_to_switch_apps_summary">Para mudar entre aplicações, deslizar para cima no botão Início. Para ver todas aplicações, deslizar para cima novamente. Para voltar, toque no botão Voltar</string>

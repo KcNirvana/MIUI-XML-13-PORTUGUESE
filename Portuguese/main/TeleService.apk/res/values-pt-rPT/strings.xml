@@ -2606,6 +2606,7 @@ Any user can update apps for all other users."</string>
     <string name="wifi_scan_throttling_summary">Reduzir o descarregamento da bateria e melhorar o desempenho da rede</string>
     <string name="xcap_setting_summary">Call barring, Voicemail &amp; call forwarding, and Call waiting</string>
     <string name="xcap_setting_title">Call service settings</string>
+    <string name="xiaoai_assistant_setting_title">Assistente de chamadas Mi IA</string>
     <string name="disable_esim_dialog_summary">"SIM %s will be activated if you deactivate eSIM now.
 Deactivate eSIM anyway?"</string>
     <string name="disable_esim_dialog_title">Deactivating eSIM</string>
@@ -2627,6 +2628,7 @@ Activate eSIM anyway?"</string>
     <string name="esim_inactive_notification_message_global">No SIM card detected. Tap to activate eSIM.</string>
     <string name="esim_inactive_notification_title_global">Dual SIM &amp; mobile networks</string>
     <string name="esim_inactive_settings_title">Dual SIM &amp; mobile networks</string>
+    <string name="esim_is_activating_notification_channel_for_o2">eSimIsActivatingNotificationForO2</string>
     <string name="esim_is_activating_notification_message_for_o2">Activating mobile plan…</string>
     <string name="esim_setting_title">eSIM settings</string>
     <string name="fiveg_nrca_switch_summary">Use 5G carrier aggregation for better connectivity</string>

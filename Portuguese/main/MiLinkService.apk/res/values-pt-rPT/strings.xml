@@ -53,7 +53,7 @@ Para mais questões, veja a ajuda"</string>
     <string name="enable_screen_projection_summary">Transmitir conteúdos do ecrã para um ecrã externo</string>
     <string name="file_read_des">Para mostrar fotos e outros ficheiros em ecrãs externos</string>
     <string name="global_privacy">Termos e Condições</string>
-    <string name="global_privacy_detail"><Data>"Ler e concordar com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de utilizar esta aplicação.&lt;br>Se não concordar na utilização dos serviços mencionados, não vai poder utilizar algumas funcionalidades"</Data></string>
+    <string name="global_privacy_detail"><Data>Ler e concordar com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de utilizar esta aplicação.&lt;br>Se não concordar na utilização dos serviços mencionados, não vai poder utilizar algumas funcionalidades</Data></string>
     <string name="global_privacy_explain">Bem-vindo a Transmissão! Esta aplicação fornece os seguintes serviços:</string>
     <string name="global_privacy_feature">Utilizar janelas minimizadas, transmitir com o ecrã desligado e ocultar itens privados</string>
     <string name="global_privacy_main">Projectar itens do ecrã do seu telefone num ecrã externo</string>

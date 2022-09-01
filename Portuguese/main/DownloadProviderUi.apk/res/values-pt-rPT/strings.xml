@@ -375,6 +375,9 @@ em todos os seus dispositivos com Xunlei"</string>
     <string name="start_download">Transferir</string>
     <string name="start_xunlei_speedup_info">Iniciar sessão para optimizar as suas transferências</string>
     <string name="starting_analysis">A obter informação…</string>
+    <string name="storage_dialog_content">Permitir que Transferências aceda ao armazenamento para poder utilizar as suas funcionalidades</string>
+    <string name="storage_dialog_go">Definições</string>
+    <string name="storage_dialog_title">Aceder ao armazenamento</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_permission_deny">Permissões de armazenamento necessárias</string>
     <string name="storage_sd_card">Cartão SD</string>

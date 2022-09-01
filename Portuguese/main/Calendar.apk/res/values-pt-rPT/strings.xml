@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">Amanhã, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Rejeitar</string>
+    <string name="alarm_open_reminder">Ligar lembretes</string>
+    <string name="alarm_reminder_already">Lembretes ligados</string>
     <string name="alarm_open_reminder">Definir alarme</string>
     <string name="alarm_reminder_already">Alarme definido com sucesso</string>
     <string name="alert_reminder_expired">Expirado</string>
@@ -234,9 +236,11 @@
     <string name="edit_event_input_year">Introduzir ano</string>
     <string name="edit_event_label">Detalhes</string>
     <string name="edit_event_no_reminder_value">Não lembrar</string>
-    <string name="edit_event_reminder_3_days_before">Lembrar 3 dias antes também</string>
+    <string name="edit_event_reminder_3_days_before">E lembrar 3 dias antes</string>
+    <string name="edit_event_reminder_3_days_before_time">Lembrar %d dias antes também</string>
     <string name="edit_event_reminder_summary">No dia às %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before">3 dia antes e no dia às %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before">%2$d dias antes e no dia às %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d dias antes e às %1$s no dia definido</string>
     <string name="edit_event_reminder_text">Em %1$s às %2$s</string>
     <string name="edit_event_reminder_time">Hora dos lembretes</string>
     <string name="edit_event_reminder_with_another_day_text">Em %1$s, %2$s às %3$s</string>
@@ -249,7 +253,7 @@
     <string name="edit_event_title_create_anniversary">Adicionar aniversário</string>
     <string name="edit_event_title_create_birthday">Adicionar data de nascimento</string>
     <string name="edit_event_title_create_countdown">Adicionar contagem decrescente</string>
-    <string name="edit_event_title_edit_agenda">Editar evente</string>
+    <string name="edit_event_title_edit_agenda">Editar evento</string>
     <string name="edit_event_title_edit_anniversary">Editar aniversário</string>
     <string name="edit_event_title_edit_birthday">Editar data de nascimento</string>
     <string name="edit_event_title_edit_countdown">Editar contagem decrescente</string>
@@ -423,7 +427,7 @@
     <string name="living_text">No ar</string>
     <string name="load_more_events">Ver %d eventos</string>
     <string name="load_more_events_default">Ver eventos do próximo ano</string>
-    <string name="load_more_hint">Carregar eventos de %1$d</string>
+    <string name="load_more_hint">Ver %1$d eventos</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_ics_files">A procurar ficheiros…</string>
     <string name="local_calendar_display_name">Calendário local</string>
@@ -571,7 +575,8 @@
     <string name="no_internet">Não foi possível ligar à Internet</string>
     <string name="no_internet_dialog_message">O seu dispositivo necessita de ligar à Internet para remover o consentimento. Verifique as definições de rede e tente novamente</string>
     <string name="no_internet_dialog_title">Ocorreu um erro</string>
-    <string name="no_long_holidays">No upcoming long holidays</string>
+    <string name="no_long_holidays">Sem feriados próximos</string>
+    <string name="no_more_events">Sem mais eventos</string>
     <string name="no_network">"Não foi possível ligar à rede.
  Verifique as definições de rede e tente novamente"</string>
     <string name="no_network_btn">Tente novamente</string>
@@ -643,8 +648,8 @@
     <string name="preferences_popup_alert_smart_summary">A MIUI vai identificar automaticamente quais os eventos mais relevantes</string>
     <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são os eventos com um tempo exacto</string>
     <string name="preferences_popup_alert_smart_tips">Substituir as notificações tradicionais por alertas pop-up para evitar perder eventos importantes. Os alertas pop não vão aparecer quando estiver a jogar ou a ver vídeos em ecrã inteiro</string>
-    <string name="preferences_popup_alert_title">Alertas pop-up</string>
-    <string name="preferences_show_indic_date_title">Mostrar calendário Indic</string>
+    <string name="preferences_popup_alert_title">Lembretes pop-up</string>
+    <string name="preferences_show_indic_date_title">Mostrar calendário indiano</string>
     <string name="preferences_title">Calendário</string>
     <string name="preferences_use_home_tz_descrip">Mostrar calendários e horários de eventos no seu fuso horário quando viajar</string>
     <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
@@ -657,6 +662,7 @@
     <string name="premission_description_log">Guardar registos</string>
     <string name="premission_description_phone_state">Identificar o seu dispositivo baseado no ID de dispositivo</string>
     <string name="premission_description_ringtone">Definir toques</string>
+    <string name="privacy_and_permissions">Privacidade e permissões</string>
     <string name="premission_description_title">Ver e gerir eventos programados</string>
     <string name="privacy_card_description">Concordar com a nossa Política de Privacidade para aceder a todas as funcionalidades</string>
     <string name="privacy_policy_dialog_agree">Concordar</string>
@@ -846,6 +852,10 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="tab_title_day">Dia</string>
     <string name="tab_title_month">Mês</string>
     <string name="tab_title_week">Semana</string>
+    <string name="tab_view_day">Dia</string>
+    <string name="tab_view_month">Mês</string>
+    <string name="tab_view_week">Semana</string>
+    <string name="tab_view_year">Ano</string>
     <string name="taishen">Filho de Deus</string>
     <string name="talk_back_month">Mês</string>
     <string name="talk_back_read_date">%1$s (%2$s segundo o calendário lunar)</string>
@@ -864,6 +874,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tap to change date.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Day %2$d of menstrual cycle. Selected.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Day %2$d of menstrual cycle. Tap to select date.</string>
+    <string name="permission_description">Detalhes das permissões</string>
     <string name="tb_picker_day">Selected day: %1$d. Swipe vertically to select day.</string>
     <string name="tb_picker_menstruation_cycle">Selected number of days: %1$d. Swipe vertically to change cycle duration.</string>
     <string name="tb_picker_menstruation_days">Selected number of days: %1$d. Swipe vertically to change period duration.</string>

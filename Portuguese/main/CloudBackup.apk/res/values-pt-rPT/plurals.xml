@@ -16,4 +16,16 @@
         <item quantity="other">Prioridade alta: %d aplicações</item>
         <item quantity="one">Prioridade alta: %d aplicação</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d aplicações copiadas</item>
+        <item quantity="one">%d aplicação copiada</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d aplicações restauradas</item>
+        <item quantity="one">%d aplicação restaurada</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">%s minutos restantes</item>
+        <item quantity="one">%s minuto restantes</item>
+    </plurals>
 </resources>

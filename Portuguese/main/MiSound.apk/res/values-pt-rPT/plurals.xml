@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Pode introduzir até %d caracteres</item>
+        <item quantity="one">Pode introduzir até %d caracter</item>
+    </plurals>
+</resources>

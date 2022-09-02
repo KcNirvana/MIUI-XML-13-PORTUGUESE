@@ -57,8 +57,6 @@
     <string name="alarm_label">Rejeitar</string>
     <string name="alarm_open_reminder">Ligar lembretes</string>
     <string name="alarm_reminder_already">Lembretes ligados</string>
-    <string name="alarm_open_reminder">Definir alarme</string>
-    <string name="alarm_reminder_already">Alarme definido com sucesso</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificações do calendário</string>
     <string name="all_events">Todos os eventos</string>

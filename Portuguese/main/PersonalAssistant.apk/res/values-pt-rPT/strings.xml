@@ -1030,6 +1030,9 @@ Stay tuned!"</string>
     <string name="pa_edit_text_align">Alignment</string>
     <string name="pa_edit_text_max_length">This text is too long</string>
     <string name="pa_edit_text_size">Text size</string>
+    <string name="pa_filter_replace_bt">Aplicar</string>
+    <string name="pa_filter_search_title">Resultados de \"%s\"</string>
+    <string name="pa_filter_title">Mais widgets</string>
     <string name="pa_finish">Concluído</string>
     <string name="pa_guide_dialog_desc">Premir e segurar um widget para ordenar. Toque no + para adicionar mais widgets</string>
     <string name="pa_guide_dialog_sure">Percebi</string>

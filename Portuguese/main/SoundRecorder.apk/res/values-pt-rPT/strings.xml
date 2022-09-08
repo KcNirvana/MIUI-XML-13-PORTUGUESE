@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
+    <string name="add_remark_dialog_title">Adicionar observação</string>
     <string name="add_remark_hint">Introduzir observações aqui</string>
     <string name="add_remark_tip">Toque para adicionar observações</string>
     <string name="agree_description">Permita que esta aplicação se ligue à Internet para utilizar todas as suas funcionalidades</string>
@@ -11,7 +12,7 @@
     <string name="all_record">Todas as gravações</string>
     <string name="app_name">Gravador</string>
     <string name="app_record">Gravações da aplicação</string>
-    <string name="app_record_preference_title">Gravações da aplicação</string>
+    <string name="app_record_preference_title">Gravações de chamadas</string>
     <string name="back">Voltar</string>
     <string name="button_queue_for_wifi">Aguardar</string>
     <string name="button_start_now">Transferir</string>
@@ -73,6 +74,7 @@
     <string name="manage_external_storage">Aceder a todos os ficheiros</string>
     <string name="mark_point_list_title">Marcadores</string>
     <string name="menu">Menu</string>
+    <string name="menu_remark">Adicionar observação</string>
     <string name="message_file_size_error">A gravação atingiu o tamanho máximo suportado por %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
@@ -149,6 +151,7 @@
     <string name="record_downloading_notification_complete">Transferência concluída</string>
     <string name="record_downloading_notification_count">%d transferir</string>
     <string name="record_format_preference_title">Formato de gravação</string>
+    <string name="record_item_title_delete">Eliminar</string>
     <string name="record_item_title_multi_choice">Seleccionar</string>
     <string name="record_item_title_remark">Adicionar observação</string>
     <string name="record_item_title_send">Partilhar</string>
@@ -217,6 +220,7 @@
     <string name="tab_apps">Aplicações</string>
     <string name="tab_call">Chamadas</string>
     <string name="tab_fm">Rádio</string>
+    <string name="tab_record">Gravador</string>
     <string name="tap_to_record">Toque para iniciar a gravação</string>
     <string name="text_btn_backward_3_seconds">3 segundos para trás</string>
     <string name="text_btn_complete">Parar</string>

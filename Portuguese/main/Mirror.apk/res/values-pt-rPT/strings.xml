@@ -194,6 +194,12 @@
     <string name="softap_notification_title">Ligar a PA Móvel de %1$s</string>
     <string name="sub_screen_lock_message">"Desbloquear o seu telefone
 para continuar"</string>
+    <string name="switch_wlan_action">Ligar</string>
+    <string name="switch_wlan_failed">Não foi possível ligar</string>
+    <string name="switch_wlan_failed_desc">Não foi possível ligar a este rede Wi-Fi automaticamente. Tente ligar manualmente</string>
+    <string name="switch_wlan_success">Ligado com sucesso</string>
+    <string name="switch_wlan_tips">Ligar à mesma rede</string>
+    <string name="switch_wlan_tips_desc">Pode ligar à mesma rede Wi-Fi que o outro dispositivo para uma melhor experiência. Ligar agora?</string>
     <string name="tip_connect_fail_for_hotspot">Não foi possível ligar. Desligue o PA Móvel e tente novamente</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

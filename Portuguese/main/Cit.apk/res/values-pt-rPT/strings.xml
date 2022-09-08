@@ -29,6 +29,9 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
     <string name="cit_audio_cali_playing">Toque no botão para iniciar a calibração</string>
     <string name="cit_audio_cali_summary">Calibrar Coluna PA</string>
     <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
+    <string name="cit_audio_hw_check_summary">Teste de áudio</string>
+    <string name="cit_audio_hw_check_tips">A executar teste</string>
+    <string name="cit_audio_hw_check_title">Teste de áudio</string>
     <string name="cit_audio_calibrating">A calibrar…</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do altifalante de microfone traseiro</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do altifalante de microfone principal</string>

@@ -3061,6 +3061,7 @@ Pode ver o registo gerado no Ficheiros"</string>
     <string name="emergency_tone_title">Tom de emergência</string>
     <string name="emergency_tone_vibrate">Vibrar</string>
     <string name="empty_networks_list">Sem redes</string>
+    <string name="emulate_sd_data">Dados do cartão SD emulado</string>
     <string name="enableNetwork">Activar rede</string>
     <string name="enable_2g_summary">Utilizar ligações 2G. Para chamadas de emergência, o 2G vai estar sempre ligado</string>
     <string name="enable_2g_title">Permitir 2G</string>
@@ -4363,6 +4364,11 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="last_synced">Última sincronização %1$s</string>
     <string name="last_time_used_label">Última utilização</string>
     <string name="lattice_smartcover_title">Capa com frente em malha</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Reconhecimento de som ambiente</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Legendas Mi Ditto</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Controlos de voz</string>
     <string name="launch_ai_shortcut">Atalho Mi IA</string>
     <string name="launch_alipay_health_code">Código de saúde Alipay</string>
     <string name="launch_alipay_health_code_auto_close">O atalho de código de saúde Alipay não está disponível. Pode trocar para um atalho diferente</string>
@@ -5736,8 +5742,8 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
     <string name="nfc_se_wallet_title">Carteira predefinida</string>
     <string name="nfc_secure_settings_title">Necessário desbloqueio do dispositivo para NFC</string>
     <string name="nfc_secure_toggle_summary">Permitir a utilização de pagamentos NFC e Google Transit apenas quando o ecrã está desbloqueado</string>
-    <string name="nfc_setting_off">Off</string>
-    <string name="nfc_setting_on">On</string>
+    <string name="nfc_setting_off">Desligado</string>
+    <string name="nfc_setting_on">Ligado</string>
     <string name="night">Tarde</string>
     <string name="night_display_activation_off_custom">Desligar até %1$s</string>
     <string name="night_display_activation_off_manual">Desligar agora</string>
@@ -6963,8 +6969,8 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
     <string name="saved_wifi">Redes guardadas</string>
     <string name="saved_wifi_delete">Eliminar</string>
     <string name="scan_list_label">Resultados da pesquisa:</string>
-    <string name="scanning_status_text_off">Off</string>
-    <string name="scanning_status_text_on">On</string>
+    <string name="scanning_status_text_off">Desligado</string>
+    <string name="scanning_status_text_on">Ligado</string>
     <string name="scanning_status_text_wifi_off_ble_off">Ambas as pesquisas de Wi-Fi e Bluetooth estão desligadas</string>
     <string name="scanning_status_text_wifi_off_ble_on">Pesquisa Bluetooth ligada, pesquisa Wi-Fi desligada</string>
     <string name="scanning_status_text_wifi_on_ble_off">Pesquisa Wi-Fi ligada, pesquisa Bluetooth desligada</string>

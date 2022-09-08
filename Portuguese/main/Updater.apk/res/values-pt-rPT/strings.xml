@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Actualizações</string>
-    <string name="battery_islow">"<font color='#f37981'>Ligue o carregador</font>"</string>
+    <string name="battery_islow">"<font color='#f37981'>Ligar o carregador</font>"</string>
     <string name="battery_islow_desc">O nível da bateria é demasiado fraco para instalar a actualização. Ligue o carregador e tente novamente mais tarde</string>
     <string name="btn_changelog">Alterações</string>
     <string name="btn_download">Transferir (%1$s)</string>

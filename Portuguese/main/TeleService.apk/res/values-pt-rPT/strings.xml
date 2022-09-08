@@ -2426,6 +2426,10 @@ Please confirm your default calling account setting."</string>
     <string name="smart_forwarding_settings_menu">Smart Forwarding</string>
     <string name="smart_forwarding_settings_menu_summary">"When one number isn't reachable, always forward calls to your other number"</string>
     <string name="smart_multinetwork_acceleration_title">Smart network acceleration</string>
+    <string name="smart_switch_dual_sim_diag_cancel">Cancelar</string>
+    <string name="smart_switch_dual_sim_diag_message">O seu SIM de dados não tem uma ligação de rede estável. Trocar de cartões SIM de dados pode melhorar a qualidade da ligação. Pode ligar esta funcionalidade nas Definições</string>
+    <string name="smart_switch_dual_sim_diag_ok">Definições</string>
+    <string name="smart_switch_dual_sim_diag_title">Atenção</string>
     <string name="smart_switch_dual_sim_prompt">Utilizar dados móveis do SIM %1$s pode gerar custos adicionais. Defina um limite de dados para evitar custos adicionais</string>
     <string name="smart_switch_dual_sim_summary">Trocar cartões SIM de dados automaticamente baseado na qualidade de ligação da rede e estado do dispositivo</string>
     <string name="smart_switch_dual_sim_title">Trocar cartões SIM de dados</string>

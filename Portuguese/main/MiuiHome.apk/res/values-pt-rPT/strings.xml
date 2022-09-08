@@ -55,6 +55,7 @@
     <string name="all_apps_setting_drawer_tips_desc">A gaveta de aplicações é aberta ao deslizar para cima no ecrã inicial. Trocar para este modo vai tornar a Pesquisa indisponível. Trocar mesmo assim?</string>
     <string name="all_apps_setting_drawer_tips_title">A utilizar gaveta de aplicações</string>
     <string name="all_apps_setting_drawer_title">Gaveta de aplicações</string>
+    <string name="all_apps_setting_jeejen_title">Modo Leve</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_min_category_limit">Seleccione pelo menos 1 categoria</string>
     <string name="all_apps_setting_original_scrollbar">Layout original</string>
@@ -322,6 +323,10 @@
     <string name="invalid_contact_shortcut">Contacto inválido</string>
     <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
     <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos de sistema</string>
+    <string name="item_view_role_description">Separador</string>
+    <string name="jeejen_description">"Botões maiores.
+Chamadas mais acessíveis.
+Segurança melhorada"</string>
     <string name="key_shortcut_settings_title">Atalhos de botões</string>
     <string name="launcher_global_search_mode_title">Pesquisa</string>
     <string name="launcher_global_search_provider_title">Fornecedor da pesquisa</string>
@@ -376,6 +381,7 @@
     <string name="menu_lock">Bloquear layout do ecrã inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_no_word">Não mostrar texto</string>
+    <string name="menu_only_widget_no_word">Remover texto dos widgets</string>
     <string name="menu_picktheme">Escolher um tema</string>
     <string name="menu_reset_scene">Reiniciar para o layout predefinido</string>
     <string name="menu_search">Pesquisar</string>
@@ -452,6 +458,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Não vai poder utilizar o Assistente e receber as actualizações após desligar esta funcionalidade</string>
     <string name="open_personal_assistant_dialog_title">Desligar Assistente</string>
     <string name="open_personal_assistant_settings">Definições do assistente</string>
+    <string name="open_personal_assistant_settings_off">Desligado</string>
+    <string name="open_personal_assistant_settings_on">Ligado</string>
+    <string name="open_personal_assistant_settings_simplified">Assistente</string>
     <string name="open_personal_assistant_title">Assistente</string>
     <string name="ota_layout_adjustment_button_text">Percebi</string>
     <string name="ota_layout_adjustment_content">O layout do ecrã inicial foi sincronizada na nova versão</string>

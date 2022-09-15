@@ -611,10 +611,10 @@ Envie este código ao supervisor"</string>
     <string name="login_app_confirm">Sign in</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
     <string name="login_by_local_phone_short_text">Sign in</string>
-    <string name="login_other">Another Mi Account</string>
+    <string name="login_other">Outra Conta Xiaomi</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
-    <string name="login_with_sns">Other ways to sign in</string>
-    <string name="logout">Sign out</string>
+    <string name="login_with_sns">Outros métodos de iniciar sessão</string>
+    <string name="logout">Terminar sessão</string>
     <string name="logout_cancel">Cancelar</string>
     <string name="logout_confirm">OK</string>
     <string name="logout_summary">"You won't be able to sync your subscriptions and customized settings across devices after you sign out. Sign out anyway?"</string>
@@ -810,7 +810,7 @@ d 'de' MMMM"</string>
     <string name="summary3">"Bem-vindo aos papéis de parede aleatórios! Pode subscrever as suas categorias de papéis de parede favoritas e receber imagens novas todos os dias. Esta aplicação necessita de ligar à Internet para funcionar normalmente.&lt;br>To provide additional services, we might ask for the permission to access and save items to this device's storage.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before using this app."</string>
     <string name="summary4">"Bem-vindo aos papéis de parede aleatórios! Pode subscrever as suas categorias de papéis de parede favoritas e receber imagens novas todos os dias. "</string>
     <string name="summary5">"To provide additional services, we might ask for the permission to access and save items to this device's storage. "</string>
-    <string name="system_default">Default</string>
+    <string name="system_default">Predefinido</string>
     <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="tb_collapse_desc">Ocultar o menu \"Partilhar\"</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>

@@ -91,6 +91,11 @@ Pode iniciar sessão na sua Conta Xiaomi com %s agora"</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_cloud_open">Ligar</string>
+    <string name="cloud_service_space_full">Armazenamento cheio</string>
+    <string name="cloud_service_space_not_enough">Espaço insuficiente</string>
+    <string name="cloud_service_space_used">Ocupado</string>
+    <string name="cloud_service_state_error">Não foi possível carregar</string>
     <string name="collect_diagnosis_log">Gerar registos de diagnóstico</string>
     <string name="completed">Tudo configurado</string>
     <string name="confirm_activate_email">Verificado</string>
@@ -119,6 +124,8 @@ Pode iniciar sessão na sua Conta Xiaomi com %s agora"</string>
     <string name="diagnosis_log_sent_format">"Registo de diagnóstico enviado com sucesso.
 ID:%s
 Envie este código ao supervisor"</string>
+    <string name="dind_device_service_not_open">Desligado</string>
+    <string name="dind_device_service_opened">Ligado</string>
     <string name="download_file">A transferir %s…</string>
     <string name="empty_device_list_notice">Sem dispositivos</string>
     <string name="ep_unsupported">Não é possível iniciar sessão na Conta Xiaomi no seu dispositivo</string>
@@ -130,6 +137,7 @@ Envie este código ao supervisor"</string>
     <string name="facebook_login">Iniciar sessão com Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Xiaomi</string>
     <string name="family_service">Serviços família</string>
+    <string name="family_service_not_open">Convidar membros</string>
     <string name="find_device">Localizar Dispositivo</string>
     <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
     <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
@@ -192,6 +200,7 @@ Envie este código ao supervisor"</string>
     <string name="login_notification_title">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="logout_account">Terminar sessão</string>
     <string name="logout_failed">Não é possível terminar sessão</string>
+    <string name="mi_account">A minha conta</string>
     <string name="mi_account_identity_title">Verificar a sua identidade</string>
     <string name="mi_finance">As minhas finanças</string>
     <string name="mi_finance_info">Bónus para novos utilizadores</string>
@@ -578,6 +587,7 @@ Envie este código ao supervisor"</string>
     <string name="vip_account_settings">Definições VIP</string>
     <string name="vip_settings_info">Definições VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="accept">Permitir</string>
     <string name="account_and_password">Palavra-passe</string>
     <string name="account_user_phone_show">Telefone: %s</string>

@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_READ_FILES_Desc">Aceder a ficheiros e documentos neste dispositivo</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Aceder a ficheiros áudio</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Aceder a músicas e outros ficheiros de áudio neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Aceder e guardar imagens, vídeos e ficheiros de áudio no armazenamento interno</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Aceder a fotos e vídeos</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Aceder a fotos e vídeos neste dispositivo</string>
     <string name="HIPS_Perm_External_Storage">Aceder e guardar itens no armazenamento</string>
@@ -584,6 +585,7 @@
     <string name="applock_bind_account_dialog_content">A sua Conta Xiaomi é a única maneira de restaurar o o seu Bloqueio de aplicações no caso de o esquecer. Iniciar sessão para adicionar a sua Conta Xiaomi</string>
     <string name="applock_bind_account_dialog_title">Adicionar a sua Conta Xiaomi</string>
     <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
+    <string name="applock_biometric_recognition">Biómetria</string>
     <string name="applock_close_dialog_summary">Todas as aplicações ocultas vão ser mostradas, os seus atalhos vão ser restaurados e a sua palavra-passe do Bloqueio de aplicações vai ser eliminada. Desligar o Bloqueio de aplicações?</string>
     <string name="applock_close_dialog_title">Desligar Bloqueio de aplicações?</string>
     <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
@@ -1407,7 +1409,7 @@ volunteer"</string>
     <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>
     <string name="fingerprint_not_remind">Não perguntar novamente</string>
     <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
-    <string name="fingerprint_to_lock">Desbloquear com impressão digital</string>
+    <string name="fingerprint_to_lock">Desbloqueio com impressão digital</string>
     <string name="fingerprint_to_lock_summary">Desbloquear aplicações utilizando impressão digital</string>
     <string name="fingerprint_verify_failed">Não foi possível digitalizar</string>
     <string name="fingerprint_verify_succeed">Impressão digital digitalizada</string>
@@ -1650,6 +1652,14 @@ volunteer"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante mortes no jogo</string>
     <string name="gb_audition_instruction">Premir e segurar para gravar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilizar auriculares para um melhor efeito</string>
+    <string name="gb_barrage_chat_desc">Acredite sempre que algo maravilhoso está para acontecer</string>
+    <string name="gb_barrage_chat_text_color">Cor</string>
+    <string name="gb_barrage_chat_text_size">Tamanho</string>
+    <string name="gb_barrage_chat_text_size_big">Grande</string>
+    <string name="gb_barrage_chat_text_size_small">Pequeno</string>
+    <string name="gb_barrage_chat_text_speed">Velocidade</string>
+    <string name="gb_barrage_chat_text_speed_faster">Rápido</string>
+    <string name="gb_barrage_chat_text_speed_slow">Lento</string>
     <string name="gb_beauty_cold_light">Frio</string>
     <string name="gb_beauty_face">Embelezar</string>
     <string name="gb_beauty_light">Preencher com luz</string>
@@ -2757,6 +2767,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pm_remember_choice">Memorizar preferência</string>
     <string name="pm_root_success_notification_infomation">Certifique-se que entende os riscos relacionados com o acesso root</string>
     <string name="pm_root_success_notification_title">Acesso root permitido</string>
+    <string name="power_5g_popups_content">As redes 5G fornecem ligações de alta velocidade e baixa latência</string>
+    <string name="power_5g_popups_title">Utilizar redes 5G</string>
     <string name="power_ambient_display">Ecrã ambiente</string>
     <string name="power_analysis_consume_title"/>
     <string name="power_analysis_suggestion_need_optimize">Problemas detectados na utilização de bateria</string>
@@ -4605,6 +4617,7 @@ Tente aumentar a resolução!"</string>
     <string name="virus_auto_update_engine">Actualizações: %s</string>
     <string name="virus_update_tips_title">Aviso</string>
     <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>
+    <string name="vtb_ai_subtitle">Legendas</string>
     <string name="vtb_func_desc">Acerca desta funcionalidade</string>
     <string name="vtb_func_display_style_desc0">A IA pode reconhecer pessoas, animais, plantas e outros objectos nos vídeos e melhorá-los dinâmicamente</string>
     <string name="vtb_func_display_style_desc1">Os efeitos seleccionados não vão ser aplicados a vídeos HDR nos dispositivos seleccionados</string>
@@ -4939,6 +4952,12 @@ Tente aumentar a resolução!"</string>
     <string name="free_send_net_booster_busniess">Get a free Xunlei speed boost</string>
     <string name="free_send_net_booster_busniess_tip">Tap to receive</string>
     <string name="function_gwsd_title">Não permitir que as chamadas de voz interrompam a ligação de dados</string>
+    <string name="function_oncall_not_close_network">Não desligar para chamadas</string>
+    <string name="function_oncall_not_close_network_detail">"About this feature
+ %1$d. This feature allows you to stay online during gaming sessions without being interrupted by incoming calls when this device is connected to specific 5G networks.
+ %2$d. If neither of your SIM cards is connected to a 5G network, incoming calls will automatically rejected by your primary SIM.
+ %3$d. This feature is only supported in mainland China.
+ %4$d. This feature only works in 5G-SA networks."</string>
     <string name="game_ad_recommendation">Estão todos a jogar</string>
     <string name="gamebox_ai_subtitle">Legendas IA</string>
     <string name="gb_get_gift_right_now">Check in now</string>
@@ -5019,8 +5038,9 @@ mas aumenta o consumo de bateria e permite que o dispositivo possa superaquecer"
     <string name="pc_fast_charge_notifi_switch_summary">Notificar sobre o aumento de velocidade de carregamento quando o carregador %dW estiver ligado e a bateria estiver abaixo do nível definido</string>
     <string name="pc_fast_charge_notifi_switch_title">Notificações de aumento</string>
     <string name="pc_fast_charge_notifi_title">A carregar a %dW</string>
-    <string name="pc_fast_charge_notifi_title_on">Para o aumento de velocidade de carregamento</string>
-    <string name="pc_fast_charge_switch_summary">Ligar o aumento de velocidade de carregamento. A MIUI vai prioritizar a velocidade de carregamento com segurança. Quanto mais fraca estiver a bateria, mais rápido vai ser carregada. Esta funcionalidade pode aquecer o seu dispositivo</string>
+    <string name="pc_fast_charge_notifi_title_on">Parar o aumento da velocidade de carregamento</string>
+    <string name="pc_fast_charge_switch_summary">Ligar para aumentar a velocidade de carregamento. A MIUI vai prioritizar a velocidade de carregamento com segurança. Quanto mais fraca estiver a bateria, mais rápido vai ser carregada. Esta funcionalidade pode aquecer o seu dispositivo</string>
+    <string name="pc_fast_charge_switch_summary_new">Lembrar para aumentar a velocidade de carregamento quando o carregador estiver ligado e a bateria estiver abaixo do nível definido</string>
     <string name="pc_fast_charge_switch_title">Aumentar a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_toast_message">As alterações vão ser aplicadas da próxima vez que carregar o dispositivo</string>
     <string name="pc_fast_charge_title">Aumentar a velocidade de carregamento</string>

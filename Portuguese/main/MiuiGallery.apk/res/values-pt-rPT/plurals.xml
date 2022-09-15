@@ -534,6 +534,18 @@
         <item quantity="other">%1$s | %2$s itens</item>
         <item quantity="one">%1$s | %2$s item</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d meses</item>
+        <item quantity="one">%d mês</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d anos</item>
+        <item quantity="one">%d ano</item>
+    </plurals>
     <plurals name="today_of_year_location_num_unit">
         <item quantity="other"></item>
         <item quantity="one"></item>

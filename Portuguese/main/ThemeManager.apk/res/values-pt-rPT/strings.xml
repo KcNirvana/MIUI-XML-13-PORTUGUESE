@@ -53,6 +53,9 @@
     <string name="apply_success_not_enable_aod">Ligar primeiro o ecrã ambiente nas Definições</string>
     <string name="apply_success_not_support_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo. O resto dos componentes foram aplicados com sucesso</string>
     <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
+    <string name="apply_wallpaper_after_three_theme">Está a utilizar um tema de terceiros. Se apenas alterar o papel de parede do ecrã de bloqueio, pode fazer com que o estilo do relógio seja restaurado para o predefinido. Aplicar agora?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Está a utilizar um super papel de parede. Se seleccionar um novo papel de parede, vai ser aplicado no ecrã de bloqueio, ecrã inicial e o ecrã ambiente vai ser restaurado para o anterior. Aplicar agora?</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">Está a utilizar um super papel de parede. Se seleccionar um novo papel de parede, vai ser aplicado no ecrã de bloqueio e ecrã inicial. Aplicar agora?</string>
     <string name="apply_warning_tip_get_device_status">Permitir que a aplicação aceda ao seu ID de dispositivo primeiro em Perfil > Definições</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
@@ -771,7 +774,7 @@ Toque aqui para iniciar agora"</string>
     <string name="support_theme_store_des">Bons temas são sempre criados por designers com talento. A nossa aplicação contém anúncios para suportar o trabalho deles</string>
     <string name="support_theme_store_supported">Obrigado pelo seu suporte!</string>
     <string name="support_theme_store_title">Suporte os nossos designers</string>
-    <string name="swipe_find_more">Deslize para cima para ver mais</string>
+    <string name="swipe_find_more">Deslizar para a esquerda para ver mais</string>
     <string name="system_aod_dialog_message">Ligar ecrã ambiente primeiro</string>
     <string name="system_aod_dialog_positive_button">Definições</string>
     <string name="system_aod_dialog_title">Ecrã ambiente desligado</string>

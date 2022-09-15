@@ -4,4 +4,12 @@
         <item quantity="other">" passos"</item>
         <item quantity="one">" passo"</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Encontrados %d resultados</item>
+        <item quantity="one">Encontrado %d resultado</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d pessoas</item>
+        <item quantity="one">%d pessoa</item>
+    </plurals>
 </resources>

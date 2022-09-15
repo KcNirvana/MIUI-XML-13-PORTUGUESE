@@ -2973,7 +2973,7 @@ Se isto continuar a acontecer, pode ser necessário desinstalar a aplicação pa
     <string name="draw_overlay">Sobreposição de aplicações</string>
     <string name="dsda_close_toast">Modo dual activo desligado. Reiniciar para aplicar alterações</string>
     <string name="dsda_open_toast">Modo dual activo ligado. Reiniciar para aplicar alterações</string>
-    <string name="dsda_switch_summary">Permitir que ambos os SIMs utilizem os dados móveis e efectuem chamadas ao mesmo tempo</string>
+    <string name="dsda_switch_summary">Em ambientes de redes 5G, permitir que ambos os SIMs utilizem os dados móveis e efectuem chamadas ao mesmo tempo</string>
     <string name="dsda_switch_title">Modo dual activo</string>
     <string name="dsds_activation_failure_body_msg1">Remover SIM e inserir novamente. Se o problema continuar, reiniciar o dispositivo</string>
     <string name="dsds_activation_failure_body_msg2">Experimentar ligar o SIM novamente. Se o problema continuar, reiniciar o dispositivo</string>
@@ -9786,8 +9786,8 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
     <string name="wifi_display_status_in_use">Em utilização</string>
     <string name="wifi_display_status_not_available">Indisponível</string>
     <string name="wifi_display_wps_config">Configuração WPS</string>
-    <string name="wifi_dns1">DNS 1 (unless overridden by Private DNS)</string>
-    <string name="wifi_dns2">DNS 2 (unless overridden by Private DNS)</string>
+    <string name="wifi_dns1">DNS 1 (Se não for substítuido pelo DNS Privado)</string>
+    <string name="wifi_dns2">DNS 2 (Se não for substítuido pelo DNS Privado)</string>
     <string name="wifi_do_not_provide_eap_user_cert">Não fornecer</string>
     <string name="wifi_do_not_validate_eap_server">Não validar</string>
     <string name="wifi_do_not_validate_eap_server_warning">Sem certificado especificado. A sua ligação não vai ser privada</string>

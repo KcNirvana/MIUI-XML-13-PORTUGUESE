@@ -1547,6 +1547,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
     <string name="people_mark_mode_title_no_mark_name">Seleccione uma pessoa</string>
     <string name="people_page_label">Pessoas</string>
+    <string name="people_page_photo">Miniatura duma pessoa</string>
     <string name="people_page_unname">Sem nome</string>
     <string name="permissin_contract_desc">Para atribuir nomes de pessoas em fotos</string>
     <string name="permission_account_desc">Para iniciar sessão e gerir contas de sistema</string>

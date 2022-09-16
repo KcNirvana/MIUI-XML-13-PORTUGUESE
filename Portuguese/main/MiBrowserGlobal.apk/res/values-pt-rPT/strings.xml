@@ -105,6 +105,7 @@
     <string name="ad_mark">Anúncio</string>
     <string name="ad_permission_name">Bloquear anúncios</string>
     <string name="ad_sponsored">Patrocinado</string>
+    <string name="ad_swip_up_tips">Deslize para cima para fechar o anúncio</string>
     <string name="adblock_force_updating_rules_toast">A atualizar Bloqueador de anúncios</string>
     <string name="adblock_rules_not_updated_toast">Não foi possível atualizar</string>
     <string name="adblock_rules_restore">Desbloquear</string>
@@ -143,6 +144,7 @@
     <string name="allow_current">Permitir uma vez</string>
     <string name="already_add">%s adicionado ao seu Ecrã inicial</string>
     <string name="am">AM</string>
+    <string name="app_cache">Cache</string>
     <string name="app_library_category_entertainment">Entretenimento</string>
     <string name="app_library_category_games">Jogos</string>
     <string name="app_library_category_information">Multimédia</string>
@@ -234,7 +236,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="branch_give_relevant_permissions">Conceda ao Navegador Mi as permissões relevantes nas Definições</string>
     <string name="branch_grant_permission">Permissões necessárias</string>
     <string name="branch_local_search_settings">Definições de pesquisa local</string>
-    <string name="branch_search_guide_privacy">Ests funcionalidade é fornecida por Branch Metrics Inc. Nós partilharemos a sua localização, pesquisas e ID do Google Ads com ela. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> deles antes de continuar.</string>
+    <string name="branch_search_guide_privacy">Ests funcionalidade é fornecida por Branch Metrics Inc. Nós partilharemos a sua localização, pesquisas e ID do Google Ads com ela. Leia e aceite os <a href="http://url1"><font color="#B3000000">Termos e Condições</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Privacidade</font></a> deles antes de continuar.</string>
     <string name="branch_search_in_browser">Pesquisar \"%1$s\" no Navegador</string>
     <string name="branch_setting">Definições</string>
     <string name="branch_short_message">Mensagens</string>
@@ -301,6 +303,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="cleared_garbage">%d MB de lixo limpo</string>
     <string name="click_always">Toque em \"Sempre\"</string>
+    <string name="click_clean">Limpar</string>
     <string name="click_to_refresh">Parou aqui da última vez, toque para atualizar</string>
     <string name="clip_dialog_title">Abrir o endereço copiado?</string>
     <string name="clipboard_title_text">Texto copiado</string>
@@ -467,6 +470,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_game_banner">Confira os nossos jogos populares!</string>
     <string name="dialog_game_close">Cancelar</string>
     <string name="dialog_game_play">Jogar</string>
+    <string name="display__quick_entry_of_search">Mostrar atalhos de funcionalidades na Área de notificações</string>
     <string name="doc_viewer_label">Leitor (Navegador Mi)</string>
     <string name="doc_viewer_open_out_file_prompt">Para abrir e visualizar um ficheiro recebido de fontes externas, esta aplicação precisa criar uma cópia do ficheiro primeiro. Continuar?</string>
     <string name="document_download_background_btn">Transferir em segundo plano</string>
@@ -599,6 +603,7 @@ Envie este código para o supervisor."</string>
     <string name="empty_history_hint">Sem histórico</string>
     <string name="empty_snapshot_hint">Vazio</string>
     <string name="enable_geolocation_confirm_message">Desligar os serviços de localização vai afetar as recomendações que recebe.</string>
+    <string name="enable_notification_permission_in_settings">Permita as notificações nas Definições para poder utilizar esta funcionalidade.</string>
     <string name="encrypt_success">Ocultado com sucesso</string>
     <string name="encrypting">A encriptar…</string>
     <string name="enter_bookmark">Favoritos</string>
@@ -688,6 +693,9 @@ Envie este código para o supervisor."</string>
     <string name="fb_register_btn">Criar conta</string>
     <string name="fcm_fallback_notification_channel_label">Diversas</string>
     <string name="featured_this_week">Em destaque esta semana</string>
+    <string name="feedback_bad">Não</string>
+    <string name="feedback_general">Um pouco</string>
+    <string name="feedback_good">Sim</string>
     <string name="feedback_info_app_package_name">"Nome do pacote: "</string>
     <string name="feedback_info_app_version">"Versão da aplicação: "</string>
     <string name="feedback_info_language">"Idioma: "</string>
@@ -696,6 +704,8 @@ Envie este código para o supervisor."</string>
     <string name="feedback_info_system">"Sistema: "</string>
     <string name="feedback_info_system_version">"Versão do sistema: "</string>
     <string name="feedback_send_email_body_extra_info">Não elimine a informação a seguir. Ela nos ajuda a localizar o problema.</string>
+    <string name="feedback_thank_you">Obrigado por seus comentários!</string>
+    <string name="feedback_title">Este conteúdo lhe interessa?</string>
     <string name="fetch_video">A preparar o vídeo…</string>
     <string name="fetch_video_fail">Não foi possível obter os dados</string>
     <string name="fetch_video_ssl_bad_clock">Parece que a data e hora definida no seu dispositivo (%s) não estão corretos. Ajuste as definições e tente novamente.</string>
@@ -795,6 +805,9 @@ Envie este código para o supervisor."</string>
     <string name="game_center_recommend_title">Recomendado para si</string>
     <string name="game_play">Jogar</string>
     <string name="game_played">Recente</string>
+    <string name="garbage_cleaning">Limpeza</string>
+    <string name="garbage_details">Detalhes</string>
+    <string name="garbage_file">Lixo</string>
     <string name="gcm_fallback_notification_channel_label">Diversas</string>
     <string name="geolocation_permissions_prompt_dont_share">Rejeitar</string>
     <string name="geolocation_permissions_prompt_message">%s quer saber a sua localização</string>
@@ -846,12 +859,15 @@ Envie este código para o supervisor."</string>
     <string name="home_game_channel">Mostrar \"Jogos\" na barra de navegação</string>
     <string name="home_nf">Feed de conteúdo</string>
     <string name="home_nf_recommend_on">Recomendado para si</string>
+    <string name="home_page_simple">Simples</string>
+    <string name="homepage_default">Predefinido</string>
     <string name="homepage_delete_card_menu">Eliminar</string>
     <string name="homepage_get_location">Obter localização</string>
     <string name="homepage_get_location_failed">Não foi possível obter localização, escolha uma cidade</string>
     <string name="homepage_more_cards">Mais serviços</string>
     <string name="homepage_more_sites">Mais sítios</string>
     <string name="homepage_search_hint">Pesquisa</string>
+    <string name="homepage_setting">Definições da página inicial</string>
     <string name="homepage_top_card_menu">Topo</string>
     <string name="hot_games">Populares</string>
     <string name="i_know">Parar</string>
@@ -878,6 +894,7 @@ Envie este código para o supervisor."</string>
     <string name="input_new_pwd">Introduza a nova palavra-passe</string>
     <string name="ins_login_tips">Inicie a sessão para transferir vídeos do Instagram</string>
     <string name="ins_register_btn">Criar conta com um email ou número de telefone</string>
+    <string name="installation_package">APKs</string>
     <string name="intercept_panel_ads_img_category_text">Anúncios bloqueados</string>
     <string name="intercept_panel_download_img_category_text">Downloads protegidos</string>
     <string name="intercept_panel_empty_content">O histórico de comportamento do sítio aparecerá aqui</string>
@@ -900,6 +917,8 @@ Envie este código para o supervisor."</string>
     <string name="intercept_toast_message_camera">O sítio web está a utilizar a câmara…</string>
     <string name="intercept_toast_message_mic">O sítio web está a gravar áudio…</string>
     <string name="intercept_toast_message_voice">O sítio web está a reproduzir áudio…</string>
+    <string name="interest_advise_subtitle">Nós lhe mostraremos notícias sobre os tópicos que tem interesse</string>
+    <string name="interest_advise_title">Quais conteúdos lhe interessam?</string>
     <string name="interest_card_button">Continuar</string>
     <string name="interest_card_title">Selecione seus interesses</string>
     <string name="into_info_flow_guide">Ver mais artigos</string>
@@ -915,6 +934,7 @@ Envie este código para o supervisor."</string>
     <string name="js_dialog_permission_name">Mostrar diálogos em pop-up</string>
     <string name="js_disable_confirm_message">Desativar o JavaScript pode fazer com que alguns sítios sejam exibidos incorretamente.</string>
     <string name="js_disable_confirm_title">Desativar JavaScript?</string>
+    <string name="junk_files_found">Lixo encontrado</string>
     <string name="just_a_second">Um momento…</string>
     <string name="just_now">Agora mesmo</string>
     <string name="keep_intrercept">Parar</string>
@@ -960,6 +980,7 @@ Envie este código para o supervisor."</string>
     <string name="media_error_video_not_exist">O vídeo não existe</string>
     <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
     <string name="memory_clear_result">%1$s limpos</string>
+    <string name="memory_usage">Memória</string>
     <string name="menu_addtodesk">Adicionar ao Ecrã inicial</string>
     <string name="menu_exit_nightmode">Sair</string>
     <string name="menu_hv_swap">Ecrã V/H</string>
@@ -972,6 +993,7 @@ Envie este código para o supervisor."</string>
     <string name="menu_title_resume_all">Iniciar tudo</string>
     <string name="mi_browser">Navegador Mi</string>
     <string name="mi_browser_clean_up_garbage">O Navegador Mi está a limpar o lixo…</string>
+    <string name="mi_browser_is_scanning">O Navegador Mi está a verificar</string>
     <string name="midi_permission_name">Controlar dispositivos MIDI</string>
     <string name="midnight">Noite</string>
     <string name="mint_games">Jogos do momento</string>
@@ -1209,11 +1231,6 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Tente o seguinte:</string>
     <string name="mw_miuichromium_error_page_title">Ocorreu um erro</string>
     <string name="mw_miuichromium_error_page_unknown_error">Ops, algo correu mal</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Tentar utilizar o VPN</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Servidores ilimitados</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Sem rastreadores</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Sem limite de velocidade</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Tentar utilizar o VPN</string>
     <string name="mw_miuichromium_error_page_wlan">Ligar o Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Definir mês</string>
     <string name="mw_no_matches">Sem correspondências</string>
@@ -1231,7 +1248,6 @@ Sair desta página agora?"</string>
     <string name="mw_save_password_notnow">Agora não</string>
     <string name="mw_save_password_remember">Guardar</string>
     <string name="mw_speech_recognition_service_not_found">Não foi possível localizar o mecanismo de reconhecimento de voz do Google</string>
-    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
@@ -1322,6 +1338,7 @@ Sair desta página agora?"</string>
     <string name="noti_no_permission_record">Sem itens aqui.</string>
     <string name="noti_web_allow">Permitido</string>
     <string name="noti_web_push">Notificações do sítio</string>
+    <string name="notice_bar_shortcut_entry">Atalhos na Área de notificações</string>
     <string name="notif_install_successful">Transferência concluída</string>
     <string name="notification_category_browser">Navegador</string>
     <string name="notification_category_downloads">Transferências</string>
@@ -1485,6 +1502,12 @@ Sair desta página agora?"</string>
     <string name="permission_unknown">Ocorreu um erro.</string>
     <string name="permission_use">Permissões</string>
     <string name="permisssion_not_ask_again">Não perguntar novamente</string>
+    <string name="person_menu_cleaner">Limpeza</string>
+    <string name="person_menu_cleaner_button">Limpar</string>
+    <string name="person_menu_download">Ficheiros</string>
+    <string name="person_menu_game_history">Histórico de jogos</string>
+    <string name="person_menu_game_recommend">Jogos populares</string>
+    <string name="person_menu_video">Vídeos curtos</string>
     <string name="personalized_content_services">Serviços de conteúdo personalizado</string>
     <string name="personalized_services">Serviços personalizados</string>
     <string name="personalized_services_desc">Receber recomendações de anúncios e conteúdos personalizados</string>
@@ -1728,6 +1751,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="pwa_hint_added_success">Adicionado com sucesso</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
+    <string name="quick_search_and_access_to_functions">A Pesquisa rápida permite que aceda facilmente às funcionalidades que mais utiliza.</string>
     <string name="quicklink_bookmark_save">Guardar para</string>
     <string name="quicklink_cannot_save_url">Este URL não pode ser adicionado.</string>
     <string name="quicklink_folder_text">Aplicações de topo</string>
@@ -1744,6 +1768,19 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="quicklinks_most_visited">Adicionar à página inicial</string>
     <string name="quicklinks_most_visited_subtitle">Mostrar sítios mais visitados num novo separador</string>
     <string name="quicklinks_most_visited_title">Adicionar sítios visitados recentemente à página inicial</string>
+    <string name="reading__cancel">Cancelar</string>
+    <string name="reading__menu_open_with_another_app">Abrir com outra aplicação</string>
+    <string name="reading__menu_play">Apresentação</string>
+    <string name="reading__menu_rotate_screen">Rodar</string>
+    <string name="reading__menu_search">Pesquisar</string>
+    <string name="reading__menu_share">Partilhar</string>
+    <string name="reading__menu_thumbnail">Miniaturas de páginas</string>
+    <string name="reading__reading_first_page">Chegou à primeira página</string>
+    <string name="reading__reading_last_page">Chegou à última página</string>
+    <string name="reading__search_cancel">Cancelar</string>
+    <string name="reading__search_input_hint">Introduza palavras-chave para pesquisar</string>
+    <string name="reading__search_result_nothing">Sem resultados encontrados</string>
+    <string name="reading__search_searching">A procurar…</string>
     <string name="readmode_already_add_to_bookshelf">Adicionado à biblioteca</string>
     <string name="readmode_battery">Bateria </string>
     <string name="readmode_login">Iniciar a sessão</string>
@@ -1949,6 +1986,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="sign_in_to" formatted="false">Iniciar sessão em %s1 \"%s2\"</string>
     <string name="sign_message">http://%s precisa do seu nome de utilizador e palavra-passe.</string>
     <string name="sign_out">Terminar sessão</string>
+    <string name="simple_page_toast">Pode alternar para o predefinido em Definições > Definições da página inicial</string>
     <string name="skip">Saltar</string>
     <string name="skip_current_version">Saltar esta versão</string>
     <string name="sku_price_everymonth">%1$s mensal</string>
@@ -2122,6 +2160,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="undo">Anular</string>
     <string name="uni_search_setting_summary">Pesquisa na aplicação</string>
     <string name="uni_search_setting_title">Melhora os resultados de pesquisa</string>
+    <string name="unload_residue">Resíduos</string>
     <string name="unsecurity_url_toast">Este sítio não é seguro</string>
     <string name="up_to_loading_tips">Solte para atualizar</string>
     <string name="update">Atualizar</string>
@@ -2194,6 +2233,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_retry_btn">Tentar novamente</string>
     <string name="video_view_more">Mais</string>
     <string name="view_certificate">Ver certificado</string>
+    <string name="view_details">Ver detalhes</string>
     <string name="view_document_downloaded_files">Veja os ficheiros transferidos nas Transferências</string>
     <string name="voice_check_network">Verifique as suas definições de rede e tente novamente.</string>
     <string name="voice_connect_network">Não foi possível ligar à rede.</string>
@@ -2314,6 +2354,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Definições do sítio web</string>
     <string name="web_permission_setting_page_web_enhance_desc">Desligue para bloquear anúncios neste sítio web</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Bloquear anúncios</string>
+    <string name="web_tag_desc">Mostrar miniaturas de páginas visitadas anteriormente</string>
+    <string name="web_tag_tips">Toque aqui para revisitar uma página</string>
+    <string name="web_tag_title">Miniaturas de páginas web</string>
     <string name="web_video_accelerate">Velocidade</string>
     <string name="web_video_download">Transferir</string>
     <string name="web_video_download_no_access">Permissões necessárias para transferir itens</string>

@@ -164,6 +164,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protegido %s vezes</item>
+        <item quantity="one">Protegido %s vez</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d jogadores</item>
         <item quantity="one">%d jogador</item>
@@ -171,6 +175,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d anúncios bloqueados</item>
         <item quantity="one">%d anúncio bloqueado</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">%1$d resultados encontrados</item>
+        <item quantity="one">%1$d resultado encontrado</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s solicitações de pesquisa</item>

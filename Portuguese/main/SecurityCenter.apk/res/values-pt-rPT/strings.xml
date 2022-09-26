@@ -4954,10 +4954,10 @@ Tente aumentar a resolução!"</string>
     <string name="function_gwsd_title">Não permitir que as chamadas de voz interrompam a ligação de dados</string>
     <string name="function_oncall_not_close_network">Não desligar para chamadas</string>
     <string name="function_oncall_not_close_network_detail">"About this feature
- %1$d. This feature allows you to stay online during gaming sessions without being interrupted by incoming calls when this device is connected to specific 5G networks.
- %2$d. If neither of your SIM cards is connected to a 5G network, incoming calls will automatically rejected by your primary SIM.
- %3$d. This feature is only supported in mainland China.
- %4$d. This feature only works in 5G-SA networks."</string>
+%1$d. This feature allows you to stay online during gaming sessions without being interrupted by incoming calls when this device is connected to specific 5G networks.
+%2$d. If neither of your SIM cards is connected to a 5G network, incoming calls will be automatically rejected by your primary SIM.
+%3$d. This feature is only supported in mainland China.
+%4$d. This feature only works in 5G-SA networks."</string>
     <string name="game_ad_recommendation">Estão todos a jogar</string>
     <string name="gamebox_ai_subtitle">Legendas IA</string>
     <string name="gb_get_gift_right_now">Check in now</string>

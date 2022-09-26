@@ -267,12 +267,9 @@
     <string name="sound_id_function_description">Personalizar a curva EQ baseado nas suas preferências</string>
     <string name="sound_id_function_name">Som personalizado</string>
     <string name="sound_id_headset_status">Auriculares actuais</string>
-    <string name="sound_id_hz_high">"Agudos
-%dHz"</string>
-    <string name="sound_id_hz_low">"Baixos
-%dHz"</string>
-    <string name="sound_id_hz_media">"Médios
-%dHz"</string>
+    <string name="sound_id_hz_high">Agudos %dHz</string>
+    <string name="sound_id_hz_low">Baixos %dHz</string>
+    <string name="sound_id_hz_media">Médios %dHz</string>
     <string name="sound_id_music_one_description">Suave | %ds</string>
     <string name="sound_id_music_one_title">Cidade chuvosa</string>
     <string name="sound_id_music_three_description">Melódico | %ds</string>
@@ -305,7 +302,7 @@
     <string name="sound_id_test_pre_question">Voltar</string>
     <string name="sound_id_test_select_note">Reproduzir as duas demonstrações e seleccionar a que mais gosta</string>
     <string name="sound_id_wired_analog_headset">Auriculares com fios</string>
-    <string name="spatial_audio">Registar os movimentos da cabeça</string>
-    <string name="spatial_audio_summary">Ajustar o som imersivo baseado nos movimentos da cabeça</string>
+    <string name="spatial_audio">Som imersivo</string>
+    <string name="spatial_audio_summary">Experimentar imersão e sensação de espaço quando o áudio estiver a ser reproduzido através dos auriculares</string>
     <string name="speaker_scenario_resume">Restaurar os efeitos originais</string>
 </resources>

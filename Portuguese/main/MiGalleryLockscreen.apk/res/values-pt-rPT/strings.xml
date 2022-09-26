@@ -76,6 +76,10 @@
     <string name="apply_to_above_all">Definir ambos</string>
     <string name="apply_to_screenlock">Definir como ecrã de bloqueio</string>
     <string name="apply_to_wallpaper">Definir como ecrã inicial</string>
+    <string name="apply_warning_content">Está a utilizar um super papel de parede. Se alterar o papel de parede, vai ser aplicado ao ecrã inicial e de bloqueio. Aplicar agora?</string>
+    <string name="apply_warning_content_with_aod">Está a utilizar um super papel de parede. Se alterar o papel de parede, vai ser aplicado ao ecrã inicial e de bloqueio e o ecrã ambiente pode ser reposto para o predefinido. Aplicar agora?</string>
+    <string name="apply_warning_content_with_maml">Está a utilizar um tema de terceiros. Se alterar o papel de parede, o relógio do ecrã de bloqueio pode ser reposto para o predefinido. Aplicar agora?</string>
+    <string name="apply_warning_title">Aplicar papel de parede</string>
     <string name="article_item_hot">Verifique %s+ artigos populares</string>
     <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
     <string name="auth_fail_warning">Sessão expirada. Inicie sessão novamente</string>
@@ -204,6 +208,7 @@ Envie este código ao supervisor"</string>
     <string name="disable_dlg_title">Desligar papéis de parede aleatórios?</string>
     <string name="dislike">Eliminar</string>
     <string name="dlg_cancel">Cancelar</string>
+    <string name="dlg_ok">Aplicar</string>
     <string name="double_click_to_exit_activity">Toque novamente para sair</string>
     <string name="edit_wallpaper">Gerir papéis de parede</string>
     <string name="enable_toast_ar">Alterado para recomendações</string>

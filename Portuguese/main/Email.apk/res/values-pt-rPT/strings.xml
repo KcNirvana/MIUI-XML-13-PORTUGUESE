@@ -1255,7 +1255,7 @@ Aguarde até estar totalmente sincronizado"</string>
     <string name="show_images_all">Carregar e mostrar todas as imagens</string>
     <string name="show_password">Mostrar palavra-passe</string>
     <string name="show_server_cet">Ver certificado</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook empresarial (sem calendário)</string>
+    <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com calendário)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sem calendário)</string>
     <string name="sign_in_graph_error">Apenas pode iniciar sessão utilizando protocolos IMAP ou EXCHANGE quando a sua organização não alterou as configurações do servidor. Se o endereço do servidor é personalizado pela sua organização, inicie sessão utilizando o novo protocolo Microsoft</string>
@@ -1443,5 +1443,5 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
     <string name="restart_detail_conversation_options4">30 minutos</string>
     <string name="restart_detail_conversation_title">Reiniciar em segundo plano</string>
     <string name="shrink">Fechar</string>
-    <string name="sign_in_dialog_office365">Office 365</string>
+    <string name="sign_in_dialog_office365">Office 365 Personal Edition</string>
 </resources>

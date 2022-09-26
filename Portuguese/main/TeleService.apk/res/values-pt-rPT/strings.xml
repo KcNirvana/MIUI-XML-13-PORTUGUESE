@@ -199,6 +199,8 @@ Selecção"</string>
     <string name="bt_hci_snoop_log_summary">Capturar os pacotes Bluetooth (Ligue/desligue o Bluetooth após alterar esta definição)</string>
     <string name="bugreport_in_power">Atalho para relatório de erros</string>
     <string name="bugreport_in_power_summary">Mostrar um botão no menu Ligar/Desligar para criar um relatório de erros</string>
+    <string name="business_hall_settings_summary">Controlar as suas chamadas e utilização de dados</string>
+    <string name="business_hall_settings_title">Definições do plano</string>
     <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="callEnded_pulled">A chamada foi transferida para outro dispositivo</string>
     <string name="callFailed_NetworkBusy">A rede está ocupada. Tente efectuar novamente a chamada mais tarde</string>
@@ -489,6 +491,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
     <string name="dds_switch_warning_message_data_on">Não foi possível encontrar o SIM %1$s. O SIM %2$s está predefinido para dados móveis agora. Os dados móveis estão desligados</string>
     <string name="deactivate_all">Cancelar tudo</string>
     <string name="default_carrier_mmi_msg_title">Mensagem da operadora</string>
+    <string name="default_data_title">Dados</string>
     <string name="default_notification_description">Som predefinido (%1$s)</string>
     <string name="default_preference_summary">&lt;Não definido&gt;</string>
     <string name="delete">Eliminar</string>
@@ -1518,6 +1521,7 @@ Interface UT: %5$s"</string>
     <string name="sim_ndp_unlock_text">Desbloquear</string>
     <string name="sim_roaming_settings_summary">Ligar a redes de dados móveis em roaming</string>
     <string name="sim_roaming_settings_title">Roaming Mi</string>
+    <string name="sim_select_dialog_title">Seleccionar cartão SIM</string>
     <string name="sim_service_setting">SIM e Roaming Mi</string>
     <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
     <string name="sim_unlock_success">Cartão SIM desbloqueado</string>
@@ -1891,7 +1895,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="callFailed_bearer_service_not_implemented">Bearer service not implemented</string>
     <string name="callFailed_cdma_call_limit">There are too many active calls. Please end or merge existing calls before placing a new one.</string>
     <string name="callFailed_channel_unacceptable">Channel unacceptable</string>
-    <string name="callFailed_concurrent_calls_not_possible">Call ended due to concurrent calls not possible.</string>
+    <string name="callFailed_concurrent_calls_not_possible">"Ended call. Concurrent calls aren't supported."</string>
     <string name="callFailed_conditional_IE_error">Conditional IE error</string>
     <string name="callFailed_data_disabled">Call ended because cellular data was disabled.</string>
     <string name="callFailed_data_limit_reached">Data limit reached. Call ended.</string>
@@ -2005,6 +2009,8 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="default_preference_summary_domain_address">&lt;Not set></string>
     <string name="default_preference_summary_password">&lt;Not set></string>
     <string name="default_preference_summary_username">&lt;Not set></string>
+    <string name="default_sim_setting">Cartões SIM predefinidos</string>
+    <string name="default_voice_title">Chamadas</string>
     <string name="delete_blob_confirmation_text">Are you sure you want to delete this shared data?</string>
     <string name="delete_blob_text">Delete shared data</string>
     <string name="detect_fakecell">Recognize SMS from fake base stations</string>
@@ -2295,6 +2301,9 @@ You can still make emergency calls."</string>
     <string name="power_remaining_only_more_than_subtext">More than %1$s left</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">Battery may run out by %1$s</string>
+    <string name="pref_sim_entries_item1">SIM 1</string>
+    <string name="pref_sim_entries_item2">SIM 2</string>
+    <string name="pref_sim_item_no_default">Sem predefinidos</string>
     <string name="preference_check_privacy">Ver Política de Privacidade</string>
     <string name="preference_permission_related">Permissões</string>
     <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Tipo de rede preferida: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>

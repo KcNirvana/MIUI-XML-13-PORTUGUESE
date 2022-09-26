@@ -6,6 +6,7 @@
     <string name="icon_remove_description_content">"\"Serviços e comentários\" é uma aplicação de sistema. Ainda a vai poder utilizar nas Definições se remover o atalho do ecrã inicial</string>
     <string name="icon_remove_description_title">Remover \"Serviços e comentários\" do ecrã inicial?</string>
     <string name="mi_service_app_name">Serviços e comentários</string>
+    <string name="mi_service_back">Voltar</string>
     <string name="miservice_channel_boot_name">Início</string>
     <string name="miservice_channel_guide_name">Guia</string>
     <string name="miservice_channel_update_notification_info">\"Serviços e comentários\" está a requisitar dados online…</string>

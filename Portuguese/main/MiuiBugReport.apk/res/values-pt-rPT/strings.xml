@@ -46,6 +46,8 @@
     <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
     <string name="bind_sign_in_title">Adicionar Conta Xiaomi</string>
     <string name="btn_send">Enviar</string>
+    <string name="bugreport_dialog_informed_consent_content">Detectámos um erro na sua palavra-passe do ecrã de bloqueio. Pode submeter os registos do dispositivo e ajudar-nos a localizar e resolver o problema. O registo apenas vai ser utilizado para resolver o problema e eliminado quando o problema estiver resolvido</string>
+    <string name="bugreport_dialog_informed_consent_title">Consentimento informado</string>
     <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
     <string name="bugreport_dialog_submit_content">Está a guardar registos de software no seu dispositivo. Podem conter informações pessoais e dados de localização</string>
     <string name="bugreport_dump_complete_notification_summary">Toque para ver</string>

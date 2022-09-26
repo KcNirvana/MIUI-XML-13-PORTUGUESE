@@ -1732,6 +1732,8 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
     <string name="bt_lhdc_open_dialog_title">Ligar LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Propriedades</string>
+    <string name="bt_low_energy_audio_summary">Disfrute de áudio de alta qualidade e baixo consumo de energia com latência reduzida</string>
+    <string name="bt_low_energy_audio_title">Áudio LE Bluetooth</string>
     <string name="bt_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
     <string name="bt_rarely_used_device_title">Dispositivos raramente utilizados (%d)</string>
     <string name="bt_show_notification_summary">Mostrar uma notificação permanente na área de notificações</string>
@@ -5139,6 +5141,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_ancLow">Escritório</string>
     <string name="miheadset_ancMedium">Diariamente</string>
     <string name="miheadset_ancMild">Leve</string>
+    <string name="miheadset_ancMode">Modo de redução de ruído</string>
     <string name="miheadset_anc_indicate">Ligar e emparelhar auriculares</string>
     <string name="miheadset_audio_mode">Qualidade do áudio</string>
     <string name="miheadset_audio_mode_high">Alta</string>
@@ -5150,7 +5153,9 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver a utilizar auriculares</string>
     <string name="miheadset_auto_ack_mode_summary">Atender chamadas automaticamente</string>
     <string name="miheadset_auto_answer_call">Atender chamadas automaticamente</string>
+    <string name="miheadset_auto_download_summary">Transferir versões mais adequadas automaticamente</string>
     <string name="miheadset_auto_upgrade_reminder">Desligar actualizações automáticas e verificar novamente</string>
+    <string name="miheadset_automatic">Auto</string>
     <string name="miheadset_bluetooth_audio_title">Taxa de amostragem de áudio LC3plus Bluetooth</string>
     <string name="miheadset_bright">Brilhante</string>
     <string name="miheadset_call_assist">Mi IA</string>
@@ -5236,6 +5241,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_local_ota">Actualizar</string>
     <string name="miheadset_low_latency">Latência baixa</string>
     <string name="miheadset_manual">Acerca do dispositivo</string>
+    <string name="miheadset_manual_operation">Manual</string>
     <string name="miheadset_minus">Volume -</string>
     <string name="miheadset_moreSettingsInAi">Definições adicionais</string>
     <string name="miheadset_multi_connect_mode">Multiponto</string>
@@ -5377,6 +5383,8 @@ Continuar para aceder a definições adicionais"</string>
     <string name="miui_special_feature">Funcionalidades especiais</string>
     <string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões está escondida pelo menu flutuante. Mova o menu flutuante ou desligue esta funcionalidade</string>
     <string name="miui_touch_filtered_warning">Se uma aplicação estiver a bloquear a janela de permissões, arraste o item sobreposto para fora ou feche a aplicação</string>
+    <string name="miui_type_style_summary">Estilo de digitação aplicado com o leitor de ecrã ligado</string>
+    <string name="miui_type_style_title">Estilo de digitação</string>
     <string name="miui_updater">Actualizações</string>
     <string name="miui_userguide">Guia do utilizador</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
@@ -8081,7 +8089,7 @@ Remover consentimento de %s agora?"</string>
     <string name="sound_dashboard_summary">Volume, vibração, Não incomodar</string>
     <string name="sound_effects_enable_title">Sons de toque</string>
     <string name="sound_haptic_settings">Sons e toques</string>
-    <string name="sound_mode">Modo Silêncio</string>
+    <string name="sound_mode">Opções de som</string>
     <string name="sound_settings">Som</string>
     <string name="sound_settings_example_summary">Volume do toque e notificações a 80%</string>
     <string name="sound_settings_summary">Volume do toque e notificações a %1$s</string>
@@ -8469,6 +8477,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="stylus_language_summary">Reconhecer números e escrita à mão em Inglês e mais um idioma seleccionado</string>
     <string name="stylus_language_title">Idioma</string>
     <string name="stylus_not_connect_message">A stylus não está ligada</string>
+    <string name="stylus_not_connect_message_new">Ligar a stylus para emparelhar</string>
     <string name="stylus_ota_check_failed_battery">Não foi possível verificar. A stylus está com bateria fraca</string>
     <string name="stylus_ota_check_failed_info">Não foi possível verificar a versão de firmware. Anexe a stylus novamente</string>
     <string name="stylus_ota_check_update">Verificar actualizações</string>
@@ -9316,6 +9325,8 @@ Toque no botão (+) para adicionar palavras"</string>
     <string name="uwb_settings_summary">Helps identify the relative position of nearby devices that have UWB</string>
     <string name="uwb_settings_summary_airplane_mode">Turn off airplane mode to use UWB</string>
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
+    <string name="var_font_switch_dialog_summary">É necessário reiniciar o seu dispositivo para alterar esta definição</string>
+    <string name="var_font_switch_dialog_title">Reiniciar dispositivo?</string>
     <string name="var_font_switch_title">Fonte variável para todo o sistema</string>
     <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>
     <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
@@ -10734,6 +10745,7 @@ A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada à direita"
     <string name="miheadset_LEAudio_title">Ligar áudio LE?</string>
     <string name="miheadset_LE_on_toast">Certifique-se que ambos os auriculares estão carregados e tire-os da caixa antes de ligar esta funcionalidade</string>
     <string name="miheadset_anc_manual">Manual</string>
+    <string name="miheadset_atuo_download_title">Transferir automaticamente</string>
     <string name="miheadset_audio_sound_quality">Qualidade de áudio</string>
     <string name="miheadset_audio_sound_quality_summary">Seleccionar codec áudio Bluetooth</string>
     <string name="miheadset_codec_sample_rate">Taxa de áudio Bluetooth</string>

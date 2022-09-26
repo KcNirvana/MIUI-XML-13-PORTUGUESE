@@ -1316,6 +1316,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Rápido</item>
         <item>Muito rápido</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Standard</item>
+        <item>Toque</item>
+        <item>Toque directo</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de utilização</item>
         <item>Última utilização</item>

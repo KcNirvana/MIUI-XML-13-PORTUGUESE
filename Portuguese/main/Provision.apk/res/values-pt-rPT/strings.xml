@@ -254,7 +254,7 @@ Os componentes de %s e Conta Xiaomi vão ligar à Internet e adquirir a sua loca
     <string name="terms_of_use_label_package">, Instalador de pacotes</string>
     <string name="terms_of_use_label_phrase">, Frases frequentes</string>
     <string name="terms_of_use_label_systemhelper">, Serviços auto-registados</string>
-    <string name="terms_of_use_label_updater">, Actualizações</string>
+    <string name="terms_of_use_label_updater">Serviço de actualização do sistema</string>
     <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"

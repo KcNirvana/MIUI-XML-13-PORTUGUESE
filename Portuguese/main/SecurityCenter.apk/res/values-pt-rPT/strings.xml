@@ -479,6 +479,7 @@
 
  Não vai perder dados das aplicações"</string>
     <string name="app_manager_reset_app_preferences_title">Repor preferências da aplicação?</string>
+    <string name="app_manager_restricted_settings_title">Permitir definições restringidas</string>
     <string name="app_manager_search_prompt">Não encontrou resultados? Tente mostrar resultados de todas as aplicações</string>
     <string name="app_manager_show_all_apps">Mostrar todas as aplicações</string>
     <string name="app_manager_show_all_apps_opened">A mostrar resultados de todas as aplicações…</string>
@@ -1653,12 +1654,14 @@ volunteer"</string>
     <string name="gb_audition_instruction">Premir e segurar para gravar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilizar auriculares para um melhor efeito</string>
     <string name="gb_barrage_chat_desc">Acredite sempre que algo maravilhoso está para acontecer</string>
+    <string name="gb_barrage_chat_pre_desc">Pré-visualizar</string>
     <string name="gb_barrage_chat_text_color">Cor</string>
     <string name="gb_barrage_chat_text_size">Tamanho</string>
     <string name="gb_barrage_chat_text_size_big">Grande</string>
     <string name="gb_barrage_chat_text_size_small">Pequeno</string>
     <string name="gb_barrage_chat_text_speed">Velocidade</string>
     <string name="gb_barrage_chat_text_speed_faster">Rápido</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Médio</string>
     <string name="gb_barrage_chat_text_speed_slow">Lento</string>
     <string name="gb_beauty_cold_light">Frio</string>
     <string name="gb_beauty_face">Embelezar</string>
@@ -2892,6 +2895,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_dailog_night_charge_protection_summary">A bateria está totalmente carregada na maior parte do tempo, o que pode diminuir a sua vida útil. A MIUI ligou a optimização de carregamento para prevenir estes problemas</string>
     <string name="power_dialog_cancel">Cancelar</string>
     <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_performance_mode_checkbox">Alterar para 120Hz</string>
     <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
     <string name="power_dialog_super_save_msg_5g">A poupança de restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
     <string name="power_dialog_super_save_title">Poupança de bateria extrema</string>

@@ -3284,6 +3284,7 @@ Reinicie o dispositivo e tente novamente"</string>
     <string name="external_ram_dialog_icon_title">Extensão de memória ligada</string>
     <string name="external_ram_dialog_message">Reiniciar o dispositivo para aplicar as alterações</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_intro">Criar RAM adicional utilizando o armazenamento. Utilizar esta funcionalidade apenas se tiver espaço disponível no dispositivo</string>
     <string name="external_ram_remind_toast">Armazenamento quase vazio. A extensão de memória foi desligada</string>
     <string name="external_ram_summary">Adicionar %1$s %2$s de RAM utilizando o armazenamento. Apenas utilize esta funcionalidade quando existir espaço de armazenamento suficiente</string>
     <string name="external_ram_title">Extensão de memória</string>
@@ -4326,6 +4327,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="keywords_wifi_notify_open_networks">WiFi, Wi-Fi, telefonar, chamadas</string>
     <string name="keywords_write_settings">gravar modificar definições do sistema</string>
     <string name="keywords_zen_mode_settings">dnd, schedule, notifications, block, silence, vibrate, sleep, work, focus, sound, mute, day, weekday, weekend, weeknight, event</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">Não é possível definir ou alterar a palavra-passe no Espaço crianças</string>
     <string name="kid_space_settings">Espaço crianças</string>
     <string name="knock_edge_area_invalid">Este gesto não funciona perto dos limites do ecrã</string>
     <string name="knock_guide_dialog_title">Seleccionar uma acção para este gesto. Pode alterar mais tarde em Definições > Definições adicionais > Atalhos de botões</string>
@@ -4453,6 +4455,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="link_turbo_usage_state_today_total">Hoje</string>
     <string name="list_bg_header_text">Se restringir a ligação em segundo plano, as novas aplicações não vão conseguir ligar à Internet em segundo plano</string>
     <string name="list_empty_text">Vazio</string>
+    <string name="lite_font_weight_title">Tamanho do tipo de letra</string>
     <string name="live_caption_summary">Multimédia com legendas automáticas</string>
     <string name="live_caption_title">Legendas instantâneas</string>
     <string name="load_networks_progress">A pesquisar…</string>
@@ -5468,6 +5471,7 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
     <string name="more_account_settings_title">Outras contas</string>
     <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
     <string name="more_dark_mode_settings">Mais opções do Modo Escuro</string>
+    <string name="more_font_pref_title">Mais tipos de letra</string>
     <string name="more_installed_services_title">Mais serviços transferidos</string>
     <string name="more_settings_button">Mais definições</string>
     <string name="morning">Manhã</string>

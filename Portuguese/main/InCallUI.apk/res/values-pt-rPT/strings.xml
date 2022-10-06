@@ -75,6 +75,10 @@
     <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
     <string name="caller_info_name_delimiter">" ou "</string>
     <string name="caller_manage_header">Chamada de conferência %s</string>
+    <string name="camera_on">A outra pessoa quer ligar a sua câmara</string>
+    <string name="camera_on_agree">Permitir</string>
+    <string name="camera_on_refuse">Não permitir</string>
+    <string name="camera_on_title">Câmara</string>
     <string name="can_not_use">Não é possível utilizar</string>
     <string name="cancel">Cancelar</string>
     <string name="card_title_answering">A atender chamada</string>
@@ -197,6 +201,10 @@
     <string name="onscreen_change_to_video">Videochamada</string>
     <string name="onscreen_change_to_voice">Chamada de voz</string>
     <string name="onscreen_close_preview_camera">Fechar</string>
+    <string name="onscreen_collapsed">Fechar</string>
+    <string name="onscreen_collapsed_dialpad">Mostrar teclado</string>
+    <string name="onscreen_expand">Mais</string>
+    <string name="onscreen_expand_dialpad">Ocultar teclado</string>
     <string name="onscreen_hold_text">Reter</string>
     <string name="onscreen_merge_calls_text">Juntar chamadas</string>
     <string name="onscreen_message_text">Mensagens</string>
@@ -230,6 +238,11 @@ Tocar em \"%1$s\" e depois seleccionar \"%2$s\""</string>
     <string name="saf_permission_recorder_unlock_screen_message">Para poder guardar gravações, desbloqueie o seu dispositivo primeiro. Desbloquear agora?</string>
     <string name="saf_permission_refused">Não é possível gravar chamadas devido a permissões em falta</string>
     <string name="saf_permission_title">Permissões necessárias</string>
+    <string name="screen_share">Assistência remota</string>
+    <string name="screen_share_agree">Permitir</string>
+    <string name="screen_share_connecting">A ligar…</string>
+    <string name="screen_share_message">Permitir que a outra pessoa veja o seu ecrã em tempo real?</string>
+    <string name="screen_share_refuse">Cancelar</string>
     <string name="select_audio_dialog_title">Seleccionar modo de atendimento</string>
     <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Apenas pode utilizar SIM %1$d Sub %2$d</string>

@@ -84,6 +84,7 @@ adicionados à lista de bloqueio"</string>
     <string name="bookmark_empty">Sem favoritos</string>
     <string name="bookmark_list_title">Favoritos</string>
     <string name="button_close">Fechar</string>
+    <string name="button_copy">Copiar</string>
     <string name="button_emoji_creature">Emojis de animais</string>
     <string name="button_emoji_lifestyle">Emojis de estilo de vida</string>
     <string name="button_emoji_smiley">Emojis de rostos</string>
@@ -658,6 +659,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
     <string name="pref_summary_switch_aim_card">Mostrar mensagens com vídeos, imagens e outros formatos como cartões</string>
     <string name="pref_summary_voice_report">Ligar para ler as mensagens em voz alta assim que as receber. Prima o botão Volume- ou Ligar/Desligar para parar a reprodução</string>
+    <string name="pref_summary_voice_report_disable">Instalar Mi IA Motor de Voz para poder utilizar esta funcionalidade</string>
     <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
     <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
     <string name="pref_system_title">Sistema</string>

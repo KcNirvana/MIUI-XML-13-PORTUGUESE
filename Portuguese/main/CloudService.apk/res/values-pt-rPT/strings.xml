@@ -543,6 +543,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
     <string name="permission_status_allow">Concedida</string>
     <string name="permission_status_deny">Não concedida</string>
     <string name="permission_status_loading">A aceder ao estado do dispositivo…</string>
+    <string name="phone_guarantee_service_description" formatted="false">A protecção contra ecrã danificado e acidentes pode ser adquirida até %d dias da activação. A garantia extendida pode ser adquirida até %d dias da activação</string>
+    <string name="phone_guarantee_service_name">Garantia do dispositivo</string>
     <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone "</string>
     <string name="picker_list_empty">Sem contactos</string>
     <string name="picker_search_empty">Sem contactos</string>
@@ -824,7 +826,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="web_sso_login_message">A iniciar sessão…</string>
     <string name="webview_reload">Tentar novamente</string>
     <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
-    <string name="wipe_data_dialog_msg">Alguns itens %s não foram sincronizados</string>
+    <string name="wipe_data_dialog_msg">Alguns itens (%s) não foram sincronizados</string>
     <string name="wipe_data_dialog_msg_and_on">" e outros itens"</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Itens não sincronizados</string>

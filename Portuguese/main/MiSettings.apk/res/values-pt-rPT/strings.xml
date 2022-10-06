@@ -98,6 +98,7 @@
     <string name="class_bird">Pássaros</string>
     <string name="class_breast_feeding">Mamíferos</string>
     <string name="click_to_save">Toque \"Concluído\" para definir um toque geral</string>
+    <string name="closed_high_refresh_options">Aplicações a não utilizar a taxa de actualização alta</string>
     <string name="color_gamut">Gama de cores</string>
     <string name="common_brushtail">Cusu comum</string>
     <string name="common_ostrich">Avestruz</string>
@@ -115,6 +116,8 @@
     <string name="created_successfully">Criado com sucesso</string>
     <string name="crowned_hornbill">Calau coroado</string>
     <string name="cu_confirm">Definir</string>
+    <string name="customize_high_refresh_summary">Esta funcionalidade suporta uma taxa de actualização até %dHz. A taxa de actualização adequada pode ser seleccionada automaticamente baseado nas preferências do dispositivo</string>
+    <string name="customize_high_refresh_title">Aplicações a utilizar a taxa de actualização alta</string>
     <string name="customize_radio_btn_summary">Preferir a taxa de actualização seleccionada</string>
     <string name="customize_radio_btn_title">Personalizar</string>
     <string name="dall_sheep">Carneiro de Dall</string>
@@ -172,6 +175,7 @@ não são geradas no Segundo espaço"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
     <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
     <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
+    <string name="follow_apps_settings">Baseado nas definições da aplicação</string>
     <string name="follow_sim1">Aplicar definições do SIM 1</string>
     <string name="force_rest">Utilizar pausas de sessão</string>
     <string name="force_rest_summary">Tirar pausas obrigatórias quando a sessão atingir o limite definido</string>
@@ -222,6 +226,7 @@ não são geradas no Segundo espaço"</string>
     <string name="helmeted_guineafowl">"Galinha d'Angola"</string>
     <string name="high_fps_description">Taxa de actualização do ecrã alta. Maior consumo de bateria</string>
     <string name="high_fps_tip_footer">Utilizar taxas de actualização altas torna a experiência de visualização mais suave mas consome mais bateria</string>
+    <string name="high_refresh_options_title">Aplicações suportadas</string>
     <string name="hippopotamus">Hipopótamo</string>
     <string name="holiday_limit">Dias de folga</string>
     <string name="hsv_space_color">Espaço de cores HSV</string>
@@ -311,6 +316,7 @@ não são geradas no Segundo espaço"</string>
     <string name="nature_mix_summary">Criar uma mistura personalizada</string>
     <string name="nazca_booby">Atobá de nazca</string>
     <string name="network_error">Ocorreu um erro de rede. Tente novamente</string>
+    <string name="new_customize_high_refresh_title">Taxa de actualização alta</string>
     <string name="next_day">"(próximo dia) "</string>
     <string name="nine_banded_armadillo">Tatu</string>
     <string name="no_matching">Não foi possível encontrar uma aplicação para abrir este link</string>
@@ -324,6 +330,7 @@ não são geradas no Segundo espaço"</string>
     <string name="notification_sound">Sons de notificações</string>
     <string name="ocelot">Ocelote</string>
     <string name="olive_baboon">Babuíno anúbis</string>
+    <string name="opened_high_refresh_options">Aplicações a utilizar taxa alta de actualização</string>
     <string name="orange_winged_amazon">Papagaio do mangue</string>
     <string name="orca">Orca</string>
     <string name="ostrich_info">As avestruzes são grandes aves africanas que não voam e que pôem os maiores ovos de qualquer animal terrestre vivo</string>
@@ -384,6 +391,7 @@ não são geradas no Segundo espaço"</string>
     <string name="sea_otter">Lontra marinha</string>
     <string name="seal_info">Os pinípedes são mamíferos marinhos que se podem mover rapidamente em águas profundas, alimentando-se de peixes e camarões</string>
     <string name="search_app_name">Pesquisar aplicações</string>
+    <string name="search_app_tips">Pesquisar aplicações</string>
     <string name="search_empty">Sem aplicações</string>
     <string name="search_menu_title">Pesquisa</string>
     <string name="service_ringtone_title">Toque de serviço</string>

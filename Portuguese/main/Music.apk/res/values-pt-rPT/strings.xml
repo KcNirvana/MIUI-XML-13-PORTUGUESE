@@ -106,6 +106,8 @@
     <string name="anchor_unspport_match">This feature is temporarily unavailable!</string>
     <string name="app_description_content">Música é uma aplicação de sistema que contém um leitor de áudio e permite a gestão de ficheiros áudio. Ainda vai poder reproduzir ficheiros áudio após remover do ecrã inicial</string>
     <string name="app_description_title">Remover \"Música\" do ecrã inicial?</string>
+    <string name="app_disable_description_content">Música é uma aplicação de sistema. Se a desactivar, pode afectar a utilização de outras aplicações. Desactivar mesmo assim?</string>
+    <string name="app_disable_description_title">Desactivar aplicação de sistema?</string>
     <string name="app_label">Transferências</string>
     <string name="app_permission_confirm">Percebi</string>
     <string name="app_permission_optional">Permissões opcionais</string>
@@ -1217,6 +1219,14 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
     <string name="toast_normal_songs_for_stream">Qualidade de streaming definida para normal</string>
     <string name="toast_uhd_songs_for_download">Qualidade da transferência definida para alta</string>
     <string name="toast_uhd_songs_for_stream">Qualidade da transmissão definida para alta</string>
+    <string name="ucrop_crop">Cortar</string>
+    <string name="ucrop_error_input_data_is_absent">Ambos os Uri devem ser especificados</string>
+    <string name="ucrop_label_edit_photo">Editar foto</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Cortar</string>
+    <string name="ucrop_mutate_exception_hint">Substituir o recurso de cor (ucrop_color_toolbar_widget) na sua aplicação para funcionar em dispositivos pré-L</string>
+    <string name="ucrop_rotate">Rodar</string>
+    <string name="ucrop_scale">Escalar</string>
     <string name="ultra_high_quality">Elevada</string>
     <string name="unknown_album_name">Álbum desconhecido</string>
     <string name="unknown_artist_name">Artista desconhecido</string>

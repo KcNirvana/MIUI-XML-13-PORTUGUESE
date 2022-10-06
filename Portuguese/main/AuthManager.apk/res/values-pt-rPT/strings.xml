@@ -133,6 +133,7 @@
     <string name="blur_location_is_on_tip">%1$s utiliza a sua localização aproximada. Manter localização aproximada ligada?</string>
     <string name="blur_location_now_tip">Localização aproximada ligada</string>
     <string name="blur_location_title">Localização aproximada</string>
+    <string name="carwith_grant_permission_tips_when_lock">Desbloquear o seu dispositivo primeiro</string>
     <string name="cetus_invisible_mode_notice_audio">Está anónimo. Não pode utilizar o microfone</string>
     <string name="cetus_invisible_mode_notice_camera">Está anónimo. Não pode utilizar a câmara</string>
     <string name="cetus_invisible_mode_notice_location">Está anónimo. Não pode utilizar a localização</string>
@@ -201,6 +202,7 @@
     <string name="permdesc_read_call_log">Permitir que %1$s aceda ao registo de chamadas?</string>
     <string name="permdesc_read_contacts">Permitir que %1$s aceda aos contactos?</string>
     <string name="permdesc_read_mms">Permitir que %1$s leia mensagens multimédia?</string>
+    <string name="permdesc_read_phone_numbers">Permitir que %1$s leia os números de telefone neste dispositivo?</string>
     <string name="permdesc_read_phone_state">Permitir que %1$s aceda ao estado do dispositivo e informações de rede móvel?</string>
     <string name="permdesc_read_sms">Permitir que %1$s leia mensagens de texto e multimédia?</string>
     <string name="permdesc_read_storage">Permitir que %1$s aceda a ficheiros e fotos neste dispositivo?</string>

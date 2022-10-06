@@ -741,6 +741,9 @@
     <string name="pa_accessibility_picker_home_search">Search for widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Selected %1$s, row %2$d, number %3$d. Double tap to start.</string>
     <string name="pa_accessibility_picker_home_title">Add widget</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Double tap the button below it to replace with another widget.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, Size: %2$s, Installation status: %3$s, Row %4$d, Number %5$d, tap twice for details, tap twice and hold to move.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, row %2$d, number %3$d. Double tap to view details. Press and hold to drag the item.</string>
     <string name="pa_pad_privacy_text">Home screen widgets</string>
     <string name="pa_pad_setting_privacy_logout_summary">Cancel Home screen widgets services</string>
@@ -1031,6 +1034,9 @@ Stay tuned!"</string>
     <string name="pa_edit_text_max_length">This text is too long</string>
     <string name="pa_edit_text_size">Text size</string>
     <string name="pa_filter_replace_bt">Aplicar</string>
+    <string name="pa_filter_accessibility_filter_item">Seleccionado %s. Duplo toque para filtrar outras selecções</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Duplo toque para seleccionar %s</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Duplo toque para seleccionar</string>
     <string name="pa_filter_search_title">Resultados de \"%s\"</string>
     <string name="pa_filter_title">Mais widgets</string>
     <string name="pa_finish">Concluído</string>
@@ -1140,6 +1146,7 @@ to show widgets."</string>
     <string name="pa_picker_request">Definições</string>
     <string name="pa_picker_retry">Tentar novamente</string>
     <string name="pa_picker_search">Pesquisar</string>
+    <string name="pa_picker_search_card_filter_button_text">Todos os widgets</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtros</string>
     <string name="pa_picker_search_card_more_all_applications">Mais aplicações</string>
     <string name="pa_picker_search_card_more_all_suits">Mais conjuntos de widgets</string>
@@ -1189,6 +1196,7 @@ to show widgets."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">Não vai poder utilizar o widget \"Sugestões de aplicações\" após desligar esta funcionalidade. Desligar mesmo assim?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenção</string>
     <string name="pa_setting_bugreport">Comentários</string>
+    <string name="pa_setting_perm_empty">Vazio</string>
     <string name="pa_setting_privacy_auth">Allow analyzing app usage</string>
     <string name="pa_setting_privacy_auth_summary">"You'll receive suggestions based on your usage habits"</string>
     <string name="pa_setting_privacy_category_perm">Permissões</string>
@@ -1361,4 +1369,8 @@ to show widgets."</string>
     <string name="pa_widget_need_download_permission">Permissões</string>
     <string name="pa_widget_need_download_privacy">Privacidade</string>
     <string name="pa_widget_need_download_version">Versão %1$s</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Widget %1$s de %2$d</string>
+    <string name="pa_accessibility_picker_search_clear">Clear text</string>
+    <string name="pa_lite_setting_service_shopping">Shopping</string>
+    <string name="pa_lite_setting_service_shopping_summary">Get discounts and shopping offers</string>
 </resources>

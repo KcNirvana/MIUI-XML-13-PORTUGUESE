@@ -1100,8 +1100,6 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_wrong_number_hint">Enter a valid phone number</string>
     <string name="bh_yuan">CNY</string>
     <string name="btn_call_fuhao_txt">Sub</string>
-    <string name="call_feature_volte">VoLTE</string>
-    <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_record_add_numbers">Add phone numbers</string>
     <string name="call_record_auto_always">All calls</string>
     <string name="call_record_auto_scenario_title">Recorded calls</string>

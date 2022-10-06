@@ -743,7 +743,6 @@
     <string name="pa_accessibility_picker_home_title">Add widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Double tap the button below it to replace with another widget.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, Size: %2$s, Installation status: %3$s, Row %4$d, Number %5$d, tap twice for details, tap twice and hold to move.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, row %2$d, number %3$d. Double tap to view details. Press and hold to drag the item.</string>
     <string name="pa_pad_privacy_text">Home screen widgets</string>
     <string name="pa_pad_setting_privacy_logout_summary">Cancel Home screen widgets services</string>

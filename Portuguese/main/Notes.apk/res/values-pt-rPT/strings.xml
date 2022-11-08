@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
+    <string name="access_photos_and_videos">Aceder a fotos e vídeos</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar mais</string>
     <string name="action_folder_description">Ver pastas</string>
@@ -409,6 +410,8 @@
     <string name="permission_microphone_desc">Fazer notas de voz</string>
     <string name="permission_network_for_cloud_desc">Para sincronizar notas com a Xiaomi Cloud, necessita de ligar à Internet. Os dados móveis podem ser utilizados para sincronizar itens. Ligar agora?</string>
     <string name="permission_phone_state_desc">Parar de gravar notas de voz durante chamadas</string>
+    <string name="permission_photos_desc">Para adicionar imagens às notas</string>
+    <string name="permission_photos_desc_pad">Para adicionar imagens às notas</string>
     <string name="permission_read_contact_desc">A associar as notas criadas durante as chamadas com contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imagens</string>
     <string name="permission_storage_desc_new_v12">Para adicionar imagens a notas e guardar notas como imagens</string>
@@ -503,6 +506,8 @@
     <string name="search_path_notes">Aplicações de sistema/Notas</string>
     <string name="search_setting_description">Texto nas suas notas</string>
     <string name="search_title_notes">Notas</string>
+    <string name="send">Enviar</string>
+    <string name="send_notifications_for_reminder">Para enviar lembretes</string>
     <string name="select_account_prompt">Sincronizar notas</string>
     <string name="select_up_limit_toast">Seleccionar até %d itens</string>
     <string name="set_alarm_description">Definir alarme</string>
@@ -591,6 +596,7 @@ Dê permissão a Notas para ler os seus contactos e encontrar contas no seu disp
 Dê permissão a Notas para ler o conteúdo do seu cartão SD"</string>
     <string name="toast_refuse_to_use_phone_state">"A permissões de telefone estão restringidas.
 Dê permissão a Notas para ler a identidade e estado do telefone"</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permitir que esta aplicação aceda às suas fotos para poder adicionar imagens às notas</string>
     <string name="toast_refuse_to_use_record_audio">"A permissões de microfone estão restringidas.
 Dê permissão a Notas para gravar áudio"</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permitir que Notas aceda ao armazenamento para poder adicionar imagens às suas notas</string>

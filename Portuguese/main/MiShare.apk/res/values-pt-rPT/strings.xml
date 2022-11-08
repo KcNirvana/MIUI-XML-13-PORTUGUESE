@@ -97,14 +97,14 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="send_files_to">Enviar itens para</string>
     <string name="send_files_to_remote_success">Itens enviados para %1$s com sucesso</string>
     <string name="sender_error">Não foi possível enviar. Aguarde um momento e tente novamente</string>
-    <string name="somepc_send_much_file_to_you_files">%1$s está a enviar mais de 200 ficheiros para si…</string>
-    <string name="somepc_send_muchfile_files">%1$s está a enviar mais de 200 ficheiros para si…</string>
+    <string name="somepc_send_much_file_to_you_files">%1$s está a enviar mais de %2$d ficheiros para si…</string>
+    <string name="somepc_send_muchfile_files">%1$s está a enviar mais de %2$d ficheiros para si…</string>
     <string name="start_advertise">Iniciar anúncios</string>
-    <string name="start_receive_much_files_from_pc">A receber mais de 200 ficheiros de %1$s…</string>
+    <string name="start_receive_much_files_from_pc">A receber mais de %2$d ficheiros de %1$s…</string>
     <string name="start_scan">Iniciar procura</string>
     <string name="stop_advertise">Parar anúncios</string>
     <string name="stop_scan">Parar procura</string>
-    <string name="success_receive_much_file_from_pc">Recebidos mais de 200 ficheiros de %1$s. Toque para ver</string>
+    <string name="success_receive_much_file_from_pc">Recebidos mais de %2$d ficheiros de %1$s. Toque para ver</string>
     <string name="support_device_type">Dispositivos suportados</string>
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Transmitir</string>
@@ -165,7 +165,7 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="expand_button_title">Avançado</string>
     <string name="fail_in_send">Não foi possível enviar</string>
     <string name="file_receive_progress_title">Progresso</string>
-    <string name="file_received_successfully_from_pc">Recebeu mais de 200 ficheiros de %1$s com sucesso</string>
+    <string name="file_received_successfully_from_pc">Recebeu mais de %2$d ficheiros de %1$s com sucesso</string>
     <string name="file_transfer_progress_title">Progresso</string>
     <string name="global_pc">O meu portátil</string>
     <string name="global_phone">O meu telefone</string>

@@ -8,6 +8,10 @@
         <item quantity="other">%1$d dias atrás</item>
         <item quantity="one">%1$d dias atrás</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Eliminar %1$d ficheiros de todos os dispositivos e Xiaomi Cloud? Os ficheiros Mi Drive podem ser restaurados dos itens eliminados recentemente</item>
+        <item quantity="one">Eliminar %1$d ficheiro de todos os dispositivos e Xiaomi Cloud? Os ficheiros Mi Drive podem ser restaurados dos itens eliminados recentemente</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Eliminar %1$d ficheiros?</item>
         <item quantity="one">Eliminar %1$d ficheiro?</item>
@@ -64,6 +68,14 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Não foi possível sincronizar %1$s ficheiros</item>
+        <item quantity="one">Não foi possível sincronizar %1$s ficheiro</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"%1$s ficheiros sincronizados | "</item>
+        <item quantity="one">"%1$s ficheiro sincronizado | "</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d seleccionados</item>

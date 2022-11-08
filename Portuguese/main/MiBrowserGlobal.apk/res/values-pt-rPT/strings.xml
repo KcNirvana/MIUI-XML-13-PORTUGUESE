@@ -426,7 +426,7 @@ Desligue o seletor para parar a sincronização."</string>
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telemóvel</string>
     <string name="custom">Introduzir URL</string>
-    <string name="custom_head_card_text">Acredita sempre que algo maravilhoso está prestes a acontecer</string>
+    <string name="custom_head_card_text">Acredita sempre que algo incrível está prestes a acontecer</string>
     <string name="custom_head_card_text_incognito">"Está em Anónimo!
 As páginas que visitar não vão aparecer no histórico de navegação."</string>
     <string name="custom_page_guide_content">Favoritos, definições e ferramentas estão aqui!</string>
@@ -724,6 +724,7 @@ Envie este código para o supervisor."</string>
     <string name="file_picker">Selecionar caminho</string>
     <string name="filename_empty_alert_message">Introduzir nome do ficheiro</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do ficheiro</string>
+    <string name="files_stored_in_the_phone">Ficheiros armazenados neste dispositivo</string>
     <string name="find_garbage">Encontrados %d MB de lixo</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="find_on_page_cancel">Cancelar</string>
@@ -952,6 +953,8 @@ Envie este código para o supervisor."</string>
     <string name="loading_tips">Puxar para atualizar</string>
     <string name="local_apps">Aplicações locais</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Ficheiros locais</string>
+    <string name="local_video_player_label">Reprodutor de vídeos (Navegador Mi)</string>
     <string name="location_permission_name">Aceder à localização</string>
     <string name="lockpattern_continue_button_text">Seguinte</string>
     <string name="lockpattern_need_to_confirm">Confirme o padrão de desbloqueio</string>
@@ -1080,6 +1083,7 @@ Envie este código para o supervisor."</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
+    <string name="more_convenient_features_and_content">Veja quais novas ferramentas e conteúdo o Navegador tem a oferecer!</string>
     <string name="more_description">Menu</string>
     <string name="more_info">Saiba mais</string>
     <string name="more_option">Mais opções</string>
@@ -1751,6 +1755,7 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="pwa_hint_added_success">Adicionado com sucesso</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
+    <string name="quick_access_to_common_functions">Aceda rapidamente às suas funcionalidades</string>
     <string name="quick_search_and_access_to_functions">A Pesquisa rápida permite que aceda facilmente às funcionalidades que mais utiliza.</string>
     <string name="quicklink_bookmark_save">Guardar para</string>
     <string name="quicklink_cannot_save_url">Este URL não pode ser adicionado.</string>
@@ -1893,6 +1898,9 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="search_bar_hint_content">Pesquisar aplicações e conteúdo</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_online_rec_app">Lojas de aplicações</string>
+    <string name="search_card_online_rec_app_install">Instalar</string>
+    <string name="search_card_online_rec_app_open">Abrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">Sem resultados</string>
@@ -1967,6 +1975,8 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="setting_searchable_content">Itens pesquisáveis</string>
     <string name="setting_sms_content">Conteúdos de SMS</string>
     <string name="setting_swipe_up">Deslizar para cima no Ecrã inicial</string>
+    <string name="settings_search_online_apps">Lojas de aplicações</string>
+    <string name="settings_search_online_apps_desc">Conteúdo de lojas de aplicações</string>
     <string name="share_image_text">Vê o que eu partilhei! @MIUI</string>
     <string name="share_page_text">Vê o que eu partilhei: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Vê o que partilhei: %1$s</string>
@@ -2358,9 +2368,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_tips">Toque aqui para revisitar uma página</string>
     <string name="web_tag_title">Miniaturas de páginas web</string>
     <string name="web_video_accelerate">Velocidade</string>
+    <string name="web_video_default_time">%1$s:%2$s</string>
     <string name="web_video_download">Transferir</string>
     <string name="web_video_download_no_access">Permissões necessárias para transferir itens</string>
     <string name="web_video_enable_long_click_toast">A reproduzir em velocidade %dX</string>
+    <string name="web_video_float_drag_msg">Arraste para ajustar o tamanho</string>
     <string name="web_video_list_more">Mais</string>
     <string name="web_video_list_playing">A reproduzir</string>
     <string name="web_video_list_replay">Repetir</string>

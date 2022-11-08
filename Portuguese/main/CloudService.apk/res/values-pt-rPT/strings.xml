@@ -757,7 +757,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="storage_manage_title">Alterar o plano da Xiaomi Cloud</string>
     <string name="storage_manage_upgrade">Actualizar</string>
     <string name="storage_upgrade_card_summary">Obter mais espaço da Xiaomi Cloud</string>
-    <string name="storage_upgrade_card_title">Actualizar o seu plano</string>
+    <string name="storage_upgrade_card_title">Actualizar</string>
     <string name="sub_alert_notif_content">Ligar sincronização com a Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">Sincronizar com a Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens com fotos, áudio ou outro tipo de multimédia quando estiver ligado a uma rede Wi-Fi</string>

@@ -743,7 +743,7 @@
     <string name="pa_accessibility_picker_home_title">Add widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Double tap the button below it to replace with another widget.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, row %2$d, number %3$d. Double tap to view details. Press and hold to drag the item.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Selected %1$s, Size: %2$s, Installation status: %3$s, tap twice for details, tap twice and hold to move.</string>
     <string name="pa_pad_privacy_text">Home screen widgets</string>
     <string name="pa_pad_setting_privacy_logout_summary">Cancel Home screen widgets services</string>
     <string name="pa_pad_setting_privacy_revoke_cta_summary">Withdraw your consent to the Privacy Policy of Home screen widgets</string>
@@ -1084,6 +1084,8 @@ Stay tuned!"</string>
     <string name="pa_olympic_label">Medals</string>
     <string name="pa_olympic_medal_count">Total medals</string>
     <string name="pa_olympic_medals_description">Check Olympic medal rankings</string>
+    <string name="pa_open_personal_assistant_dialog_desc">Se desligar o assistente não vai poder utilizar widgets. Desligar mesmo assim?</string>
+    <string name="pa_open_personal_assistant_dialog_title">Desligar assistente?</string>
     <string name="pa_operation_switch_summary">View recent popular widgets</string>
     <string name="pa_operation_switch_title">Popular promotions</string>
     <string name="pa_picker_classic_widget">Android widgets</string>
@@ -1234,6 +1236,7 @@ to show widgets."</string>
     <string name="pa_setting_privacy_revoke_positive">Percebi</string>
     <string name="pa_setting_privacy_third_parties">Declaração sobre partilha de dados com terceiros</string>
     <string name="pa_setting_privacy_view_priv">Ver Política de Privacidade</string>
+    <string name="pa_setting_simplify_title_bar">Assistente</string>
     <string name="pa_setting_version">Versão: %1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Welcome to Shopping! You can use this widget to get discounts and shopping offers. Read and agree to our Statement on Third-Party Services and Privacy Policy before you continue.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Terms and conditions</string>

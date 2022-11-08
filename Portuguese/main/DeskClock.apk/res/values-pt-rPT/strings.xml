@@ -15,6 +15,8 @@
     <string name="agree">Concordar</string>
     <string name="alarm_alert_alert_silenced">O alarme desliga em %1$s</string>
     <string name="alarm_alert_disabled">Desligado</string>
+    <string name="alarm_alert_now">Alarme %s</string>
+    <string name="alarm_alert_snooze_button">Suspender</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
     <string name="alarm_ascending_mode_title">Volume ascendente</string>
     <string name="alarm_clock_more_setting">Definições adicionais</string>
@@ -85,6 +87,7 @@
     <string name="check_voice_assist_app_version">Actualize a Mi IA para a versão mais recente</string>
     <string name="cities_show_limit_desc">Não é possível mostrar mais relógios</string>
     <string name="city_time_contrast_desc">Toque para comparar horas de cidades diferentes</string>
+    <string name="click_to_cancel_alarm">Tocar para desligar</string>
     <string name="clock_bg_button_setting_summary_common">Seleccionar cor de fundo</string>
     <string name="clock_bg_button_setting_summary_follow_sys">O preto vai ser utilizado como cor de fundo sempre que mudar para o modo Escuro</string>
     <string name="clock_bg_button_setting_title">Cor de fundo</string>

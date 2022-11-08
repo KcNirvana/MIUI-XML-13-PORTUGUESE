@@ -105,6 +105,7 @@
     <string name="component_title_settings_video_wallpaper">Papéis de parede com efeitos especiais</string>
     <string name="component_title_video_wallpaper">Vídeos de papel de parede</string>
     <string name="component_title_wallpaper">Papéis de parede</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">Mais</string>
     <string name="count_down_tip">%ds restantes</string>
     <string name="create_home_icon">Atalho do ecrã inicial</string>
@@ -421,6 +422,7 @@ Toque aqui para iniciar agora"</string>
     <string name="ota_recovery_theme_notity_content">Pode voltar para o tema que estava a utilizar antes da actualização</string>
     <string name="ota_recovery_theme_notity_title">Restaurar o seu tema</string>
     <string name="password_toggle_content_description">Mostrar palavra-passe</string>
+    <string name="paying">A comprar…</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
     <string name="personalize_aod_title">Ecrã ambiente</string>
     <string name="personalize_call_ringtone_title">Toques</string>
@@ -709,6 +711,7 @@ Toque aqui para iniciar agora"</string>
     <string name="search_sort_news">Novos primeiro</string>
     <string name="search_sort_synthesize">Geral</string>
     <string name="search_sort_top">Populares primeiro</string>
+    <string name="search_view_description_clear">Limpar pesquisa</string>
     <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
     <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
     <string name="set_as_colorring">Definir como toque personalizado</string>

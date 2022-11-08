@@ -16,6 +16,8 @@
     <string name="confirm">OK</string>
     <string name="copy">Copiar</string>
     <string name="default_list_type">Ordenar por hora recebida</string>
+    <string name="disable_description_content">Notificações é uma aplicação de sistema. Se a desactivar, não vai poder gerir as notificações das aplicações. Desactivar mesmo assim?</string>
+    <string name="disable_description_title">Desactivar aplicação?</string>
     <string name="disable_float_notification">Notificações flutuantes não permitidas</string>
     <string name="disable_lockscreen_notification">Notificações no ecrã de bloqueio não permitidas</string>
     <string name="disable_show_badge_notification">Emblemas de notificações não permitidos</string>

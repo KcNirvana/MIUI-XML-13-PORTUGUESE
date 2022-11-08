@@ -1281,7 +1281,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G preferida)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Rede 5G</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferida)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (auto)</string>
     <string name="preferred_network_type_pref_entries_auto">Automática</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">Rede 2G</string>
@@ -2448,6 +2448,7 @@ Please confirm your default calling account setting."</string>
     <string name="speed_label_slow">Slow</string>
     <string name="speed_label_very_fast">Very Fast</string>
     <string name="speed_label_very_slow">Very Slow</string>
+    <string name="speed_limit_card_toast">Utilizou toda a velocidade da ligação. A ligação vai estar limitada agora</string>
     <string name="standby_bucket_summary">App standby state: %s</string>
     <string name="stk_cc_ss_to_dial_video_error">SS request changed to video call</string>
     <string name="strict_mode">Strict mode enabled</string>

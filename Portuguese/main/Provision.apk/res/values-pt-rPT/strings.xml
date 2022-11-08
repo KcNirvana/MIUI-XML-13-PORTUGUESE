@@ -386,6 +386,7 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
     <string name="permission_write_device_store">Guardar itens no armazenamento</string>
     <string name="permission_write_device_store_summary">Para fazer cache de ficheiros de configuração</string>
     <string name="poco_agree_terms_other">(incluindo Política de Privacidade e Termos de Utilização de POCO Launcher)</string>
+    <string name="preinstall_tips">A preparar…</string>
     <string name="privacy_content_one">Os papéis de parede aleatórios são fornecidos por Taboola. Para fornecer este conteúdo, Taboola necessita de aceder e armazenar dados do seu dispositivo, incluindo o idioma de sistema. Pode saber como Taboola utiliza os dados em &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Termos de Utilização&lt;/a>. Leia e concorde com os termos e condições antes de continuar. Se não concordar, os papéis de parede aleatórios vão ser desactivados</string>
     <string name="privacy_refuse">Não concordar</string>
     <string name="privacy_title">Termos e Política de Privacidade</string>

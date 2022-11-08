@@ -121,6 +121,7 @@
     <string name="change">Alterar</string>
     <string name="change_response_title">Alterar resposta</string>
     <string name="change_zodiac">Alterar singo</string>
+    <string name="check_new_version">Verificar actualizações</string>
     <string name="check_reminded_text">Ver lembretes</string>
     <string name="chinese_leap">Intercalar</string>
     <string name="chips_action_cancel">Cancelar</string>
@@ -388,6 +389,7 @@
     <string name="homepage_nowadays">Hoje</string>
     <string name="homepage_today">Agora</string>
     <string name="horoscope">Horóscopo</string>
+    <string name="hour_1">%d hora</string>
     <string name="icon_add_description">Adicionar um atalho no ecrã inicial</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="icon_remove_confirm">Remover</string>
@@ -477,6 +479,10 @@
     <string name="mesens_card_title_stop_today">O período termina hoje</string>
     <string name="mesens_card_title_today_begin">O período pode começar hoje</string>
     <string name="mesens_card_title_tomorrow_begin">O período pode começar amanhã</string>
+    <string name="minutes_10">%d minutos</string>
+    <string name="minutes_15">%d minutos</string>
+    <string name="minutes_30">%d minutos</string>
+    <string name="minutes_5">%d minutos</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="missing_required_permission">Restringiu permissões necessárias</string>
     <string name="miuishare_account_activate_confirmation">Activar Conta Xiaomi</string>
@@ -801,6 +807,9 @@
     <string name="shortcut_new_event">Adicionar evento</string>
     <string name="shortcut_next_agenda">Próximo evento</string>
     <string name="shortcut_settings">Definições</string>
+    <string name="shortcut_new_event">Adicionar evento</string>
+    <string name="shortcut_next_agenda">Próximo evento</string>
+    <string name="shortcut_settings">Definições</string>
     <string name="show_day_view">Mostrar dia</string>
     <string name="show_indic_date_summary">Indic calendar is available when one of the languages of India is set as your system language</string>
     <string name="show_menstruation_info">Mostrar informações menstruais</string>
@@ -835,6 +844,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="subtitle_mi_calendar_predict_menstruation">Record and estimate upcoming periods using Calendar</string>
     <string name="subtitle_record_and_start_predict">Record a period to estimate when the next one starts</string>
     <string name="subtitle_stick_record">Record your periods to get more accurate predictions</string>
+    <string name="suggestions_and_feedback">Comentários</string>
     <string name="summary_import_by_caldav">Suporta contas CalDAV de Feishu e iCloud</string>
     <string name="summary_import_by_email">Suporta contas Exchange, Outlook e QQ Mail</string>
     <string name="summary_import_by_local">Suporta ficheiros ICS</string>

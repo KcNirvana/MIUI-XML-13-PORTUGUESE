@@ -3875,12 +3875,14 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
     <string name="headset_find_disconnect">Não ligado</string>
     <string name="headset_find_handle_tip">Toque para reproduzir alarme</string>
     <string name="headset_find_left">Esquerdo</string>
+    <string name="headset_find_left_tip">O auricular esquerdo está na caixa ou no seu ouvido</string>
     <string name="headset_find_notify_connected">Ligado</string>
     <string name="headset_find_notify_disconnect">Desligado. Ligue e tente novamente</string>
     <string name="headset_find_play_warning">Um dos auriculares está no seu ouvido. Reproduzir o alarme pode prejudicar a sua audição. Remova os auriculares antes de continuar</string>
     <string name="headset_find_playing">A reproduzir…</string>
     <string name="headset_find_query_play">Reproduzir</string>
     <string name="headset_find_right">Direito</string>
+    <string name="headset_find_right_tip">O auricular direito está na caixa ou no seu ouvido</string>
     <string name="headset_find_tip">Os seus auriculares devem estar próximos e ligados a este dispositivo para os conseguir localizar. Reproduzir o alarme enquanto pelo menos um dos auriculares estiver no seu ouvido pode prejudicar a sua audição</string>
     <string name="headset_find_tip_title">Atenção</string>
     <string name="headset_find_title">Localizar os auriculares</string>
@@ -5168,6 +5170,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_close_leaudio_first">Desligar o áudio LE nas definições adicionais para poder utilizar esta funcionalidade</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Ligar os auriculares para ver a versão de firmware</string>
+    <string name="miheadset_connect_device_hfp">Ligar os auriculares e certificar-se que tem permissão para reprodução de áudio</string>
     <string name="miheadset_connect_play_music">Inicar a reprodução automática quando ligar os auriculares</string>
     <string name="miheadset_connect_toast_tips">Ligar auriculares primeiro</string>
     <string name="miheadset_custom_sound">Personalizar som</string>
@@ -5190,6 +5193,9 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_enhence_low">Melhorar baixos</string>
     <string name="miheadset_equalizer">Equalizador</string>
     <string name="miheadset_feedback">Comentários</string>
+    <string name="miheadset_feedback_summary">Para poder submeter registos, ponha os auriculares na caixa e mantenha-a aberta</string>
+    <string name="miheadset_feedback_title">Submeter registos</string>
+    <string name="miheadset_firmware_version_update">Actualizar firmware</string>
     <string name="miheadset_fitness_check">Teste de auriculares</string>
     <string name="miheadset_fitness_check_checking">A testar…</string>
     <string name="miheadset_fitness_check_continue">Seguinte</string>

@@ -1320,7 +1320,7 @@ to show widgets."</string>
     <string name="pa_stock_add_stock_button">Add</string>
     <string name="pa_stock_change_cp_code_alert">This operation may cause the data to fail to display properly</string>
     <string name="pa_stock_change_cp_code_error">"Couldn't switch data source"</string>
-    <string name="pa_stock_change_cp_code_progress_msg">Syncing data…</string>
+    <string name="pa_stock_change_cp_code_progress_msg">A sincronizar dados…</string>
     <string name="pa_stock_color_scheme_label">Color scheme</string>
     <string name="pa_stock_data_source_label">Select data source</string>
     <string name="pa_stock_delisted">(Delisted)</string>

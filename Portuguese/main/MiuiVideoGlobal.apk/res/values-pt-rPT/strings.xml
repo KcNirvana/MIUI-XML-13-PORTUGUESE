@@ -655,6 +655,7 @@ Aumentar a segurança da sua conta"</string>
     <string name="plus_shortcut_existed">Este atalho já existe</string>
     <string name="plus_sort_title">Ordenar</string>
     <string name="plus_sort_type_default">Predefinido</string>
+    <string name="plus_sort_type_duration">Duração</string>
     <string name="plus_sort_type_name">Nome</string>
     <string name="plus_sort_type_size">Tamanho</string>
     <string name="plus_sort_type_time">Data</string>
@@ -725,6 +726,7 @@ Tente ver outros vídeos!"</string>
     <string name="recommend_online_switch">Recomendações online</string>
     <string name="recommend_online_tips">Ligar para receber recomendações de vídeos online</string>
     <string name="recommend_page_replay">Repetir</string>
+    <string name="recommend_slide_to_more">Deslizar para mais</string>
     <string name="rename">Mudar o nome</string>
     <string name="report">Reportar</string>
     <string name="report_content_fakement">Spam ou fraude</string>

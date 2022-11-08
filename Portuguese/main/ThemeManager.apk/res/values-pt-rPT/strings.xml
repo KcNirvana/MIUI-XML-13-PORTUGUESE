@@ -1132,6 +1132,7 @@ d 'de' MMMM"</string>
 View and use the items you purchased or added to favorites."</string>
     <string name="personalize">Personalization</string>
     <string name="personalize_recommend_switch_desc">Receive personalized content recommendations based on device ID</string>
+    <string name="personalize_second_space_not_support_buy_widget">"Can't purchase widgets in Second space"</string>
     <string name="personalized_cta_content_text">Welcome to Themes! You can use this app to manage your wallpapers, ringtones, fonts, and more.</string>
     <string name="phone_exit_theme_warning_content">"You won't be able to perform the following actions after you sign out:
 1. View and use the items you purchased or added to favorites.
@@ -1266,7 +1267,8 @@ You can grant this permission in Settings &gt; Privacy."</string>
     <string name="update_latest">Your app is up to date</string>
     <string name="update_no_net">A network error occurred. Try again.</string>
     <string name="update_title">NEW UPDATE AVAILABLE</string>
-    <string name="use_hint">Attention</string>
+    <string name="use_hint">Atenção</string>
+    <string name="use_now">Adicionar</string>
     <string name="video_wallpaper_apply_warning">This wallpaper will be applied to both your Home screen and Lock screen. Apply now?</string>
     <string name="voice_input">Voice input</string>
     <string name="wallpaper_24h">24H</string>

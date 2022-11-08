@@ -87,6 +87,8 @@
     <string name="dialog_title_prompt">Atenção</string>
     <string name="disable_find_device_error">Não foi possível desligar Localizar Dispositivo. %1$s</string>
     <string name="do_not_merge">Cancelar</string>
+    <string name="download_gallery_data_summary">Vá a i.mi.com para transferir fotos e vídeos sincronizados para o seu dispositivo</string>
+    <string name="download_gallery_data_title">Transferir itens para o seu dispositivo</string>
     <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
     <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
     <string name="enable_micloud">Inicie sessão para utilizar a Xiaomi Cloud</string>
@@ -139,6 +141,13 @@
     <string name="finddevice_miservice_notification_title">Ligar Localizar Dispositivo</string>
     <string name="forget_password"><u>Esqueceu a palavra-passe?</u></string>
     <string name="gallery_auto_sync_fail_noti_content">Sem espaço suficiente na Xiaomi Cloud. Actualize o seu plano para sincronizar fotos e vídeos</string>
+    <string name="gallery_data_transfer_ddl">Deadline: %s</string>
+    <string name="gallery_data_transfer_summary">Os itens da Galeria não vão ser mais sincronizados com a Xiaomi Cloud. Recomendamos a transferência de fotos e vídeos para o Google Fotos e utilizar os seus serviços para as cópias</string>
+    <string name="gallery_data_transfer_title">Transferir fotos e vídeos sincronizados para o Google Fotos</string>
+    <string name="gallery_service_termination_announcement">Alerta: Os itens da Galeria não vão ser mais sincronizados com a Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement_title">Os itens da Galeria não vão ser mais sincronizados com a Xiaomi Cloud. Recomendamos a transferência de fotos e vídeos para o Google Fotos ou visitar i.mi.com para transferir as fotos e vídeos para o seu dispositivo. A transferência vai estar disponível até %s. Após, todos os itens da Galeria na Xiaomi Cloud vão ser eliminados permanentemente</string>
+    <string name="gallery_service_termination_btn_continue">Continuar</string>
+    <string name="gallery_service_termination_more_info">Para mais detalhes, ver \"%s\"</string>
     <string name="header_other_settings">Definições adicionais</string>
     <string name="help_and_feedback">Ajuda e comentários</string>
     <string name="hybrid_provider">Fornecido por %1$s</string>
@@ -223,6 +232,7 @@
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Comentários</string>
     <string name="menu_add_short_cut">Criar um atalho no ecrã inicial</string>
+    <string name="menu_migrate_to_google_photos">Transferir dados para o Google Fotos</string>
     <string name="merge">Unir</string>
     <string name="mi_drive_not_publish_toast">O Mi Drive vai estar disponível brevemente</string>
     <string name="mi_drive_summary">Aceder a documentos da Xiaomi Cloud em vários dispositivos</string>
@@ -736,6 +746,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="soundrecorder_sync_records">Sincronizar com a Xiaomi Cloud</string>
     <string name="special_func_title">Funcionalidades especiais</string>
     <string name="starred_contact">Favoritos</string>
+    <string name="start_transfer_gallery_data">Transferir dados</string>
     <string name="storage_manage_cloud_data_title">Ver itens na Xiaomi Cloud</string>
     <string name="storage_manage_expansion">Obter mais</string>
     <string name="storage_manage_full_summary">A Xiaomi Cloud está cheia. Actualize o seu plano</string>

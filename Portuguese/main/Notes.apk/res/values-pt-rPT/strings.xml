@@ -329,6 +329,7 @@
     <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>
     <string name="new_audio_create_talkback_des">Toque para criar uma nota de texto. Prima e segure para criar uma nota de voz. Soltar o botão para parar a gravação e criar a nota ou deslizar para cima para cancelar</string>
     <string name="new_data_empty_note">Sem itens</string>
+    <string name="new_lite_audio_create_talkback_des">Tocar para criar uma nota</string>
     <string name="no_network">Não é possível ligar à rede</string>
     <string name="not_now">Agora não</string>
     <string name="not_set">Não definido</string>
@@ -686,6 +687,9 @@ Dê permissão a Notas para gravar áudio"</string>
     <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
     <string name="web_sso_login_message">A iniciar sessão…</string>
     <string name="webview_reload">Tentar novamente</string>
+    <string name="widget_all_notes_name">Todas as notas</string>
+    <string name="widget_all_todo_name">Todas as tarefas</string>
+    <string name="widget_click_check">Tocar para ver</string>
     <string name="widget_content_loading">Aguarde…</string>
     <string name="widget_create_select_size">Seleccionar tamanho</string>
     <string name="widget_empty_content">Toque para seleccionar uma nota</string>

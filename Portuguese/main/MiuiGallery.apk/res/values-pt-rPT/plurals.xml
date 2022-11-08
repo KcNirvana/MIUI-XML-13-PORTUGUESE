@@ -466,6 +466,42 @@
         <item quantity="other">A receber %2$d ficheiros (%3$s) de %1$s…</item>
         <item quantity="one">A receber %2$d ficheiros (%3$s) de %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Carregadas %d fotos</item>
+        <item quantity="one">Carregada %d foto</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d salas</item>
+        <item quantity="one">%1$d sala</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d ecrãs</item>
+        <item quantity="one">%1$d ecrã</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d ecrãs partilhados</item>
+        <item quantity="one">%1$d ecrã partilhado</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d ambientes de casa inteligente disponíveis</item>
+        <item quantity="one">%1$d ambiente de casa inteligente disponível</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d itens demasiado grandes para sincronizar</item>
+        <item quantity="one">%d item demasiado grande para sincronizar</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Não foi possível sincronizar %d itens</item>
+        <item quantity="one">Não foi possível sincronizar %d item</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Não foi possível sincronizar %d itens. Tente novamente</item>
+        <item quantity="one">Não foi possível sincronizar %d item. Tente novamente</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Não foi possível sincronizar %d itens</item>
+        <item quantity="one">Não foi possível sincronizar %d item</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>

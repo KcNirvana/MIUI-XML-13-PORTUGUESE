@@ -1907,11 +1907,11 @@ Pretende fechá-la?"</string>
     <string name="whichSendApplication">Partilhar com</string>
     <string name="whichSendApplicationLabel">Share</string>
     <string name="whichSendApplicationNamed">Partilhar com %1$s</string>
-    <string name="whichSendToApplication">Send using</string>
-    <string name="whichSendToApplicationLabel">Send</string>
-    <string name="whichSendToApplicationNamed">Send using %1$s</string>
+    <string name="whichSendToApplication">Enviar utilizando</string>
+    <string name="whichSendToApplicationLabel">Enviar</string>
+    <string name="whichSendToApplicationNamed">Enviar utilizando %1$s</string>
     <string name="whichViewApplication">Abrir com</string>
-    <string name="whichViewApplicationLabel">Open</string>
+    <string name="whichViewApplicationLabel">Abrir</string>
     <string name="whichViewApplicationNamed">Abrir com %1$s</string>
     <string name="wifi_available_action_all_networks">Todas as redes</string>
     <string name="wifi_available_action_connect">Ligar</string>

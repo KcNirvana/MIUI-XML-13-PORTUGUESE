@@ -171,6 +171,10 @@
     <string name="miui_main_control_center_desc">Ou trocar para a versão antiga em Definições > Notificações e Centro de Controlo</string>
     <string name="miui_main_control_center_open">Novo Centro de Controlo</string>
     <string name="miui_main_control_center_title">Deslizar para trocar entre área de notificações e Centro de Controlo</string>
+    <string name="miui_main_icon_callback">Atalho de ecrã inicial</string>
+    <string name="miui_main_icon_callback_create">Criar</string>
+    <string name="miui_main_icon_callback_desc">Criar um atalho no ecrã inicial agora?</string>
+    <string name="miui_main_icon_callback_nocreate">Cancelar</string>
     <string name="miui_main_mirror_tab_desc1">Ligar automaticamente</string>
     <string name="miui_main_mirror_tab_desc2">Ver imagens num grande ecrã</string>
     <string name="miui_main_mirror_tab_desc3">Partilhar ficheiros num piscar de olhos</string>

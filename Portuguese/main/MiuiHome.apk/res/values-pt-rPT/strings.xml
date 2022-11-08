@@ -244,6 +244,7 @@
     <string name="failed_to_drop">Não é possível mover</string>
     <string name="failed_to_drop_widget_invalid">Widget inválido</string>
     <string name="failed_to_load_image">Não é possível carregar imagem</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Criado com sucesso</string>
     <string name="fold_pair_install_shortcut_long_click">Premir e segurar para adicionar ao ecrã inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
@@ -504,6 +505,8 @@ Segurança melhorada"</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualização de aplicações</string>
     <string name="quick_app">Aplicações rápidas</string>
     <string name="recent_apps">Recentes</string>
+    <string name="recent_menu_item_add_pair">Criar um atalho de ecrã inicial para esta combinação de ecrã dividido</string>
+    <string name="recent_menu_item_add_pair_first_toast">Criar um atalho de ecrã inicial para esta combinação de ecrã dividido</string>
     <string name="recent_menu_item_info">Info.</string>
     <string name="recent_menu_item_lock">Bloquear</string>
     <string name="recent_menu_item_multi_window">Dividir</string>

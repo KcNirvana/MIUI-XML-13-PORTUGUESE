@@ -970,6 +970,7 @@
     <string name="confirm_open">Ligar</string>
     <string name="confirm_open_shut_down_password_content">Definir um bloqueio de ecrã antes de ligar a confirmação de desligamento</string>
     <string name="confirm_open_shut_down_password_title">Definir bloqueio de ecrã</string>
+    <string name="confirm_package_type">Confirmar plano de dados</string>
     <string name="confirm_prompt_all_permission">Perguntar por permissões para todas as aplicações?</string>
     <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
     <string name="confirm_take">Obter</string>
@@ -1315,6 +1316,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_main_warning_list">Ver avisos</string>
     <string name="ew_main_warning_list_tips">Ver</string>
     <string name="ew_main_warning_list_title">Ver histórico de avisos</string>
+    <string name="ew_monitor_bad_request_tips">"Security can't access device info"</string>
     <string name="ew_monitor_content">Your mobile device can become part of the earthquake early warning network. After its sensors detect seismic waves, the data will be analyzed by the AI algorithm and early warnings will be issued to the people in the affected areas.</string>
     <string name="ew_monitor_exit">Unenroll</string>
     <string name="ew_monitor_exit_content">Hi Volunteer NO. %s! Your device can monitor seismic activity and collect data that would help issue early earthquake warnings. Unenroll anyway?</string>
@@ -1585,6 +1587,7 @@ volunteer"</string>
     <string name="gamebox_func_switch_simcard_immersion">Não é possível trocar cartões SIM no modo imersivo</string>
     <string name="gamebox_func_wlan_close">Wi-Fi desligado</string>
     <string name="gamebox_func_wlan_open">Wi-Fi ligado</string>
+    <string name="gamebox_game_center_app_not_find">Instalar Jogos primeiro</string>
     <string name="gamebox_hangup">Desligar ecrã</string>
     <string name="gamebox_hangup_tips_content">Esta funcionalidade permite que desligue o ecrã mas o jogo fique a ser executado em segundo plano. Desliga automaticamente assim que desbloquear o dispositivo</string>
     <string name="gamebox_hangup_tips_title">Desligar ecrã</string>
@@ -1663,6 +1666,7 @@ volunteer"</string>
     <string name="gb_barrage_chat_text_speed_faster">Rápido</string>
     <string name="gb_barrage_chat_text_speed_moderate">Médio</string>
     <string name="gb_barrage_chat_text_speed_slow">Lento</string>
+    <string name="gb_barrage_dnd_conflict_toast">Para utilizar comentários no ecrã, desligue Não incomodar primeiro</string>
     <string name="gb_beauty_cold_light">Frio</string>
     <string name="gb_beauty_face">Embelezar</string>
     <string name="gb_beauty_light">Preencher com luz</string>
@@ -1688,6 +1692,7 @@ volunteer"</string>
     <string name="gb_dialog_record_way_setting_tips">Nota: Gravar as suas sessões de jogos necessita de um maior processamento que pode resultar em lagging</string>
     <string name="gb_dialog_record_way_title">Seleccionar método de gravação</string>
     <string name="gb_dialog_wlan_wifi_weak">460ms</string>
+    <string name="gb_dnd_barrage_conflict_toast">Não vai poder utilizar os comentários no ecrã quando Não incomodar estiver ligado</string>
     <string name="gb_first_guide_function_shiled_title">Desligar funcionalidades de sistema quando o Game Turbo estiver ligado</string>
     <string name="gb_first_guide_gamebox_des">Utilizar atalhos enquanto estiver a jogar</string>
     <string name="gb_first_guide_handsfree_des">Atender chamadas em segundo plano</string>
@@ -2895,7 +2900,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_dailog_night_charge_protection_summary">A bateria está totalmente carregada na maior parte do tempo, o que pode diminuir a sua vida útil. A MIUI ligou a optimização de carregamento para prevenir estes problemas</string>
     <string name="power_dialog_cancel">Cancelar</string>
     <string name="power_dialog_ok">OK</string>
-    <string name="power_dialog_performance_mode_checkbox">Alterar para 120Hz</string>
+    <string name="power_dialog_performance_mode_checkbox">Alterar para %dHz</string>
     <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
     <string name="power_dialog_super_save_msg_5g">A poupança de restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
     <string name="power_dialog_super_save_title">Poupança de bateria extrema</string>
@@ -3756,7 +3761,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="sp_device_security_title">Segurança do dispositivo</string>
     <string name="sp_eew_summary">Avisos sobre os próximos terramotos</string>
     <string name="sp_eew_title">Aviso de terramotos</string>
-    <string name="sp_empty_title_sign_exception">Segure na aplicação para a adicionar às excepções</string>
+    <string name="sp_empty_title_sign_exception">Segurar na aplicação para a adicionar às excepções</string>
+    <string name="sp_family_guard_summary">Fornecer assistência remota</string>
+    <string name="sp_family_guard_title">Segurança de família</string>
     <string name="sp_find_device_summary">Localizar o seu dispositivo remotamente</string>
     <string name="sp_find_device_title">Localizar Dispositivo</string>
     <string name="sp_guard_summary">Gerir os dispositivos dos seus amigos e família</string>
@@ -4306,6 +4313,23 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
     <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
     <string name="tc_web_correct_error">Não foi possível calibrar</string>
     <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
+    <string name="terminal_privacy">Protecção de Privacidade no dispositivo</string>
+    <string name="terminal_privacy_ability">Funcionalidades e mecanismos</string>
+    <string name="terminal_privacy_ability_img">Processamento de imagens</string>
+    <string name="terminal_privacy_ability_img_summary">Edição e reconhecimento inteligente para fotos e vídeos na Câmara, Galeria e Taplus</string>
+    <string name="terminal_privacy_ability_model">Reconhecer como o seu dispositivo interage com o ambiente</string>
+    <string name="terminal_privacy_ability_model_summary">Contador de passos, gestos inteligentes, Modo Bolso e brilho automático</string>
+    <string name="terminal_privacy_ability_others">Outros mecanismos</string>
+    <string name="terminal_privacy_ability_others_summary">Partilha de ecrã, teste de ambientes de pagamento, impressões digitais e reconhecimento facial</string>
+    <string name="terminal_privacy_ability_suggest">Recomendações</string>
+    <string name="terminal_privacy_ability_suggest_summary">As recomendações e sugestões do Ficheiros, barra lateral, Mi IA e Mi Wallet</string>
+    <string name="terminal_privacy_ability_summary">*As funcionalidades da Protecção de Privacidade no dispositivo podem variar consoante o modelo do dispositivo</string>
+    <string name="terminal_privacy_ability_txt">Texto</string>
+    <string name="terminal_privacy_ability_txt_summary">Edição de texto, legendas inteligentes, Taplus, mensagens e área de transferências</string>
+    <string name="terminal_privacy_ability_voice">Reconhecimento de voz</string>
+    <string name="terminal_privacy_ability_voice_summary">Comandos de voz Mi IA e legendas inteligentes</string>
+    <string name="terminal_privacy_instruction">A Protecção de Privacidade no dispositivo inclui funcionalidades que se certificam que as suas informações pessoais ficam no dispositivo</string>
+    <string name="terminal_privacy_summary">Processar informações pessoais neste dispositivo</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_over_limit_dialog_cancle_btn">Repor PA Móvel</string>
@@ -5505,6 +5529,7 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_game_ratio_left">Esquerda</string>
     <string name="gb_game_ratio_right">Direita</string>
     <string name="gb_game_ratio_top">Topo</string>
+    <string name="gb_predownload_check">Ver recompensas</string>
     <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
     <string name="gb_predownload_dialog_checked">Não mostrar novamente</string>
     <string name="gb_predownload_dialog_confirm">Ligar</string>
@@ -5514,6 +5539,8 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_predownload_message_new">Actualizar jogos compatíveis automaticamente enquanto não estiver a utilizar o dispositivo</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB de conteúdo actualizado foi transferido. Vai poder utilizar assim que a nova versão for disponibilizada</string>
     <string name="gb_predownload_noti_title">%s actualizado em segundo plano</string>
+    <string name="gb_predownload_receive">Obter recompensas</string>
+    <string name="gb_predownload_receive_tips">Ligar actualizações em segundo plano para obter recompensas</string>
     <string name="gb_predownload_title">Actualizações em segundo plano</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s restantes</string>
 </resources>

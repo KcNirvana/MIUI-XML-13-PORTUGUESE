@@ -1693,7 +1693,8 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
     <string name="bt_absVolume_open_dialog_title">Atenção</string>
     <string name="bt_absVolume_pre_title">Volume absoluto</string>
     <string name="bt_absVolume_summary">Manter o volume do telefone e dos dispositivos Bluetooth consistente</string>
-    <string name="bt_always_show_icon">Mostrar sempre na barra de estado</string>
+    <string name="bt_always_show_icon">Não mostrar na barra de estado</string>
+    <string name="bt_always_show_icon_summary">Mostrar o ícone do Bluetooth apenas na área de notificações e Centro de Controlo</string>
     <string name="bt_audio_repair_property">Corrigir problemas de áudio</string>
     <string name="bt_audio_share_property">Partilhar</string>
     <string name="bt_audio_share_switch_summary">Partilhar áudio com dispositivos Bluetooth ligados</string>

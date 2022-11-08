@@ -127,6 +127,9 @@ d 'de' MMMM"</string>
     <string name="search_menu_title">Pesquisa</string>
     <string name="select_notification_animation_style">Seleccionar efeitos especiais</string>
     <string name="select_notification_notify_style">Seleccionar efeitos das notificações</string>
+    <string name="send">Enviar</string>
+    <string name="settings_view_btn_check_off">Desligado</string>
+    <string name="settings_view_btn_check_on">Ligado</string>
     <string name="share">Partilhar</string>
     <string name="share_to_community">Partilhar na comunidade Mi</string>
     <string name="show_battery">Mostrar estado da bateria</string>

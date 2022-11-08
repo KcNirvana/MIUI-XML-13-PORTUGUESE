@@ -146,7 +146,7 @@ Envie este código ao supervisor"</string>
     <string name="feedback_detail_waiting">A gerar…</string>
     <string name="feedback_empty_report_list">Sem relatórios ainda</string>
     <string name="feedback_evaluation_btn_content">Rate</string>
-    <string name="feedback_evaluation_expired_hint">Looks like this rating expired</string>
+    <string name="feedback_evaluation_expired_hint">"Can't rate this item anymore"</string>
     <string name="feedback_evaluation_hint_dialog_content">Your feedback helps us improve our products and services.</string>
     <string name="feedback_evaluation_hint_dialog_title">Was this problem solved?</string>
     <string name="feedback_evaluation_invitation_content">Rate your experience to help us improve feedback processing in the future.</string>

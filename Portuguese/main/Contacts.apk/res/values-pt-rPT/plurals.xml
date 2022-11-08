@@ -122,6 +122,10 @@
         <item quantity="other">%1$d contactos com informações iguais</item>
         <item quantity="one">%1$d contacto com informações iguais</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d chamadas não atendidas</item>
+        <item quantity="one">%d chamada não atendida</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>

@@ -99,6 +99,7 @@
     <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
     <string name="clock_in">A fazer check-in…</string>
     <string name="close">Fechar</string>
+    <string name="cloud_copy_to_local_title">Guardar para…</string>
     <string name="cloud_drive_files">Ficheiros Mi Drive</string>
     <string name="cloud_drive_not_login_summary">Sem sessão iniciada</string>
     <string name="cloud_drive_settings">Definições Mi Drive</string>
@@ -134,6 +135,7 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="cta_function_account_operation">Para um início rápido na sua Conta Xiaomi</string>
     <string name="data_consume_dialog_message">Está a utilizar dados móveis. Se continuar, vai utilizar %s de dados</string>
     <string name="data_consume_dialog_title">Utilizar dados móveis?</string>
+    <string name="data_consume_dialog_upload_title">Carregar utilizando dados móveis</string>
     <string name="data_consumption_cancel">Não concordar</string>
     <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
     <string name="data_consumption_confirm">OK</string>
@@ -274,6 +276,7 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="homepage_tab_file_view_phone">Dispositivo</string>
     <string name="homepage_tab_recent">Recentes</string>
     <string name="hot_sticker">Stickers</string>
+    <string name="hybrid_provider">Fornecido por %1$s</string>
     <string name="if_cancel">Cancelar esta operação?</string>
     <string name="image_loading_error">Não foi possível carregar imagem</string>
     <string name="imm_str_storage">Armazenamento</string>
@@ -393,6 +396,7 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio</string>
     <string name="no_enough_storage_title">Não há espaço suficiente</string>
     <string name="no_file">Vazio</string>
+    <string name="no_network">Não foi possível ligar à rede</string>
     <string name="no_network_error_message">Verifique as suas definições de rede e tente novamente</string>
     <string name="no_network_error_title">Não foi possível ligar à rede</string>
     <string name="no_message">Sem mensagens</string>
@@ -459,6 +463,7 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="operation_moving">A mover…</string>
     <string name="operation_new_folder">Criar pasta</string>
     <string name="operation_no_network_err">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
+    <string name="operation_not_support_directory_rename">O nome desta pasta não pode ser alterado</string>
     <string name="operation_not_support_err">Não foi possível concluir esta acção</string>
     <string name="operation_open">Abrir</string>
     <string name="operation_open_mode">Abrir com</string>
@@ -492,6 +497,7 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="operation_upload_error_title">Não foi possível carregar</string>
     <string name="operation_upload_retry">Tentar novamente</string>
     <string name="operation_upload_save_to_local">Guardar para…</string>
+    <string name="operation_upload_use_data">Carregar</string>
     <string name="optional_change_wifi">Gerir ficheiros remotamente via Wi-Fi</string>
     <string name="otg_data_transfer_success">Transferido com sucesso</string>
     <string name="otg_data_transferring">A transferir ficheiros… Não desligue o armazenamento externo</string>
@@ -703,6 +709,9 @@ Tente mover ficheiros do dispositivo para o Mi Drive"</string>
     <string name="user_not_login">Iniciar sessão primeiro</string>
     <string name="utf8_summary">Codificação do Sistema FTP padrão</string>
     <string name="view_type">Vista</string>
+    <string name="web_sso_login_fail">Tem de iniciar sessão novamente</string>
+    <string name="web_sso_login_message">A iniciar sessão…</string>
+    <string name="webview_reload">Tentar novamente</string>
     <string name="video_data_consume_dialog_confirm">Continuar</string>
     <string name="video_data_consume_dialog_title">Utilizar dados móveis?</string>
     <string name="wechat_msg">"Due to Android 11 restrictions, File Manager can't access and display the documents previewed in WeChat. Open and save documents in WeChat to make them appear here."</string>

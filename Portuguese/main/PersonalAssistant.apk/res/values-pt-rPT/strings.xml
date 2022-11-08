@@ -1226,6 +1226,7 @@ to show widgets."</string>
     <string name="pa_setting_privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="pa_setting_privacy_revoke_cta">Remoção de consentimento</string>
     <string name="pa_setting_privacy_revoke_cta_message">Se continuar, vai remover o consentimento da Política de Privacidade do assistente. As informações pessoais obtidas vão ser eliminadas de acordo com as leis em vigor. Como o assistente fornece os seus serviços baseados nas suas informações pessoais, a remoção de consentimento vai ser considerada como uma recusa em aceitar os seus serviços. Remover consentimento agora?</string>
+    <string name="pa_setting_privacy_revoke_cta_negative">Pode remover o consentimento em 10 segundos</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Remover</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Remover (%ds)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Remover consentimento da Política de Privacidade do assistente</string>
@@ -1371,6 +1372,14 @@ to show widgets."</string>
     <string name="pa_widget_need_download_permission">Permissões</string>
     <string name="pa_widget_need_download_privacy">Privacidade</string>
     <string name="pa_widget_need_download_version">Versão %1$s</string>
+    <string name="pa_world_cup_widget_authority_tip">Grant permissions to be able to view information on FIFA World Cup matches.</string>
+    <string name="pa_world_cup_widget_authorize">Grant</string>
+    <string name="pa_world_cup_widget_colon_between_score">" : "</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"Couldn't complete action. Wait a minute or two and try again."</string>
+    <string name="pa_world_cup_widget_request_error_tip">A network error occurred</string>
+    <string name="pa_world_cup_widget_request_retry">Try again</string>
+    <string name="pa_world_cup_widget_reserve_success_toast">"You'll get a reminder before this match starts"</string>
+    <string name="pa_world_cup_widget_title">FIFA World Cup</string>
     <string name="pa_accessibility_picker_app_group_list_item">Widget %1$s de %2$d</string>
     <string name="pa_accessibility_picker_search_clear">Clear text</string>
     <string name="pa_lite_setting_service_shopping">Shopping</string>

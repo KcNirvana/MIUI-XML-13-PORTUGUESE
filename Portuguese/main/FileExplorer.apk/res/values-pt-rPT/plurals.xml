@@ -77,6 +77,10 @@
         <item quantity="other">"%1$s ficheiros sincronizados | "</item>
         <item quantity="one">"%1$s ficheiro sincronizado | "</item>
     </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">A aguardar por ligação. %1$s ficheiros restantes</item>
+        <item quantity="one">A aguardar por ligação. %1$s ficheiro restante</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>

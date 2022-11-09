@@ -807,9 +807,6 @@
     <string name="shortcut_new_event">Adicionar evento</string>
     <string name="shortcut_next_agenda">Próximo evento</string>
     <string name="shortcut_settings">Definições</string>
-    <string name="shortcut_new_event">Adicionar evento</string>
-    <string name="shortcut_next_agenda">Próximo evento</string>
-    <string name="shortcut_settings">Definições</string>
     <string name="show_day_view">Mostrar dia</string>
     <string name="show_indic_date_summary">Indic calendar is available when one of the languages of India is set as your system language</string>
     <string name="show_menstruation_info">Mostrar informações menstruais</string>

@@ -436,7 +436,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
     <string name="micloud_setting_gallery_summary">Fotos e vídeos</string>
     <string name="micloud_setting_music_summary">Listas de reprodução e favoritos</string>
     <string name="micloud_setting_notes_summary">Notas</string>
-    <string name="micloud_setting_notes_summary_v2">Notes</string>
+    <string name="micloud_setting_notes_summary_v2">Notas</string>
     <string name="micloud_setting_personal_assistant_summary">Assistente e funcionalidades</string>
     <string name="micloud_setting_phrase_summary">Frases frequentes</string>
     <string name="micloud_setting_recorder_summary">Gravações de áudio e chamadas</string>

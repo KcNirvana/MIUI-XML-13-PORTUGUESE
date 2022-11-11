@@ -14,7 +14,7 @@
     <string name="customization_quit">Sair</string>
     <string name="dolby_atoms">Dolby Atmos</string>
     <string name="dolby_dax_geq_select_title">Predefinições</string>
-    <string name="dolby_dax_geq_title">Gráfico</string>
+    <string name="dolby_dax_geq_title">Equalizador gráfico</string>
     <string name="dolby_dax_profile_dynamic">Dinâmico</string>
     <string name="dolby_dax_setting">Efeitos Dolby</string>
     <string name="dolby_dax_title">Som surround</string>

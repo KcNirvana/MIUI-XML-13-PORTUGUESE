@@ -103,8 +103,7 @@
     <string name="cloud_drive_files">Ficheiros Mi Drive</string>
     <string name="cloud_drive_not_login_summary">Sem sessão iniciada</string>
     <string name="cloud_drive_settings">Definições Mi Drive</string>
-    <string name="cloud_empty_hint_text">"Sem ficheiros.
-Tente mover ficheiros do dispositivo para o Mi Drive"</string>
+    <string name="cloud_empty_hint_text">Sem ficheiros</string>
     <string name="cloud_guide_summary_text">Sincronizar automaticamente os seus itens em todos os dispositivos</string>
     <string name="cloud_guide_title_text">Sincronizar com Mi Drive</string>
     <string name="cloud_permission_storage_desc">Para guardar fotos e documentos para o seu dispositivo</string>

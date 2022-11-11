@@ -5205,7 +5205,7 @@ Remover consentimento agora?"</string>
     <string name="task_summary_close_eye_care_mode">Desligar Modo Leitura</string>
     <string name="task_summary_close_hotspot">Desligar PA Móvel</string>
     <string name="task_summary_close_location">Desligar localização</string>
-    <string name="task_summary_close_mute">Desligar Modo Silêncio</string>
+    <string name="task_summary_close_mute">Desligar modo Silêncio</string>
     <string name="task_summary_close_network">Desligar dados móveis</string>
     <string name="task_summary_close_nfc">Desligar NFC</string>
     <string name="task_summary_close_rotate_lock">Desbloquear orientação</string>
@@ -5225,8 +5225,8 @@ Remover consentimento agora?"</string>
     <string name="task_summary_open_eye_care_mode">Ligar Modo Leitura</string>
     <string name="task_summary_open_hotspot">Ligar PA Móvel</string>
     <string name="task_summary_open_location">Ligar localização</string>
-    <string name="task_summary_open_mute">Ligar Modo Silêncio</string>
-    <string name="task_summary_open_mute_mode">Ligar Modo Silêncio</string>
+    <string name="task_summary_open_mute">Ligar modo Silêncio</string>
+    <string name="task_summary_open_mute_mode">Ligar modo Silêncio</string>
     <string name="task_summary_open_network">Ligar dados móveis</string>
     <string name="task_summary_open_nfc">Ligar NFC</string>
     <string name="task_summary_open_rotate_lock">Bloquear orientação</string>

@@ -328,7 +328,7 @@
     <string name="jeejen_description">"Botões maiores.
 Chamadas mais acessíveis.
 Segurança melhorada"</string>
-    <string name="key_shortcut_settings_title">Atalhos de botões</string>
+    <string name="key_shortcut_settings_title">Botões de atalhos</string>
     <string name="launcher_global_search_mode_title">Pesquisa</string>
     <string name="launcher_global_search_provider_title">Fornecedor da pesquisa</string>
     <string name="launcher_icon_management">Gerir atalhos do ecrã inicial</string>

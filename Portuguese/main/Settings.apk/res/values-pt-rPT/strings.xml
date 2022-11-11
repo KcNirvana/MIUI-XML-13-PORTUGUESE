@@ -4166,7 +4166,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="key_position_cat">Posições do botão</string>
     <string name="key_settings">Gestos e botões</string>
     <string name="key_settings_title">Gestos e botões</string>
-    <string name="key_shortcut_settings_title">Atalhos de botões</string>
+    <string name="key_shortcut_settings_title">Botões de atalhos</string>
     <string name="key_system_control">Controlo de sistema</string>
     <string name="keyboard_and_input_methods_category">Teclado</string>
     <string name="keyboard_assistance_category">Assistente de teclado</string>
@@ -4333,7 +4333,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="kid_space_forbidden_set_unlock_password_msg">Não é possível definir ou alterar a palavra-passe no Espaço crianças</string>
     <string name="kid_space_settings">Espaço crianças</string>
     <string name="knock_edge_area_invalid">Este gesto não funciona perto dos limites do ecrã</string>
-    <string name="knock_guide_dialog_title">Seleccionar uma acção para este gesto. Pode alterar mais tarde em Definições > Definições adicionais > Atalhos de botões</string>
+    <string name="knock_guide_dialog_title">Seleccionar uma acção para este gesto. Pode alterar mais tarde em Definições > Definições adicionais > Botões de atalhos</string>
     <string name="knock_guide_drive_desc">Tirar capturas de ecrã enquanto conduz</string>
     <string name="knock_guide_launch_desc">Ligar a Mi IA quando o seu telefone estiver deitado na mesa</string>
     <string name="knock_guide_set_screenshot">Captura de ecrã</string>

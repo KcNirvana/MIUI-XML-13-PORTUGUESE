@@ -4396,7 +4396,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
     <string name="title_mms_yes">Filtro de mensagens ligado</string>
     <string name="title_network_switch">Ligação de rede</string>
     <string name="title_of_app_manage">Aplicações</string>
-    <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
+    <string name="title_of_auto_launch_manage">Início automático</string>
     <string name="title_password_manager">Ligar o Gestor de palavras-passe</string>
     <string name="title_payment_protection">Os pagamentos estão seguros</string>
     <string name="title_payment_risk">Encontrados riscos de pagamento</string>

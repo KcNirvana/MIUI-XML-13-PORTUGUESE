@@ -672,7 +672,7 @@
     <string name="title_delete_deepclean">Eliminar</string>
     <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
     <string name="title_of_app_manage">Aplicações</string>
-    <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
+    <string name="title_of_auto_launch_manage">Início automático</string>
     <string name="title_of_cloud_service">Serviços da nuvem</string>
     <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
     <string name="title_of_garbage_data_set">Actualizações da base de dados de Limpeza</string>

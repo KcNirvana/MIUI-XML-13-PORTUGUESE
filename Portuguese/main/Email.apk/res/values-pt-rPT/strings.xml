@@ -892,7 +892,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
     <string name="network_unavailable">Rede indisponível</string>
     <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar</string>
     <string name="new_mail_notification">Notificar acerca de novas mensagens</string>
-    <string name="new_mail_notification_str">Permitir lembretes</string>
+    <string name="new_mail_notification_str">Permitir notificações</string>
     <string name="new_signature_has_saved">Guardada com sucesso</string>
     <string name="next_action">Seguinte</string>
     <string name="no">Não</string>
@@ -1145,7 +1145,7 @@ para receber alertas sobre pagamentos e viagens"</string>
     <string name="recipient_needed">Adicione pelo menos um destinatário</string>
     <string name="recipient_needed_title">Aviso</string>
     <string name="recommend_protocal">Protocolo recomendado</string>
-    <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não incomodar está ligado</string>
+    <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não incomodar estiver ligado</string>
     <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
     <string name="refresh">Actualizar</string>
     <string name="refreshing">A actualizar…</string>
